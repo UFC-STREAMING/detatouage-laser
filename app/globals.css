@@ -6,21 +6,116 @@
 }
 
 @theme inline {
+  /* Primary colors - Clinical Blue */
+  --color-primary: #0077b6;
+  --color-primary-light: #0096c7;
+  --color-primary-dark: #023e8a;
+
+  /* Secondary colors - Soft Teal */
+  --color-secondary: #48cae4;
+  --color-secondary-light: #90e0ef;
+  --color-secondary-dark: #00b4d8;
+
+  /* Medical/Clinical colors */
+  --color-medical-white: #ffffff;
+  --color-medical-gray: #f8f9fa;
+  --color-medical-light-gray: #e9ecef;
+  --color-medical-dark-gray: #6c757d;
+
+  /* Base colors */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  /* Fonts */
+  --font-sans: ui-sans-serif, system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ffffff;
+    --foreground: #171717;
   }
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+/* Prose customization for content pages */
+.prose {
+  max-width: none;
+}
+
+.prose h2 {
+  color: var(--color-primary);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.prose h3 {
+  color: var(--color-primary);
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose p {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+}
+
+.prose ul,
+.prose ol {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.prose li {
+  margin-bottom: 0.5rem;
+}
+
+.prose a {
+  color: var(--color-primary);
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+.prose a:hover {
+  color: var(--color-primary-dark);
+}
+
+.prose strong {
+  font-weight: 600;
+  color: #171717;
+}
+
+/* Form focus styles */
+input:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--color-primary);
+  border-color: transparent;
+}
+
+/* Animation for StickyCTA */
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-down {
+  animation: slideDown 0.3s ease-out;
 }
