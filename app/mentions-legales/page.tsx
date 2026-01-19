@@ -19,11 +19,11 @@ export default function MentionsLegalesPage() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-[#0077b6] mb-4">1. Éditeur du site</h2>
             <p className="text-[#6c757d]">
-              <strong>Raison sociale :</strong> Détatouage Laser<br />
-              <strong>Forme juridique :</strong> [À compléter]<br />
-              <strong>Capital social :</strong> [À compléter]<br />
-              <strong>Siège social :</strong> [Adresse à compléter]<br />
-              <strong>SIRET :</strong> [Numéro à compléter]<br />
+              <strong>Raison sociale :</strong> LBS Affiliate EOOD<br />
+              <strong>Forme juridique :</strong> Société à responsabilité limitée unipersonnelle (Bulgarie)<br />
+              <strong>Capital social :</strong> 200 BGN<br />
+              <strong>Siège social :</strong> 93 Ekzarh Yosif, rez-de-chaussée, 1000 Sofia, Bulgarie<br />
+              <strong>UIC :</strong> 208363125<br />
               <strong>Email :</strong> contact@detatouage-laser.fr
             </p>
           </section>
@@ -31,7 +31,7 @@ export default function MentionsLegalesPage() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-[#0077b6] mb-4">2. Directeur de la publication</h2>
             <p className="text-[#6c757d]">
-              <strong>Nom :</strong> [Nom du directeur]<br />
+              <strong>Nom :</strong> Leo Pierre Joris Fortier<br />
               <strong>Email :</strong> contact@detatouage-laser.fr
             </p>
           </section>
