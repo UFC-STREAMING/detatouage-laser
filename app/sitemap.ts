@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { cities, getAllDepartments } from "@/data/cities";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.detatouage-laser.fr";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr";
   const currentDate = new Date();
 
   // Homepage

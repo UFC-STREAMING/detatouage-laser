@@ -24,7 +24,7 @@ export default function MentionsLegalesPage() {
               <strong>Capital social :</strong> 200 BGN<br />
               <strong>Siège social :</strong> 93 Ekzarh Yosif, rez-de-chaussée, 1000 Sofia, Bulgarie<br />
               <strong>UIC :</strong> 208363125<br />
-              <strong>Email :</strong> contact@detatouage-laser.fr
+              <strong>Email :</strong> contact@tatouage-temporaire.fr
             </p>
           </section>
 
@@ -32,7 +32,7 @@ export default function MentionsLegalesPage() {
             <h2 className="text-2xl font-semibold text-[#0077b6] mb-4">2. Directeur de la publication</h2>
             <p className="text-[#6c757d]">
               <strong>Nom :</strong> Leo Pierre Joris Fortier<br />
-              <strong>Email :</strong> contact@detatouage-laser.fr
+              <strong>Email :</strong> contact@tatouage-temporaire.fr
             </p>
           </section>
 
@@ -83,7 +83,7 @@ export default function MentionsLegalesPage() {
             <h2 className="text-2xl font-semibold text-[#0077b6] mb-4">8. Contact</h2>
             <p className="text-[#6c757d]">
               Pour toute question concernant les mentions légales, vous pouvez nous contacter à l'adresse suivante :<br />
-              <strong>Email :</strong> <a href="mailto:contact@detatouage-laser.fr" className="text-[#0077b6] hover:underline">contact@detatouage-laser.fr</a>
+              <strong>Email :</strong> <a href="mailto:contact@tatouage-temporaire.fr" className="text-[#0077b6] hover:underline">contact@tatouage-temporaire.fr</a>
             </p>
           </section>
 

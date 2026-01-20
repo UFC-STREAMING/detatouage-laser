@@ -43,7 +43,7 @@ export function Footer() {
           <div>
             <h3 className="font-semibold text-[#0077b6] mb-4">Contact</h3>
             <ul className="space-y-2 text-sm text-[#6c757d]">
-              <li>Email: contact@detatouage-laser.fr</li>
+              <li>Email: contact@tatouage-temporaire.fr</li>
             </ul>
           </div>
         </div>

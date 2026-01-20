@@ -19,7 +19,7 @@ Créez ou modifiez le fichier `.env.local` à la racine du projet :
 
 ```env
 # Email Configuration
-EMAIL_FROM="contact@detatouage-laser.fr"
+EMAIL_FROM="contact@tatouage-temporaire.fr"
 EMAIL_TO="votre.email@gmail.com"
 SMTP_HOST="smtp.gmail.com"
 SMTP_PORT="587"
@@ -27,7 +27,7 @@ SMTP_USER="votre.email@gmail.com"
 SMTP_PASS="votre_mot_de_passe_application_16_caracteres"
 
 # Site URL
-NEXT_PUBLIC_SITE_URL="https://www.detatouage-laser.fr"
+NEXT_PUBLIC_SITE_URL="https://www.tatouage-temporaire.fr"
 ```
 
 **⚠️ Important :** Remplacez les valeurs par :
@@ -56,17 +56,17 @@ Allez sur http://localhost:3000 et remplissez le formulaire de devis pour tester
 #### Exemple avec Resend (le plus simple) :
 
 1. Créez un compte sur https://resend.com
-2. Vérifiez votre domaine (detatouage-laser.fr)
+2. Vérifiez votre domaine (tatouage-temporaire.fr)
 3. Créez une clé API
 4. Modifiez `.env.local` :
 
 ```env
 # Configuration Resend
-EMAIL_FROM="contact@detatouage-laser.fr"
+EMAIL_FROM="contact@tatouage-temporaire.fr"
 EMAIL_TO="votre.email@gmail.com"
 RESEND_API_KEY="re_xxxxxxxxxxxxxxxxxxxx"
 
-NEXT_PUBLIC_SITE_URL="https://www.detatouage-laser.fr"
+NEXT_PUBLIC_SITE_URL="https://www.tatouage-temporaire.fr"
 ```
 
 5. Installez le package Resend :
@@ -128,13 +128,13 @@ Dans les paramètres du projet Vercel :
 2. Ajoutez chaque variable de votre `.env.local` :
 
 ```
-EMAIL_FROM = contact@detatouage-laser.fr
+EMAIL_FROM = contact@tatouage-temporaire.fr
 EMAIL_TO = votre.email@gmail.com
 SMTP_HOST = smtp.gmail.com
 SMTP_PORT = 587
 SMTP_USER = votre.email@gmail.com
 SMTP_PASS = votre_mot_de_passe_application
-NEXT_PUBLIC_SITE_URL = https://www.detatouage-laser.fr
+NEXT_PUBLIC_SITE_URL = https://www.tatouage-temporaire.fr
 ```
 
 #### D. Déployer
@@ -149,7 +149,7 @@ NEXT_PUBLIC_SITE_URL = https://www.detatouage-laser.fr
 
 #### A. Acheter un nom de domaine
 
-Achetez `detatouage-laser.fr` chez :
+Achetez `tatouage-temporaire.fr` chez :
 - **OVH** (https://ovh.com)
 - **Gandi** (https://gandi.net)
 - **Namecheap** (https://namecheap.com)
@@ -158,7 +158,7 @@ Achetez `detatouage-laser.fr` chez :
 
 1. Dans Vercel, allez dans "Settings" → "Domains"
 2. Cliquez sur "Add Domain"
-3. Entrez `detatouage-laser.fr` et `www.detatouage-laser.fr`
+3. Entrez `tatouage-temporaire.fr` et `www.tatouage-temporaire.fr`
 4. Vercel vous donnera des enregistrements DNS à ajouter
 
 #### C. Ajouter les enregistrements DNS chez votre registrar
@@ -214,9 +214,9 @@ Vercel redéploiera automatiquement !
 #### A. Google Search Console
 
 1. Allez sur https://search.google.com/search-console
-2. Ajoutez votre propriété `detatouage-laser.fr`
+2. Ajoutez votre propriété `tatouage-temporaire.fr`
 3. Vérifiez la propriété avec la méthode DNS
-4. Soumettez le sitemap : `https://detatouage-laser.fr/sitemap.xml`
+4. Soumettez le sitemap : `https://tatouage-temporaire.fr/sitemap.xml`
 
 #### B. Google Analytics (optionnel)
 

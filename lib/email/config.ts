@@ -11,6 +11,6 @@ export const transporter = nodemailer.createTransport({
 });
 
 export const emailConfig = {
-  from: process.env.SMTP_FROM || "noreply@detatouage-laser.fr",
-  to: process.env.SMTP_TO || "leads@detatouage-laser.fr",
+  from: process.env.SMTP_FROM || "noreply@tatouage-temporaire.fr",
+  to: process.env.SMTP_TO || "leads@tatouage-temporaire.fr",
 };

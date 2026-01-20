@@ -35,7 +35,7 @@ export default function PolitiqueConfidentialitePage() {
             <h2 className="text-2xl font-semibold text-[#0077b6] mb-4">2. Responsable du traitement</h2>
             <p className="text-[#6c757d]">
               <strong>Responsable :</strong> LBS Affiliate EOOD<br />
-              <strong>Email :</strong> contact@detatouage-laser.fr<br />
+              <strong>Email :</strong> contact@tatouage-temporaire.fr<br />
               <strong>Adresse :</strong> 93 Ekzarh Yosif, rez-de-chaussée, 1000 Sofia, Bulgarie<br />
               <strong>UIC :</strong> 208363125
             </p>
@@ -120,8 +120,8 @@ export default function PolitiqueConfidentialitePage() {
             </ul>
             <p className="text-[#6c757d] mt-4">
               Pour exercer ces droits, contactez-nous à l'adresse :
-              <a href="mailto:contact@detatouage-laser.fr" className="text-[#0077b6] hover:underline ml-1">
-                contact@detatouage-laser.fr
+              <a href="mailto:contact@tatouage-temporaire.fr" className="text-[#0077b6] hover:underline ml-1">
+                contact@tatouage-temporaire.fr
               </a>
             </p>
           </section>
@@ -162,8 +162,8 @@ export default function PolitiqueConfidentialitePage() {
             </p>
             <p className="text-[#6c757d] mt-4">
               <strong>Email :</strong>
-              <a href="mailto:contact@detatouage-laser.fr" className="text-[#0077b6] hover:underline ml-1">
-                contact@detatouage-laser.fr
+              <a href="mailto:contact@tatouage-temporaire.fr" className="text-[#0077b6] hover:underline ml-1">
+                contact@tatouage-temporaire.fr
               </a>
             </p>
           </section>

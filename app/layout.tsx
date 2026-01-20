@@ -8,7 +8,7 @@ import { StickyCTA } from "@/components/ui/StickyCTA";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.detatouage-laser.fr"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr"),
   title: {
     default: "Détatouage Laser - Retrait de Tatouage par Laser en France",
     template: "%s | Détatouage Laser",
