@@ -285,16 +285,25 @@ li:last-child {
   padding-right: var(--container-padding);
 }
 
-/* Section */
+/* Section - Espacements harmonisés */
 .section {
   padding-top: var(--section-padding-y);
   padding-bottom: var(--section-padding-y);
+}
+
+/* Première section après le hero */
+.section:first-of-type {
+  padding-top: calc(var(--section-padding-y) + var(--space-2xl));
 }
 
 @media (max-width: 768px) {
   .section {
     padding-top: var(--section-padding-y-mobile);
     padding-bottom: var(--section-padding-y-mobile);
+  }
+
+  .section:first-of-type {
+    padding-top: calc(var(--section-padding-y-mobile) + var(--space-xl));
   }
 }
 

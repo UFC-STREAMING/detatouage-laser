@@ -38,17 +38,33 @@ export function HeroSection({
         quality={90}
       />
 
-      {/* Overlay dégradé amélioré pour meilleure lisibilité */}
-      <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-black/40" />
+      {/* Overlay sombre fort pour contraste */}
+      <div className="absolute inset-0 bg-black/70" />
 
-      {/* Contenu */}
-      <div className="relative container mx-auto px-6 h-full flex flex-col justify-center items-start">
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 max-w-4xl drop-shadow-2xl">
+      {/* Contenu centré */}
+      <div className="relative container mx-auto px-6 h-full flex flex-col justify-center items-center text-center">
+        <span className="badge badge-primary mb-6" style={{ background: 'var(--color-secondary)', color: 'white' }}>
+          ✨ Technologie de pointe
+        </span>
+
+        <h1
+          className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 max-w-4xl"
+          style={{
+            color: 'white',
+            textShadow: '0 4px 20px rgba(0, 0, 0, 0.5)'
+          }}
+        >
           {title}
         </h1>
 
         {subtitle && (
-          <p className="text-lg md:text-xl lg:text-2xl text-white/95 mb-10 max-w-2xl drop-shadow-xl leading-relaxed">
+          <p
+            className="text-lg md:text-xl lg:text-2xl mb-10 max-w-2xl leading-relaxed"
+            style={{
+              color: 'white',
+              textShadow: '0 2px 10px rgba(0, 0, 0, 0.5)'
+            }}
+          >
             {subtitle}
           </p>
         )}
@@ -57,10 +73,6 @@ export function HeroSection({
           <a
             href={ctaHref}
             className="btn btn-primary btn-lg"
-            style={{
-              background: 'var(--color-primary)',
-              boxShadow: 'var(--shadow-primary)',
-            }}
           >
             {ctaText}
           </a>
