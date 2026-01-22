@@ -165,6 +165,11 @@ body {
   overflow-x: hidden;
 }
 
+main {
+  /* Padding-top pour compenser le header fixe (73px de hauteur) */
+  padding-top: 73px;
+}
+
 /* ============================================
    TYPOGRAPHIE GLOBALE
    ============================================ */
@@ -624,6 +629,11 @@ label {
   :root {
     --text-5xl: 2.25rem;
     --text-6xl: 2.75rem;
+    --container-padding: var(--space-md); /* Réduit padding sur mobile */
+  }
+
+  main {
+    padding-top: 65px; /* Header plus petit sur mobile */
   }
 
   .btn {

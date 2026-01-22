@@ -393,9 +393,7 @@ export default function HomePage() {
       </section>
 
       {/* Department Grid */}
-      <div className="container mx-auto px-4 pb-16">
-        <DepartmentGrid departments={departments} />
-      </div>
+      <DepartmentGrid departments={departments} />
     </>
   );
 }

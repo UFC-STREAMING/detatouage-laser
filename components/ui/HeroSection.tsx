@@ -38,17 +38,17 @@ export function HeroSection({
         quality={90}
       />
 
-      {/* Overlay dégradé pour lisibilité */}
-      <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/30" />
+      {/* Overlay dégradé amélioré pour meilleure lisibilité */}
+      <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-black/40" />
 
       {/* Contenu */}
-      <div className="relative container mx-auto px-4 h-full flex flex-col justify-center items-start">
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 max-w-4xl drop-shadow-lg">
+      <div className="relative container mx-auto px-6 h-full flex flex-col justify-center items-start">
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 max-w-4xl drop-shadow-2xl">
           {title}
         </h1>
 
         {subtitle && (
-          <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl drop-shadow-md">
+          <p className="text-lg md:text-xl lg:text-2xl text-white/95 mb-10 max-w-2xl drop-shadow-xl leading-relaxed">
             {subtitle}
           </p>
         )}
@@ -56,7 +56,11 @@ export function HeroSection({
         {ctaText && ctaHref && (
           <a
             href={ctaHref}
-            className="bg-[#0077b6] text-white px-8 py-4 rounded-lg font-semibold hover:bg-[#023e8a] transition text-lg shadow-lg hover:shadow-xl"
+            className="btn btn-primary btn-lg"
+            style={{
+              background: 'var(--color-primary)',
+              boxShadow: 'var(--shadow-primary)',
+            }}
           >
             {ctaText}
           </a>
