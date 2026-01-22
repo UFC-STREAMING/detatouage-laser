@@ -19,14 +19,14 @@ export function Navbar() {
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition">
             <Image
               src="/logo.png"
-              alt="Logo Détatouage Laser"
+              alt="Logo Tatouage Temporaire"
               width={50}
               height={50}
               className="w-12 h-12 object-contain"
             />
             <div className="flex flex-col">
-              <span className="text-xl font-bold text-[#0077b6]">Détatouage Laser</span>
-              <span className="text-xs text-[#6c757d] hidden sm:block">Spécialistes certifiés</span>
+              <span className="text-xl font-bold text-[#0077b6]">Tatouage Temporaire</span>
+              <span className="text-xs text-[#6c757d] hidden sm:block">Détatouage Laser</span>
             </div>
           </Link>
 
