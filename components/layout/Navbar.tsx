@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Logo } from "@/components/icons/Logo";
+import Image from "next/image";
 
 export function Navbar() {
   const scrollToForm = () => {
@@ -17,7 +17,13 @@ export function Navbar() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition">
-            <Logo className="w-10 h-10" />
+            <Image
+              src="/logo.png"
+              alt="Logo Détatouage Laser"
+              width={50}
+              height={50}
+              className="w-12 h-12 object-contain"
+            />
             <div className="flex flex-col">
               <span className="text-xl font-bold text-[#0077b6]">Détatouage Laser</span>
               <span className="text-xs text-[#6c757d] hidden sm:block">Spécialistes certifiés</span>

@@ -6,6 +6,7 @@ import { QuoteForm } from "@/components/ui/QuoteForm";
 import { HeroSection } from "@/components/ui/HeroSection";
 import { FAQSchema } from "@/components/seo/FAQSchema";
 import { getNeighborDepartments } from "@/data/department-neighbors";
+import { getDepartmentWithPreposition } from "@/lib/utils/department-articles";
 import Link from "next/link";
 import { MapPin } from "lucide-react";
 
@@ -31,8 +32,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
-  const title = `Détatouage Laser dans le ${department.name} (${department.number}) | Prix & Devis`;
-  const description = `Spécialiste du détatouage laser dans le département ${department.name} (${department.number}). ${department.cities.length} villes couvertes. Devis gratuit et consultation personnalisée.`;
+  const title = `Détatouage Laser ${getDepartmentWithPreposition(department.name)} (${department.number}) | Prix & Devis`;
+  const description = `Spécialiste du détatouage laser ${getDepartmentWithPreposition(department.name)} (${department.number}). ${department.cities.length} villes couvertes. Devis gratuit et consultation personnalisée.`;
 
   return {
     title,
@@ -68,8 +69,8 @@ export default async function DepartmentPage({ params }: Props) {
       <FAQSchema />
       <HeroSection
         imageSrc="/images/Departement-detatouage.png"
-        imageAlt={`Détatouage laser dans le ${department.name}`}
-        title={`Détatouage Laser dans le ${department.name}`}
+        imageAlt={`Détatouage laser ${getDepartmentWithPreposition(department.name)}`}
+        title={`Détatouage Laser ${getDepartmentWithPreposition(department.name)}`}
         subtitle={`${department.cities.length} villes couvertes dans le département ${department.number}`}
         ctaText="Devis Gratuit"
         ctaHref="#quote-form"
@@ -81,7 +82,7 @@ export default async function DepartmentPage({ params }: Props) {
       <article>
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-[#0077b6] mb-4">
-            Détatouage Laser dans le {department.name} ({department.number})
+            Détatouage Laser {getDepartmentWithPreposition(department.name)} ({department.number})
           </h1>
           <p className="text-xl text-[#6c757d]">
             Trouvez votre centre de détatouage laser parmi {department.cities.length} ville
@@ -91,14 +92,14 @@ export default async function DepartmentPage({ params }: Props) {
 
         <section className="prose prose-lg max-w-none mb-12">
           <p className="text-lg leading-relaxed">
-            Vous cherchez un <strong>spécialiste du détatouage laser dans le {department.name}</strong> ?
+            Vous cherchez un <strong>spécialiste du détatouage laser {getDepartmentWithPreposition(department.name)}</strong> ?
             Notre réseau de centres utilise la technologie laser la plus avancée pour vous offrir un{" "}
             <strong>retrait de tatouage efficace et sécurisé</strong> partout dans le département{" "}
             {department.number}.
           </p>
 
           <h2 className="text-2xl font-bold text-[#0077b6] mt-8 mb-4">
-            Nos centres de détatouage dans le {department.name}
+            Nos centres de détatouage {getDepartmentWithPreposition(department.name)}
           </h2>
           <p>
             Nous couvrons {department.cities.length} ville{department.cities.length > 1 ? "s" : ""} du

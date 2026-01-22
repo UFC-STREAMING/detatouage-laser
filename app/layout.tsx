@@ -9,6 +9,10 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr"),
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/logo.png",
+  },
   title: {
     default: "Détatouage Laser - Retrait de Tatouage par Laser en France",
     template: "%s | Détatouage Laser",
