@@ -7,7 +7,8 @@ export function StickyCTA() {
 
   useEffect(() => {
     const toggleVisibility = () => {
-      if (window.scrollY > 300) {
+      // Afficher seulement après avoir scrollé passé le hero (800px)
+      if (window.scrollY > 800) {
         setIsVisible(true);
       } else {
         setIsVisible(false);
@@ -23,28 +24,28 @@ export function StickyCTA() {
     form?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
 
+  // Uniquement desktop top banner au scroll (pas de mobile sticky)
   return (
     <>
-      {/* Mobile: Bottom sticky bar */}
-      <div className="md:hidden fixed bottom-0 left-0 right-0 z-40 bg-[#0077b6] text-white shadow-lg">
-        <button
-          onClick={scrollToForm}
-          className="w-full py-4 px-4 font-semibold text-center hover:bg-[#023e8a] transition"
-        >
-          Demander un devis gratuit
-        </button>
-      </div>
-
-      {/* Desktop: Top banner (appears on scroll) */}
       {isVisible && (
-        <div className="hidden md:block fixed top-[73px] left-0 right-0 z-40 bg-[#48cae4] text-white shadow-md animate-slide-down">
-          <div className="container mx-auto px-4 py-3 flex items-center justify-between">
-            <span className="font-semibold">Obtenez votre devis gratuit en 2 minutes</span>
+        <div
+          className="hidden md:block fixed left-0 right-0 z-40 animate-slide-down"
+          style={{
+            top: '73px',
+            background: 'var(--color-secondary)',
+            boxShadow: 'var(--shadow-lg)'
+          }}
+        >
+          <div className="container mx-auto px-6 py-3 flex items-center justify-between">
+            <span className="font-semibold text-white">
+              ✨ Obtenez votre devis personnalisé en 2 minutes
+            </span>
             <button
               onClick={scrollToForm}
-              className="bg-[#0077b6] px-6 py-2 rounded-lg font-semibold hover:bg-[#023e8a] transition"
+              className="btn btn-primary btn-sm"
+              style={{ background: 'white', color: 'var(--color-primary)' }}
             >
-              Devis en ligne
+              Recevoir mon devis
             </button>
           </div>
         </div>
