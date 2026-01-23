@@ -185,43 +185,54 @@ export default function HomePage() {
       {/* Section Est-ce douloureux */}
       <section className="section bg-white">
         <div className="container">
-          <div className="text-center mb-12 mx-auto" style={{ maxWidth: '800px' }}>
+          <div className="text-center mx-auto mb-16" style={{ maxWidth: '800px' }}>
             <span className="badge badge-primary mb-4">Confort</span>
-            <h2 className="mb-4">Est-ce douloureux ?</h2>
+            <h2 className="mb-6">
+              Est-ce <span className="text-gradient">douloureux</span> ?
+            </h2>
+            <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
+              Une expérience supportable avec des solutions pour minimiser l'inconfort
+            </p>
           </div>
 
-          <div className="mx-auto" style={{ maxWidth: '900px' }}>
-            <div className="card">
-              <div className="flex items-start gap-6">
-                <div
-                  className="w-16 h-16 rounded-2xl flex items-center justify-center flex-shrink-0"
-                  style={{ background: 'var(--color-primary-lighter)' }}
-                >
-                  <Heart className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
-                </div>
-                <div className="flex-1">
-                  <h3 className="text-xl font-semibold mb-4">Honnêteté sur la sensation</h3>
-                  <p className="mb-4" style={{ color: 'var(--text-secondary)' }}>
-                    La sensation est souvent comparée à <strong>un élastique qui claque sur la peau</strong>.
-                    L'intensité varie selon la zone traitée et votre sensibilité personnelle.
-                  </p>
-                  <p className="mb-6" style={{ color: 'var(--text-secondary)' }}>
-                    Pour minimiser l'inconfort, nous appliquons une <strong>crème anesthésiante</strong> 30 minutes avant la séance.
-                    De la glace peut également être utilisée pendant le traitement.
-                  </p>
-                  <div
-                    className="p-4 rounded-xl border-l-4"
-                    style={{
-                      background: 'var(--color-primary-lighter)',
-                      borderColor: 'var(--color-primary)'
-                    }}
-                  >
-                    <p style={{ color: 'var(--color-primary-dark)' }} className="font-semibold">
-                      💡 La plupart de nos patients trouvent la sensation tout à fait supportable et ne regrettent jamais leur décision.
-                    </p>
-                  </div>
-                </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div className="card text-center">
+              <div
+                className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
+                style={{ background: 'var(--color-primary-lighter)' }}
+              >
+                <Heart className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
+              <h3 className="text-lg font-semibold mb-3">La sensation</h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Comparable à un élastique qui claque sur la peau. L'intensité varie selon la zone et votre sensibilité.
+              </p>
+            </div>
+
+            <div className="card text-center">
+              <div
+                className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
+                style={{ background: 'var(--color-primary-lighter)' }}
+              >
+                <Shield className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+              </div>
+              <h3 className="text-lg font-semibold mb-3">Crème anesthésiante</h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Application 30 minutes avant la séance pour minimiser considérablement l'inconfort.
+              </p>
+            </div>
+
+            <div className="card text-center">
+              <div
+                className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
+                style={{ background: 'var(--color-primary-lighter)' }}
+              >
+                <Sparkles className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+              </div>
+              <h3 className="text-lg font-semibold mb-3">Glace pendant traitement</h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Utilisation de glace pendant le laser pour un confort maximal. La plupart des patients trouvent cela supportable.
+              </p>
             </div>
           </div>
         </div>
@@ -230,88 +241,63 @@ export default function HomePage() {
       {/* Section Estimation durée */}
       <section className="section" style={{ background: 'var(--bg-secondary)' }}>
         <div className="container">
-          <div className="text-center mx-auto mb-12" style={{ maxWidth: '800px' }}>
+          <div className="text-center mx-auto mb-16" style={{ maxWidth: '800px' }}>
             <span className="badge badge-primary mb-4">Durée du traitement</span>
-            <h2 className="mb-4">Combien de séances sont nécessaires ?</h2>
+            <h2 className="mb-6">
+              Combien de séances <span className="text-gradient">nécessaires</span> ?
+            </h2>
+            <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
+              La durée varie selon plusieurs facteurs, mais voici ce que vous devez savoir
+            </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 mx-auto" style={{ maxWidth: '900px' }}>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="card text-center">
               <div
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
-                style={{ background: 'var(--color-primary)' }}
+                style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <span className="text-2xl font-bold text-white">N</span>
+                <Clock className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
-              <h3 className="text-xl font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
-                Tatouages noirs
-              </h3>
-              <p className="mb-4" style={{ color: 'var(--text-secondary)' }}>
-                Les plus faciles à traiter. Le laser absorbe mieux le noir.
-              </p>
-              <div className="text-4xl font-bold mb-2" style={{ color: 'var(--color-primary)' }}>
+              <h3 className="text-lg font-semibold mb-3">Tatouages noirs</h3>
+              <div className="text-3xl font-bold mb-2" style={{ color: 'var(--color-primary)' }}>
                 5-8 séances
               </div>
-              <p className="text-sm" style={{ color: 'var(--text-tertiary)' }}>En moyenne</p>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Les plus faciles à traiter. Le laser absorbe mieux le noir.
+              </p>
             </div>
 
             <div className="card text-center">
               <div
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
-                style={{ background: 'var(--color-secondary)' }}
+                style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <span className="text-2xl font-bold text-white">C</span>
+                <Sparkles className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
-              <h3 className="text-xl font-semibold mb-3" style={{ color: 'var(--color-secondary)' }}>
-                Tatouages colorés
-              </h3>
-              <p className="mb-4" style={{ color: 'var(--text-secondary)' }}>
-                Certaines couleurs (vert, bleu clair) sont plus résistantes.
-              </p>
-              <div className="text-4xl font-bold mb-2" style={{ color: 'var(--color-secondary)' }}>
+              <h3 className="text-lg font-semibold mb-3">Tatouages colorés</h3>
+              <div className="text-3xl font-bold mb-2" style={{ color: 'var(--color-secondary)' }}>
                 8-12 séances
               </div>
-              <p className="text-sm" style={{ color: 'var(--text-tertiary)' }}>En moyenne</p>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Certaines couleurs (vert, bleu clair) sont plus résistantes au laser.
+              </p>
             </div>
-          </div>
 
-          <div className="mx-auto" style={{ maxWidth: '900px' }}>
-            <div
-              className="card"
-              style={{
-                background: 'linear-gradient(135deg, var(--color-primary-lighter), var(--color-white))',
-                borderLeft: '4px solid var(--color-primary)'
-              }}
-            >
-              <h4 className="text-lg font-semibold mb-6" style={{ color: 'var(--color-primary)' }}>
-                Facteurs influençant la durée du traitement :
-              </h4>
-              <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {[
-                  'Profondeur de l\'encre',
-                  'Ancienneté du tatouage',
-                  'Qualité de l\'encre utilisée',
-                  'Votre système immunitaire',
-                  'Densité du tatouage',
-                  'Localisation sur le corps'
-                ].map((factor, index) => (
-                  <li key={index} className="flex items-center gap-3" style={{ color: 'var(--text-secondary)' }}>
-                    <svg
-                      className="w-5 h-5 flex-shrink-0"
-                      style={{ color: 'var(--color-success)' }}
-                      fill="currentColor"
-                      viewBox="0 0 20 20"
-                    >
-                      <path
-                        fillRule="evenodd"
-                        d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
-                        clipRule="evenodd"
-                      />
-                    </svg>
-                    {factor}
-                  </li>
-                ))}
-              </ul>
+            <div className="card text-center">
+              <div
+                className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
+                style={{ background: 'var(--color-primary-lighter)' }}
+              >
+                <Award className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+              </div>
+              <h3 className="text-lg font-semibold mb-3">Entre chaque séance</h3>
+              <div className="text-3xl font-bold mb-2" style={{ color: 'var(--color-primary)' }}>
+                6-8 semaines
+              </div>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Temps nécessaire pour que votre corps élimine l'encre fragmentée.
+              </p>
             </div>
           </div>
         </div>
@@ -328,56 +314,72 @@ export default function HomePage() {
       </div>
 
       {/* FAQ Section */}
-      <section className="section" style={{ background: 'var(--bg-secondary)' }}>
+      <section className="section bg-white">
         <div className="container">
-          <div className="text-center mx-auto mb-12" style={{ maxWidth: '800px' }}>
+          <div className="text-center mx-auto mb-16" style={{ maxWidth: '800px' }}>
             <span className="badge badge-primary mb-4">FAQ</span>
-            <h2 className="mb-4">Questions fréquentes</h2>
-            <p style={{ color: 'var(--text-secondary)' }}>
+            <h2 className="mb-6">
+              Questions <span className="text-gradient">fréquentes</span>
+            </h2>
+            <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
               Trouvez les réponses aux questions les plus courantes sur le détatouage laser
             </p>
           </div>
 
-          <div className="space-y-4 mx-auto" style={{ maxWidth: '800px' }}>
-            {[
-              {
-                question: 'Combien coûte un détatouage ?',
-                answer: 'Le prix varie selon la surface du tatouage. Comptez en moyenne entre 80€ et 300€ par séance. Nous proposons des devis gratuits et personnalisés.'
-              },
-              {
-                question: 'Peut-on retatouer sur un détatouage ?',
-                answer: 'Oui, le "cover" est tout à fait possible une fois la peau complètement cicatrisée après le traitement laser.'
-              },
-              {
-                question: 'Est-ce que le détatouage fait mal ?',
-                answer: 'La sensation est comparable à un claquement d\'élastique. Une crème anesthésiante est appliquée avant la séance pour minimiser l\'inconfort.'
-              },
-              {
-                question: 'Comment est la peau après un détatouage ?',
-                answer: 'Des rougeurs et un effet "givre" (frosting) apparaissent immédiatement, suivis de croûtelles pendant quelques jours. La cicatrisation complète prend 2-3 semaines.'
-              },
-              {
-                question: 'Combien de temps entre les séances ?',
-                answer: 'Il faut laisser 6 à 8 semaines minimum entre chaque séance pour permettre au système lymphatique d\'éliminer l\'encre fragmentée.'
-              }
-            ].map((faq, index) => (
-              <details
-                key={index}
-                className="card group"
-                {...(index === 0 ? { open: true } : {})}
-              >
-                <summary
-                  className="font-semibold text-lg cursor-pointer flex items-center justify-between"
-                  style={{ color: 'var(--color-primary)' }}
-                >
-                  {faq.question}
-                  <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
-                </summary>
-                <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
-                  {faq.answer}
-                </p>
-              </details>
-            ))}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="card">
+              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+                Combien coûte un détatouage ?
+              </h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Le prix varie selon la surface du tatouage. Comptez en moyenne entre 80€ et 300€ par séance. Nous proposons des devis gratuits et personnalisés.
+              </p>
+            </div>
+
+            <div className="card">
+              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+                Peut-on retatouer sur un détatouage ?
+              </h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Oui, le "cover" est tout à fait possible une fois la peau complètement cicatrisée après le traitement laser.
+              </p>
+            </div>
+
+            <div className="card">
+              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+                Est-ce que le détatouage fait mal ?
+              </h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                La sensation est comparable à un claquement d'élastique. Une crème anesthésiante est appliquée avant la séance pour minimiser l'inconfort.
+              </p>
+            </div>
+
+            <div className="card">
+              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+                Comment est la peau après un détatouage ?
+              </h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Des rougeurs et un effet "givre" (frosting) apparaissent immédiatement, suivis de croûtelles pendant quelques jours. La cicatrisation complète prend 2-3 semaines.
+              </p>
+            </div>
+
+            <div className="card">
+              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+                Combien de temps entre les séances ?
+              </h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Il faut laisser 6 à 8 semaines minimum entre chaque séance pour permettre au système lymphatique d'éliminer l'encre fragmentée.
+              </p>
+            </div>
+
+            <div className="card">
+              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+                Les résultats sont-ils garantis ?
+              </h3>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Le laser Q-Switched est la technique la plus efficace, mais les résultats varient selon le type d'encre, la profondeur et votre peau. Un bilan gratuit vous permettra d'avoir une estimation précise.
+              </p>
+            </div>
           </div>
         </div>
       </section>
