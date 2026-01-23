@@ -23,7 +23,7 @@ export default function HomePage() {
     <>
       <FAQSchema />
 
-      {/* Hero Section avec image */}
+      {/* Hero Section */}
       <HeroSection
         imageSrc="/images/Acceuil-detatouage.png"
         imageAlt="Centre de détatouage laser en France"
@@ -34,10 +34,10 @@ export default function HomePage() {
         height="large"
       />
 
-      {/* Benefits Section - Juste après le hero */}
+      {/* Benefits Section */}
       <section className="section bg-white">
         <div className="container">
-          <div className="text-center max-w-3xl mx-auto mb-16">
+          <div className="text-center mx-auto mb-16" style={{ maxWidth: '800px' }}>
             <span className="badge badge-primary mb-4">Notre expertise</span>
             <h2 className="mb-6">
               Pourquoi choisir notre <span className="text-gradient">technologie laser</span> ?
@@ -106,7 +106,7 @@ export default function HomePage() {
       {/* Section Comment ça marche */}
       <section className="section" style={{ background: 'var(--bg-secondary)' }}>
         <div className="container">
-          <div className="text-center max-w-3xl mx-auto mb-16">
+          <div className="text-center mx-auto mb-16" style={{ maxWidth: '800px' }}>
             <span className="badge badge-primary mb-4">Le processus</span>
             <h2 className="mb-6">
               Comment fonctionne le <span className="text-gradient">détatouage laser</span> ?
@@ -114,7 +114,7 @@ export default function HomePage() {
           </div>
 
           {/* Explication technique */}
-          <div className="max-w-4xl mx-auto mb-12">
+          <div className="mx-auto mb-12" style={{ maxWidth: '900px' }}>
             <div className="card" style={{ background: 'linear-gradient(135deg, var(--color-primary-lighter), var(--color-white))' }}>
               <div className="flex items-start gap-4">
                 <div
@@ -139,46 +139,34 @@ export default function HomePage() {
           </div>
 
           {/* Étapes du processus */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-            <div className="relative">
-              <div className="card text-center h-full">
-                <div
-                  className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
-                  style={{ background: 'var(--color-primary)', color: 'white' }}
-                >
-                  1
-                </div>
-                <h4 className="text-lg font-semibold mb-3">Consultation</h4>
-                <p style={{ color: 'var(--text-secondary)' }}>
-                  Évaluation du tatouage et plan de traitement personnalisé adapté à votre peau
-                </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mx-auto" style={{ maxWidth: '1000px' }}>
+            <div className="card text-center">
+              <div
+                className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
+                style={{ background: 'var(--color-primary)', color: 'white' }}
+              >
+                1
               </div>
-              {/* Arrow connector for desktop */}
-              <div className="hidden md:block absolute top-8 -right-4 text-4xl" style={{ color: 'var(--color-grey-300)' }}>
-                →
-              </div>
+              <h4 className="text-lg font-semibold mb-3">Consultation</h4>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Évaluation du tatouage et plan de traitement personnalisé adapté à votre peau
+              </p>
             </div>
 
-            <div className="relative">
-              <div className="card text-center h-full">
-                <div
-                  className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
-                  style={{ background: 'var(--color-primary)', color: 'white' }}
-                >
-                  2
-                </div>
-                <h4 className="text-lg font-semibold mb-3">Traitement laser</h4>
-                <p style={{ color: 'var(--text-secondary)' }}>
-                  Séances de 15-30 minutes espacées de 6-8 semaines pour une efficacité optimale
-                </p>
+            <div className="card text-center">
+              <div
+                className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
+                style={{ background: 'var(--color-primary)', color: 'white' }}
+              >
+                2
               </div>
-              {/* Arrow connector for desktop */}
-              <div className="hidden md:block absolute top-8 -right-4 text-4xl" style={{ color: 'var(--color-grey-300)' }}>
-                →
-              </div>
+              <h4 className="text-lg font-semibold mb-3">Traitement laser</h4>
+              <p style={{ color: 'var(--text-secondary)' }}>
+                Séances de 15-30 minutes espacées de 6-8 semaines pour une efficacité optimale
+              </p>
             </div>
 
-            <div className="card text-center h-full">
+            <div className="card text-center">
               <div
                 className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
                 style={{ background: 'var(--color-primary)', color: 'white' }}
@@ -197,12 +185,12 @@ export default function HomePage() {
       {/* Section Est-ce douloureux */}
       <section className="section bg-white">
         <div className="container">
-          <div className="max-w-4xl mx-auto">
-            <div className="text-center mb-12">
-              <span className="badge badge-primary mb-4">Confort</span>
-              <h2 className="mb-4">Est-ce douloureux ?</h2>
-            </div>
+          <div className="text-center mb-12 mx-auto" style={{ maxWidth: '800px' }}>
+            <span className="badge badge-primary mb-4">Confort</span>
+            <h2 className="mb-4">Est-ce douloureux ?</h2>
+          </div>
 
+          <div className="mx-auto" style={{ maxWidth: '900px' }}>
             <div className="card">
               <div className="flex items-start gap-6">
                 <div
@@ -242,12 +230,12 @@ export default function HomePage() {
       {/* Section Estimation durée */}
       <section className="section" style={{ background: 'var(--bg-secondary)' }}>
         <div className="container">
-          <div className="text-center max-w-3xl mx-auto mb-12">
+          <div className="text-center mx-auto mb-12" style={{ maxWidth: '800px' }}>
             <span className="badge badge-primary mb-4">Durée du traitement</span>
             <h2 className="mb-4">Combien de séances sont nécessaires ?</h2>
           </div>
 
-          <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12 mx-auto" style={{ maxWidth: '900px' }}>
             <div className="card text-center">
               <div
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
@@ -287,7 +275,7 @@ export default function HomePage() {
             </div>
           </div>
 
-          <div className="max-w-4xl mx-auto">
+          <div className="mx-auto" style={{ maxWidth: '900px' }}>
             <div
               className="card"
               style={{
@@ -329,18 +317,20 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Testimonials Section */}
+      {/* Testimonials */}
       <Testimonials />
 
       {/* Quote Form */}
-      <div className="container mx-auto px-4">
-        <QuoteForm />
+      <div className="section bg-white">
+        <div className="container">
+          <QuoteForm />
+        </div>
       </div>
 
-      {/* FAQ Section avec Schema.org */}
-      <section className="section bg-white">
+      {/* FAQ Section */}
+      <section className="section" style={{ background: 'var(--bg-secondary)' }}>
         <div className="container">
-          <div className="text-center max-w-3xl mx-auto mb-12">
+          <div className="text-center mx-auto mb-12" style={{ maxWidth: '800px' }}>
             <span className="badge badge-primary mb-4">FAQ</span>
             <h2 className="mb-4">Questions fréquentes</h2>
             <p style={{ color: 'var(--text-secondary)' }}>
@@ -348,7 +338,7 @@ export default function HomePage() {
             </p>
           </div>
 
-          <div className="max-w-3xl mx-auto space-y-4">
+          <div className="space-y-4 mx-auto" style={{ maxWidth: '800px' }}>
             {[
               {
                 question: 'Combien coûte un détatouage ?',
