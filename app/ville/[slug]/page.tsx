@@ -6,6 +6,8 @@ import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { ProximityLinks } from "@/components/ui/ProximityLinks";
 import { HeroSection } from "@/components/ui/HeroSection";
 import { FAQSchema } from "@/components/seo/FAQSchema";
+import { LocalBusinessSchema } from "@/components/seo/LocalBusinessSchema";
+import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { MapPin } from "lucide-react";
 
 type Props = {
@@ -31,9 +33,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = `Détatouage Laser à ${city.name} | Prix & Devis Gratuit`;
   const description = `Spécialiste du détatouage laser à ${city.name}, ${city.department.name}. Retrait de tatouage par laser de dernière génération. Devis gratuit et consultation personnalisée.`;
 
+  // Keywords enrichis pour SEO local
+  const keywords = [
+    `détatouage ${city.name}`,
+    `détatouage laser ${city.name}`,
+    `enlever tatouage ${city.name}`,
+    `retrait tatouage ${city.name}`,
+    `effacer tatouage ${city.name}`,
+    `laser tatouage ${city.name}`,
+    `détatouage ${city.department.name}`,
+    `centre détatouage ${city.name}`,
+    `spécialiste détatouage ${city.name}`,
+    `prix détatouage ${city.name}`,
+  ];
+
   return {
     title,
     description,
+    keywords: keywords.join(', '),
     alternates: {
       canonical: `/ville/${city.slug}`,
     },
@@ -59,6 +76,18 @@ export default async function CityPage({ params }: Props) {
   return (
     <>
       <FAQSchema />
+      <LocalBusinessSchema
+        city={city.name}
+        department={city.department.name}
+        postalCode={city.postalCode}
+      />
+      <BreadcrumbSchema
+        items={[
+          { name: "Accueil", url: "/" },
+          { name: city.department.name, url: `/departement/${city.department.slug}` },
+          { name: city.name, url: `/ville/${city.slug}` },
+        ]}
+      />
       <HeroSection
         imageSrc="/images/Ville-detatouage.png"
         imageAlt={`Détatouage laser à ${city.name}`}

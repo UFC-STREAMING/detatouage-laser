@@ -5,6 +5,7 @@ import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { QuoteForm } from "@/components/ui/QuoteForm";
 import { HeroSection } from "@/components/ui/HeroSection";
 import { FAQSchema } from "@/components/seo/FAQSchema";
+import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { getNeighborDepartments } from "@/data/department-neighbors";
 import { getDepartmentWithPreposition } from "@/lib/utils/department-articles";
 import Link from "next/link";
@@ -35,9 +36,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = `Détatouage Laser ${getDepartmentWithPreposition(department.name)} (${department.number}) | Prix & Devis`;
   const description = `Spécialiste du détatouage laser ${getDepartmentWithPreposition(department.name)} (${department.number}). ${department.cities.length} villes couvertes. Devis gratuit et consultation personnalisée.`;
 
+  // Keywords enrichis pour SEO local département
+  const keywords = [
+    `détatouage ${department.name}`,
+    `détatouage laser ${department.name}`,
+    `enlever tatouage ${department.name}`,
+    `retrait tatouage ${department.name}`,
+    `effacer tatouage ${department.name}`,
+    `détatouage ${department.number}`,
+    `centre détatouage ${department.name}`,
+    `spécialiste détatouage ${department.name}`,
+    `prix détatouage ${department.name}`,
+    `devis détatouage ${department.name}`,
+  ];
+
   return {
     title,
     description,
+    keywords: keywords.join(', '),
     alternates: {
       canonical: `/departement/${department.slug}`,
     },
@@ -67,6 +83,12 @@ export default async function DepartmentPage({ params }: Props) {
   return (
     <>
       <FAQSchema />
+      <BreadcrumbSchema
+        items={[
+          { name: "Accueil", url: "/" },
+          { name: department.name, url: `/departement/${department.slug}` },
+        ]}
+      />
       <HeroSection
         imageSrc="/images/Departement-detatouage.png"
         imageAlt={`Détatouage laser ${getDepartmentWithPreposition(department.name)}`}

@@ -24,11 +24,37 @@ export const metadata: Metadata = {
   description:
     "Spécialiste du retrait de tatouage par laser. Technologie de pointe, résultats optimaux. Devis gratuit partout en France.",
   keywords: [
+    // Mots-clés principaux
     "détatouage",
+    "détatouage laser",
     "retrait tatouage",
-    "laser tatouage",
     "enlever tatouage",
     "effacer tatouage",
+    "laser tatouage",
+    // Mots-clés secondaires
+    "retrait tatouage laser",
+    "enlever tatouage laser",
+    "suppression tatouage",
+    "détatouage France",
+    "centre détatouage",
+    "spécialiste détatouage",
+    // Termes techniques
+    "laser Q-Switched",
+    "détatouage Q-Switch",
+    "technologie laser tatouage",
+    // Intentions de recherche
+    "prix détatouage",
+    "prix détatouage laser",
+    "devis détatouage",
+    "devis gratuit détatouage",
+    "tarif détatouage",
+    "combien coute détatouage",
+    // Localisations générales
+    "détatouage Paris",
+    "détatouage Lyon",
+    "détatouage Marseille",
+    "détatouage Toulouse",
+    "détatouage Nice",
   ],
   authors: [{ name: "Détatouage Laser" }],
   creator: "Détatouage Laser",
