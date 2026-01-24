@@ -1,10 +1,12 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getCityBySlug, getProximityCities, cities } from "@/data/cities";
+import { getBusinessesByCity } from "@/data/businesses";
 import { QuoteForm } from "@/components/ui/QuoteForm";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { ProximityLinks } from "@/components/ui/ProximityLinks";
 import { HeroSection } from "@/components/ui/HeroSection";
+import { BusinessListings } from "@/components/ui/BusinessListings";
 import { FAQSchema } from "@/components/seo/FAQSchema";
 import { LocalBusinessSchema } from "@/components/seo/LocalBusinessSchema";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
@@ -72,6 +74,7 @@ export default async function CityPage({ params }: Props) {
   }
 
   const proximityCities = getProximityCities(city.slug);
+  const cityBusinesses = getBusinessesByCity(city.slug);
 
   return (
     <>
@@ -232,14 +235,27 @@ export default async function CityPage({ params }: Props) {
             </a>
           </div>
         </div>
-
-        <QuoteForm initialPostalCode={city.postalCode} />
-
-        {proximityCities.length > 0 && (
-          <ProximityLinks cities={proximityCities} currentCity={city.name} />
-        )}
       </article>
       </div>
+
+      {/* Section des entreprises locales */}
+      <BusinessListings businesses={cityBusinesses} cityName={city.name} />
+
+      {/* Formulaire de devis */}
+      <div className="section bg-white">
+        <div className="container">
+          <QuoteForm initialPostalCode={city.postalCode} />
+        </div>
+      </div>
+
+      {/* Villes à proximité */}
+      {proximityCities.length > 0 && (
+        <div className="section" style={{ background: 'var(--bg-secondary)' }}>
+          <div className="container">
+            <ProximityLinks cities={proximityCities} currentCity={city.name} />
+          </div>
+        </div>
+      )}
     </>
   );
 }
