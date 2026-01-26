@@ -279,14 +279,27 @@ li:last-child {
    COMPOSANTS GLOBAUX
    ============================================ */
 
-/* Container - Centré avec max-width */
+/* Container - PARFAITEMENT centré */
 .container {
   width: 100%;
   max-width: var(--container-max-width);
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   padding-left: var(--container-padding);
   padding-right: var(--container-padding);
+}
+
+@media (min-width: 1024px) {
+  .section {
+    text-align: center;
+  }
+
+  .section .container > * {
+    text-align: left;
+  }
+
+  .section .text-center {
+    text-align: center;
+  }
 }
 
 /* Section - Espacements harmonisés */

@@ -96,10 +96,9 @@ export function Navbar() {
             {/* CTA Button */}
             <button
               onClick={scrollToForm}
-              className="inline-flex items-center gap-3 px-8 py-4 rounded-full font-bold text-white text-base transition-all duration-200 hover:shadow-xl hover:scale-105"
+              className="px-10 py-4 rounded-full font-bold text-white text-base transition-all duration-200 hover:shadow-xl hover:scale-105"
               style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
             >
-              <Phone className="w-5 h-5" />
               Devis Gratuit
             </button>
           </div>

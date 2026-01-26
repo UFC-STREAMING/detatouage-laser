@@ -1,7 +1,5 @@
 "use client";
 
-import { Phone } from "lucide-react";
-
 export function StickyCTA() {
   const scrollToForm = () => {
     const form = document.getElementById("quote-form");
@@ -20,14 +18,13 @@ export function StickyCTA() {
       >
         <button
           onClick={scrollToForm}
-          className="w-full inline-flex items-center justify-center gap-3 px-8 py-5 rounded-full font-bold text-lg text-white transition-all duration-300 active:scale-95"
+          className="w-full text-center px-10 py-5 rounded-full font-bold text-lg text-white transition-all duration-300 active:scale-95"
           style={{
             background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))',
             boxShadow: '0 8px 30px rgba(234, 107, 66, 0.4)',
             minHeight: '60px'
           }}
         >
-          <Phone className="w-6 h-6" />
           Devis Gratuit
         </button>
       </div>
