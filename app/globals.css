@@ -9,23 +9,18 @@
 
 :root {
   /* ============ COULEURS PRIMAIRES ============ */
-  /* Bleu médical - Évoque propreté, technologie et confiance */
-  --color-primary: #0066CC;
-  --color-primary-light: #3385D6;
-  --color-primary-dark: #004C99;
+  /* Bleu - Identité principale Tatouage Permanent France */
+  --color-primary: #0167CC;
+  --color-primary-light: #3D8FDB;
+  --color-primary-dark: #014FA3;
   --color-primary-lighter: #E6F2FF;
 
-  /* Bleu intense pour branding fort */
-  --color-brand: #0077b6;
-  --color-brand-light: #0096c7;
-  --color-brand-dark: #023e8a;
-
   /* ============ COULEURS SECONDAIRES ============ */
-  /* Orange confiant - Accent chaleureux pour CTAs */
-  --color-secondary: #FF6B35;
-  --color-secondary-light: #FF8C5F;
-  --color-secondary-dark: #CC5529;
-  --color-secondary-lighter: #FFF4F0;
+  /* Orange - Call to Action et Accent */
+  --color-secondary: #EA6B42;
+  --color-secondary-light: #EE8465;
+  --color-secondary-dark: #D15535;
+  --color-secondary-lighter: #FDEEE9;
 
   /* ============ NUANCES DE GRIS ============ */
   --color-grey-50: #F9FAFB;

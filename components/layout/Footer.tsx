@@ -1,7 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { Logo } from "@/components/icons/Logo";
+import Image from "next/image";
+import { Mail, MapPin, Phone } from "lucide-react";
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -14,37 +15,38 @@ export function Footer() {
         borderColor: 'var(--color-grey-200)'
       }}
     >
-      <div className="container mx-auto px-6 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+      <div className="container mx-auto px-4 sm:px-6 py-12 sm:py-16">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 sm:gap-12">
           {/* Branding */}
-          <div>
-            <div className="flex items-center gap-3 mb-6">
-              <Logo className="w-10 h-10" />
-              <div className="flex flex-col">
-                <span
-                  className="font-bold text-lg"
-                  style={{ color: 'var(--color-brand)' }}
-                >
-                  Tatouage Temporaire
-                </span>
-                <span
-                  className="text-xs"
-                  style={{ color: 'var(--text-tertiary)' }}
-                >
-                  Détatouage Laser
-                </span>
-              </div>
-            </div>
-            <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+          <div className="sm:col-span-2 lg:col-span-1">
+            <Link href="/" className="inline-block mb-6">
+              <Image
+                src="/images/logo.png"
+                alt="Logo Tatouage Permanent France"
+                width={180}
+                height={50}
+                className="h-10 w-auto object-contain"
+              />
+            </Link>
+            <p className="text-sm leading-relaxed mb-6" style={{ color: 'var(--text-secondary)' }}>
               Spécialiste du retrait de tatouage par laser dans toute la France.
               Technologie de pointe pour des résultats optimaux et sécurisés.
             </p>
+            {/* CTA Footer Mobile */}
+            <a
+              href="#quote-form"
+              className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full font-bold text-white text-sm transition-all duration-200 hover:shadow-xl hover:scale-105 sm:hidden"
+              style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
+            >
+              <Phone className="w-4 h-4" />
+              Devis Gratuit
+            </a>
           </div>
 
           {/* Liens rapides */}
           <div>
             <h3
-              className="font-semibold mb-6 text-base"
+              className="font-bold mb-4 text-base"
               style={{ color: 'var(--color-primary)' }}
             >
               Liens rapides
@@ -53,10 +55,8 @@ export function Footer() {
               <li>
                 <Link
                   href="/"
-                  className="transition-colors"
+                  className="transition-colors hover:text-[var(--color-primary)]"
                   style={{ color: 'var(--text-secondary)' }}
-                  onMouseEnter={(e) => e.currentTarget.style.color = 'var(--color-primary)'}
-                  onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}
                 >
                   Accueil
                 </Link>
@@ -64,10 +64,8 @@ export function Footer() {
               <li>
                 <Link
                   href="/prix"
-                  className="transition-colors"
+                  className="transition-colors hover:text-[var(--color-primary)]"
                   style={{ color: 'var(--text-secondary)' }}
-                  onMouseEnter={(e) => e.currentTarget.style.color = 'var(--color-primary)'}
-                  onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}
                 >
                   Prix
                 </Link>
@@ -75,21 +73,38 @@ export function Footer() {
               <li>
                 <Link
                   href="/avant-apres"
-                  className="transition-colors"
+                  className="transition-colors hover:text-[var(--color-primary)]"
                   style={{ color: 'var(--text-secondary)' }}
-                  onMouseEnter={(e) => e.currentTarget.style.color = 'var(--color-primary)'}
-                  onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}
                 >
                   Avant/Après
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/mentions-legales"
-                  className="transition-colors"
+                  href="/resultats-1-seance"
+                  className="transition-colors hover:text-[var(--color-primary)]"
                   style={{ color: 'var(--text-secondary)' }}
-                  onMouseEnter={(e) => e.currentTarget.style.color = 'var(--color-primary)'}
-                  onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}
+                >
+                  Résultats 1ère séance
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          {/* Légal */}
+          <div>
+            <h3
+              className="font-bold mb-4 text-base"
+              style={{ color: 'var(--color-primary)' }}
+            >
+              Informations légales
+            </h3>
+            <ul className="space-y-3 text-sm">
+              <li>
+                <Link
+                  href="/mentions-legales"
+                  className="transition-colors hover:text-[var(--color-primary)]"
+                  style={{ color: 'var(--text-secondary)' }}
                 >
                   Mentions légales
                 </Link>
@@ -97,10 +112,8 @@ export function Footer() {
               <li>
                 <Link
                   href="/politique-confidentialite"
-                  className="transition-colors"
+                  className="transition-colors hover:text-[var(--color-primary)]"
                   style={{ color: 'var(--text-secondary)' }}
-                  onMouseEnter={(e) => e.currentTarget.style.color = 'var(--color-primary)'}
-                  onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}
                 >
                   Politique de confidentialité
                 </Link>
@@ -111,84 +124,45 @@ export function Footer() {
           {/* Contact */}
           <div>
             <h3
-              className="font-semibold mb-6 text-base"
+              className="font-bold mb-4 text-base"
               style={{ color: 'var(--color-primary)' }}
             >
               Contact
             </h3>
             <ul className="space-y-4 text-sm">
               <li className="flex items-start gap-3">
-                <svg
+                <Mail
                   className="w-5 h-5 flex-shrink-0 mt-0.5"
                   style={{ color: 'var(--color-primary)' }}
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
-                  />
-                </svg>
+                />
                 <a
                   href="mailto:contact@tatouage-temporaire.fr"
-                  className="transition-colors"
+                  className="transition-colors hover:text-[var(--color-primary)]"
                   style={{ color: 'var(--text-secondary)' }}
-                  onMouseEnter={(e) => e.currentTarget.style.color = 'var(--color-primary)'}
-                  onMouseLeave={(e) => e.currentTarget.style.color = 'var(--text-secondary)'}
                 >
                   contact@tatouage-temporaire.fr
                 </a>
               </li>
               <li className="flex items-start gap-3">
-                <svg
+                <MapPin
                   className="w-5 h-5 flex-shrink-0 mt-0.5"
                   style={{ color: 'var(--color-primary)' }}
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
-                  />
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
-                  />
-                </svg>
+                />
                 <span style={{ color: 'var(--text-secondary)' }}>
                   Partout en France
                 </span>
               </li>
             </ul>
 
-            {/* CTA Footer */}
-            <div className="mt-8">
+            {/* CTA Footer Desktop */}
+            <div className="mt-6 hidden sm:block">
               <a
                 href="#quote-form"
-                className="btn btn-primary btn-sm inline-flex"
+                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full font-bold text-white text-sm transition-all duration-200 hover:shadow-xl hover:scale-105"
+                style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
               >
-                <svg
-                  className="w-4 h-4"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
-                  />
-                </svg>
-                Devis gratuit
+                <Phone className="w-4 h-4" />
+                Devis Gratuit
               </a>
             </div>
           </div>
@@ -203,7 +177,7 @@ export function Footer() {
           }}
         >
           <p>
-            &copy; {currentYear} Tatouage Temporaire - Détatouage Laser. Tous droits réservés.
+            &copy; {currentYear} Tatouage Permanent France - Détatouage Laser. Tous droits réservés.
           </p>
         </div>
       </div>
