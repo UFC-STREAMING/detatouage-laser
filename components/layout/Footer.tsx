@@ -35,10 +35,10 @@ export function Footer() {
             {/* CTA Footer Mobile */}
             <a
               href="#quote-form"
-              className="inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-full font-bold text-white text-sm transition-all duration-200 hover:shadow-xl hover:scale-105 sm:hidden"
+              className="inline-flex items-center justify-center gap-3 px-8 py-4 rounded-full font-bold text-white text-base transition-all duration-200 hover:shadow-xl hover:scale-105 sm:hidden"
               style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
             >
-              <Phone className="w-4 h-4" />
+              <Phone className="w-5 h-5" />
               Devis Gratuit
             </a>
           </div>
@@ -158,10 +158,10 @@ export function Footer() {
             <div className="mt-6 hidden sm:block">
               <a
                 href="#quote-form"
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full font-bold text-white text-sm transition-all duration-200 hover:shadow-xl hover:scale-105"
+                className="inline-flex items-center gap-3 px-8 py-4 rounded-full font-bold text-white text-base transition-all duration-200 hover:shadow-xl hover:scale-105"
                 style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
               >
-                <Phone className="w-4 h-4" />
+                <Phone className="w-5 h-5" />
                 Devis Gratuit
               </a>
             </div>
