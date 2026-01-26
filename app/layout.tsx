@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
+import { StickyCTA } from "@/components/ui/StickyCTA";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -10,12 +11,12 @@ export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr"),
   icons: {
     icon: [
-      { url: "/logo.png", sizes: "any" },
-      { url: "/logo.png", sizes: "32x32", type: "image/png" },
-      { url: "/logo.png", sizes: "16x16", type: "image/png" },
+      { url: "/icon.png", sizes: "any" },
+      { url: "/icon.png", sizes: "32x32", type: "image/png" },
+      { url: "/icon.png", sizes: "16x16", type: "image/png" },
     ],
-    apple: "/apple-touch-icon.png",
-    shortcut: "/logo.png",
+    apple: "/icon.png",
+    shortcut: "/icon.png",
   },
   title: {
     default: "Détatouage Laser - Retrait de Tatouage par Laser en France",
@@ -94,6 +95,7 @@ export default function RootLayout({
     <html lang="fr">
       <body className={inter.className}>
         <Navbar />
+        <StickyCTA />
         <main className="min-h-screen">{children}</main>
         <Footer />
       </body>
