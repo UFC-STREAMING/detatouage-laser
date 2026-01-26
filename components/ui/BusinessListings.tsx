@@ -1,5 +1,5 @@
 import { Business } from "@/data/businesses";
-import { Star, MapPin, Phone, Globe, Clock } from "lucide-react";
+import { Star, MapPin, Phone, Clock } from "lucide-react";
 
 interface BusinessListingsProps {
   businesses: Business[];
@@ -142,20 +142,6 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
                       </div>
                     )}
 
-                    {business.website && (
-                      <div className="flex items-center gap-3 text-sm">
-                        <Globe className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
-                        <a
-                          href={business.website}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="hover:underline"
-                          style={{ color: 'var(--color-primary)' }}
-                        >
-                          Visiter le site web
-                        </a>
-                      </div>
-                    )}
                   </div>
                 </div>
 
@@ -173,22 +159,6 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
                     Obtenir un devis gratuit
                   </a>
 
-                  {/* Bouton secondaire - Voir sur GMB */}
-                  {business.googleMapsUrl && (
-                    <a
-                      href={business.googleMapsUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block text-center px-6 py-3 rounded-lg font-semibold border-2 transition-all duration-200 hover:shadow-md"
-                      style={{
-                        borderColor: 'var(--color-primary)',
-                        color: 'var(--color-primary)',
-                        background: 'white'
-                      }}
-                    >
-                      Voir sur Google Maps
-                    </a>
-                  )}
 
                   {/* Info badge */}
                   <div className="text-center p-4 rounded-lg"

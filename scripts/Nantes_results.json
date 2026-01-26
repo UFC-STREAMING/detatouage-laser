@@ -1,0 +1,40 @@
+[
+  {
+    "id": "nantes-2",
+    "citySlug": "nantes",
+    "city": "Nantes",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "Adresse non disponible",
+    "phone": null,
+    "website": null,
+    "googleMapsUrl": "https://www.google.com/maps/search/d%C3%A9tatouage+laser+Nantes/@47.2158416,-1.5715796,12.73z?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "00000"
+  },
+  {
+    "id": "nantes-3",
+    "citySlug": "nantes",
+    "city": "Nantes",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "39 Bd Gabriel Guist'Hau, 44000 Nantes, France ",
+    "phone": "Numéro de téléphone: +33 2 59 45 02 06 ",
+    "website": "https://www.ray-studios.com/studios/detatouage-nantes",
+    "googleMapsUrl": "https://www.google.com/maps/place/Ray+studios+Nantes+-+centre+de+d%C3%A9tatouage+laser/@47.2177354,-1.6559242,12z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Nantes!3m6!1s0x4805edbc37f223e7:0xb457c9d02cf1e037!8m2!3d47.2177354!4d-1.5691678!15sChhkw6l0YXRvdWFnZSBsYXNlciBOYW50ZXNaGiIYZMOpdGF0b3VhZ2UgbGFzZXIgbmFudGVzkgEWdGF0dG9vX3JlbW92YWxfc2VydmljZZoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyczVlVk5ZYUhOU1JsVXlXbFU1VUZOWE1IZE9WMVpIWVd0amVWSXpZeEFC4AEA-gEECDMQRA!16s%2Fg%2F11vdrkrz89?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "44000"
+  }
+]

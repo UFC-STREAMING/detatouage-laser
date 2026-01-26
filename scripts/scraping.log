@@ -1,0 +1,588 @@
+🚀 Bulk GMB Scraper - 100 villes
+================================================================================
+
+📊 Progression existante: 0 entreprises
+   Villes traitées: 0/100
+
+
+🏙️  [1/100] Traitement de Paris...
+
+============================================================
+🔍 Ville: Paris
+============================================================
+❌ Erreur ville Paris: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 27.7s...
+
+🏙️  [2/100] Traitement de Marseille...
+
+============================================================
+🔍 Ville: Marseille
+============================================================
+❌ Erreur ville Marseille: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 27.4s...
+
+🏙️  [3/100] Traitement de Lyon...
+
+============================================================
+🔍 Ville: Lyon
+============================================================
+❌ Erreur ville Lyon: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 15.0s...
+
+🏙️  [4/100] Traitement de Toulouse...
+
+============================================================
+🔍 Ville: Toulouse
+============================================================
+❌ Erreur ville Toulouse: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 29.8s...
+
+🏙️  [5/100] Traitement de Nice...
+
+============================================================
+🔍 Ville: Nice
+============================================================
+❌ Erreur ville Nice: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 27.0s...
+
+🏙️  [6/100] Traitement de Nantes...
+
+============================================================
+🔍 Ville: Nantes
+============================================================
+❌ Erreur ville Nantes: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 29.3s...
+
+🏙️  [7/100] Traitement de Montpellier...
+
+============================================================
+🔍 Ville: Montpellier
+============================================================
+❌ Erreur ville Montpellier: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 25.8s...
+
+🏙️  [8/100] Traitement de Strasbourg...
+
+============================================================
+🔍 Ville: Strasbourg
+============================================================
+❌ Erreur ville Strasbourg: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 17.1s...
+
+🏙️  [9/100] Traitement de Bordeaux...
+
+============================================================
+🔍 Ville: Bordeaux
+============================================================
+❌ Erreur ville Bordeaux: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 16.3s...
+
+🏙️  [10/100] Traitement de Lille...
+
+============================================================
+🔍 Ville: Lille
+============================================================
+❌ Erreur ville Lille: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 26.7s...
+
+🏙️  [11/100] Traitement de Rennes...
+
+============================================================
+🔍 Ville: Rennes
+============================================================
+❌ Erreur ville Rennes: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 27.4s...
+
+🏙️  [12/100] Traitement de Reims...
+
+============================================================
+🔍 Ville: Reims
+============================================================
+❌ Erreur ville Reims: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 22.3s...
+
+🏙️  [13/100] Traitement de Saint-Étienne...
+
+============================================================
+🔍 Ville: Saint-Étienne
+============================================================
+❌ Erreur ville Saint-Étienne: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Saint-%C3%89tienne
+Call log:
+  - navigating to "https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Saint-%C3%89tienne", waiting until "load"
+
+⏸️  Pause de 15.6s...
+
+🏙️  [14/100] Traitement de Toulon...
+
+============================================================
+🔍 Ville: Toulon
+============================================================
+❌ Erreur ville Toulon: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Toulon
+Call log:
+  - navigating to "https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Toulon", waiting until "load"
+
+⏸️  Pause de 28.4s...
+
+🏙️  [15/100] Traitement de Le Havre...
+
+============================================================
+🔍 Ville: Le Havre
+============================================================
+❌ Erreur ville Le Havre: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 25.4s...
+
+🏙️  [16/100] Traitement de Grenoble...
+
+============================================================
+🔍 Ville: Grenoble
+============================================================
+❌ Erreur ville Grenoble: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Grenoble
+Call log:
+  - navigating to "https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Grenoble", waiting until "load"
+
+⏸️  Pause de 21.1s...
+
+🏙️  [17/100] Traitement de Dijon...
+
+============================================================
+🔍 Ville: Dijon
+============================================================
+❌ Erreur ville Dijon: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 27.0s...
+
+🏙️  [18/100] Traitement de Angers...
+
+============================================================
+🔍 Ville: Angers
+============================================================
+❌ Erreur ville Angers: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 21.1s...
+
+🏙️  [19/100] Traitement de Nîmes...
+
+============================================================
+🔍 Ville: Nîmes
+============================================================
+❌ Erreur ville Nîmes: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 15.2s...
+
+🏙️  [20/100] Traitement de Villeurbanne...
+
+============================================================
+🔍 Ville: Villeurbanne
+============================================================
+❌ Erreur ville Villeurbanne: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 22.1s...
+
+🏙️  [21/100] Traitement de Saint-Denis...
+
+============================================================
+🔍 Ville: Saint-Denis
+============================================================
+❌ Erreur ville Saint-Denis: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 26.6s...
+
+🏙️  [22/100] Traitement de Clermont-Ferrand...
+
+============================================================
+🔍 Ville: Clermont-Ferrand
+============================================================
+❌ Erreur ville Clermont-Ferrand: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 16.6s...
+
+🏙️  [23/100] Traitement de Le Mans...
+
+============================================================
+🔍 Ville: Le Mans
+============================================================
+❌ Erreur ville Le Mans: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 25.1s...
+
+🏙️  [24/100] Traitement de Aix-en-Provence...
+
+============================================================
+🔍 Ville: Aix-en-Provence
+============================================================
+❌ Erreur ville Aix-en-Provence: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 25.2s...
+
+🏙️  [25/100] Traitement de Brest...
+
+============================================================
+🔍 Ville: Brest
+============================================================
+❌ Erreur ville Brest: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 20.7s...
+
+🏙️  [26/100] Traitement de Tours...
+
+============================================================
+🔍 Ville: Tours
+============================================================
+❌ Erreur ville Tours: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 15.7s...
+
+🏙️  [27/100] Traitement de Amiens...
+
+============================================================
+🔍 Ville: Amiens
+============================================================
+❌ Erreur ville Amiens: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 28.1s...
+
+🏙️  [28/100] Traitement de Limoges...
+
+============================================================
+🔍 Ville: Limoges
+============================================================
+❌ Erreur ville Limoges: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 28.2s...
+
+🏙️  [29/100] Traitement de Annecy...
+
+============================================================
+🔍 Ville: Annecy
+============================================================
+❌ Erreur ville Annecy: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 25.7s...
+
+🏙️  [30/100] Traitement de Perpignan...
+
+============================================================
+🔍 Ville: Perpignan
+============================================================
+❌ Erreur ville Perpignan: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 23.5s...
+
+🏙️  [31/100] Traitement de Boulogne-Billancourt...
+
+============================================================
+🔍 Ville: Boulogne-Billancourt
+============================================================
+❌ Erreur ville Boulogne-Billancourt: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Boulogne-Billancourt", waiting until "load"
+
+⏸️  Pause de 18.9s...
+
+🏙️  [32/100] Traitement de Metz...
+
+============================================================
+🔍 Ville: Metz
+============================================================
+❌ Erreur ville Metz: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 26.7s...
+
+🏙️  [33/100] Traitement de Besançon...
+
+============================================================
+🔍 Ville: Besançon
+============================================================
+❌ Erreur ville Besançon: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 21.0s...
+
+🏙️  [34/100] Traitement de Orléans...
+
+============================================================
+🔍 Ville: Orléans
+============================================================
+❌ Erreur ville Orléans: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 27.0s...
+
+🏙️  [35/100] Traitement de Rouen...
+
+============================================================
+🔍 Ville: Rouen
+============================================================
+❌ Erreur ville Rouen: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 15.8s...
+
+🏙️  [36/100] Traitement de Mulhouse...
+
+============================================================
+🔍 Ville: Mulhouse
+============================================================
+❌ Erreur ville Mulhouse: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 25.0s...
+
+🏙️  [37/100] Traitement de Caen...
+
+============================================================
+🔍 Ville: Caen
+============================================================
+❌ Erreur ville Caen: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 27.0s...
+
+🏙️  [38/100] Traitement de Nancy...
+
+============================================================
+🔍 Ville: Nancy
+============================================================
+❌ Erreur ville Nancy: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 15.1s...
+
+🏙️  [39/100] Traitement de Saint-Paul...
+
+============================================================
+🔍 Ville: Saint-Paul
+============================================================
+❌ Erreur ville Saint-Paul: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 21.5s...
+
+🏙️  [40/100] Traitement de Argenteuil...
+
+============================================================
+🔍 Ville: Argenteuil
+============================================================
+❌ Erreur ville Argenteuil: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 29.5s...
+
+🏙️  [41/100] Traitement de Montreuil...
+
+============================================================
+🔍 Ville: Montreuil
+============================================================
+❌ Erreur ville Montreuil: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 29.6s...
+
+🏙️  [42/100] Traitement de Roubaix...
+
+============================================================
+🔍 Ville: Roubaix
+============================================================
+❌ Erreur ville Roubaix: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 22.5s...
+
+🏙️  [43/100] Traitement de Tourcoing...
+
+============================================================
+🔍 Ville: Tourcoing
+============================================================
+❌ Erreur ville Tourcoing: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 25.1s...
+
+🏙️  [44/100] Traitement de Nanterre...
+
+============================================================
+🔍 Ville: Nanterre
+============================================================
+❌ Erreur ville Nanterre: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 18.1s...
+
+🏙️  [45/100] Traitement de Avignon...
+
+============================================================
+🔍 Ville: Avignon
+============================================================
+❌ Erreur ville Avignon: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 28.8s...
+
+🏙️  [46/100] Traitement de Vitry-sur-Seine...
+
+============================================================
+🔍 Ville: Vitry-sur-Seine
+============================================================
+❌ Erreur ville Vitry-sur-Seine: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 29.5s...
+
+🏙️  [47/100] Traitement de Créteil...
+
+============================================================
+🔍 Ville: Créteil
+============================================================
+❌ Erreur ville Créteil: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 19.5s...
+
+🏙️  [48/100] Traitement de Dunkerque...
+
+============================================================
+🔍 Ville: Dunkerque
+============================================================
+❌ Erreur ville Dunkerque: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 22.1s...
+
+🏙️  [49/100] Traitement de Poitiers...
+
+============================================================
+🔍 Ville: Poitiers
+============================================================
+❌ Erreur ville Poitiers: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+⏸️  Pause de 22.0s...
+
+🏙️  [50/100] Traitement de Asnières-sur-Seine...
+
+============================================================
+🔍 Ville: Asnières-sur-Seine
+============================================================
+❌ Erreur ville Asnières-sur-Seine: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"]") to be visible
+
+
+💾 Progression sauvegardée: 0 entreprises
+⏸️  Pause de 20.2s...
+
+💾 Progression sauvegardée: 0 entreprises
+
+✅ Fichier TypeScript généré: ../data/businesses.ts
+   0 entreprises au total
+
+================================================================================
+✅ TERMINÉ !
+   0 entreprises extraites
+   50 villes traitées
+================================================================================
+

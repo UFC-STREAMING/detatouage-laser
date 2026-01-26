@@ -1,0 +1,560 @@
+🚀 Scraping des 10 villes principales
+======================================
+
+🏙️  Traitement de Paris...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Paris
+🌐 URL: https://www.google.com/maps/search/détatouage laser Paris
+
+Traceback (most recent call last):
+  File "/Users/leofortier/Downloads/Détatouage/detatouage/scripts/gmb_scraper.py", line 207, in <module>
+    businesses = scrape_gmb_businesses(args.city, args.query, args.max)
+  File "/Users/leofortier/Downloads/Détatouage/detatouage/scripts/gmb_scraper.py", line 46, in scrape_gmb_businesses
+    page.goto(google_maps_url)
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/sync_api/_generated.py", line 9050, in goto
+    self._sync(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Paris
+Call log:
+  - navigating to "https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Paris", waiting until "load"
+
+
+🏙️  Traitement de Marseille...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Marseille
+🌐 URL: https://www.google.com/maps/search/détatouage laser Marseille
+
+Traceback (most recent call last):
+  File "/Users/leofortier/Downloads/Détatouage/detatouage/scripts/gmb_scraper.py", line 207, in <module>
+    businesses = scrape_gmb_businesses(args.city, args.query, args.max)
+  File "/Users/leofortier/Downloads/Détatouage/detatouage/scripts/gmb_scraper.py", line 46, in scrape_gmb_businesses
+    page.goto(google_maps_url)
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/sync_api/_generated.py", line 9050, in goto
+    self._sync(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Marseille
+Call log:
+  - navigating to "https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Marseille", waiting until "load"
+
+
+🏙️  Traitement de Lyon...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Lyon
+🌐 URL: https://www.google.com/maps/search/détatouage laser Lyon
+
+✅ 9 résultats trouvés
+
+📍 Entreprise 1/3
+   ❌ Erreur: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"] > div").first
+    - locator resolved to <div class="m6QErb XiKgde z7i0C ">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+
+📍 Entreprise 2/3
+   ✅ Données extraites
+
+📍 Entreprise 3/3
+   Adresse: 95 Av. Maréchal de Saxe, 69003 Lyon, France 
+   Téléphone: Numéro de téléphone: +33 4 28 29 80 07 
+   Site web: https://www.dermo-laser-lyon.fr/?utm_content=website_link&utm_medium=seo_local&utm_source=google_my_business
+   ✅ Données extraites
+
+💾 Données exportées vers: Lyon_results.json
+
+================================================================================
+📋 CODE À COPIER DANS data/businesses.ts :
+================================================================================
+
+  {
+    id: "lyon-2",
+    name: "Nom non disponible",
+    address: "Adresse non disponible",
+    city: "Lyon",
+    citySlug: "lyon",
+    postalCode: "00000",
+    phone: "None",
+    website: "None",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/search/d%C3%A9tatouage+laser+Lyon/@45.7649774,4.8395827,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+  },
+
+  {
+    id: "lyon-3",
+    name: "Nom non disponible",
+    address: "95 Av. Maréchal de Saxe, 69003 Lyon, France ",
+    city: "Lyon",
+    citySlug: "lyon",
+    postalCode: "69003",
+    phone: "Numéro de téléphone: +33 4 28 29 80 07 ",
+    website: "https://www.dermo-laser-lyon.fr/?utm_content=website_link&utm_medium=seo_local&utm_source=google_my_business",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/place/Centre+Dermo+Laser+Lyon+-+Epilation+Laser+%26+D%C3%A9finitive+-+D%C3%A9tatouage/@45.759975,4.8278795,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Lyon!3m6!1s0x47f4eb094054579f:0x1445ea5e67f2979d!8m2!3d45.759975!4d4.8459039!15sChZkw6l0YXRvdWFnZSBsYXNlciBMeW9uWhgiFmTDqXRhdG91YWdlIGxhc2VyIGx5b26SARpsYXNlcl9oYWlyX3JlbW92YWxfc2VydmljZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVObk5UUnhSRTlCRUFF4AEA-gEECAAQOw!16s%2Fg%2F11kcb811gc?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+  },
+
+
+✅ Terminé!
+
+🏙️  Traitement de Toulouse...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Toulouse
+🌐 URL: https://www.google.com/maps/search/détatouage laser Toulouse
+
+✅ 13 résultats trouvés
+
+📍 Entreprise 1/3
+   ❌ Erreur: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"] > div").first
+    - locator resolved to <div class="m6QErb XiKgde z7i0C ">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+
+📍 Entreprise 2/3
+   ✅ Données extraites
+
+📍 Entreprise 3/3
+   Adresse: 17 Rue de Metz, 31000 Toulouse, France 
+   Téléphone: Numéro de téléphone: +33 5 61 75 96 78 
+   Site web: https://my-laser.fr/nos-centres/my-laser-toulouse/
+   ✅ Données extraites
+
+💾 Données exportées vers: Toulouse_results.json
+
+================================================================================
+📋 CODE À COPIER DANS data/businesses.ts :
+================================================================================
+
+  {
+    id: "toulouse-2",
+    name: "Nom non disponible",
+    address: "Adresse non disponible",
+    city: "Toulouse",
+    citySlug: "toulouse",
+    postalCode: "00000",
+    phone: "None",
+    website: "None",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/search/d%C3%A9tatouage+laser+Toulouse/@43.619921,1.4457045,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+  },
+
+  {
+    id: "toulouse-3",
+    name: "Nom non disponible",
+    address: "17 Rue de Metz, 31000 Toulouse, France ",
+    city: "Toulouse",
+    citySlug: "toulouse",
+    postalCode: "31000",
+    phone: "Numéro de téléphone: +33 5 61 75 96 78 ",
+    website: "https://my-laser.fr/nos-centres/my-laser-toulouse/",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/place/My+Laser+Toulouse/@43.6003661,1.4071558,14z/data=!3m1!5s0x12aebb62a67a29eb:0xf51d1326e6f64c76!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Toulouse!3m6!1s0x12aebbab633fa15b:0x9fde65d83f682dcc!8m2!3d43.6003661!4d1.4432047!15sChpkw6l0YXRvdWFnZSBsYXNlciBUb3Vsb3VzZVocIhpkw6l0YXRvdWFnZSBsYXNlciB0b3Vsb3VzZZIBGmxhc2VyX2hhaXJfcmVtb3ZhbF9zZXJ2aWNlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1S1ZtRXlUbXBUYWxveVdqRktZVlV5Vm5oVU1HeE5XREk0TlU1SFl4QULgAQD6AQQIABBL!16s%2Fg%2F11qgyg2wcz?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+  },
+
+
+✅ Terminé!
+
+🏙️  Traitement de Nice...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Nice
+🌐 URL: https://www.google.com/maps/search/détatouage laser Nice
+
+Traceback (most recent call last):
+  File "/Users/leofortier/Downloads/Détatouage/detatouage/scripts/gmb_scraper.py", line 207, in <module>
+    businesses = scrape_gmb_businesses(args.city, args.query, args.max)
+  File "/Users/leofortier/Downloads/Détatouage/detatouage/scripts/gmb_scraper.py", line 46, in scrape_gmb_businesses
+    page.goto(google_maps_url)
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/sync_api/_generated.py", line 9050, in goto
+    self._sync(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+  File "/Users/leofortier/Library/Python/3.9/lib/python/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.google.com/maps/search/d%C3%A9tatouage%20laser%20Nice", waiting until "load"
+
+
+🏙️  Traitement de Nantes...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Nantes
+🌐 URL: https://www.google.com/maps/search/détatouage laser Nantes
+
+✅ 9 résultats trouvés
+
+📍 Entreprise 1/3
+   ❌ Erreur: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"] > div").first
+    - locator resolved to <div class="m6QErb XiKgde z7i0C ">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    58 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+
+📍 Entreprise 2/3
+   ✅ Données extraites
+
+📍 Entreprise 3/3
+   Adresse: 39 Bd Gabriel Guist'Hau, 44000 Nantes, France 
+   Téléphone: Numéro de téléphone: +33 2 59 45 02 06 
+   Site web: https://www.ray-studios.com/studios/detatouage-nantes
+   ✅ Données extraites
+
+💾 Données exportées vers: Nantes_results.json
+
+================================================================================
+📋 CODE À COPIER DANS data/businesses.ts :
+================================================================================
+
+  {
+    id: "nantes-2",
+    name: "Nom non disponible",
+    address: "Adresse non disponible",
+    city: "Nantes",
+    citySlug: "nantes",
+    postalCode: "00000",
+    phone: "None",
+    website: "None",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/search/d%C3%A9tatouage+laser+Nantes/@47.2158416,-1.5715796,12.73z?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+  },
+
+  {
+    id: "nantes-3",
+    name: "Nom non disponible",
+    address: "39 Bd Gabriel Guist'Hau, 44000 Nantes, France ",
+    city: "Nantes",
+    citySlug: "nantes",
+    postalCode: "44000",
+    phone: "Numéro de téléphone: +33 2 59 45 02 06 ",
+    website: "https://www.ray-studios.com/studios/detatouage-nantes",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/place/Ray+studios+Nantes+-+centre+de+d%C3%A9tatouage+laser/@47.2177354,-1.6559242,12z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Nantes!3m6!1s0x4805edbc37f223e7:0xb457c9d02cf1e037!8m2!3d47.2177354!4d-1.5691678!15sChhkw6l0YXRvdWFnZSBsYXNlciBOYW50ZXNaGiIYZMOpdGF0b3VhZ2UgbGFzZXIgbmFudGVzkgEWdGF0dG9vX3JlbW92YWxfc2VydmljZZoBRENpOURRVWxSUVVOdlpFTm9kSGxqUmpsdlQyczVlVk5ZYUhOU1JsVXlXbFU1VUZOWE1IZE9WMVpIWVd0amVWSXpZeEFC4AEA-gEECDMQRA!16s%2Fg%2F11vdrkrz89?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+  },
+
+
+✅ Terminé!
+
+🏙️  Traitement de Montpellier...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Montpellier
+🌐 URL: https://www.google.com/maps/search/détatouage laser Montpellier
+
+✅ 14 résultats trouvés
+
+📍 Entreprise 1/3
+   ❌ Erreur: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"feed\"] > div").first
+    - locator resolved to <div class="m6QErb XiKgde z7i0C ">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+
+📍 Entreprise 2/3
+   ✅ Données extraites
+
+📍 Entreprise 3/3
+   Adresse: 34 Bd du Jeu de Paume, 34000 Montpellier, France 
+   Téléphone: Numéro de téléphone: +33 9 51 81 57 63 
+   Site web: http://www.depilncare.fr/
+   ✅ Données extraites
+
+💾 Données exportées vers: Montpellier_results.json
+
+================================================================================
+📋 CODE À COPIER DANS data/businesses.ts :
+================================================================================
+
+  {
+    id: "montpellier-2",
+    name: "Nom non disponible",
+    address: "Adresse non disponible",
+    city: "Montpellier",
+    citySlug: "montpellier",
+    postalCode: "00000",
+    phone: "None",
+    website: "None",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/search/d%C3%A9tatouage+laser+Montpellier/@43.6379633,3.8619113,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+  },
+
+  {
+    id: "montpellier-3",
+    name: "Nom non disponible",
+    address: "34 Bd du Jeu de Paume, 34000 Montpellier, France ",
+    city: "Montpellier",
+    citySlug: "montpellier",
+    postalCode: "34000",
+    phone: "Numéro de téléphone: +33 9 51 81 57 63 ",
+    website: "http://www.depilncare.fr/",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/place/Depil+N'+Care/@43.606708,3.8034532,13z/data=!4m9!1m2!2m1!1sd%C3%A9tatouage+laser+Montpellier!3m5!1s0x12b6af624a5e2a5b:0x48c6b2ae9b7a5270!8m2!3d43.6067076!4d3.8755508!16s%2Fg%2F11n2w7rxwy?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+  },
+
+
+✅ Terminé!
+
+🏙️  Traitement de Strasbourg...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Strasbourg
+🌐 URL: https://www.google.com/maps/search/détatouage laser Strasbourg
+
+✅ 0 résultats trouvés
+
+
+❌ Aucune donnée récupérée
+
+🏙️  Traitement de Bordeaux...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Bordeaux
+🌐 URL: https://www.google.com/maps/search/détatouage laser Bordeaux
+
+✅ 9 résultats trouvés
+
+📍 Entreprise 1/3
+   Adresse: 23 Rue de la Course, 33000 Bordeaux, France 
+   Téléphone: Numéro de téléphone: +33 5 25 53 03 85 
+   Site web: https://www.ray-studios.com/studios/centre-de-detatouage-bordeaux
+   ✅ Données extraites
+
+📍 Entreprise 2/3
+   Adresse: 23 Rue de la Course, 33000 Bordeaux, France 
+   Téléphone: Numéro de téléphone: +33 5 25 53 03 85 
+   Site web: https://www.ray-studios.com/studios/centre-de-detatouage-bordeaux
+   ✅ Données extraites
+
+📍 Entreprise 3/3
+   Adresse: 290 Rue Pasteur, 33200 Bordeaux, France 
+   Téléphone: Numéro de téléphone: +33 5 56 98 88 53 
+   Site web: https://www.esthetique-laser.com/
+   ✅ Données extraites
+
+💾 Données exportées vers: Bordeaux_results.json
+
+================================================================================
+📋 CODE À COPIER DANS data/businesses.ts :
+================================================================================
+
+  {
+    id: "bordeaux-1",
+    name: "Nom non disponible",
+    address: "23 Rue de la Course, 33000 Bordeaux, France ",
+    city: "Bordeaux",
+    citySlug: "bordeaux",
+    postalCode: "33000",
+    phone: "Numéro de téléphone: +33 5 25 53 03 85 ",
+    website: "https://www.ray-studios.com/studios/centre-de-detatouage-bordeaux",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/place/Ray+studios+Bordeaux+-+centre+de+d%C3%A9tatouage+laser/@44.8481217,-0.5967598,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Bordeaux!3m6!1s0xd55292e8414eadb:0x91360320eb1a0de9!8m2!3d44.8515112!4d-0.575807!15sChpkw6l0YXRvdWFnZSBsYXNlciBCb3JkZWF1eFocIhpkw6l0YXRvdWFnZSBsYXNlciBib3JkZWF1eJIBFnRhdHRvb19yZW1vdmFsX3NlcnZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTjNNWEI2YkVKM0VBReABAPoBBAgAEEI!16s%2Fg%2F11vz9bszv6?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+  },
+
+  {
+    id: "bordeaux-2",
+    name: "Nom non disponible",
+    address: "23 Rue de la Course, 33000 Bordeaux, France ",
+    city: "Bordeaux",
+    citySlug: "bordeaux",
+    postalCode: "33000",
+    phone: "Numéro de téléphone: +33 5 25 53 03 85 ",
+    website: "https://www.ray-studios.com/studios/centre-de-detatouage-bordeaux",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/place/Ray+studios+Bordeaux+-+centre+de+d%C3%A9tatouage+laser/@44.8481217,-0.5967598,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Bordeaux!3m6!1s0xd55292e8414eadb:0x91360320eb1a0de9!8m2!3d44.8515112!4d-0.575807!15sChpkw6l0YXRvdWFnZSBsYXNlciBCb3JkZWF1eFocIhpkw6l0YXRvdWFnZSBsYXNlciBib3JkZWF1eJIBFnRhdHRvb19yZW1vdmFsX3NlcnZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTjNNWEI2YkVKM0VBReABAPoBBAgAEEI!16s%2Fg%2F11vz9bszv6?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+  },
+
+  {
+    id: "bordeaux-3",
+    name: "Nom non disponible",
+    address: "290 Rue Pasteur, 33200 Bordeaux, France ",
+    city: "Bordeaux",
+    citySlug: "bordeaux",
+    postalCode: "33200",
+    phone: "Numéro de téléphone: +33 5 56 98 88 53 ",
+    website: "https://www.esthetique-laser.com/",
+    rating: 0.0,
+    reviewCount: 0,
+    services: [
+      "Détatouage laser Q-Switched",
+      "Consultation gratuite",
+      "Devis personnalisé",
+    ],
+    description: "TODO: Lire les avis sur GMB et créer un résumé de 50-150 mots",
+    googleMapsUrl: "https://www.google.com/maps/place/Laser+Esth%C3%A9tique+Bel+Air/@44.846098,-0.6364184,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Bordeaux!3m6!1s0xd54d81f0548cb33:0x53faa298b8e0db9c!8m2!3d44.846098!4d-0.618394!15sChpkw6l0YXRvdWFnZSBsYXNlciBCb3JkZWF1eFocIhpkw6l0YXRvdWFnZSBsYXNlciBib3JkZWF1eJIBGmxhc2VyX2hhaXJfcmVtb3ZhbF9zZXJ2aWNlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJDZVhCeWJrbEJFQUXgAQD6AQQIABA_!16s%2Fg%2F1tff4bv6?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+  },
+
+
+✅ Terminé!
+
+🏙️  Traitement de Lille...
+🚀 GMB Scraper - Centres de détatouage
+================================================================================
+
+🔍 Recherche: détatouage laser Lille
+🌐 URL: https://www.google.com/maps/search/détatouage laser Lille
+
+✅ 0 résultats trouvés
+
+
+❌ Aucune donnée récupérée
+
+✅ Terminé !
+Les résultats sont dans *_results.json

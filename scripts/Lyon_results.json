@@ -1,0 +1,40 @@
+[
+  {
+    "id": "lyon-2",
+    "citySlug": "lyon",
+    "city": "Lyon",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "Adresse non disponible",
+    "phone": null,
+    "website": null,
+    "googleMapsUrl": "https://www.google.com/maps/search/d%C3%A9tatouage+laser+Lyon/@45.7649774,4.8395827,15z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "00000"
+  },
+  {
+    "id": "lyon-3",
+    "citySlug": "lyon",
+    "city": "Lyon",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "95 Av. Maréchal de Saxe, 69003 Lyon, France ",
+    "phone": "Numéro de téléphone: +33 4 28 29 80 07 ",
+    "website": "https://www.dermo-laser-lyon.fr/?utm_content=website_link&utm_medium=seo_local&utm_source=google_my_business",
+    "googleMapsUrl": "https://www.google.com/maps/place/Centre+Dermo+Laser+Lyon+-+Epilation+Laser+%26+D%C3%A9finitive+-+D%C3%A9tatouage/@45.759975,4.8278795,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Lyon!3m6!1s0x47f4eb094054579f:0x1445ea5e67f2979d!8m2!3d45.759975!4d4.8459039!15sChZkw6l0YXRvdWFnZSBsYXNlciBMeW9uWhgiFmTDqXRhdG91YWdlIGxhc2VyIGx5b26SARpsYXNlcl9oYWlyX3JlbW92YWxfc2VydmljZZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVObk5UUnhSRTlCRUFF4AEA-gEECAAQOw!16s%2Fg%2F11kcb811gc?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "69003"
+  }
+]

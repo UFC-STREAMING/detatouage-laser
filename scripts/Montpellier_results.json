@@ -1,0 +1,40 @@
+[
+  {
+    "id": "montpellier-2",
+    "citySlug": "montpellier",
+    "city": "Montpellier",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "Adresse non disponible",
+    "phone": null,
+    "website": null,
+    "googleMapsUrl": "https://www.google.com/maps/search/d%C3%A9tatouage+laser+Montpellier/@43.6379633,3.8619113,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "00000"
+  },
+  {
+    "id": "montpellier-3",
+    "citySlug": "montpellier",
+    "city": "Montpellier",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "34 Bd du Jeu de Paume, 34000 Montpellier, France ",
+    "phone": "Numéro de téléphone: +33 9 51 81 57 63 ",
+    "website": "http://www.depilncare.fr/",
+    "googleMapsUrl": "https://www.google.com/maps/place/Depil+N'+Care/@43.606708,3.8034532,13z/data=!4m9!1m2!2m1!1sd%C3%A9tatouage+laser+Montpellier!3m5!1s0x12b6af624a5e2a5b:0x48c6b2ae9b7a5270!8m2!3d43.6067076!4d3.8755508!16s%2Fg%2F11n2w7rxwy?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoASAFQAw%3D%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "34000"
+  }
+]

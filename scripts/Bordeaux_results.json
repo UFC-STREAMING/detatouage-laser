@@ -1,0 +1,59 @@
+[
+  {
+    "id": "bordeaux-1",
+    "citySlug": "bordeaux",
+    "city": "Bordeaux",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "23 Rue de la Course, 33000 Bordeaux, France ",
+    "phone": "Numéro de téléphone: +33 5 25 53 03 85 ",
+    "website": "https://www.ray-studios.com/studios/centre-de-detatouage-bordeaux",
+    "googleMapsUrl": "https://www.google.com/maps/place/Ray+studios+Bordeaux+-+centre+de+d%C3%A9tatouage+laser/@44.8481217,-0.5967598,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Bordeaux!3m6!1s0xd55292e8414eadb:0x91360320eb1a0de9!8m2!3d44.8515112!4d-0.575807!15sChpkw6l0YXRvdWFnZSBsYXNlciBCb3JkZWF1eFocIhpkw6l0YXRvdWFnZSBsYXNlciBib3JkZWF1eJIBFnRhdHRvb19yZW1vdmFsX3NlcnZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTjNNWEI2YkVKM0VBReABAPoBBAgAEEI!16s%2Fg%2F11vz9bszv6?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "33000"
+  },
+  {
+    "id": "bordeaux-2",
+    "citySlug": "bordeaux",
+    "city": "Bordeaux",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "23 Rue de la Course, 33000 Bordeaux, France ",
+    "phone": "Numéro de téléphone: +33 5 25 53 03 85 ",
+    "website": "https://www.ray-studios.com/studios/centre-de-detatouage-bordeaux",
+    "googleMapsUrl": "https://www.google.com/maps/place/Ray+studios+Bordeaux+-+centre+de+d%C3%A9tatouage+laser/@44.8481217,-0.5967598,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Bordeaux!3m6!1s0xd55292e8414eadb:0x91360320eb1a0de9!8m2!3d44.8515112!4d-0.575807!15sChpkw6l0YXRvdWFnZSBsYXNlciBCb3JkZWF1eFocIhpkw6l0YXRvdWFnZSBsYXNlciBib3JkZWF1eJIBFnRhdHRvb19yZW1vdmFsX3NlcnZpY2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTjNNWEI2YkVKM0VBReABAPoBBAgAEEI!16s%2Fg%2F11vz9bszv6?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "33000"
+  },
+  {
+    "id": "bordeaux-3",
+    "citySlug": "bordeaux",
+    "city": "Bordeaux",
+    "name": "Nom non disponible",
+    "rating": 0.0,
+    "reviewCount": 0,
+    "address": "290 Rue Pasteur, 33200 Bordeaux, France ",
+    "phone": "Numéro de téléphone: +33 5 56 98 88 53 ",
+    "website": "https://www.esthetique-laser.com/",
+    "googleMapsUrl": "https://www.google.com/maps/place/Laser+Esth%C3%A9tique+Bel+Air/@44.846098,-0.6364184,15z/data=!4m10!1m2!2m1!1sd%C3%A9tatouage+laser+Bordeaux!3m6!1s0xd54d81f0548cb33:0x53faa298b8e0db9c!8m2!3d44.846098!4d-0.618394!15sChpkw6l0YXRvdWFnZSBsYXNlciBCb3JkZWF1eFocIhpkw6l0YXRvdWFnZSBsYXNlciBib3JkZWF1eJIBGmxhc2VyX2hhaXJfcmVtb3ZhbF9zZXJ2aWNlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJDZVhCeWJrbEJFQUXgAQD6AQQIABA_!16s%2Fg%2F1tff4bv6?entry=ttu&g_ep=EgoyMDI2MDEyMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+    "services": [
+      "Détatouage laser",
+      "Consultation gratuite",
+      "Devis personnalisé"
+    ],
+    "description": "TODO: Lire les avis et créer un résumé condensé de 50-150 mots",
+    "postalCode": "33200"
+  }
+]

@@ -55,10 +55,9 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
   return (
     <section
       id="quote-form"
-      className="card my-16"
+      className="card my-8 md:my-16 p-4 sm:p-6 md:p-8 lg:p-12"
       style={{
         background: 'linear-gradient(135deg, var(--color-primary-lighter), var(--color-white))',
-        padding: 'var(--space-3xl)'
       }}
     >
       <div className="text-center mb-12">
