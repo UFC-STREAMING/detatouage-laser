@@ -182,7 +182,7 @@ export default async function DepartmentPage({ params }: Props) {
                   >
                     {city.name}
                   </span>
-                  <span className="ml-2 text-sm" style={{ color: 'var(--text-tertiary)' }}>
+                  <span className="text-sm" style={{ color: 'var(--text-tertiary)', marginLeft: '0.5rem' }}>
                     {city.postalCode}
                   </span>
                 </div>
