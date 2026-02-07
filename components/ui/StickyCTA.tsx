@@ -18,11 +18,10 @@ export function StickyCTA() {
       >
         <button
           onClick={scrollToForm}
-          className="w-full text-center px-10 py-5 rounded-full font-bold text-lg text-white transition-all duration-300 active:scale-95"
+          className="w-full text-center px-6 py-3 rounded-full font-bold text-sm text-white transition-all duration-300 active:scale-95"
           style={{
             background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))',
-            boxShadow: '0 8px 30px rgba(234, 107, 66, 0.4)',
-            minHeight: '60px'
+            boxShadow: '0 4px 15px rgba(234, 107, 66, 0.3)',
           }}
         >
           Devis Gratuit

@@ -96,7 +96,7 @@ export function Navbar() {
             {/* CTA Button */}
             <button
               onClick={scrollToForm}
-              className="px-10 py-4 rounded-full font-bold text-white text-base transition-all duration-200 hover:shadow-xl hover:scale-105"
+              className="px-8 py-3 rounded-full font-bold text-white text-sm transition-all duration-200 hover:shadow-xl hover:scale-105"
               style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
             >
               Devis Gratuit
@@ -151,8 +151,8 @@ export function Navbar() {
 
               <button
                 onClick={scrollToForm}
-                className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-bold text-white transition-all duration-200"
-                style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
+                className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-bold transition-all duration-200 border-2"
+                style={{ borderColor: 'var(--color-primary)', color: 'var(--color-primary)', background: 'transparent' }}
               >
                 <Phone className="w-5 h-5" />
                 Devis Gratuit

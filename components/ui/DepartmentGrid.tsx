@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { MapPin } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import { Department } from "@/types";
 
 interface DepartmentGridProps {
@@ -20,42 +20,89 @@ export function DepartmentGrid({ departments }: DepartmentGridProps) {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {departments.map((dept) => (
+        <div
+          className="rounded-2xl overflow-hidden"
+          style={{
+            border: '1px solid var(--color-border)',
+            background: 'var(--color-white)',
+          }}
+        >
+          {/* Table header - desktop only */}
+          <div
+            className="hidden md:grid grid-cols-12 items-center px-6 py-3"
+            style={{
+              background: 'var(--color-bg-alt)',
+              borderBottom: '1px solid var(--color-border)',
+            }}
+          >
+            <div className="col-span-1 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+              N°
+            </div>
+            <div className="col-span-5 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+              Département
+            </div>
+            <div className="col-span-3 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+              Villes couvertes
+            </div>
+            <div className="col-span-3"></div>
+          </div>
+
+          {/* Department rows */}
+          {departments.map((dept, index) => (
             <Link
               key={dept.slug}
               href={`/departement/${dept.slug}`}
-              className="card group"
+              className="grid grid-cols-1 md:grid-cols-12 items-center px-6 py-4 group transition-colors duration-150 hover:bg-[var(--color-primary-lighter)]"
               style={{
-                padding: 'var(--space-lg)',
-                transition: 'all var(--transition-base) var(--ease-smooth)',
+                borderBottom: index !== departments.length - 1 ? '1px solid var(--color-border-light, #f0f0f0)' : 'none',
               }}
             >
-              <div className="flex items-start justify-between mb-3">
-                <MapPin
-                  className="w-5 h-5 group-hover:scale-110 transition-transform"
-                  style={{ color: 'var(--color-primary)' }}
-                />
+              {/* Code département */}
+              <div className="md:col-span-1 mb-1 md:mb-0">
                 <span
-                  className="badge"
+                  className="inline-flex items-center justify-center w-10 h-10 rounded-lg font-bold text-sm"
                   style={{
-                    fontSize: 'var(--text-xs)',
                     background: 'var(--color-primary-lighter)',
-                    color: 'var(--color-primary-dark)',
+                    color: 'var(--color-primary)',
                   }}
                 >
                   {dept.number}
                 </span>
               </div>
-              <h3
-                className="font-semibold text-lg mb-2 group-hover:text-[var(--color-primary)] transition-colors"
-                style={{ color: 'var(--text-primary)' }}
-              >
-                {dept.name}
-              </h3>
-              <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>
-                {dept.cities.length} ville{dept.cities.length > 1 ? "s" : ""}
-              </p>
+
+              {/* Nom département */}
+              <div className="md:col-span-5 mb-1 md:mb-0">
+                <span
+                  className="font-semibold text-base group-hover:text-[var(--color-primary)] transition-colors"
+                  style={{ color: 'var(--text-primary)' }}
+                >
+                  {dept.name}
+                </span>
+              </div>
+
+              {/* Nombre de villes */}
+              <div className="md:col-span-3 mb-1 md:mb-0">
+                <span
+                  className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium"
+                  style={{
+                    background: 'var(--color-primary-lighter)',
+                    color: 'var(--color-primary-dark)',
+                  }}
+                >
+                  {dept.cities.length} ville{dept.cities.length > 1 ? "s" : ""}
+                </span>
+              </div>
+
+              {/* Arrow */}
+              <div className="md:col-span-3 hidden md:flex justify-end">
+                <span
+                  className="inline-flex items-center gap-1 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity"
+                  style={{ color: 'var(--color-primary)' }}
+                >
+                  Voir le département
+                  <ChevronRight className="w-4 h-4" />
+                </span>
+              </div>
             </Link>
           ))}
         </div>
