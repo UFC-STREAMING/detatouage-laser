@@ -98,43 +98,47 @@ export default async function DepartmentPage({ params }: Props) {
         ctaHref="#quote-form"
         height="medium"
       />
-      <div className="container mx-auto px-4 py-8">
-        <Breadcrumb items={[{ label: department.name }]} />
+      <div className="section bg-white">
+        <div className="container">
+          <Breadcrumb items={[{ label: department.name }]} />
 
-      <article>
-        <header className="mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-[#0077b6] mb-4">
-            Détatouage Laser {getDepartmentWithPreposition(department.name)} ({department.number})
-          </h1>
-          <p className="text-xl text-[#6c757d]">
-            Trouvez votre centre de détatouage laser parmi {department.cities.length} ville
-            {department.cities.length > 1 ? "s" : ""} du département
-          </p>
-        </header>
+          <article>
+            <header className="mb-12 text-center">
+              <h1
+                className="text-4xl md:text-5xl font-bold mb-4"
+                style={{ color: 'var(--color-primary)' }}
+              >
+                Détatouage Laser {getDepartmentWithPreposition(department.name)} ({department.number})
+              </h1>
+              <p className="text-xl" style={{ color: 'var(--text-secondary)' }}>
+                Trouvez votre centre de détatouage laser parmi {department.cities.length} ville
+                {department.cities.length > 1 ? "s" : ""} du département
+              </p>
+            </header>
 
-        <section className="prose prose-lg max-w-none mb-12">
-          <p className="text-lg leading-relaxed">
-            Vous cherchez un <strong>spécialiste du détatouage laser {getDepartmentWithPreposition(department.name)}</strong> ?
-            Notre réseau de centres utilise la technologie laser la plus avancée pour vous offrir un{" "}
-            <strong>retrait de tatouage efficace et sécurisé</strong> partout dans le département{" "}
-            {department.number}.
-          </p>
+            <section className="prose prose-lg max-w-none mb-12">
+              <p className="text-lg leading-relaxed">
+                Vous cherchez un <strong>spécialiste du détatouage laser {getDepartmentWithPreposition(department.name)}</strong> ?
+                Notre réseau de centres utilise la technologie laser la plus avancée pour vous offrir un{" "}
+                <strong>retrait de tatouage efficace et sécurisé</strong> partout dans le département{" "}
+                {department.number}.
+              </p>
 
-          <h2 className="text-2xl font-bold text-[#0077b6] mt-8 mb-4">
-            Nos centres de détatouage {getDepartmentWithPreposition(department.name)}
-          </h2>
-          <p>
-            Nous couvrons {department.cities.length} ville{department.cities.length > 1 ? "s" : ""} du
-            département {department.name} pour vous offrir un service de proximité. Quelle que soit
-            votre localisation, vous trouverez un centre équipé des technologies laser les plus
-            performantes.
-          </p>
-        </section>
+              <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: 'var(--color-primary)' }}>
+                Nos centres de détatouage {getDepartmentWithPreposition(department.name)}
+              </h2>
+              <p>
+                Nous couvrons {department.cities.length} ville{department.cities.length > 1 ? "s" : ""} du
+                département {department.name} pour vous offrir un service de proximité. Quelle que soit
+                votre localisation, vous trouverez un centre équipé des technologies laser les plus
+                performantes.
+              </p>
+            </section>
 
-        <section className="my-12">
-          <h2 className="text-2xl font-bold mb-6" style={{ color: 'var(--color-primary)' }}>
-            Sélectionnez votre ville
-          </h2>
+            <section className="my-12">
+              <h2 className="text-2xl font-bold mb-6" style={{ color: 'var(--color-primary)' }}>
+                Sélectionnez votre ville
+              </h2>
           <div
             className="rounded-2xl overflow-hidden"
             style={{ border: '1px solid var(--color-border)', background: 'var(--color-white)' }}
@@ -236,10 +240,10 @@ export default async function DepartmentPage({ params }: Props) {
           </div>
         </section>
 
-        <QuoteForm />
+            <QuoteForm />
 
-        {neighborDepartments.length > 0 && (
-          <section className="mt-12 pt-8">
+            {neighborDepartments.length > 0 && (
+              <section className="mt-12 pt-8">
             <h2 className="text-2xl font-bold mb-6" style={{ color: 'var(--color-primary)' }}>
               Départements voisins
             </h2>
@@ -315,8 +319,9 @@ export default async function DepartmentPage({ params }: Props) {
               })}
             </div>
           </section>
-        )}
-      </article>
+            )}
+          </article>
+        </div>
       </div>
     </>
   );

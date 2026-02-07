@@ -100,28 +100,32 @@ export default async function CityPage({ params }: Props) {
         ctaHref="#quote-form"
         height="medium"
       />
-      <div className="container mx-auto px-4 py-8">
-        <Breadcrumb
-          items={[
-            { label: city.department.name, href: `/departement/${city.department.slug}` },
-            { label: city.name },
-          ]}
-        />
+      <div className="section bg-white">
+        <div className="container">
+          <Breadcrumb
+            items={[
+              { label: city.department.name, href: `/departement/${city.department.slug}` },
+              { label: city.name },
+            ]}
+          />
 
-      <article>
-        <header className="mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-[#0077b6] mb-4">
-            Détatouage Laser à {city.name}
-          </h1>
-          <div className="flex flex-wrap items-center gap-4 text-[#6c757d]">
-            <div className="flex items-center gap-2">
-              <MapPin className="w-5 h-5 text-[#48cae4]" />
-              <span>
-                {city.name}, {city.department.name} ({city.department.number})
-              </span>
-            </div>
-          </div>
-        </header>
+          <article>
+            <header className="mb-12 text-center">
+              <h1
+                className="text-4xl md:text-5xl font-bold mb-4"
+                style={{ color: 'var(--color-primary)' }}
+              >
+                Détatouage Laser à {city.name}
+              </h1>
+              <div className="flex flex-wrap items-center justify-center gap-4" style={{ color: 'var(--text-secondary)' }}>
+                <div className="flex items-center gap-2">
+                  <MapPin className="w-5 h-5" style={{ color: 'var(--color-primary-light)' }} />
+                  <span>
+                    {city.name}, {city.department.name} ({city.department.number})
+                  </span>
+                </div>
+              </div>
+            </header>
 
         <section className="prose prose-lg max-w-none mb-12">
           <p className="text-lg leading-relaxed">
@@ -245,7 +249,8 @@ export default async function CityPage({ params }: Props) {
             </a>
           </div>
         </div>
-      </article>
+          </article>
+        </div>
       </div>
 
       {/* Section des entreprises locales */}
