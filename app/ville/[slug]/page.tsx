@@ -219,17 +219,17 @@ export default async function CityPage({ params }: Props) {
           </p>
         </section>
 
-        <div className="bg-gradient-to-r from-[#0077b6] to-[#48cae4] text-white rounded-lg p-8 my-12">
+        <div className="bg-gradient-to-br from-[#003d5c] via-[#0077b6] to-[#005f8a] rounded-2xl p-10 md:p-14 my-16 shadow-xl">
           <div className="text-center max-w-2xl mx-auto">
-            <h2 className="text-3xl font-bold mb-4">
+            <h2 className="text-3xl md:text-4xl font-bold mb-5 text-white drop-shadow-sm">
               Prêt à commencer votre détatouage à {city.name} ?
             </h2>
-            <p className="text-lg mb-6">
+            <p className="text-lg md:text-xl mb-8 text-white/90 leading-relaxed">
               Obtenez votre devis gratuit en 2 minutes et commencez votre transformation
             </p>
             <a
               href="#quote-form"
-              className="inline-block bg-white text-[#0077b6] px-8 py-4 rounded-lg font-semibold hover:bg-[#f8f9fa] transition text-lg"
+              className="inline-block bg-white text-[#0077b6] px-10 py-4 rounded-xl font-bold hover:bg-[#f0f7ff] hover:shadow-lg transition-all text-lg shadow-md"
             >
               Demander mon devis gratuit
             </a>

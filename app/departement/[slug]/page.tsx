@@ -156,21 +156,36 @@ export default async function DepartmentPage({ params }: Props) {
           </div>
         </section>
 
-        <section className="bg-gradient-to-r from-[#0077b6] to-[#48cae4] text-white rounded-lg p-8 my-12">
-          <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-3xl font-bold mb-4">
+        <section className="bg-gradient-to-br from-[#003d5c] via-[#0077b6] to-[#005f8a] rounded-2xl p-10 md:p-14 my-16 shadow-xl">
+          <div className="max-w-3xl mx-auto">
+            <h2 className="text-3xl md:text-4xl font-bold mb-5 text-white text-center drop-shadow-sm">
               Pourquoi choisir notre technologie laser ?
             </h2>
-            <p className="text-lg mb-6">
+            <p className="text-lg md:text-xl mb-8 text-white/90 text-center leading-relaxed">
               Dans le {department.name}, nos centres sont équipés de lasers Q-Switched de dernière
               génération pour un détatouage efficace et sécurisé.
             </p>
-            <ul className="text-left space-y-2 mb-6">
-              <li>✓ Technologie laser certifiée et sécurisée</li>
-              <li>✓ Protocole médical personnalisé</li>
-              <li>✓ Résultats visibles dès les premières séances</li>
-              <li>✓ Opérateurs qualifiés et expérimentés</li>
-              <li>✓ Consultation et devis gratuits</li>
+            <ul className="space-y-4 max-w-xl mx-auto">
+              <li className="flex items-center gap-3 text-white">
+                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
+                <span className="text-base md:text-lg">Technologie laser certifiée et sécurisée</span>
+              </li>
+              <li className="flex items-center gap-3 text-white">
+                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
+                <span className="text-base md:text-lg">Protocole médical personnalisé</span>
+              </li>
+              <li className="flex items-center gap-3 text-white">
+                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
+                <span className="text-base md:text-lg">Résultats visibles dès les premières séances</span>
+              </li>
+              <li className="flex items-center gap-3 text-white">
+                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
+                <span className="text-base md:text-lg">Opérateurs qualifiés et expérimentés</span>
+              </li>
+              <li className="flex items-center gap-3 text-white">
+                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
+                <span className="text-base md:text-lg">Consultation et devis gratuits</span>
+              </li>
             </ul>
           </div>
         </section>
