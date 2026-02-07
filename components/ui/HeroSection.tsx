@@ -99,12 +99,13 @@ export function HeroSection({
           {ctaText && ctaHref && (
             <button
               onClick={scrollToForm}
-              className="inline-flex items-center justify-center gap-3 px-8 sm:px-10 py-4 sm:py-5 rounded-full font-bold text-base sm:text-lg text-white transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95"
+              className="inline-flex items-center justify-center gap-3 px-8 sm:px-10 py-4 sm:py-5 rounded-full font-bold text-base sm:text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95"
               style={{
                 background: "linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))",
                 boxShadow: "0 8px 30px rgba(234, 107, 66, 0.5)",
-                minHeight: "56px", // Thumb-accessible minimum
-                minWidth: "280px",  // Mobile-friendly width
+                minHeight: "56px",
+                minWidth: "280px",
+                color: "#ffffff",
               }}
             >
               <Phone className="w-5 h-5 sm:w-6 sm:h-6" />

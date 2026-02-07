@@ -9,7 +9,7 @@ import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { getNeighborDepartments } from "@/data/department-neighbors";
 import { getDepartmentWithPreposition } from "@/lib/utils/department-articles";
 import Link from "next/link";
-import { MapPin } from "lucide-react";
+import { MapPin, ChevronRight } from "lucide-react";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -132,60 +132,106 @@ export default async function DepartmentPage({ params }: Props) {
         </section>
 
         <section className="my-12">
-          <h2 className="text-2xl font-bold text-[#0077b6] mb-6">
+          <h2 className="text-2xl font-bold mb-6" style={{ color: 'var(--color-primary)' }}>
             Sélectionnez votre ville
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-            {sortedCities.map((city) => (
+          <div
+            className="rounded-2xl overflow-hidden"
+            style={{ border: '1px solid var(--color-border)', background: 'var(--color-white)' }}
+          >
+            {/* Table header - desktop */}
+            <div
+              className="hidden md:grid grid-cols-12 items-center px-6 py-3"
+              style={{ background: 'var(--color-bg-alt)', borderBottom: '1px solid var(--color-border)' }}
+            >
+              <div className="col-span-1 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+                CP
+              </div>
+              <div className="col-span-8 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+                Ville
+              </div>
+              <div className="col-span-3"></div>
+            </div>
+
+            {/* City rows */}
+            {sortedCities.map((city, index) => (
               <Link
                 key={city.id}
                 href={`/ville/${city.slug}`}
-                className="group bg-white border-2 border-[#e9ecef] hover:border-[#48cae4] rounded-lg p-5 transition-all hover:shadow-lg"
+                className="grid grid-cols-1 md:grid-cols-12 items-center px-6 py-4 group transition-colors duration-150 hover:bg-[var(--color-primary-lighter)]"
+                style={{
+                  borderBottom: index !== sortedCities.length - 1 ? '1px solid var(--color-border-light, #f0f0f0)' : 'none',
+                }}
               >
-                <div className="flex items-center gap-3 mb-2">
-                  <MapPin className="w-5 h-5 text-[#48cae4] group-hover:scale-110 transition-transform flex-shrink-0" />
-                  <h3 className="font-bold text-lg text-[#0077b6] group-hover:text-[#48cae4] transition">
-                    {city.name}
-                  </h3>
+                <div className="md:col-span-1 mb-1 md:mb-0">
+                  <span
+                    className="inline-flex items-center justify-center w-10 h-10 rounded-lg font-bold text-sm"
+                    style={{ background: 'var(--color-primary-lighter)', color: 'var(--color-primary)' }}
+                  >
+                    {city.postalCode.slice(0, 2)}
+                  </span>
                 </div>
-                <p className="text-sm text-[#6c757d]">
-                  Code postal: {city.postalCode}
-                </p>
+                <div className="md:col-span-8 mb-1 md:mb-0">
+                  <span
+                    className="font-semibold text-base group-hover:text-[var(--color-primary)] transition-colors"
+                    style={{ color: 'var(--text-primary)' }}
+                  >
+                    {city.name}
+                  </span>
+                  <span className="ml-2 text-sm" style={{ color: 'var(--text-tertiary)' }}>
+                    {city.postalCode}
+                  </span>
+                </div>
+                <div className="md:col-span-3 hidden md:flex justify-end">
+                  <span
+                    className="inline-flex items-center gap-1 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity"
+                    style={{ color: 'var(--color-primary)' }}
+                  >
+                    Voir la ville
+                    <ChevronRight className="w-4 h-4" />
+                  </span>
+                </div>
               </Link>
             ))}
           </div>
         </section>
 
-        <section className="bg-gradient-to-br from-[#003d5c] via-[#0077b6] to-[#005f8a] rounded-2xl p-10 md:p-14 my-16 shadow-xl">
+        <section
+          className="rounded-2xl p-10 md:p-14 my-16 shadow-xl"
+          style={{ background: 'linear-gradient(135deg, #003d5c 0%, #0077b6 50%, #005f8a 100%)' }}
+        >
           <div className="max-w-3xl mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold mb-5 text-white text-center drop-shadow-sm">
+            <h2
+              className="text-3xl md:text-4xl font-bold mb-6 text-center"
+              style={{ color: '#ffffff', textShadow: '0 2px 8px rgba(0,0,0,0.2)' }}
+            >
               Pourquoi choisir notre technologie laser ?
             </h2>
-            <p className="text-lg md:text-xl mb-8 text-white/90 text-center leading-relaxed">
+            <p
+              className="text-lg md:text-xl mb-10 text-center leading-relaxed"
+              style={{ color: 'rgba(255,255,255,0.92)' }}
+            >
               Dans le {department.name}, nos centres sont équipés de lasers Q-Switched de dernière
               génération pour un détatouage efficace et sécurisé.
             </p>
-            <ul className="space-y-4 max-w-xl mx-auto">
-              <li className="flex items-center gap-3 text-white">
-                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
-                <span className="text-base md:text-lg">Technologie laser certifiée et sécurisée</span>
-              </li>
-              <li className="flex items-center gap-3 text-white">
-                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
-                <span className="text-base md:text-lg">Protocole médical personnalisé</span>
-              </li>
-              <li className="flex items-center gap-3 text-white">
-                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
-                <span className="text-base md:text-lg">Résultats visibles dès les premières séances</span>
-              </li>
-              <li className="flex items-center gap-3 text-white">
-                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
-                <span className="text-base md:text-lg">Opérateurs qualifiés et expérimentés</span>
-              </li>
-              <li className="flex items-center gap-3 text-white">
-                <span className="flex-shrink-0 w-7 h-7 bg-white/20 rounded-full flex items-center justify-center text-sm font-bold">✓</span>
-                <span className="text-base md:text-lg">Consultation et devis gratuits</span>
-              </li>
+            <ul className="space-y-5 max-w-xl mx-auto">
+              {[
+                "Technologie laser certifiée et sécurisée",
+                "Protocole médical personnalisé",
+                "Résultats visibles dès les premières séances",
+                "Opérateurs qualifiés et expérimentés",
+                "Consultation et devis gratuits",
+              ].map((item, i) => (
+                <li key={i} className="flex items-center gap-4">
+                  <span
+                    className="flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold"
+                    style={{ background: 'rgba(255,255,255,0.2)', color: '#ffffff' }}
+                  >
+                    ✓
+                  </span>
+                  <span className="text-base md:text-lg" style={{ color: '#ffffff' }}>{item}</span>
+                </li>
+              ))}
             </ul>
           </div>
         </section>
@@ -193,30 +239,76 @@ export default async function DepartmentPage({ params }: Props) {
         <QuoteForm />
 
         {neighborDepartments.length > 0 && (
-          <section className="mt-12 pt-8 border-t-2 border-[#e9ecef]">
-            <h2 className="text-2xl font-bold text-[#0077b6] mb-6">
+          <section className="mt-12 pt-8">
+            <h2 className="text-2xl font-bold mb-6" style={{ color: 'var(--color-primary)' }}>
               Départements voisins
             </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-              {neighborDepartments.map((neighborNumber) => {
+            <div
+              className="rounded-2xl overflow-hidden"
+              style={{ border: '1px solid var(--color-border)', background: 'var(--color-white)' }}
+            >
+              {/* Table header - desktop */}
+              <div
+                className="hidden md:grid grid-cols-12 items-center px-6 py-3"
+                style={{ background: 'var(--color-bg-alt)', borderBottom: '1px solid var(--color-border)' }}
+              >
+                <div className="col-span-1 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+                  N°
+                </div>
+                <div className="col-span-5 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+                  Département
+                </div>
+                <div className="col-span-3 text-xs font-semibold uppercase tracking-wider" style={{ color: 'var(--text-tertiary)' }}>
+                  Villes couvertes
+                </div>
+                <div className="col-span-3"></div>
+              </div>
+
+              {/* Department rows */}
+              {neighborDepartments.map((neighborNumber, index) => {
                 const neighborDept = allDepartments.find(d => d.number === neighborNumber);
                 if (!neighborDept) return null;
                 return (
                   <Link
                     key={neighborDept.number}
                     href={`/departement/${neighborDept.slug}`}
-                    className="group bg-white border-2 border-[#e9ecef] hover:border-[#48cae4] rounded-lg p-4 transition-all hover:shadow-lg"
+                    className="grid grid-cols-1 md:grid-cols-12 items-center px-6 py-4 group transition-colors duration-150 hover:bg-[var(--color-primary-lighter)]"
+                    style={{
+                      borderBottom: index !== neighborDepartments.length - 1 ? '1px solid var(--color-border-light, #f0f0f0)' : 'none',
+                    }}
                   >
-                    <div className="flex items-center gap-3">
-                      <MapPin className="w-5 h-5 text-[#48cae4] group-hover:scale-110 transition-transform flex-shrink-0" />
-                      <div>
-                        <h3 className="font-bold text-[#0077b6] group-hover:text-[#48cae4] transition">
-                          {neighborDept.name}
-                        </h3>
-                        <p className="text-sm text-[#6c757d]">
-                          Département {neighborDept.number}
-                        </p>
-                      </div>
+                    <div className="md:col-span-1 mb-1 md:mb-0">
+                      <span
+                        className="inline-flex items-center justify-center w-10 h-10 rounded-lg font-bold text-sm"
+                        style={{ background: 'var(--color-primary-lighter)', color: 'var(--color-primary)' }}
+                      >
+                        {neighborDept.number}
+                      </span>
+                    </div>
+                    <div className="md:col-span-5 mb-1 md:mb-0">
+                      <span
+                        className="font-semibold text-base group-hover:text-[var(--color-primary)] transition-colors"
+                        style={{ color: 'var(--text-primary)' }}
+                      >
+                        {neighborDept.name}
+                      </span>
+                    </div>
+                    <div className="md:col-span-3 mb-1 md:mb-0">
+                      <span
+                        className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium"
+                        style={{ background: 'var(--color-primary-lighter)', color: 'var(--color-primary-dark)' }}
+                      >
+                        {neighborDept.cities.length} ville{neighborDept.cities.length > 1 ? "s" : ""}
+                      </span>
+                    </div>
+                    <div className="md:col-span-3 hidden md:flex justify-end">
+                      <span
+                        className="inline-flex items-center gap-1 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity"
+                        style={{ color: 'var(--color-primary)' }}
+                      >
+                        Voir le département
+                        <ChevronRight className="w-4 h-4" />
+                      </span>
                     </div>
                   </Link>
                 );
