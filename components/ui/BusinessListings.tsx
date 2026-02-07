@@ -47,7 +47,7 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
                 <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full mb-4"
                      style={{
                        background: 'linear-gradient(135deg, #0077b6, #0096c7)',
-                       color: 'white'
+                       color: '#ffffff'
                      }}>
                   <span className="text-lg">🏆</span>
                   <span className="text-sm font-bold">Meilleur choix</span>
@@ -153,7 +153,7 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
                     className="block text-center px-6 py-4 rounded-lg font-bold transition-all duration-200 hover:shadow-xl hover:scale-105"
                     style={{
                       background: 'linear-gradient(135deg, #0077b6 0%, #0096c7 100%)',
-                      color: 'white'
+                      color: '#ffffff'
                     }}
                   >
                     Obtenir un devis gratuit
@@ -188,7 +188,7 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
             className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg transition-all duration-200 hover:shadow-xl hover:scale-105"
             style={{
               background: 'linear-gradient(135deg, #0077b6 0%, #0096c7 100%)',
-              color: 'white'
+              color: '#ffffff'
             }}
           >
             Comparer les devis gratuitement

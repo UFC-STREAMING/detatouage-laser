@@ -289,15 +289,8 @@ li:last-child {
 }
 
 @media (min-width: 1024px) {
-  .section {
-    text-align: center;
-  }
-
-  .section .container > * {
-    text-align: left;
-  }
-
-  .section .text-center {
+  .section .text-center,
+  .section .text-center * {
     text-align: center;
   }
 }
