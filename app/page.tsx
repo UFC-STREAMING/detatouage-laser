@@ -8,7 +8,7 @@ import { getAllDepartments } from "@/data/cities";
 import { Sparkles, Shield, Clock, Award, Zap, Heart, ChevronDown } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Détatouage Laser en France : Spécialistes Certifiés | Tatouage Temporaire",
+  title: "Détatouage Laser en France : Spécialistes Certifiés | Détatouage Laser",
   description:
     "Centre de détatouage laser certifié en France. Technologie Q-Switched pour un retrait efficace et sécurisé. Devis gratuit partout en France.",
   alternates: {

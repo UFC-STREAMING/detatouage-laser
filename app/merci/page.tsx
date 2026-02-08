@@ -15,26 +15,26 @@ export default function ThankYouPage() {
   return (
     <div className="container mx-auto px-4 py-16">
       <div className="max-w-2xl mx-auto text-center">
-        <div className="bg-[#48cae4]/10 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-8">
-          <CheckCircle2 className="w-16 h-16 text-[#48cae4]" />
+        <div className="w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-8" style={{ background: 'var(--color-primary-lighter)' }}>
+          <CheckCircle2 className="w-16 h-16" style={{ color: 'var(--color-primary-light)' }} />
         </div>
 
-        <h1 className="text-4xl font-bold text-[#0077b6] mb-4">
+        <h1 className="text-4xl font-bold mb-4" style={{ color: 'var(--color-primary)' }}>
           Merci pour votre demande !
         </h1>
 
         <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
-          <p className="text-lg text-[#6c757d] mb-6">
+          <p className="text-lg mb-6" style={{ color: 'var(--text-secondary)' }}>
             Nous avons bien reçu votre demande de devis pour le détatouage laser.
           </p>
 
-          <div className="bg-[#f8f9fa] rounded-lg p-6 mb-6">
-            <h2 className="font-semibold text-lg text-[#0077b6] mb-3">
+          <div className="rounded-lg p-6 mb-6" style={{ background: 'var(--bg-secondary)' }}>
+            <h2 className="font-semibold text-lg mb-3" style={{ color: 'var(--color-primary)' }}>
               Que se passe-t-il maintenant ?
             </h2>
-            <ul className="text-left space-y-3 text-[#6c757d]">
+            <ul className="text-left space-y-3" style={{ color: 'var(--text-secondary)' }}>
               <li className="flex items-start gap-3">
-                <span className="bg-[#0077b6] text-white w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-sm font-bold">
+                <span className="text-white w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-sm font-bold" style={{ background: 'var(--color-primary)' }}>
                   1
                 </span>
                 <span>
@@ -42,7 +42,7 @@ export default function ThankYouPage() {
                 </span>
               </li>
               <li className="flex items-start gap-3">
-                <span className="bg-[#0077b6] text-white w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-sm font-bold">
+                <span className="text-white w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-sm font-bold" style={{ background: 'var(--color-primary)' }}>
                   2
                 </span>
                 <span>
@@ -50,7 +50,7 @@ export default function ThankYouPage() {
                 </span>
               </li>
               <li className="flex items-start gap-3">
-                <span className="bg-[#0077b6] text-white w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-sm font-bold">
+                <span className="text-white w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 text-sm font-bold" style={{ background: 'var(--color-primary)' }}>
                   3
                 </span>
                 <span>
@@ -60,8 +60,8 @@ export default function ThankYouPage() {
             </ul>
           </div>
 
-          <div className="border-t border-[#e9ecef] pt-6">
-            <p className="text-[#6c757d]">
+          <div className="pt-6" style={{ borderTop: '1px solid var(--color-grey-200)' }}>
+            <p style={{ color: 'var(--text-secondary)' }}>
               Nous vous répondrons dans les plus brefs délais par email.
             </p>
           </div>
@@ -70,14 +70,15 @@ export default function ThankYouPage() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link
             href="/"
-            className="inline-flex items-center gap-2 bg-[#48cae4] text-white px-6 py-3 rounded-lg font-semibold hover:bg-[#00b4d8] transition"
+            className="inline-flex items-center gap-2 text-white px-6 py-3 rounded-lg font-semibold transition hover:opacity-90"
+            style={{ background: 'var(--color-primary-light)' }}
           >
             <Home className="w-5 h-5" />
             Retour à l'accueil
           </Link>
         </div>
 
-        <p className="text-sm text-[#6c757d] mt-8">
+        <p className="text-sm mt-8" style={{ color: 'var(--text-secondary)' }}>
           Un email de confirmation a été envoyé à l'adresse que vous avez fournie.
         </p>
       </div>

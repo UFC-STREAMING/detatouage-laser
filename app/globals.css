@@ -1,14 +1,14 @@
 @import "tailwindcss";
 
 /* ============================================
-   SYSTÈME DE DESIGN - TATOUAGE TEMPORAIRE
+   SYSTÈME DE DESIGN - DÉTATOUAGE LASER FRANCE
    Identité visuelle professionnelle détatouage laser
    Inspiré de: Ray Studios, CLIPP, InkOff
    ============================================ */
 
 :root {
   /* ============ COULEURS PRIMAIRES ============ */
-  /* Bleu - Identité principale Tatouage Permanent France */
+  /* Bleu - Identité principale Détatouage Laser France */
   --color-primary: #0167CC;
   --color-primary-light: #3D8FDB;
   --color-primary-dark: #014FA3;

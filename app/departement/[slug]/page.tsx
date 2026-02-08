@@ -202,7 +202,7 @@ export default async function DepartmentPage({ params }: Props) {
 
         <section
           className="rounded-2xl p-10 md:p-14 my-16 shadow-xl"
-          style={{ background: 'linear-gradient(135deg, #003d5c 0%, #0077b6 50%, #005f8a 100%)' }}
+          style={{ background: 'linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 50%, var(--color-primary-dark) 100%)' }}
         >
           <div className="max-w-3xl mx-auto">
             <h2

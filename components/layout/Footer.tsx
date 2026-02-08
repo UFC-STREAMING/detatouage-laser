@@ -22,7 +22,7 @@ export function Footer() {
             <Link href="/" className="inline-block mb-6">
               <Image
                 src="/images/logo.png"
-                alt="Logo Tatouage Permanent France"
+                alt="Logo Détatouage Laser France"
                 width={180}
                 height={50}
                 className="h-10 w-auto object-contain"
@@ -175,7 +175,7 @@ export function Footer() {
           }}
         >
           <p>
-            &copy; {currentYear} Tatouage Permanent France - Détatouage Laser. Tous droits réservés.
+            &copy; {currentYear} Détatouage Laser France. Tous droits réservés.
           </p>
         </div>
       </div>

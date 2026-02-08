@@ -27,44 +27,44 @@ export default function Resultats1SeancePage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl font-bold text-center text-[#0077b6] mb-8">
+            <h2 className="text-3xl font-bold text-center text-[var(--color-primary)] mb-8">
               Qu'est-ce que le "Frosting" ?
             </h2>
 
-            <div className="bg-[#f8f9fa] p-8 rounded-lg mb-8">
-              <p className="text-lg text-[#6c757d] leading-relaxed mb-4">
+            <div className="bg-[var(--bg-secondary)] p-8 rounded-lg mb-8">
+              <p className="text-lg text-[var(--text-secondary)] leading-relaxed mb-4">
                 Le <strong>"frosting"</strong> (effet givre) est une réaction immédiate et normale après une séance de détatouage laser. 
                 Il s'agit d'un <strong>blanchiment temporaire de la peau</strong> qui apparaît dans les secondes suivant le traitement.
               </p>
-              <p className="text-lg text-[#6c757d] leading-relaxed">
+              <p className="text-lg text-[var(--text-secondary)] leading-relaxed">
                 Cet effet est causé par la libération de gaz et de vapeur d'eau lorsque le laser fragmente les pigments d'encre. 
                 C'est un <strong>signe positif</strong> que le traitement fonctionne !
               </p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
-              <div className="bg-white border-2 border-[#e9ecef] p-6 rounded-lg">
-                <h3 className="font-semibold text-lg mb-3 text-[#0077b6]">
+              <div className="bg-white border-2 border-[var(--color-grey-200)] p-6 rounded-lg">
+                <h3 className="font-semibold text-lg mb-3 text-[var(--color-primary)]">
                   ⏱️ Durée du frosting
                 </h3>
-                <p className="text-[#6c757d]">
+                <p className="text-[var(--text-secondary)]">
                   L'effet blanc disparaît généralement après <strong>10 à 30 minutes</strong>. 
                   La peau retrouve ensuite une couleur rosée normale.
                 </p>
               </div>
 
-              <div className="bg-white border-2 border-[#e9ecef] p-6 rounded-lg">
-                <h3 className="font-semibold text-lg mb-3 text-[#0077b6]">
+              <div className="bg-white border-2 border-[var(--color-grey-200)] p-6 rounded-lg">
+                <h3 className="font-semibold text-lg mb-3 text-[var(--color-primary)]">
                   🎯 Signification
                 </h3>
-                <p className="text-[#6c757d]">
+                <p className="text-[var(--text-secondary)]">
                   Le frosting indique que le laser a bien <strong>ciblé et fragmenté l'encre</strong>. 
                   Plus il est prononcé, plus le traitement est efficace.
                 </p>
               </div>
             </div>
 
-            <div className="bg-gradient-to-r from-[#0077b6] to-[#48cae4] text-white p-8 rounded-lg text-center mb-12">
+            <div className="bg-gradient-to-r from-[var(--color-primary)] to-[var(--color-primary-light)] text-white p-8 rounded-lg text-center mb-12">
               <h3 className="text-2xl font-bold mb-4">
                 Que se passe-t-il après le frosting ?
               </h3>

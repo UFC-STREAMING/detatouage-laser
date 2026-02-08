@@ -46,7 +46,7 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
               {index === 0 && (
                 <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full mb-4"
                      style={{
-                       background: 'linear-gradient(135deg, #0077b6, #0096c7)',
+                       background: 'linear-gradient(135deg, var(--color-primary), var(--color-primary-light))',
                        color: '#ffffff'
                      }}>
                   <span className="text-lg">🏆</span>

@@ -51,7 +51,7 @@ export function Navbar() {
             <div className="relative flex-shrink-0">
               <Image
                 src="/images/logo.png"
-                alt="Logo Tatouage Permanent France"
+                alt="Logo Détatouage Laser France"
                 width={180}
                 height={50}
                 className="h-10 sm:h-12 w-auto object-contain transition-transform group-hover:scale-[1.02]"

@@ -139,7 +139,7 @@ export default async function CityPage({ params }: Props) {
             {city.department.name} ({city.department.number}).
           </p>
 
-          <h2 className="text-2xl font-bold text-[#0077b6] mt-8 mb-4">
+          <h2 className="text-2xl font-bold text-[var(--color-primary)] mt-8 mb-4">
             Pourquoi choisir notre centre de détatouage à {city.name} ?
           </h2>
           <p>
@@ -149,8 +149,8 @@ export default async function CityPage({ params }: Props) {
             les pigments d'encre de manière ciblée.
           </p>
 
-          <div className="bg-[#48cae4]/10 border-l-4 border-[#48cae4] p-6 my-8 rounded">
-            <h3 className="text-xl font-bold text-[#0077b6] mb-3">
+          <div className="bg-[var(--color-primary-lighter)] border-l-4 border-[var(--color-primary-light)] p-6 my-8 rounded">
+            <h3 className="text-xl font-bold text-[var(--color-primary)] mb-3">
               🎯 Les avantages de notre technologie laser
             </h3>
             <ul className="space-y-2 mb-0">
@@ -162,7 +162,7 @@ export default async function CityPage({ params }: Props) {
             </ul>
           </div>
 
-          <h2 className="text-2xl font-bold text-[#0077b6] mt-8 mb-4">
+          <h2 className="text-2xl font-bold text-[var(--color-primary)] mt-8 mb-4">
             Déroulement du détatouage laser à {city.name}
           </h2>
           <p>
@@ -172,7 +172,7 @@ export default async function CityPage({ params }: Props) {
             traitée.
           </p>
 
-          <h3 className="text-xl font-semibold text-[#0077b6] mt-6 mb-3">
+          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
             Les étapes de votre traitement
           </h3>
           <ol className="list-decimal list-inside space-y-3">
@@ -194,11 +194,11 @@ export default async function CityPage({ params }: Props) {
             </li>
           </ol>
 
-          <h2 className="text-2xl font-bold text-[#0077b6] mt-8 mb-4">
+          <h2 className="text-2xl font-bold text-[var(--color-primary)] mt-8 mb-4">
             Questions fréquentes sur le détatouage à {city.name}
           </h2>
 
-          <h3 className="text-xl font-semibold text-[#0077b6] mt-6 mb-3">
+          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
             Combien coûte un détatouage laser à {city.name} ?
           </h3>
           <p>
@@ -208,7 +208,7 @@ export default async function CityPage({ params }: Props) {
             votre projet de détatouage à {city.name}.
           </p>
 
-          <h3 className="text-xl font-semibold text-[#0077b6] mt-6 mb-3">
+          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
             Le détatouage laser est-il douloureux ?
           </h3>
           <p>
@@ -217,7 +217,7 @@ export default async function CityPage({ params }: Props) {
             minimiser l'inconfort pendant le traitement.
           </p>
 
-          <h3 className="text-xl font-semibold text-[#0077b6] mt-6 mb-3">
+          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
             Combien de séances sont nécessaires ?
           </h3>
           <p>
@@ -229,7 +229,7 @@ export default async function CityPage({ params }: Props) {
 
         <div
           className="rounded-2xl p-10 md:p-14 my-16 shadow-xl"
-          style={{ background: 'linear-gradient(135deg, #003d5c 0%, #0077b6 50%, #005f8a 100%)' }}
+          style={{ background: 'linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 50%, var(--color-primary-dark) 100%)' }}
         >
           <div className="text-center max-w-2xl mx-auto">
             <h2
