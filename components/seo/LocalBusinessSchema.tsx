@@ -23,7 +23,6 @@ export function LocalBusinessSchema({
     "image": "https://www.tatouage-temporaire.fr/logo.png",
     "description": `Centre spécialisé en détatouage laser à ${city} (${department}). Technologie Q-Switched de dernière génération pour un retrait efficace et sécurisé de vos tatouages.`,
     "url": `https://www.tatouage-temporaire.fr/ville/${city.toLowerCase().replace(/\s+/g, '-')}`,
-    "telephone": "+33-1-XX-XX-XX-XX", // TODO: Remplacer par vrai numéro
     "email": "contact@tatouage-temporaire.fr",
     "priceRange": "€€",
     "address": {
@@ -106,11 +105,7 @@ export function LocalBusinessSchema({
     ],
     "paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
     "currenciesAccepted": "EUR",
-    "sameAs": [
-      // TODO: Ajouter liens réseaux sociaux si disponibles
-      // "https://www.facebook.com/votrecompte",
-      // "https://www.instagram.com/votrecompte"
-    ]
+    "sameAs": []
   };
 
   return (

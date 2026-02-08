@@ -71,8 +71,8 @@ export function HeroSection({
             ✨ Technologie de pointe
           </span>
 
-          {/* Titre principal - responsive avec breakpoints clairs */}
-          <h1
+          {/* Titre principal - styled as heading but using <p> to avoid duplicate H1 with page article */}
+          <p
             className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6 leading-tight"
             style={{
               color: "white",
@@ -80,7 +80,7 @@ export function HeroSection({
             }}
           >
             {title}
-          </h1>
+          </p>
 
           {/* Sous-titre avec meilleure lisibilité */}
           {subtitle && (
