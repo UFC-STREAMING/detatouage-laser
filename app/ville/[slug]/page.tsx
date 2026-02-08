@@ -128,6 +128,9 @@ export default async function CityPage({ params }: Props) {
               </div>
             </header>
 
+            {/* Formulaire de devis - Above the Fold */}
+            <QuoteForm initialPostalCode={city.postalCode} />
+
         <section className="prose prose-lg max-w-none mb-12">
           <p className="text-lg leading-relaxed">
             Vous recherchez un <strong>spécialiste du détatouage laser à {city.name}</strong> ?
@@ -256,13 +259,6 @@ export default async function CityPage({ params }: Props) {
 
       {/* Section des entreprises locales */}
       <BusinessListings businesses={cityBusinesses} cityName={city.name} />
-
-      {/* Formulaire de devis */}
-      <div className="section bg-white">
-        <div className="container">
-          <QuoteForm initialPostalCode={city.postalCode} />
-        </div>
-      </div>
 
       {/* Villes à proximité */}
       {proximityCities.length > 0 && (
