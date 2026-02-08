@@ -15,14 +15,17 @@ export function LocalBusinessSchema({
   latitude,
   longitude,
 }: LocalBusinessSchemaProps) {
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr";
+  const citySlug = city.toLowerCase().replace(/\s+/g, '-');
+
   const schema = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "@id": `https://www.tatouage-temporaire.fr/ville/${city.toLowerCase().replace(/\s+/g, '-')}#business`,
+    "@id": `${baseUrl}/ville/${citySlug}#business`,
     "name": `Détatouage Laser ${city}`,
-    "image": "https://www.tatouage-temporaire.fr/logo.png",
+    "image": `${baseUrl}/logo.png`,
     "description": `Centre spécialisé en détatouage laser à ${city} (${department}). Technologie Q-Switched de dernière génération pour un retrait efficace et sécurisé de vos tatouages.`,
-    "url": `https://www.tatouage-temporaire.fr/ville/${city.toLowerCase().replace(/\s+/g, '-')}`,
+    "url": `${baseUrl}/ville/${citySlug}`,
     "email": "contact@tatouage-temporaire.fr",
     "priceRange": "€€",
     "address": {

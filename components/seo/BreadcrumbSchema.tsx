@@ -8,6 +8,8 @@ interface BreadcrumbSchemaProps {
 }
 
 export function BreadcrumbSchema({ items }: BreadcrumbSchemaProps) {
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr";
+
   const schema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -15,7 +17,7 @@ export function BreadcrumbSchema({ items }: BreadcrumbSchemaProps) {
       "@type": "ListItem",
       "position": index + 1,
       "name": item.name,
-      "item": `https://www.tatouage-temporaire.fr${item.url}`
+      "item": `${baseUrl}${item.url}`
     }))
   };
 

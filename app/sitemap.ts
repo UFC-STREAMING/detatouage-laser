@@ -30,5 +30,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
-  return [homepage, ...cityPages, ...departmentPages];
+  // Static content pages
+  const staticPages = [
+    { url: `${baseUrl}/prix`, priority: 0.9 },
+    { url: `${baseUrl}/avant-apres`, priority: 0.8 },
+    { url: `${baseUrl}/resultats-1-seance`, priority: 0.7 },
+    { url: `${baseUrl}/mentions-legales`, priority: 0.3 },
+    { url: `${baseUrl}/politique-confidentialite`, priority: 0.3 },
+  ].map((page) => ({
+    ...page,
+    lastModified: currentDate,
+    changeFrequency: "monthly" as const,
+  }));
+
+  return [homepage, ...staticPages, ...cityPages, ...departmentPages];
 }

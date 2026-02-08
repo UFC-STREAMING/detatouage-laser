@@ -93,7 +93,7 @@ export function DepartmentGrid({ departments }: DepartmentGridProps) {
                 </span>
               </div>
 
-              {/* Arrow */}
+              {/* Arrow - desktop with label */}
               <div className="md:col-span-3 hidden md:flex justify-end">
                 <span
                   className="inline-flex items-center gap-1 text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity"
@@ -102,6 +102,10 @@ export function DepartmentGrid({ departments }: DepartmentGridProps) {
                   Voir le département
                   <ChevronRight className="w-4 h-4" />
                 </span>
+              </div>
+              {/* Arrow - mobile tap affordance */}
+              <div className="flex md:hidden justify-end">
+                <ChevronRight className="w-5 h-5" style={{ color: 'var(--color-primary)' }} />
               </div>
             </Link>
           ))}

@@ -17,6 +17,11 @@ export function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  useEffect(() => {
+    document.body.style.overflow = isMobileMenuOpen ? "hidden" : "";
+    return () => { document.body.style.overflow = ""; };
+  }, [isMobileMenuOpen]);
+
   const scrollToForm = () => {
     if (typeof window !== 'undefined') {
       const form = document.getElementById("quote-form");

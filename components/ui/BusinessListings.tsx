@@ -150,9 +150,9 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
                   {/* CTA Principal - Devis */}
                   <a
                     href="#quote-form"
-                    className="block text-center px-6 py-4 rounded-lg font-bold transition-all duration-200 hover:shadow-xl hover:scale-105"
+                    className="block text-center px-6 py-4 rounded-full font-bold transition-all duration-200 hover:shadow-xl hover:scale-105"
                     style={{
-                      background: 'linear-gradient(135deg, #0077b6 0%, #0096c7 100%)',
+                      background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
                       color: '#ffffff'
                     }}
                   >
@@ -185,9 +185,9 @@ export function BusinessListings({ businesses, cityName }: BusinessListingsProps
           </p>
           <a
             href="#quote-form"
-            className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-lg transition-all duration-200 hover:shadow-xl hover:scale-105"
+            className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-full transition-all duration-200 hover:shadow-xl hover:scale-105"
             style={{
-              background: 'linear-gradient(135deg, #0077b6 0%, #0096c7 100%)',
+              background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
               color: '#ffffff'
             }}
           >

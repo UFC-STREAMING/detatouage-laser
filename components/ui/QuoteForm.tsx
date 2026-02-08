@@ -68,6 +68,26 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
         <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
           Remplissez le formulaire ci-dessous et recevez une estimation adaptée à votre tatouage
         </p>
+        <div className="flex flex-wrap items-center justify-center gap-6 mt-6">
+          <span className="flex items-center gap-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
+            <svg className="w-4 h-4" style={{ color: 'var(--color-success)' }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+            </svg>
+            Donn&#233;es s&#233;curis&#233;es
+          </span>
+          <span className="flex items-center gap-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
+            <svg className="w-4 h-4" style={{ color: 'var(--color-success)' }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            R&#233;ponse sous 24h
+          </span>
+          <span className="flex items-center gap-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
+            <svg className="w-4 h-4" style={{ color: 'var(--color-success)' }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+            </svg>
+            100% gratuit
+          </span>
+        </div>
       </div>
 
       <form action={formAction} className="space-y-8 max-w-4xl mx-auto">

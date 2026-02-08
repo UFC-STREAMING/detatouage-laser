@@ -73,6 +73,11 @@ export const metadata: Metadata = {
     title: "Détatouage Laser - Retrait de Tatouage par Laser",
     description: "Spécialiste du retrait de tatouage par laser en France",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Détatouage Laser - Retrait de Tatouage par Laser",
+    description: "Spécialiste du retrait de tatouage par laser en France. Devis gratuit.",
+  },
   robots: {
     index: true,
     follow: true,
