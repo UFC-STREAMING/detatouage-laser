@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getCityBySlug, getProximityCities, cities } from "@/data/cities";
+import { getCityBySlug, cities } from "@/data/cities";
+import { getProximityCitiesDynamic } from "@/lib/utils/proximity";
 import { getBusinessesByCity } from "@/data/businesses";
 import { QuoteForm } from "@/components/ui/QuoteForm";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
@@ -73,7 +74,7 @@ export default async function CityPage({ params }: Props) {
     notFound();
   }
 
-  const proximityCities = getProximityCities(city.slug);
+  const proximityCities = getProximityCitiesDynamic(city.slug);
   const cityBusinesses = getBusinessesByCity(city.slug);
 
   return (
