@@ -1,0 +1,65 @@
+{
+  "slug": "montgeron",
+  "cityName": "Montgeron",
+  "businessName": "Dérapage Corporel Tatouage Piercing",
+  "businesses": [
+    {
+      "name": "Dérapage Corporel Tatouage Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 Rue d'Eschborn, 91230 Montgeron",
+      "rating": 4.9,
+      "reviewCount": 611
+    },
+    {
+      "name": "Epilation Définitive - Dépil Net Montgeron",
+      "category": "Centre d'épilation laser",
+      "address": "40 Av. de la République, 91230 Montgeron",
+      "rating": 4.7,
+      "reviewCount": 73
+    },
+    {
+      "name": "Épilation au laser Soûl and Skin Expert",
+      "category": "Centre d'épilation laser",
+      "address": "140 Av. de la République, 91230 Montgeron",
+      "rating": 4.7,
+      "reviewCount": 82
+    },
+    {
+      "name": "Corpus Custom Tattoo",
+      "category": "Tatoueur",
+      "address": "151 Av. de la République, 91230 Montgeron",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "Happiness Beauty",
+      "category": "Institut de beauté",
+      "address": "4 Rue d'Eschborn, 91230 Montgeron",
+      "rating": 5,
+      "reviewCount": 63
+    },
+    {
+      "name": "L'atelier LéanisPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "2 Rue du Général Lelong, 91230 Montgeron",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Dérapage Corporel Tatouage Piercing fait partie des centres de détatouage laser à Montgeron. Avec une note de 4.9/5 sur 611 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montgeron.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:40:38.727Z"
+}

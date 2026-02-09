@@ -1,0 +1,44 @@
+{
+  "slug": "epinay-sur-orge",
+  "cityName": "Épinay-sur-Orge",
+  "businessName": "Epilys Laser – Épinay-sur-Orge",
+  "businesses": [
+    {
+      "name": "Epilys Laser – Épinay-sur-Orge",
+      "category": "Centre d'épilation laser",
+      "address": "4 Chem. des Tourelles",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "My Beauty ink",
+      "category": "Service de détatouage",
+      "address": "Longjumeau",
+      "rating": 5,
+      "reviewCount": 188
+    },
+    {
+      "name": "M Tatouage",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Epilys Laser – Épinay-sur-Orge fait partie des centres de détatouage laser à Épinay-sur-Orge. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Épinay-sur-Orge.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quelle est la méthode de détatouage la plus efficace ?",
+      "answer": "Le laser PiQo4 est le laser le plus puissant du marché pour l'élimination des tatouages \\u200b\\u200bde toutes les couleurs, des taches brunes, des taches solaires, des marques de naissance et de la pigmentation du mélasma."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Quel est le coût moyen d'un détatouage ?",
+      "answer": "Le coût moyen national* d'un détatouage est de 353 $, mais peut varier entre 272 $ et 659 $. Ce coût peut varier en fonction de plusieurs facteurs, notamment : la taille du tatouage et la profondeur de l'encre."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:40:40.792Z"
+}

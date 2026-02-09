@@ -1,0 +1,37 @@
+{
+  "slug": "bourg-la-reine",
+  "cityName": "Bourg-la-Reine",
+  "businessName": "Maelis Centre Laser Bourg-la-Reine / Cachan - Épilation laser / définitive",
+  "businesses": [
+    {
+      "name": "Maelis Centre Laser Bourg-la-Reine / Cachan - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "57 Av. du Panorama",
+      "rating": 4.9,
+      "reviewCount": 362
+    },
+    {
+      "name": "Docteur May alakl",
+      "category": "Médecin",
+      "address": "91 Av. du Général Leclerc",
+      "rating": 4.6,
+      "reviewCount": 21
+    }
+  ],
+  "description": "Maelis Centre Laser Bourg-la-Reine / Cachan - Épilation laser / définitive fait partie des centres de détatouage laser à Bourg-la-Reine. Avec une note de 4.9/5 sur 362 avis, les patients confirment la qualité des traitements proposés. 2 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bourg-la-Reine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:47:22.323Z"
+}

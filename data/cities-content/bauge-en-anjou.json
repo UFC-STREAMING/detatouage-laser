@@ -1,0 +1,44 @@
+{
+  "slug": "bauge-en-anjou",
+  "cityName": "Baugé-en-Anjou",
+  "businessName": "Nar Tatoo",
+  "businesses": [
+    {
+      "name": "Nar Tatoo",
+      "category": "Tatoueur",
+      "address": "35 Rue Georges Clemenceau, 49150 Baugé-en-Anjou",
+      "rating": 4.9,
+      "reviewCount": 21
+    },
+    {
+      "name": "Dgé Hotrod'Ink",
+      "category": "Tatoueur",
+      "address": "5 Rue Victor Hugo, 49150 Baugé-en-Anjou",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "L'essentiel - Bien-être",
+      "category": "Institut de beauté",
+      "address": "44 Rue Victor Hugo, 49150 Baugé-en-Anjou",
+      "rating": 5,
+      "reviewCount": 15
+    }
+  ],
+  "description": "Nar Tatoo fait partie des centres de détatouage laser à Baugé-en-Anjou. Avec une note de 4.9/5 sur 21 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Baugé-en-Anjou.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-il possible de retatouer sur un détatouage ?",
+      "answer": "Une question qui revient souvent : peut-on tatouer sur un détatouage ? Oui, mais il faut patienter quelques mois après la dernière séance pour laisser la peau se régénérer complètement. Un tatouage fait sur une peau encore en cours de cicatrisation risque d'avoir un rendu moins net."
+    },
+    {
+      "question": "Est-ce légal de tatouer chez soi ?",
+      "answer": "Est-ce légal de tatouer chez soi ? Tatouer à domicile est possible sous certaines conditions : Respecter les conditions d'hygiène et de salubrité, ainsi que l'exercice d'une activité professionnelle à domicile ; Vérifier le bail et le règlement de copropriété.19 févr. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:31:13.511Z"
+}

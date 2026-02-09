@@ -1,0 +1,52 @@
+{
+  "slug": "dax",
+  "cityName": "Dax",
+  "businessName": "Centre laser CtrlZ - Dax",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Dax",
+      "category": "Service de détatouage",
+      "address": "Mées",
+      "rating": 5,
+      "reviewCount": 89
+    },
+    {
+      "name": "Centre Medel",
+      "category": "Médecin",
+      "address": "163 Av. Georges Clemenceau",
+      "rating": 4.7,
+      "reviewCount": 67
+    },
+    {
+      "name": "Centre du lac : Medecine & Laser & Rajeunissement - Dr Berkani -Epilation Laser - Rajeunissemnt & Injections",
+      "category": "Médecin",
+      "address": "Saint-Paul-lès-Dax",
+      "rating": 4.9,
+      "reviewCount": 66
+    },
+    {
+      "name": "L'encrage Tattoo & Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Rue d'Eyrose",
+      "rating": 5,
+      "reviewCount": 715
+    },
+    {
+      "name": "Dax Epilation Laser - Epilation définitive Dax",
+      "category": "Centre d'épilation laser",
+      "address": "Saint-Paul-lès-Dax",
+      "rating": 5,
+      "reviewCount": 30
+    },
+    {
+      "name": "STOP TABAC 974",
+      "category": "Praticien de médecine alternative",
+      "address": "",
+      "rating": 4.9,
+      "reviewCount": 15
+    }
+  ],
+  "description": "Centre laser CtrlZ - Dax fait partie des centres de détatouage laser à Dax. Avec une note de 5/5 sur 89 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Dax.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:44:24.916Z"
+}

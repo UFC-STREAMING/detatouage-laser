@@ -1,0 +1,65 @@
+{
+  "slug": "montrouge",
+  "cityName": "Montrouge",
+  "businessName": "Centre Laselis Montrouge - Médecine Esthétique - Epilation Laser",
+  "businesses": [
+    {
+      "name": "Centre Laselis Montrouge - Médecine Esthétique - Epilation Laser",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "136 Av. de la République, 92120 Montrouge",
+      "rating": 4.8,
+      "reviewCount": 257
+    },
+    {
+      "name": "My Dream Face - Institut de beauté Montrouge",
+      "category": "Service de détatouage",
+      "address": "22 Rue Molière, 92120 Montrouge",
+      "rating": 4.8,
+      "reviewCount": 84
+    },
+    {
+      "name": "Maelis Centre Laser Montrouge / Bagneux - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "3 Rue Georges Messier, 92120 Montrouge",
+      "rating": 5,
+      "reviewCount": 320
+    },
+    {
+      "name": "laserOstop Montrouge",
+      "category": "Conseiller santé",
+      "address": "22 Bis Rue Auber, 92120 Montrouge",
+      "rating": 4.8,
+      "reviewCount": 197
+    },
+    {
+      "name": "Maryna Jay - Maquillage PermanentPropose : Détatouage sins láser",
+      "category": "Clinique de maquillage permanent",
+      "address": "64 Rue Louis Rolland, 92120 Montrouge",
+      "rating": 5,
+      "reviewCount": 76
+    },
+    {
+      "name": "Pitch-Brows",
+      "category": "Institut de beauté",
+      "address": "52 Av. Henri Ginoux, 92120 Montrouge",
+      "rating": 4.9,
+      "reviewCount": 52
+    }
+  ],
+  "description": "Centre Laselis Montrouge - Médecine Esthétique - Epilation Laser fait partie des centres de détatouage laser à Montrouge. Avec une note de 4.8/5 sur 257 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montrouge.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:18:14.982Z"
+}

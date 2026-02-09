@@ -1,0 +1,44 @@
+{
+  "slug": "montpellier",
+  "cityName": "Montpellier",
+  "businessName": "Centre Dermo Laser Montpellier - Epilation Laser & Définitive - Détatouage",
+  "businesses": [
+    {
+      "name": "Centre Dermo Laser Montpellier - Epilation Laser & Définitive - Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "470 Rue Léon Blum, 34000 Montpellier",
+      "rating": 4.8,
+      "reviewCount": 217
+    },
+    {
+      "name": "Centre Laser Hind - Epilation & Détatouage Montpellier",
+      "category": "Centre d'épilation laser",
+      "address": "310 Av. Joan Miro, 34000 Montpellier",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "SKINEA Montpellier - Centre Laser & Esthétique / Dr LACOTTE - Dr NADAL - Dr TAVERNIERS - Dr LELLOUCHEPropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "Arrêt tram :, 266 Pl. Ernest Granier 2e étage, 34000 Montpellier",
+      "rating": 4.5,
+      "reviewCount": 337
+    }
+  ],
+  "description": "Centre Dermo Laser Montpellier - Epilation Laser & Définitive - Détatouage fait partie des centres de détatouage laser à Montpellier. Avec une note de 4.8/5 sur 217 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montpellier.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage laser à Montpellier ?",
+      "answer": "2:54Le détatouage au laser, comment ça marche ? Existe-t-il des ...Facebook  ·  Matière Grise - RTBF"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "0:44Dites adieu à vos tatouages indésirables grâce à notre ...Instagram  ·  My Laser Center"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Prix d'une séance de détatouage laser HandPico® : Prix par séance : de 120 à 200 euros selon l'étendue du tatouage, tous les 1 à 2 mois. Nombre de séances généralement nécessaires : Sourcils : 2 à 3 séances. Tatouages noirs : en général 5 à 8 séances."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:03:07.945Z"
+}

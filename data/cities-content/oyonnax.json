@@ -1,0 +1,52 @@
+{
+  "slug": "oyonnax",
+  "cityName": "Oyonnax",
+  "businessName": "Piqué au Vif Tattoo",
+  "businesses": [
+    {
+      "name": "Piqué au Vif Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "14 Av. Président Roosevelt, 01100 Oyonnax",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "LaserAddict Oyonnax - Centre anti-tabac et bien être au laser",
+      "category": "Centre de bien-être",
+      "address": "1101 Rue de l'Ange, 01100 Bellignat",
+      "rating": 4.9,
+      "reviewCount": 13
+    },
+    {
+      "name": "C.A LASER - Épilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "40 Rue Jules Michelet, 01100 Oyonnax",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Epilation Laser Oyonnax",
+      "category": "Centre d'épilation laser",
+      "address": "25 B1 Résidence LE CHATELET 25B1 rue pascal 0100, 01100 Oyonnax",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "Balivernes Tattoo Club",
+      "category": "Salon de tatouage et piercing",
+      "address": "42 Rte de Dortan, 01100 Oyonnax",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Laser Lander - Oyonnax",
+      "category": "Centre de laser game",
+      "address": "42 Rte de Dortan, 01100 Oyonnax",
+      "rating": 4.6,
+      "reviewCount": 219
+    }
+  ],
+  "description": "Piqué au Vif Tattoo fait partie des centres de détatouage laser à Oyonnax. Avec une note de 5/5 sur 69 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Oyonnax.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:43:21.165Z"
+}

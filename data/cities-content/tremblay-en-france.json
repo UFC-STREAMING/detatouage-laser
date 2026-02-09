@@ -1,0 +1,65 @@
+{
+  "slug": "tremblay-en-france",
+  "cityName": "Tremblay-en-France",
+  "businessName": "Institut du Laser - Tremblay en France",
+  "businesses": [
+    {
+      "name": "Institut du Laser - Tremblay en France",
+      "category": "Centre d'épilation laser",
+      "address": "12 Rue de Picardie",
+      "rating": 4.8,
+      "reviewCount": 105
+    },
+    {
+      "name": "pascal tatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 Av. du General de Gaulle",
+      "rating": 4.8,
+      "reviewCount": 82
+    },
+    {
+      "name": "CK Sculpt",
+      "category": "Centre d'épilation laser",
+      "address": "25 ter Av. Pasteur",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "JU Artquarelle Tattoo",
+      "category": "Tatoueur",
+      "address": "13 Av. Blaise Pascal",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "LEVEL UP DERMO SOLUTION",
+      "category": "Clinique de maquillage permanent",
+      "address": "21 Av. Emile Zola",
+      "rating": 5,
+      "reviewCount": 49
+    },
+    {
+      "name": "Maëliss Beauty",
+      "category": "Institut de beauté",
+      "address": "85 Rue de Béarn",
+      "rating": 5,
+      "reviewCount": 126
+    }
+  ],
+  "description": "Institut du Laser - Tremblay en France fait partie des centres de détatouage laser à Tremblay-en-France. Avec une note de 4.8/5 sur 105 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tremblay-en-France.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Qui peut enlever un tatouage au laser ?",
+      "answer": "Le détatouage est un acte médical qui doit être réalisé par un professionnel qualifié. En effet, pour effacer un tatouage sans risque, seuls les médecins sont autorisés à pratiquer le détatouage.13 févr. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:23:30.821Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "beziers",
+  "cityName": "Béziers",
+  "businessName": "Centre laser CtrlZ - Béziers",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Béziers",
+      "category": "Service de détatouage",
+      "address": "8 All. des Vignerons, 34500 Béziers",
+      "rating": 5,
+      "reviewCount": 30
+    },
+    {
+      "name": "Dermo-j.beziersPropose : Detatouage du maquillage permanent",
+      "category": "Institut de beauté",
+      "address": "1 Imp. Antoine Bourdelle, 34500 Béziers",
+      "rating": 4.9,
+      "reviewCount": 46
+    },
+    {
+      "name": "Esthétique Médical : Peeling, injections, Fils Tenseurs, FUE, épilation, détatouage Picoseconde, lasers .",
+      "category": "Clinique de transplantation de cheveux",
+      "address": "injections, Fils Tenseurs, FUE, épilation, détatouage Picoseconde, lasers ., 31 Rue Pelisson, 34500 Béziers",
+      "rating": 4.7,
+      "reviewCount": 74
+    },
+    {
+      "name": "Docteur Prud'Homme Alexandre",
+      "category": "Chirurgien esthétique",
+      "address": "59 Ter avenue Camille Saint Saens, 34500 Béziers",
+      "rating": 4.9,
+      "reviewCount": 581
+    },
+    {
+      "name": "madame mademoisellePropose : Detatouage nanoremoval",
+      "category": "Institut de beauté",
+      "address": "Le nobel, 287 All. des Charmes 1er étage, 34500 Béziers",
+      "rating": 4.9,
+      "reviewCount": 51
+    },
+    {
+      "name": "Dr Philippe Arnaud",
+      "category": "Dermatologue",
+      "address": "46 Rue Paul Riquet, Pl. de la Madeleine, 34500 Béziers",
+      "rating": 3.1,
+      "reviewCount": 121
+    }
+  ],
+  "description": "Centre laser CtrlZ - Béziers fait partie des centres de détatouage laser à Béziers. Avec une note de 5/5 sur 30 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Béziers.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:08:11.247Z"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "brie-comte-robert",
+  "cityName": "Brie-Comte-Robert",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Brie-Comte-Robert grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Brie-Comte-Robert.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    },
+    {
+      "question": "Quel est le meilleur effaceur de tatouage ?",
+      "answer": "Lorsque le temps d'effacer un tatouage est venu, la meilleure façon d'y parvenir est de le soumettre à quelques séances de laser spécifique de l'encre dermique. Aujourd'hui le meilleur d'entre eux est le laser PicoPlus® de la société Lutronic remplaçant du laser Picosure."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:53:14.422Z"
+}

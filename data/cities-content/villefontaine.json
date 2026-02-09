@@ -1,0 +1,31 @@
+{
+  "slug": "villefontaine",
+  "cityName": "Villefontaine",
+  "businessName": "Greg Tattoo",
+  "businesses": [
+    {
+      "name": "Greg Tattoo",
+      "category": "Tatoueur",
+      "address": "37 C Rue Emile Zola, 38090 Villefontaine",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Dr Stéphanie CANTIN",
+      "category": "Médecin",
+      "address": "60 Rue du Midi, 38090 Villefontaine",
+      "rating": 3.8,
+      "reviewCount": 31
+    },
+    {
+      "name": "Corinne Villeneuve - Tricopigmentation",
+      "category": "Institut de beauté",
+      "address": "21 Av. Henri Bergson, 38080 L'Isle-d'Abeau",
+      "rating": 5,
+      "reviewCount": 12
+    }
+  ],
+  "description": "Greg Tattoo fait partie des centres de détatouage laser à Villefontaine. Avec une note de 5/5 sur 10 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villefontaine.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:52:29.087Z"
+}

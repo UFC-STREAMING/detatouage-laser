@@ -1,0 +1,65 @@
+{
+  "slug": "rueil-malmaison",
+  "cityName": "Rueil-Malmaison",
+  "businessName": "Centre Médical Laser - Rueil",
+  "businesses": [
+    {
+      "name": "Centre Médical Laser - Rueil",
+      "category": "Centre d'épilation laser",
+      "address": "23 Rue Jacques Daguerre",
+      "rating": 4.4,
+      "reviewCount": 29
+    },
+    {
+      "name": "Lazko beauty-Epilation laser(definitive),électrolyse,soins visage,soins corps",
+      "category": "Centre d'épilation laser",
+      "address": "5 Bd du Gué",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "My Candy Beauty Institut spécialiste Detatouage sourcils et rehaussement de cils",
+      "category": "Institut de beauté",
+      "address": "30 Rue du Gué",
+      "rating": 4.9,
+      "reviewCount": 140
+    },
+    {
+      "name": "Daniela's Skin and Body - Institut de Beauté",
+      "category": "Institut de beauté",
+      "address": "108 Av. Paul Doumer",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Stargames Laser Game 92, 78 et Paris",
+      "category": "Centre de laser game",
+      "address": "344 Rte de l'Empereur",
+      "rating": 4.6,
+      "reviewCount": 833
+    },
+    {
+      "name": "Boudoir du Regard - Rueil Malmaison",
+      "category": "Institut de beauté",
+      "address": "35 Rue du Dr Zamenhof",
+      "rating": 4.8,
+      "reviewCount": 179
+    }
+  ],
+  "description": "Centre Médical Laser - Rueil fait partie des centres de détatouage laser à Rueil-Malmaison. Avec une note de 4.4/5 sur 29 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rueil-Malmaison.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Quels sont les avis sur le Dr Jennifer Ichou ?",
+      "answer": "Le détatouage est un acte médical qui doit être réalisé par un professionnel qualifié. En effet, pour effacer un tatouage sans risque, seuls les médecins sont autorisés à pratiquer le détatouage.13 févr. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:08:02.917Z"
+}

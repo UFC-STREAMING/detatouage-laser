@@ -1,0 +1,44 @@
+{
+  "slug": "meylan",
+  "cityName": "Meylan",
+  "businessName": "TattooTherapy38",
+  "businesses": [
+    {
+      "name": "TattooTherapy38",
+      "category": "Tatoueur",
+      "address": "Montbonnot-Saint-Martin",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Holiskin Studio - Docteur Bénédicte HAGUENAUER - Médecin Esthétique",
+      "category": "Médecin",
+      "address": "7 Chem. de la Dhuy",
+      "rating": 4.7,
+      "reviewCount": 95
+    },
+    {
+      "name": "Marion Maquillage Permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "31 Av. du Granier",
+      "rating": 5,
+      "reviewCount": 104
+    }
+  ],
+  "description": "TattooTherapy38 fait partie des centres de détatouage laser à Meylan. Avec une note de 5/5 sur 20 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Meylan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage laser à Grenoble ?",
+      "answer": "< 5 cm2 : 95€ TTC 5 à 15 cm2 : 145€ par séance. 16 à 50 cm2 : 195€ TTC par séance. 51 à 100 cm2 : 245€ TTC par séance. 101 à 250 cm2 : 295€ TTC par séance."
+    },
+    {
+      "question": "Quels sont les avis sur Laurence Beille ?",
+      "answer": "Laurence Beille, toujours à l'affût des innovations… Elle est une des premières à nous suivre et comprendre la glycation, notre spécialité. Elle sait embellir et rajeunir avec petites touches telle une artiste et son pinceau, pour un résultat naturel. Laurence est une personne exceptionnelle, rare."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:53:34.035Z"
+}

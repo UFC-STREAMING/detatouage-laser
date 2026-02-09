@@ -1,0 +1,65 @@
+{
+  "slug": "chaumont",
+  "cityName": "Chaumont",
+  "businessName": "Innova Esthétique",
+  "businesses": [
+    {
+      "name": "Innova Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "81 Rue Victoire de la Marne",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "LaserOstop",
+      "category": "Praticien de médecine alternative",
+      "address": "Cap Santé 52, 3 route de Neufchateau",
+      "rating": 4.9,
+      "reviewCount": 39
+    },
+    {
+      "name": "LaserDtox 52",
+      "category": "Centre de bien-être",
+      "address": "23 Rue du Vieux Moulin",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Manatiāma piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "67 Rue Victoire de la Marne",
+      "rating": 4.8,
+      "reviewCount": 53
+    },
+    {
+      "name": "OZAC",
+      "category": "Centre d'épilation laser",
+      "address": "clinique, 17 Av. des États Unis",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "Wizja Tattoo",
+      "category": "Tatoueur",
+      "address": "67 Rue Victoire de la Marne",
+      "rating": 4.8,
+      "reviewCount": 103
+    }
+  ],
+  "description": "Innova Esthétique fait partie des centres de détatouage laser à Chaumont. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chaumont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:47:52.014Z"
+}

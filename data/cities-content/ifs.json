@@ -1,0 +1,44 @@
+{
+  "slug": "ifs",
+  "cityName": "Ifs",
+  "businessName": "Centre d'Épilation & Laser de Caen, détatouage au laser, cryolipolyse, hydrafacial, injection",
+  "businesses": [
+    {
+      "name": "Centre d'Épilation & Laser de Caen, détatouage au laser, cryolipolyse, hydrafacial, injection",
+      "category": "Centre d'épilation laser",
+      "address": "détatouage au laser, cryolipolyse, hydrafacial, injection, 7 Av. de l'Hippodrome, 14000 Caen",
+      "rating": 4.6,
+      "reviewCount": 373
+    },
+    {
+      "name": "IFEP FORMATIONPropose : Pour pratiquer le tatouage, le piercing, le maquillage permanent",
+      "category": "Centre de formation",
+      "address": "1089 Blvd Charles Cros, 14123 Ifs",
+      "rating": 5,
+      "reviewCount": 110
+    },
+    {
+      "name": "Athéna Laser ✨ Epilation Laser & Médecine Esthétique à Caen",
+      "category": "Service de détatouage",
+      "address": "Parc Athena, 2 Rue Albert Schweitzer, 14280 Saint-Contest",
+      "rating": 4.9,
+      "reviewCount": 192
+    }
+  ],
+  "description": "Centre d'Épilation & Laser de Caen, détatouage au laser, cryolipolyse, hydrafacial, injection fait partie des centres de détatouage laser à Ifs. Avec une note de 4.6/5 sur 373 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ifs.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Le détatouage est-il autorisé en Islam ?",
+      "answer": "La question du détatouage en Islam est complexe. Si l'intervention est simple et n'entraîne ni préjudice important, ni douleur, ni difficultés financières, certains érudits l'encouragent . En revanche, si elle est difficile, douloureuse, coûteuse ou laisse des cicatrices, elle n'est pas obligatoire.13 août 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:30:31.701Z"
+}

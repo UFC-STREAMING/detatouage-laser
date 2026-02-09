@@ -1,0 +1,65 @@
+{
+  "slug": "petit-bourg",
+  "cityName": "Petit-Bourg",
+  "businessName": "Tizod TATOU",
+  "businesses": [
+    {
+      "name": "Tizod TATOU",
+      "category": "Tatoueur",
+      "address": "Petit-Bourg, Guadeloupe",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "ELEGANTE LADYZ",
+      "category": "Institut de beauté",
+      "address": "rue Prosper Lebrère, ZI Arnouville, Petit-Bourg 97170, Guadeloupe",
+      "rating": 4,
+      "reviewCount": 1
+    },
+    {
+      "name": "Feel Ink Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "Zac de Colin, N%C2%B0 6, Immeuble OMALE, Petit-Bourg 97170, Guadeloupe",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Beauté d'Am",
+      "category": "Institut de beauté",
+      "address": "Chem. de Cafeiere, Petit-Bourg 97170, Guadeloupe",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Centre Laser Esthétis Dr Riahi et Duchemin",
+      "category": "Centre d'épilation laser",
+      "address": "Baie-Mahault, Guadeloupe",
+      "rating": 4.2,
+      "reviewCount": 6
+    },
+    {
+      "name": "Be'M'Be Beauté Minceur et Bien-Etre",
+      "category": "Institut de beauté",
+      "address": "Tacos Legend, Immeuble Bienvenue Colin, au dessus du, Petit-Bourg 97170, Guadeloupe",
+      "rating": 5,
+      "reviewCount": 40
+    }
+  ],
+  "description": "Tizod TATOU fait partie des centres de détatouage laser à Petit-Bourg. Avec une note de 5/5 sur 4 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Petit-Bourg.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:39:45.084Z"
+}

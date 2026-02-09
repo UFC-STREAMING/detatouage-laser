@@ -1,0 +1,65 @@
+{
+  "slug": "sens",
+  "cityName": "Sens",
+  "businessName": "Centre d'Esthétique et de Laser Médical",
+  "businesses": [
+    {
+      "name": "Centre d'Esthétique et de Laser Médical",
+      "category": "Centre d'épilation laser",
+      "address": "12 Rue Pierre Castets",
+      "rating": 4.1,
+      "reviewCount": 44
+    },
+    {
+      "name": "LaserAddict Sens - Centre anti-tabac et bien-être au laser",
+      "category": "Centre de bien-être",
+      "address": "1 Rue Richebourg",
+      "rating": 5,
+      "reviewCount": 12
+    },
+    {
+      "name": "🏥 Clinique Paul Picquet - ELSAN",
+      "category": "Clinique",
+      "address": "12 Rue Pierre Castets",
+      "rating": 4.5,
+      "reviewCount": null
+    },
+    {
+      "name": "LaserOstop Sens",
+      "category": "Praticien de médecine alternative",
+      "address": "Dans la Clinique du Sénonais Au rez-de-chaussée, à droite de l'accueil, Bd du Maréchal Foch",
+      "rating": 4.9,
+      "reviewCount": 7
+    },
+    {
+      "name": "Centre de téléexpertise en dermatologie interventionnelle",
+      "category": "Dermatologue",
+      "address": "12 Rue Pierre Castets",
+      "rating": 4.4,
+      "reviewCount": 15
+    },
+    {
+      "name": "Centre Skin Expert Amélie B.",
+      "category": "Institut de soins du visage",
+      "address": "30 Pl. Victor Hugo",
+      "rating": 5,
+      "reviewCount": 37
+    }
+  ],
+  "description": "Centre d'Esthétique et de Laser Médical fait partie des centres de détatouage laser à Sens. Avec une note de 4.1/5 sur 44 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sens.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment se passe le détatouage ?",
+      "answer": "Comment fonctionne le détatouage ? Le laser de détatouage attaque les particules d'encres pour qu'elles soient éliminées par notre organisme. Le faisceau du laser vise les pigments contenus dans l'encre de tatouage et les fait éclater. Les fragments d'encre sont éliminés par nos globules blancs."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:35:20.481Z"
+}

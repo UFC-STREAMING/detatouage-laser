@@ -1,0 +1,44 @@
+{
+  "slug": "hennebont",
+  "cityName": "Hennebont",
+  "businessName": "Spiritualis Atramento",
+  "businesses": [
+    {
+      "name": "Spiritualis Atramento",
+      "category": "Tatoueur",
+      "address": "16 Rue Maréchal Joffre, 56700 Hennebont",
+      "rating": 4.9,
+      "reviewCount": 195
+    },
+    {
+      "name": "Rebord pointu tatouage",
+      "category": "Tatoueur",
+      "address": "18 Rue de la Villeneuve Parco, ZAC du Parco, 56700 Hennebont",
+      "rating": 4.9,
+      "reviewCount": 51
+    },
+    {
+      "name": "Tattoo Pirate",
+      "category": "Tatoueur",
+      "address": "1 Rue de la Poste, 56700 Hennebont",
+      "rating": 5,
+      "reviewCount": 1
+    }
+  ],
+  "description": "Spiritualis Atramento fait partie des centres de détatouage laser à Hennebont. Avec une note de 4.9/5 sur 195 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Hennebont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:05:27.831Z"
+}

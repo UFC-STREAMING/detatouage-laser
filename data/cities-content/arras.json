@@ -1,0 +1,31 @@
+{
+  "slug": "arras",
+  "cityName": "Arras",
+  "businessName": "Centre laser CtrlZ - Arras",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Arras",
+      "category": "Service de détatouage",
+      "address": "44 Rue Gambetta, 62000 Arras",
+      "rating": 5,
+      "reviewCount": 174
+    },
+    {
+      "name": "centre d'épilation laser du Rietz",
+      "category": "Médecin",
+      "address": "34 Rue Emile Loubet, 62000 Arras",
+      "rating": 4.2,
+      "reviewCount": 9
+    },
+    {
+      "name": "Centre Médical Laser Saint-Jean Cabinets des Docteurs Cartier, Maire, Gros, Capelle et Benchoukroun",
+      "category": "Dermatologue",
+      "address": "Maire, Gros, Capelle et Benchoukroun, 8 Sq. Saint-Jean, 62000 Arras",
+      "rating": 3.3,
+      "reviewCount": 47
+    }
+  ],
+  "description": "Centre laser CtrlZ - Arras fait partie des centres de détatouage laser à Arras. Avec une note de 5/5 sur 174 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Arras.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:20:35.860Z"
+}

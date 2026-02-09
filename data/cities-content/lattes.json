@@ -1,0 +1,65 @@
+{
+  "slug": "lattes",
+  "cityName": "Lattes",
+  "businessName": "Détatouage Laser Montpellier, centre Dr Meziane",
+  "businesses": [
+    {
+      "name": "Détatouage Laser Montpellier, centre Dr Meziane",
+      "category": "Chirurgien esthétique",
+      "address": "centre Dr Meziane, 60 Rue de l'Acropole, 34000 Montpellier",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Centre Laser Hind - Epilation & Détatouage Montpellier",
+      "category": "Centre d'épilation laser",
+      "address": "310 Av. Joan Miro, 34000 Montpellier",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Centre de la Silhouette : Laser, Cryolipolyse et Cellu M6",
+      "category": "Centre d'épilation laser",
+      "address": "Cryolipolyse et Cellu M6, 22 Av. de la Fontvin, 34970 Lattes",
+      "rating": 4.8,
+      "reviewCount": 23
+    },
+    {
+      "name": "Centre Dermo Laser Montpellier - Epilation Laser & Définitive - Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "470 Rue Léon Blum, 34000 Montpellier",
+      "rating": 4.8,
+      "reviewCount": 217
+    },
+    {
+      "name": "Beauté en lumière",
+      "category": "Clinique de maquillage permanent",
+      "address": "Forum Médica, Av. de l'Europe 1 er étage, 34970 Lattes",
+      "rating": 4.9,
+      "reviewCount": 40
+    },
+    {
+      "name": "BODY INDUSTRY Montpellier Lattes 34 - Epilation Laser / Definitive - Cryolipolyse",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue des Consuls, 34970 Lattes",
+      "rating": 4.6,
+      "reviewCount": 65
+    }
+  ],
+  "description": "Détatouage Laser Montpellier, centre Dr Meziane fait partie des centres de détatouage laser à Lattes. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lattes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quelle est la méthode de détatouage la plus efficace ?",
+      "answer": "Le laser PiQo4 est le laser le plus puissant du marché pour l'élimination des tatouages \\u200b\\u200bde toutes les couleurs, des taches brunes, des taches solaires, des marques de naissance et de la pigmentation du mélasma."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Qu'est-ce que la méthode Skinial de détatouage ?",
+      "answer": "La méthode Skinial est une technique de détatouage non laser qui utilise une solution naturelle pour extraire les pigments de la peau. Elle offre plusieurs avantages : Moins invasive que le laser. Convient à presque tous les types de tatouages (hors maquillage permanent)."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:59:42.927Z"
+}

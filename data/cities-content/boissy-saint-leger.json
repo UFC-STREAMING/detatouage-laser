@@ -1,0 +1,44 @@
+{
+  "slug": "boissy-saint-leger",
+  "cityName": "Boissy-Saint-Léger",
+  "businessName": "Purple Ink",
+  "businesses": [
+    {
+      "name": "Purple Ink",
+      "category": "Tatoueur",
+      "address": "20 Rue de Paris, 94470 Boissy-Saint-Léger",
+      "rating": 4.8,
+      "reviewCount": 108
+    },
+    {
+      "name": "Studio Soleval",
+      "category": "Tatoueur",
+      "address": "3 Av. Charles de Gaulle, 94470 Boissy-Saint-Léger",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Mademoiselle Renard Tatouages",
+      "category": "Tatoueur",
+      "address": "3 Av. Charles de Gaulle, 94470 Boissy-Saint-Léger",
+      "rating": 4.9,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Purple Ink fait partie des centres de détatouage laser à Boissy-Saint-Léger. Avec une note de 4.8/5 sur 108 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Boissy-Saint-Léger.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:59:53.091Z"
+}

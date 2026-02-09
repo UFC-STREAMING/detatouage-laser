@@ -1,0 +1,65 @@
+{
+  "slug": "nemours",
+  "cityName": "Nemours",
+  "businessName": "L'encre chimérique",
+  "businesses": [
+    {
+      "name": "L'encre chimérique",
+      "category": "Salon de tatouage et piercing",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Divinity Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "19 Rue Gaston Darley, 77140 Nemours",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Nuns Aurelie",
+      "category": "Institut de beauté",
+      "address": "44 Av. Gambetta, 77140 Nemours",
+      "rating": 4.7,
+      "reviewCount": 41
+    },
+    {
+      "name": "Lcmb studio",
+      "category": "Salon de manucure",
+      "address": "30 Rue Bezout, 77140 Nemours",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "The Epil House",
+      "category": "Institut de beauté",
+      "address": "4 Rue Denis Papin, 77140 Nemours",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "La Sadique tattooPropose : Lettrage de tatouage personnalisé",
+      "category": "Tatoueur",
+      "address": "17 Pl. de la République, 77140 Nemours",
+      "rating": 5,
+      "reviewCount": 3
+    }
+  ],
+  "description": "L'encre chimérique fait partie des centres de détatouage laser à Nemours. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Nemours.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:21:55.018Z"
+}

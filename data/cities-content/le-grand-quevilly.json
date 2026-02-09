@@ -1,0 +1,44 @@
+{
+  "slug": "le-grand-quevilly",
+  "cityName": "Le Grand-Quevilly",
+  "businessName": "Evidence Tattoo",
+  "businesses": [
+    {
+      "name": "Evidence Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Rue Paul Vaillant Couturier",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "NY Center – Médecine esthétique à Rouen",
+      "category": "Service de détatouage",
+      "address": "Rouen",
+      "rating": 5,
+      "reviewCount": 105
+    },
+    {
+      "name": "Top Regard Institut",
+      "category": "Institut de beauté",
+      "address": "Le Petit-Quevilly",
+      "rating": 4.8,
+      "reviewCount": 82
+    }
+  ],
+  "description": "Evidence Tattoo fait partie des centres de détatouage laser à Le Grand-Quevilly. Avec une note de 5/5 sur 21 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Grand-Quevilly.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:38:00.281Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "villeneuve-tolosane",
+  "cityName": "Villeneuve-Tolosane",
+  "businessName": "Ekors Creations Wargame",
+  "businesses": [
+    {
+      "name": "Ekors Creations Wargame",
+      "category": "Boutique de figurines",
+      "address": "1 Rue Saint-Laurent, 31270 Villeneuve-Tolosane",
+      "rating": 4.9,
+      "reviewCount": 84
+    },
+    {
+      "name": "Les Affreux Jojo Tattoo Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Rue Saint-Laurent, 31270 Villeneuve-Tolosane",
+      "rating": 4.9,
+      "reviewCount": 41
+    },
+    {
+      "name": "psychotherapy tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Rue des Parets, 31270 Villeneuve-Tolosane",
+      "rating": 4.9,
+      "reviewCount": 43
+    },
+    {
+      "name": "Tatoo L’Âme",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Rue du Pré Vicinal, 31270 Cugnaux",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Keera TattooPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "45 Rue Saint-Laurent, 31270 Villeneuve-Tolosane",
+      "rating": 4.8,
+      "reviewCount": 21
+    },
+    {
+      "name": "Stéphane Hamida Artiste Tatoueur Cover Tricopigmentation recouvrement de cicatricesPropose : Détatouage",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 108
+    }
+  ],
+  "description": "Ekors Creations Wargame fait partie des centres de détatouage laser à Villeneuve-Tolosane. Avec une note de 4.9/5 sur 84 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeneuve-Tolosane.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour faire retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage à Toulouse ?",
+      "answer": "TARIFS LASER DÉTATOUGE TOULOUSEVisage ou zone sur le corpsLa séancePetite zone40>60 €Moyenne zone90>120€Grande zone à multiplesSur devis"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:37:08.079Z"
+}

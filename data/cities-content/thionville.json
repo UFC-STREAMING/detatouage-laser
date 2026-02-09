@@ -1,0 +1,65 @@
+{
+  "slug": "thionville",
+  "cityName": "Thionville",
+  "businessName": "Valérie Dermo Esthetic Thionville",
+  "businesses": [
+    {
+      "name": "Valérie Dermo Esthetic Thionville",
+      "category": "Centre d'épilation laser",
+      "address": "40 Av. Clemenceau, 57100 Thionville",
+      "rating": 4.6,
+      "reviewCount": 94
+    },
+    {
+      "name": "Dr Rija Rakotomamonjy",
+      "category": "Médecin",
+      "address": "6 Rue Maréchal Joffre, 57100 Thionville",
+      "rating": 4.3,
+      "reviewCount": 74
+    },
+    {
+      "name": "Body Base - ThionvillePropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "13 Pl. Turenne, 57100 Thionville",
+      "rating": 4.5,
+      "reviewCount": 106
+    },
+    {
+      "name": "Dermographe Corporation",
+      "category": "Salon de tatouage et piercing",
+      "address": "37 Bcle du Ferronnier, 57180 Terville",
+      "rating": 4.9,
+      "reviewCount": 245
+    },
+    {
+      "name": "Escale beautyPropose : Épilation laser",
+      "category": "École d'esthétique",
+      "address": "01, place marie Louise, 07 Rue Maréchal Joffre, 57100 Thionville",
+      "rating": 4.6,
+      "reviewCount": 116
+    },
+    {
+      "name": "Cika DermoPropose : Épilation laser",
+      "category": "Clinique de maquillage permanent",
+      "address": "33 Rue de l'Ancien H%C3%B4pital, 57100 Thionville",
+      "rating": 4.9,
+      "reviewCount": 58
+    }
+  ],
+  "description": "Valérie Dermo Esthetic Thionville fait partie des centres de détatouage laser à Thionville. Avec une note de 4.6/5 sur 94 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Thionville.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour retirer un tatouage ?",
+      "answer": "Il dresse un bilan qui lui permet d'estimer le nombre de séances nécessaires pour enlever le tatouage, en général de 3 à 10. À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €.2 mars 2021"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:20:41.068Z"
+}

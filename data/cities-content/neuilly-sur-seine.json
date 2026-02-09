@@ -1,0 +1,65 @@
+{
+  "slug": "neuilly-sur-seine",
+  "cityName": "Neuilly-sur-Seine",
+  "businessName": "Centre Laser 1er",
+  "businesses": [
+    {
+      "name": "Centre Laser 1er",
+      "category": "Centre d'épilation laser",
+      "address": "160 Av. Charles de Gaulle l, 92200 Neuilly-sur-Seine",
+      "rating": 4.7,
+      "reviewCount": 92
+    },
+    {
+      "name": "Centre Laser et Médecine Esthétique - LAZULYS",
+      "category": "Centre d'épilation laser",
+      "address": "16 Pl. du Marché, 92200 Neuilly-sur-Seine",
+      "rating": 4.8,
+      "reviewCount": 36
+    },
+    {
+      "name": "Dr Brigitte DESPORTE - Médecine esthétique et anti-âge- injection acide hyaluronique Centre laser esthétique",
+      "category": "Médecin",
+      "address": "16 Pl. de Verdun, 92200 Neuilly-sur-Seine",
+      "rating": 4.3,
+      "reviewCount": 53
+    },
+    {
+      "name": "Centre Laser et Esthetique de Neuilly-sur-Seine",
+      "category": "Centre d'épilation laser",
+      "address": "146 bis Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "ELASE",
+      "category": "Centre d'épilation laser",
+      "address": "23 Rue Montrosier, 92200 Neuilly-sur-Seine",
+      "rating": 4.5,
+      "reviewCount": 61
+    },
+    {
+      "name": "Dr Julie Assous",
+      "category": "Médecin",
+      "address": "93 Av. Achille Peretti, 92200 Neuilly-sur-Seine",
+      "rating": 5,
+      "reviewCount": 15
+    }
+  ],
+  "description": "Centre Laser 1er fait partie des centres de détatouage laser à Neuilly-sur-Seine. Avec une note de 4.7/5 sur 92 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Neuilly-sur-Seine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:12:26.465Z"
+}

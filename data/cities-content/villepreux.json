@@ -1,0 +1,31 @@
+{
+  "slug": "villepreux",
+  "cityName": "Villepreux",
+  "businessName": "Quoc-Anh Tattoo",
+  "businesses": [
+    {
+      "name": "Quoc-Anh Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Av. de Villepreux, 78340 Les Clayes-sous-Bois",
+      "rating": 4.7,
+      "reviewCount": 337
+    },
+    {
+      "name": "Lummy institutPropose : Détatouage tatouage corps",
+      "category": "Institut de beauté",
+      "address": "7 Rue de Vaugirard, 78450 Villepreux",
+      "rating": 4.9,
+      "reviewCount": 126
+    },
+    {
+      "name": "Mine à Tatouage",
+      "category": "Tatoueur",
+      "address": "13 Rue Maurice Ravel, 78390 Bois-d'Arcy",
+      "rating": 5,
+      "reviewCount": 130
+    }
+  ],
+  "description": "Quoc-Anh Tattoo fait partie des centres de détatouage laser à Villepreux. Avec une note de 4.7/5 sur 337 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villepreux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:30:40.622Z"
+}

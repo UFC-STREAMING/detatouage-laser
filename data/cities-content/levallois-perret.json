@@ -1,0 +1,52 @@
+{
+  "slug": "levallois-perret",
+  "cityName": "Levallois-Perret",
+  "businessName": "CSHP Levallois-Perret",
+  "businesses": [
+    {
+      "name": "CSHP Levallois-Perret",
+      "category": "Centre d'épilation laser",
+      "address": "104 Rue Louis Rouquier, 92300 Levallois-Perret",
+      "rating": 4.7,
+      "reviewCount": 195
+    },
+    {
+      "name": "Medecine esthétique laser - Levallois - Dr Jennifer Ichou",
+      "category": "Centre d'épilation laser",
+      "address": "58 Rue du Président Wilson, 92300 Levallois-Perret",
+      "rating": 4.6,
+      "reviewCount": 108
+    },
+    {
+      "name": "Lazeo Levallois",
+      "category": "Centre d'épilation laser",
+      "address": "29 Rue Victor Hugo, 92300 Levallois-Perret",
+      "rating": 4.8,
+      "reviewCount": 226
+    },
+    {
+      "name": "Dr Benjamin ABEZIZ - Centre Médical Laser et Esthétique de Levallois",
+      "category": "Médecin",
+      "address": "58 Rue du Président Wilson, 92300 Levallois-Perret",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Clinique Des Champs Elysées Levallois - Médecine esthétiquePropose : Épilation laser",
+      "category": "Clinique spécialisée",
+      "address": "38-48 Rue Victor Hugo, 92300 Levallois-Perret",
+      "rating": 4.9,
+      "reviewCount": 207
+    },
+    {
+      "name": "LOOK'STHETIK Maquillage Permanent & Détatouage",
+      "category": "Clinique de maquillage permanent",
+      "address": "97 Rue Danton, 92300 Levallois-Perret",
+      "rating": 4.5,
+      "reviewCount": 157
+    }
+  ],
+  "description": "CSHP Levallois-Perret fait partie des centres de détatouage laser à Levallois-Perret. Avec une note de 4.7/5 sur 195 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Levallois-Perret.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:09:56.273Z"
+}

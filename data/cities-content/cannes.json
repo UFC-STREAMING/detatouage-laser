@@ -1,0 +1,52 @@
+{
+  "slug": "cannes",
+  "cityName": "Cannes",
+  "businessName": "Clinique esthétique le verdun - CannesPropose : Laser détatouage",
+  "businesses": [
+    {
+      "name": "Clinique esthétique le verdun - CannesPropose : Laser détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "11 Rue Jean de Riouffe, 06400 Cannes",
+      "rating": 4.9,
+      "reviewCount": 607
+    },
+    {
+      "name": "All Aesthetics",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue d'Alger, 06400 Cannes",
+      "rating": 4.9,
+      "reviewCount": 125
+    },
+    {
+      "name": "Clinique 163",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Jean Daumas, 06400 Cannes",
+      "rating": 4.8,
+      "reviewCount": 46
+    },
+    {
+      "name": "Microneedling Cannes. Beauty Solution by SarahPropose : Détatouage sans laser méthode Skinial",
+      "category": "Institut de soins du visage",
+      "address": "Résidence Lou Suquétan, 33 Rue des Suisses, 06400 Cannes",
+      "rating": 5,
+      "reviewCount": 12
+    },
+    {
+      "name": "Epilation Laser | Centre de Chirurgie Esthétique Cannes",
+      "category": "Centre d'épilation laser",
+      "address": "101 Rue d'Antibes, 06400 Cannes",
+      "rating": 4.8,
+      "reviewCount": 47
+    },
+    {
+      "name": "Docteur Thierry BLOCH - Médecine Esthétique",
+      "category": "Médecin",
+      "address": "Cabinet médical %2F Médecine Esthétique, 24 Av. Jean de Lattre de Tassigny, 06400 Cannes",
+      "rating": 4.7,
+      "reviewCount": 38
+    }
+  ],
+  "description": "Clinique esthétique le verdun - CannesPropose : Laser détatouage fait partie des centres de détatouage laser à Cannes. Avec une note de 4.9/5 sur 607 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cannes.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:09:14.228Z"
+}

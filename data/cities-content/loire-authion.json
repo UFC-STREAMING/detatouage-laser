@@ -1,0 +1,44 @@
+{
+  "slug": "loire-authion",
+  "cityName": "Loire-Authion",
+  "businessName": "Projekt tattoo",
+  "businesses": [
+    {
+      "name": "Projekt tattoo",
+      "category": "Tatoueur",
+      "address": "1 place des graminées",
+      "rating": 5,
+      "reviewCount": 240
+    },
+    {
+      "name": "Nina Art Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 place des graminées, 49800 Loire-Authion",
+      "rating": 5,
+      "reviewCount": 33
+    },
+    {
+      "name": "Vainae | Épilation laser et Soins esthétiques | Angers",
+      "category": "Centre d'épilation laser",
+      "address": "Les Ponts-de-Cé",
+      "rating": 5,
+      "reviewCount": 38
+    }
+  ],
+  "description": "Projekt tattoo fait partie des centres de détatouage laser à Loire-Authion. Avec une note de 5/5 sur 240 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Loire-Authion.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage au laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment se faire rembourser un détatouage ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:01:37.010Z"
+}

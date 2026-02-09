@@ -1,0 +1,31 @@
+{
+  "slug": "maizieres-les-metz",
+  "cityName": "Maizières-lès-Metz",
+  "businessName": "Jc Esthétique",
+  "businesses": [
+    {
+      "name": "Jc Esthétique",
+      "category": "Institut de beauté",
+      "address": "32b Rte de Metz",
+      "rating": 4.4,
+      "reviewCount": 40
+    },
+    {
+      "name": "Concept Art Tattoo",
+      "category": "Tatoueur",
+      "address": "4 Rue Paul Eluard, 57525 Talange",
+      "rating": 4.9,
+      "reviewCount": 46
+    },
+    {
+      "name": "Détatouage Laser Médical Metz Thionville Luxembourg PICO Q-Switched",
+      "category": "Médecin",
+      "address": "Metz",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Jc Esthétique fait partie des centres de détatouage laser à Maizières-lès-Metz. Avec une note de 4.4/5 sur 40 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Maizières-lès-Metz.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:33:11.535Z"
+}

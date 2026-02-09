@@ -1,0 +1,44 @@
+{
+  "slug": "bouc-bel-air",
+  "cityName": "Bouc-Bel-Air",
+  "businessName": "Centre Laser Dermatologie Esthetique",
+  "businesses": [
+    {
+      "name": "Centre Laser Dermatologie Esthetique",
+      "category": "Centre d'épilation laser",
+      "address": "1596 Av. de la Croix d'Or, 13320 Bouc-Bel-Air",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Dr Roudil",
+      "category": "Centre d'épilation laser",
+      "address": "1596 Av. de la Croix d'Or, 13320 Bouc-Bel-Air",
+      "rating": 4.5,
+      "reviewCount": 144
+    },
+    {
+      "name": "DermoEclat - Centre de soins Dermo-Esthétiques",
+      "category": "Centre de bien-être",
+      "address": "111 Chem. de Sauvecanne, 13320 Bouc-Bel-Air",
+      "rating": 5,
+      "reviewCount": 35
+    }
+  ],
+  "description": "Centre Laser Dermatologie Esthetique fait partie des centres de détatouage laser à Bouc-Bel-Air. Avec une note de 5/5 sur 3 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bouc-Bel-Air.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:07:58.456Z"
+}

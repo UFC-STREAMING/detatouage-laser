@@ -1,0 +1,31 @@
+{
+  "slug": "saint-fargeau-ponthierry",
+  "cityName": "Saint-Fargeau-Ponthierry",
+  "businessName": "Everskin Center - Épilation Laser & Cryolipolyse - Saint-Fargeau-Ponthierry",
+  "businesses": [
+    {
+      "name": "Everskin Center - Épilation Laser & Cryolipolyse - Saint-Fargeau-Ponthierry",
+      "category": "Centre d'épilation laser",
+      "address": "125 TER Av. de Fontainebleau, 77310 Saint-Fargeau-Ponthierry",
+      "rating": 5,
+      "reviewCount": 83
+    },
+    {
+      "name": "RÊVE & oh !",
+      "category": "Centre d'épilation laser",
+      "address": "40 Av. Albert Beaufils, 77310 Saint-Fargeau-Ponthierry",
+      "rating": 4.9,
+      "reviewCount": 162
+    },
+    {
+      "name": "Institut Dalila BeautéPropose : Épilation laser",
+      "category": "Service d'épilation à la cire",
+      "address": "20 Av. de Fontainebleau, 77310 Saint-Fargeau-Ponthierry",
+      "rating": 4.8,
+      "reviewCount": 82
+    }
+  ],
+  "description": "Everskin Center - Épilation Laser & Cryolipolyse - Saint-Fargeau-Ponthierry fait partie des centres de détatouage laser à Saint-Fargeau-Ponthierry. Avec une note de 5/5 sur 83 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Fargeau-Ponthierry.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:06:37.636Z"
+}

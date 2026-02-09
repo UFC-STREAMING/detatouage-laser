@@ -1,0 +1,31 @@
+{
+  "slug": "martigues",
+  "cityName": "Martigues",
+  "businessName": "Cabinet laser anti tabac et addictions 13",
+  "businesses": [
+    {
+      "name": "Cabinet laser anti tabac et addictions 13",
+      "category": "Praticien de médecine alternative",
+      "address": "54 Quai Général Leclerc",
+      "rating": 5,
+      "reviewCount": 135
+    },
+    {
+      "name": "DOCTEUR HÉRAULT BARDIN",
+      "category": "Centre d'épilation laser",
+      "address": "Centre Médical Esthétique Laser, 1 Av. du Président Salvadore Allende Immeuble Le Vénitien - 2ème étage",
+      "rating": 4.5,
+      "reviewCount": 176
+    },
+    {
+      "name": "DERMO COSMETIQUES - DETATOUAGES - FORMATIONS",
+      "category": "Institut de soins du visage",
+      "address": "11 Rue Lamartine",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Cabinet laser anti tabac et addictions 13 fait partie des centres de détatouage laser à Martigues. Avec une note de 5/5 sur 135 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Martigues.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:17:00.451Z"
+}

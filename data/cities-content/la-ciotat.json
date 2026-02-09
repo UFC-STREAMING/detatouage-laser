@@ -1,0 +1,52 @@
+{
+  "slug": "la-ciotat",
+  "cityName": "La Ciotat",
+  "businessName": "BLACKLINE STUDIO MAQUILLAGE SEMI PERMANENT DÉTATOUAGE",
+  "businesses": [
+    {
+      "name": "BLACKLINE STUDIO MAQUILLAGE SEMI PERMANENT DÉTATOUAGE",
+      "category": "Service de détatouage",
+      "address": "45 Voie Ariane Athelia 1, 13600 La Ciotat",
+      "rating": 5,
+      "reviewCount": 110
+    },
+    {
+      "name": "Medi-derm'",
+      "category": "Centre médical",
+      "address": "Clinique de la Ciotat, Bd Alphonse de Lamartine, 13600 La Ciotat",
+      "rating": 4.7,
+      "reviewCount": 87
+    },
+    {
+      "name": "L’ATELIER RUBIS",
+      "category": "Tatoueur",
+      "address": "derriere Nature House, 6 Trav. de la Marine, 13600 La Ciotat",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Vanessa Breton - Centre de laser l'Etoile",
+      "category": "Centre d'épilation laser",
+      "address": "392 Av. Ernest Subilia, 13600 La Ciotat",
+      "rating": 5,
+      "reviewCount": 84
+    },
+    {
+      "name": "AS PIGMENTS le matériel pour le maquillage permanent aux normes reach. Le matériel pré-sélectioné pour les professionnels",
+      "category": "Tatoueur",
+      "address": "45 Voie Ariane, 13600 La Ciotat",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "NeoStop Laser – ex NeoLaser La Ciotat",
+      "category": "Clinique",
+      "address": "756 Av. Emile Bodin, 13600 La Ciotat",
+      "rating": 5,
+      "reviewCount": 113
+    }
+  ],
+  "description": "BLACKLINE STUDIO MAQUILLAGE SEMI PERMANENT DÉTATOUAGE fait partie des centres de détatouage laser à La Ciotat. Avec une note de 5/5 sur 110 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Ciotat.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:23:10.543Z"
+}

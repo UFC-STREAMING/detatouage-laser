@@ -1,0 +1,44 @@
+{
+  "slug": "maurepas",
+  "cityName": "Maurepas",
+  "businessName": "Le local à tatouage",
+  "businesses": [
+    {
+      "name": "Le local à tatouage",
+      "category": "Tatoueur",
+      "address": "Av. du Vivarais, 78310 Maurepas",
+      "rating": 5,
+      "reviewCount": 86
+    },
+    {
+      "name": "Time of lashes - Institut de beauté - Maquillage Permanent Extension de cils",
+      "category": "Institut de beauté",
+      "address": "Sq. de Chalosse, 78310 Maurepas",
+      "rating": 5,
+      "reviewCount": 30
+    },
+    {
+      "name": "OC Beauty ParisPropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "5 All. d'Auxois, 78310 Maurepas",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Le local à tatouage fait partie des centres de détatouage laser à Maurepas. Avec une note de 5/5 sur 86 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Maurepas.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:48:40.947Z"
+}

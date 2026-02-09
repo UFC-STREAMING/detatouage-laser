@@ -1,0 +1,65 @@
+{
+  "slug": "saint-andre-les-vergers",
+  "cityName": "Saint-André-les-Vergers",
+  "businessName": "DERMAOZ: Maquillage semi permanent, dermographie, cryolipolyse",
+  "businesses": [
+    {
+      "name": "DERMAOZ: Maquillage semi permanent, dermographie, cryolipolyse",
+      "category": "Institut de beauté",
+      "address": "dermographie, cryolipolyse, 17 Rue Chalmel, 10000 Troyes",
+      "rating": 4.2,
+      "reviewCount": 20
+    },
+    {
+      "name": "Anna Derma",
+      "category": "Centre d'épilation laser",
+      "address": "31 Rue Claude Huez, 10000 Troyes",
+      "rating": 5,
+      "reviewCount": 140
+    },
+    {
+      "name": "Beauty Corporation Head Spa ( Head Spa capillaire, Massage, Tatouage semi-permanent, Piercing et blanchiment dentaire) TROYES",
+      "category": "Esthéticien",
+      "address": "Massage, Tatouage semi-permanent, Piercing et blanchiment dentaire) TROYES, 47 Rue Voltaire, 10000 Troyes",
+      "rating": 4.8,
+      "reviewCount": 177
+    },
+    {
+      "name": "centre laser beauté",
+      "category": "Centre d'épilation laser",
+      "address": "4 Quai de Dampierre, 10000 Troyes",
+      "rating": 4.1,
+      "reviewCount": 73
+    },
+    {
+      "name": "Estetic soins et beauté",
+      "category": "Institut de beauté",
+      "address": "30 Rue des %C3%89pingliers, 10120 Saint-André-les-Vergers",
+      "rating": 5,
+      "reviewCount": 48
+    },
+    {
+      "name": "Reset Laser Troyes - Arrêter de fumer Laser",
+      "category": "Praticien de médecine alternative",
+      "address": "Centre Médical, 1 Rue Argence, 10000 Troyes",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "DERMAOZ: Maquillage semi permanent, dermographie, cryolipolyse fait partie des centres de détatouage laser à Saint-André-les-Vergers. Avec une note de 4.2/5 sur 20 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-André-les-Vergers.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quels sont les tarifs du détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Combien coûte le détatouage au laser  ?",
+      "answer": "Le coût d'une séance de détatouage au laser aux États-Unis varie généralement entre 200 et 500 dollars , en fonction de la taille, de l'ancienneté, de l'emplacement et des couleurs d'encre du tatouage. Un prix unique pour un résultat optimal."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:22:10.184Z"
+}

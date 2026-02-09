@@ -1,0 +1,22 @@
+{
+  "slug": "saran",
+  "cityName": "Saran",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Saran grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saran.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Est-il possible d'enlever complètement un tatouage ?",
+      "answer": "Qu'est-ce que le détatouage ? Le détatouage est un acte de médecine esthétique qui permet d'éliminer un tatouage de manière définitive. Cette technique vise à détruire le pigment artificiel grâce au laser. Il s'agit d'une intervention qui doit être réalisée par un médecin formé à la machine."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:00:16.529Z"
+}

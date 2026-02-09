@@ -1,0 +1,52 @@
+{
+  "slug": "argenteuil",
+  "cityName": "Argenteuil",
+  "businessName": "Maison du Laser - Argenteuil - Epilation, Détatouage et Electrolyse",
+  "businesses": [
+    {
+      "name": "Maison du Laser - Argenteuil - Epilation, Détatouage et Electrolyse",
+      "category": "Centre d'épilation laser",
+      "address": "Détatouage et Electrolyse, 5 Bd Léon Feix, 95100 Argenteuil",
+      "rating": 5,
+      "reviewCount": 721
+    },
+    {
+      "name": "GLAZE Argenteuil | Clinique de Médecine Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "27 Rue Antonin Georges Belin, 95100 Argenteuil",
+      "rating": 4.7,
+      "reviewCount": 96
+    },
+    {
+      "name": "Lazeo Argenteuil",
+      "category": "Centre d'épilation laser",
+      "address": "12 Bd Maurice Berteaux, 95100 Argenteuil",
+      "rating": 4.4,
+      "reviewCount": 210
+    },
+    {
+      "name": "Centre Laser Clinique Claude Bernard",
+      "category": "Centre d'épilation laser",
+      "address": "9 Av. Louis Armand, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 207
+    },
+    {
+      "name": "Maelis Centre Laser Argenteuil - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "43 Rue Alfred Labriere, 95100 Argenteuil",
+      "rating": 5,
+      "reviewCount": 75
+    },
+    {
+      "name": "Gaya Centre Laser Esthétique - Argenteuil",
+      "category": "Centre d'épilation laser",
+      "address": "33 Rue Etienne Chevalier, 95100 Argenteuil",
+      "rating": 4.6,
+      "reviewCount": 22
+    }
+  ],
+  "description": "Maison du Laser - Argenteuil - Epilation, Détatouage et Electrolyse fait partie des centres de détatouage laser à Argenteuil. Avec une note de 5/5 sur 721 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Argenteuil.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:06:04.378Z"
+}

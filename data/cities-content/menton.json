@@ -1,0 +1,44 @@
+{
+  "slug": "menton",
+  "cityName": "Menton",
+  "businessName": "Era Esthetic Avenue",
+  "businesses": [
+    {
+      "name": "Era Esthetic Avenue",
+      "category": "Service de détatouage",
+      "address": "39 Av. Félix Faure, 06500 Menton",
+      "rating": 4.7,
+      "reviewCount": 56
+    },
+    {
+      "name": "Dermaskinn",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rue Isola, 06500 Menton",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Lazeo Menton",
+      "category": "Centre d'épilation laser",
+      "address": "5 Av. Carnot, 06500 Menton",
+      "rating": 4.8,
+      "reviewCount": 81
+    }
+  ],
+  "description": "Era Esthetic Avenue fait partie des centres de détatouage laser à Menton. Avec une note de 4.7/5 sur 56 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Menton.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Est-il possible d'enlever les tatouages ​​du visage  ?",
+      "answer": "En raison de la fragilité de la peau du visage, le détatouage est un processus progressif où chaque séance contribue à atténuer et à éclaircir le tatouage existant . Les grands tatouages \\u200b\\u200bfoncés sont plus difficiles à enlever que les petits tatouages \\u200b\\u200bclairs, car les zones fortement pigmentées nécessitent davantage d'attention.14 avr. 2021"
+    },
+    {
+      "question": "Combien de séance laser pour le menton ?",
+      "answer": "En moyenne, 8 à 12 séances sont nécessaires pour éliminer définitivement les poils du menton."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:30:54.074Z"
+}

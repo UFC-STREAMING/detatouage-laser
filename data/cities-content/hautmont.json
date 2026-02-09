@@ -1,0 +1,40 @@
+{
+  "slug": "hautmont",
+  "cityName": "Hautmont",
+  "businessName": "Hinda_Beauty",
+  "businesses": [
+    {
+      "name": "Hinda_Beauty",
+      "category": "Esthéticien",
+      "address": "5 Pl. Saint-Pierre, 59330 Hautmont",
+      "rating": 5,
+      "reviewCount": 71
+    },
+    {
+      "name": "Pop up Skin",
+      "category": "Centre de bien-être",
+      "address": "9 Rue Thiers, 59330 Hautmont",
+      "rating": 4.9,
+      "reviewCount": 20
+    },
+    {
+      "name": "ADDICT PIERCING TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "95 Av. de France, 59600 Maubeuge",
+      "rating": 4.6,
+      "reviewCount": 195
+    }
+  ],
+  "description": "Hinda_Beauty fait partie des centres de détatouage laser à Hautmont. Avec une note de 5/5 sur 71 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Hautmont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte un nettoyage de peau ?",
+      "answer": "HYDRAFACIAL1 séanceNettoyage de peau dermatologique280€"
+    },
+    {
+      "question": "Détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:13:53.204Z"
+}

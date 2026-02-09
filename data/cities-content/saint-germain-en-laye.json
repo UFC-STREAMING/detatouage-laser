@@ -1,0 +1,52 @@
+{
+  "slug": "saint-germain-en-laye",
+  "cityName": "Saint-Germain-en-Laye",
+  "businessName": "Centre de Médecine Esthétique : Épilation Laser, Détatouage et Électrolyse à Saint-Germain-en-Laye, Yvelines (78)",
+  "businesses": [
+    {
+      "name": "Centre de Médecine Esthétique : Épilation Laser, Détatouage et Électrolyse à Saint-Germain-en-Laye, Yvelines (78)",
+      "category": "Centre d'épilation laser",
+      "address": "Détatouage et %C3%89lectrolyse à Saint-Germain-en-Laye, Yvelines (78), 28 Rue du Maréchal Joffre, 78100 Saint-Germain-en-Laye",
+      "rating": 4.9,
+      "reviewCount": 81
+    },
+    {
+      "name": "Cabinet Médical Dr Husson: Épilation Laser | Épilation Définitive | Couperose | Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "16 Rue Danes de Montardat, 78100 Saint-Germain-en-Laye",
+      "rating": 4.9,
+      "reviewCount": 237
+    },
+    {
+      "name": "Docteur Penna - Médecin Esthétique- Injection Acide Hyaluronique",
+      "category": "Centre d'épilation laser",
+      "address": "28 Rue du Maréchal Joffre, 78100 Saint-Germain-en-Laye",
+      "rating": 4.9,
+      "reviewCount": 203
+    },
+    {
+      "name": "Lazeo Saint Germain",
+      "category": "Centre d'épilation laser",
+      "address": "76 Rue du Maréchal Lyautey, 78100 Saint-Germain-en-Laye",
+      "rating": 4.8,
+      "reviewCount": 271
+    },
+    {
+      "name": "Centre Laser Saint Germain",
+      "category": "Médecin",
+      "address": "68 Rue Léon Désoyer, 78100 Saint-Germain-en-Laye",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "LaserOstop Saint-Germain-en-Laye",
+      "category": "Praticien de médecine alternative",
+      "address": "5 Quai Voltaire, 78230 Le Pecq",
+      "rating": 4.8,
+      "reviewCount": 111
+    }
+  ],
+  "description": "Centre de Médecine Esthétique : Épilation Laser, Détatouage et Électrolyse à Saint-Germain-en-Laye, Yvelines (78) fait partie des centres de détatouage laser à Saint-Germain-en-Laye. Avec une note de 4.9/5 sur 81 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Germain-en-Laye.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:18:43.490Z"
+}

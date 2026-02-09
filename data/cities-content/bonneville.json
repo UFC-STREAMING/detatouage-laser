@@ -1,0 +1,44 @@
+{
+  "slug": "bonneville",
+  "cityName": "Bonneville",
+  "businessName": "LaserAddict Bonneville - Centre anti-tabac et bien-être au laser",
+  "businesses": [
+    {
+      "name": "LaserAddict Bonneville - Centre anti-tabac et bien-être au laser",
+      "category": "Centre de bien-être",
+      "address": "16 Rue des Fourmis",
+      "rating": 4.8,
+      "reviewCount": 24
+    },
+    {
+      "name": "Gothamink Inktattoo",
+      "category": "Tatoueur",
+      "address": "87 Rue Pertuiset",
+      "rating": 4.4,
+      "reviewCount": 140
+    },
+    {
+      "name": "Cil'ine institut",
+      "category": "Salon de piercing",
+      "address": "154 Pl. de l'Hôtel de ville",
+      "rating": 4.8,
+      "reviewCount": 24
+    }
+  ],
+  "description": "LaserAddict Bonneville - Centre anti-tabac et bien-être au laser fait partie des centres de détatouage laser à Bonneville. Avec une note de 4.8/5 sur 24 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bonneville.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:18:41.543Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "noumea",
+  "cityName": "Nouméa",
+  "businessName": "ALAIN GARCIA TATTOOS",
+  "businesses": [
+    {
+      "name": "ALAIN GARCIA TATTOOS",
+      "category": "Tatoueur",
+      "address": "Nouméa, Nouvelle-Calédonie",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "Centre de médecine esthétique Nouméa",
+      "category": "Centre d'épilation laser",
+      "address": "Nouméa, Nouvelle-Calédonie",
+      "rating": 4.8,
+      "reviewCount": 20
+    },
+    {
+      "name": "Tatouage Adrien Nouméa",
+      "category": "Tatoueur",
+      "address": "43 Rue de I'Alma, Nouméa 98800, Nouvelle-Calédonie",
+      "rating": 4.6,
+      "reviewCount": 43
+    }
+  ],
+  "description": "ALAIN GARCIA TATTOOS fait partie des centres de détatouage laser à Nouméa. Avec une note de 5/5 sur 13 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Nouméa.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:07:37.241Z"
+}

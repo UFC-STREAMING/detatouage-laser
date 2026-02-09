@@ -1,0 +1,36 @@
+{
+  "slug": "carcassonne",
+  "cityName": "Carcassonne",
+  "businessName": "Prométhée santé",
+  "businesses": [
+    {
+      "name": "Prométhée santé",
+      "category": "Centre d'épilation laser",
+      "address": "49 All. d'Iéna, 11000 Carcassonne",
+      "rating": 4.8,
+      "reviewCount": 17
+    },
+    {
+      "name": "Fize Jean-Jack",
+      "category": "Centre d'épilation laser",
+      "address": "49 Bd Jean Jaurès, 11000 Carcassonne",
+      "rating": 3.9,
+      "reviewCount": 160
+    },
+    {
+      "name": "La bulle du Temps",
+      "category": "Centre d'épilation laser",
+      "address": "11 Av. Arthur Mullot, 11000 Carcassonne",
+      "rating": 5,
+      "reviewCount": 14
+    }
+  ],
+  "description": "Prométhée santé fait partie des centres de détatouage laser à Carcassonne. Avec une note de 4.8/5 sur 17 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Carcassonne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Impossible de mettre à jour votre positionEn savoir plus"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:18:29.401Z"
+}

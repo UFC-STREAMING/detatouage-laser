@@ -1,0 +1,65 @@
+{
+  "slug": "moulins",
+  "cityName": "Moulins",
+  "businessName": "TattooFactory",
+  "businesses": [
+    {
+      "name": "TattooFactory",
+      "category": "Salon de tatouage et piercing",
+      "address": "63 Rue d'Allier",
+      "rating": 4.9,
+      "reviewCount": 78
+    },
+    {
+      "name": "L'Arboretum Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 Rue Paul Bert",
+      "rating": 4.7,
+      "reviewCount": 25
+    },
+    {
+      "name": "Alex’ellence",
+      "category": "Institut de beauté",
+      "address": "10 Rue Gambetta",
+      "rating": 4.7,
+      "reviewCount": 26
+    },
+    {
+      "name": "Studio 17 art tatoo",
+      "category": "Tatoueur",
+      "address": "5 Rue du 4 Septembre",
+      "rating": 4.9,
+      "reviewCount": 80
+    },
+    {
+      "name": "Institut DermaThérapie | Épilation laser & soins esthétiques | Moulins",
+      "category": "Centre d'épilation laser",
+      "address": "14 Pl. Garibaldi",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "L'oeil de Neptune",
+      "category": "Institut de beauté",
+      "address": "26 Cr Jean Jaurès",
+      "rating": 5,
+      "reviewCount": 73
+    }
+  ],
+  "description": "TattooFactory fait partie des centres de détatouage laser à Moulins. Avec une note de 4.9/5 sur 78 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Moulins.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:53:01.169Z"
+}

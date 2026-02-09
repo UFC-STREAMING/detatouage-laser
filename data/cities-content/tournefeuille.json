@@ -1,0 +1,65 @@
+{
+  "slug": "tournefeuille",
+  "cityName": "Tournefeuille",
+  "businessName": "Confidences Studio",
+  "businesses": [
+    {
+      "name": "Confidences Studio",
+      "category": "Tatoueur",
+      "address": "3 Chem. de Bordeneuve, 31170 Tournefeuille",
+      "rating": 5,
+      "reviewCount": 152
+    },
+    {
+      "name": "Reset Laser Toulouse - Arrêter de fumer 31",
+      "category": "Cabinet médical",
+      "address": "Colomiers",
+      "rating": 5,
+      "reviewCount": 68
+    },
+    {
+      "name": "Ray studios Toulouse - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Toulouse",
+      "rating": 4.9,
+      "reviewCount": 95
+    },
+    {
+      "name": "Tatoo L’Âme",
+      "category": "Salon de tatouage et piercing",
+      "address": "Cugnaux",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Oyatari Tattoo",
+      "category": "Tatoueur",
+      "address": "105 Rue de Belbèze",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Docteur Gaëtane De Saint Paul Dermatologie et Médecine Esthétique",
+      "category": "Dermatologue",
+      "address": "4 Bd Jean Gay",
+      "rating": 4,
+      "reviewCount": 74
+    }
+  ],
+  "description": "Confidences Studio fait partie des centres de détatouage laser à Tournefeuille. Avec une note de 5/5 sur 152 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tournefeuille.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:31:31.913Z"
+}

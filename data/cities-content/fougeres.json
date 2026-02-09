@@ -1,0 +1,65 @@
+{
+  "slug": "fougeres",
+  "cityName": "Fougères",
+  "businessName": "L'encre Dans La Peau",
+  "businesses": [
+    {
+      "name": "L'encre Dans La Peau",
+      "category": "Tatoueur",
+      "address": "12 Pl. Sadi Carnot, 35300 Fougères",
+      "rating": 4.9,
+      "reviewCount": 170
+    },
+    {
+      "name": "Cromeline Studio",
+      "category": "Tatoueur",
+      "address": "1 Rue de la Pinterie, 35300 Fougères",
+      "rating": 4.9,
+      "reviewCount": 80
+    },
+    {
+      "name": "Sight of Body Art",
+      "category": "Salon de piercing",
+      "address": "6 Bd Jean Jaurès, 35300 Fougères",
+      "rating": 4.8,
+      "reviewCount": 74
+    },
+    {
+      "name": "Jaheel Tatouages",
+      "category": "Tatoueur",
+      "address": "54 bis Rue de la Forêt, 35300 Fougères",
+      "rating": 5,
+      "reviewCount": 57
+    },
+    {
+      "name": "Couleur Noir Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "9 Rue de la Forêt, 35300 Fougères",
+      "rating": 5,
+      "reviewCount": 47
+    },
+    {
+      "name": "Psymonk studio",
+      "category": "Tatoueur",
+      "address": "54 bis Rue de la Forêt, 35300 Fougères",
+      "rating": 5,
+      "reviewCount": 16
+    }
+  ],
+  "description": "L'encre Dans La Peau fait partie des centres de détatouage laser à Fougères. Avec une note de 4.9/5 sur 170 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fougères.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour faire retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:49:57.558Z"
+}

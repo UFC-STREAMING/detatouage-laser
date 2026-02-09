@@ -1,0 +1,52 @@
+{
+  "slug": "henin-beaumont",
+  "cityName": "Hénin-Beaumont",
+  "businessName": "BLACK AREA TATTOO PIERCING",
+  "businesses": [
+    {
+      "name": "BLACK AREA TATTOO PIERCING",
+      "category": "Salon de tatouage et piercing",
+      "address": "411 Rue %C3%89lie Gruyelle, 62110 Hénin-Beaumont",
+      "rating": 5,
+      "reviewCount": 210
+    },
+    {
+      "name": "Ordischewski AlainPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "27 Rue de Valmy, 62110 Hénin-Beaumont",
+      "rating": 4.8,
+      "reviewCount": 61
+    },
+    {
+      "name": "Les Pluies d'AvrilPropose : Lettrage de tatouage personnalisé",
+      "category": "Tatoueur",
+      "address": "16 Rue %C3%89lie Gruyelle, 62110 Hénin-Beaumont",
+      "rating": 4.9,
+      "reviewCount": 73
+    },
+    {
+      "name": "Mickey inkedPropose : Tatouage couleur",
+      "category": "Tatoueur",
+      "address": "360 Bd du Maréchal Joffre, 62110 Hénin-Beaumont",
+      "rating": 5,
+      "reviewCount": 199
+    },
+    {
+      "name": "Rhomstattoo",
+      "category": "Tatoueur",
+      "address": "16 Rue %C3%89lie Gruyelle, 62110 Hénin-Beaumont",
+      "rating": 4.8,
+      "reviewCount": 26
+    },
+    {
+      "name": "Pik tattooPropose : Soins après tatouage",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 16
+    }
+  ],
+  "description": "BLACK AREA TATTOO PIERCING fait partie des centres de détatouage laser à Hénin-Beaumont. Avec une note de 5/5 sur 210 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Hénin-Beaumont.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:38:10.142Z"
+}

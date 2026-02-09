@@ -1,0 +1,31 @@
+{
+  "slug": "les-lilas",
+  "cityName": "Les Lilas",
+  "businessName": "CABINET ESTHETIQUE LES LILAS",
+  "businesses": [
+    {
+      "name": "CABINET ESTHETIQUE LES LILAS",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rue Francine Fromond",
+      "rating": 4.8,
+      "reviewCount": 74
+    },
+    {
+      "name": "Esthetic medicare center. Dr Catherine Eychenne, centre de Médecine Esthétique et laser des Lilas",
+      "category": "Centre d'épilation laser",
+      "address": "13 Rue Léon Renault",
+      "rating": 4.1,
+      "reviewCount": 70
+    },
+    {
+      "name": "Ray studios Paris Opéra - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Paris",
+      "rating": 4.7,
+      "reviewCount": 583
+    }
+  ],
+  "description": "CABINET ESTHETIQUE LES LILAS fait partie des centres de détatouage laser à Les Lilas. Avec une note de 4.8/5 sur 74 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Les Lilas.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:40:59.663Z"
+}

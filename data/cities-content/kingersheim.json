@@ -1,0 +1,31 @@
+{
+  "slug": "kingersheim",
+  "cityName": "Kingersheim",
+  "businessName": "Laser ARRÊTER de FUMER Mulhouse",
+  "businesses": [
+    {
+      "name": "Laser ARRÊTER de FUMER Mulhouse",
+      "category": "Praticien de médecine alternative",
+      "address": "77 Rue Claude Debussy, 68260 Kingersheim",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "GUL ART BEAUTY • Salon de Beauté & Esthétique KingersheimPropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "55 Rue de Hirschau, 68260 Kingersheim",
+      "rating": 4.9,
+      "reviewCount": 129
+    },
+    {
+      "name": "Dinastétique esthéticienne visagiste dermographePropose : Detatouage",
+      "category": "Institut de beauté",
+      "address": "44 Rue du 20 Janvier, 68200 Mulhouse",
+      "rating": 4.9,
+      "reviewCount": 96
+    }
+  ],
+  "description": "Laser ARRÊTER de FUMER Mulhouse fait partie des centres de détatouage laser à Kingersheim. Avec une note de 5/5 sur 16 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Kingersheim.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:18:29.557Z"
+}

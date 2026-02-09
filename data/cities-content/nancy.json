@@ -1,0 +1,44 @@
+{
+  "slug": "nancy",
+  "cityName": "Nancy",
+  "businessName": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg",
+  "businesses": [
+    {
+      "name": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg",
+      "category": "Service de détatouage",
+      "address": "160a Rue Saint-Dizier, 54000 Nancy",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Calliopé Médecine Esthétique |Injection d'acide hyaluronique |Greffe Capillaire | Laser | Détatouage | Épilation | HIFU",
+      "category": "Service de détatouage",
+      "address": "160a Rue Saint-Dizier, 54000 Nancy",
+      "rating": 4.9,
+      "reviewCount": 91
+    },
+    {
+      "name": "Centre laser CtrlZ - Nancy",
+      "category": "Service de détatouage",
+      "address": "9 Rue des Carmes, 54000 Nancy",
+      "rating": 4.8,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg fait partie des centres de détatouage laser à Nancy. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Nancy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour retirer un tatouage ?",
+      "answer": "Il dresse un bilan qui lui permet d'estimer le nombre de séances nécessaires pour enlever le tatouage, en général de 3 à 10. À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €.2 mars 2021"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:06:19.318Z"
+}

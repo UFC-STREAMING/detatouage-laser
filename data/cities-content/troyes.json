@@ -1,0 +1,31 @@
+{
+  "slug": "troyes",
+  "cityName": "Troyes",
+  "businessName": "centre laser beauté",
+  "businesses": [
+    {
+      "name": "centre laser beauté",
+      "category": "Centre d'épilation laser",
+      "address": "4 Quai de Dampierre, 10000 Troyes",
+      "rating": 4.1,
+      "reviewCount": 73
+    },
+    {
+      "name": "DERMAOZ: Maquillage semi permanent, dermographie, cryolipolyse",
+      "category": "Institut de beauté",
+      "address": "dermographie, cryolipolyse, 17 Rue Chalmel, 10000 Troyes",
+      "rating": 4.2,
+      "reviewCount": 20
+    },
+    {
+      "name": "Anna Derma",
+      "category": "Centre d'épilation laser",
+      "address": "31 Rue Claude Huez, 10000 Troyes",
+      "rating": 5,
+      "reviewCount": 140
+    }
+  ],
+  "description": "centre laser beauté fait partie des centres de détatouage laser à Troyes. Avec une note de 4.1/5 sur 73 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Troyes.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:11:52.350Z"
+}

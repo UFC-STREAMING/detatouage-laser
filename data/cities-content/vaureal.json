@@ -1,0 +1,44 @@
+{
+  "slug": "vaureal",
+  "cityName": "Vauréal",
+  "businessName": "Happy Body by Tanie",
+  "businesses": [
+    {
+      "name": "Happy Body by Tanie",
+      "category": "Programme de bien-être",
+      "address": "25 Rue des Sarments",
+      "rating": 5,
+      "reviewCount": 55
+    },
+    {
+      "name": "Dermo by Sam",
+      "category": "Clinique de maquillage permanent",
+      "address": "Cergy",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "LaserOstop Vauréal-Cergy",
+      "category": "Praticien de médecine alternative",
+      "address": "1 Pl. de la Bussie",
+      "rating": 4.8,
+      "reviewCount": 89
+    }
+  ],
+  "description": "Happy Body by Tanie fait partie des centres de détatouage laser à Vauréal. Avec une note de 5/5 sur 55 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vauréal.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:04:11.316Z"
+}

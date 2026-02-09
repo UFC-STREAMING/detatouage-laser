@@ -1,0 +1,31 @@
+{
+  "slug": "bischwiller",
+  "cityName": "Bischwiller",
+  "businessName": "L'indélébile Tattoo",
+  "businesses": [
+    {
+      "name": "L'indélébile Tattoo",
+      "category": "Tatoueur",
+      "address": "20 Rue du Maréchal Foch, 67240 Bischwiller",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Institut Julia",
+      "category": "Siège social",
+      "address": "Imp. du Furet, 67240 Bischwiller",
+      "rating": 4.1,
+      "reviewCount": 38
+    },
+    {
+      "name": "Blue Pixie Tattoo",
+      "category": "Tatoueur",
+      "address": "2 Rue des Charrons, 67240 Bischwiller",
+      "rating": 4.8,
+      "reviewCount": 36
+    }
+  ],
+  "description": "L'indélébile Tattoo fait partie des centres de détatouage laser à Bischwiller. Avec une note de 5/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bischwiller.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:27:34.789Z"
+}

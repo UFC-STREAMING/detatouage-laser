@@ -1,0 +1,31 @@
+{
+  "slug": "la-motte-servolex",
+  "cityName": "La Motte-Servolex",
+  "businessName": "Cabinet détatouage Chambéry Savoie",
+  "businesses": [
+    {
+      "name": "Cabinet détatouage Chambéry Savoie",
+      "category": "Service de détatouage",
+      "address": "Barby",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Borla Darve Geraldine",
+      "category": "Dermatologue",
+      "address": "81 Rue de la Petite Eau",
+      "rating": 4.2,
+      "reviewCount": 55
+    },
+    {
+      "name": "Tattoo Art Beauty (Uniquement sur RDV)",
+      "category": "Tatoueur",
+      "address": "110 Rés Saint-Anne",
+      "rating": 5,
+      "reviewCount": 53
+    }
+  ],
+  "description": "Cabinet détatouage Chambéry Savoie fait partie des centres de détatouage laser à La Motte-Servolex. Avec une note de 5/5 sur 3 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Motte-Servolex.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:28:52.514Z"
+}

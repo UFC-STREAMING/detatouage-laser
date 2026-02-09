@@ -1,0 +1,44 @@
+{
+  "slug": "faches-thumesnil",
+  "cityName": "Faches-Thumesnil",
+  "businessName": "Ray studios Lille - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "Centre Esthétique Laser Lille - Epilation laser - Médecine anti âge - Soin capillaire",
+      "category": "Centre d'épilation laser",
+      "address": "140 Rue du Faubourg d'Arras, 59000 Lille",
+      "rating": 5,
+      "reviewCount": 80
+    },
+    {
+      "name": "Maison Chloë Beauté & Onglerie",
+      "category": "Centre d'épilation laser",
+      "address": "16 Rue Faidherbe, 59155 Faches-Thumesnil",
+      "rating": 5,
+      "reviewCount": 17
+    }
+  ],
+  "description": "Ray studios Lille - centre de détatouage laser fait partie des centres de détatouage laser à Faches-Thumesnil. Avec une note de 5/5 sur 74 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Faches-Thumesnil.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte un détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:55:14.875Z"
+}

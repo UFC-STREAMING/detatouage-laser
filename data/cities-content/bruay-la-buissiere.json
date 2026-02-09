@@ -1,0 +1,61 @@
+{
+  "slug": "bruay-la-buissiere",
+  "cityName": "Bruay-la-Buissière",
+  "businessName": "L'encre De Medellin Salon",
+  "businesses": [
+    {
+      "name": "L'encre De Medellin Salon",
+      "category": "Tatoueur",
+      "address": "42 Rue de la République",
+      "rating": 4.9,
+      "reviewCount": 353
+    },
+    {
+      "name": "centre laser - médecine esthétique - nord pas de calais",
+      "category": "Centre d'épilation laser",
+      "address": "54 Rue d'Alsace",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Ink Industry 2.0",
+      "category": "Tatoueur",
+      "address": "1812 Rue de la Libération",
+      "rating": 5,
+      "reviewCount": 63
+    },
+    {
+      "name": "Cabinet Andrzejewski - Médecine vasculaire - Esthétique & Laser",
+      "category": "Médecin",
+      "address": "54 E Rue d'Alsace, 62700 Bruay-la-Buissière",
+      "rating": 4.6,
+      "reviewCount": 62
+    },
+    {
+      "name": "Aurelien Lemaire Réalisme",
+      "category": "Tatoueur",
+      "address": "226 Rue Jules Guesde",
+      "rating": 4.5,
+      "reviewCount": 47
+    },
+    {
+      "name": "Ta-Tou Bazar",
+      "category": "Magasin discount",
+      "address": "61 Rue Arthur Lamendin",
+      "rating": 4.3,
+      "reviewCount": 127
+    }
+  ],
+  "description": "L'encre De Medellin Salon fait partie des centres de détatouage laser à Bruay-la-Buissière. Avec une note de 4.9/5 sur 353 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bruay-la-Buissière.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Le détatouage au laser est-il dangereux ?",
+      "answer": "Les encres noires contiennent des hydrocarbures aromatiques polycycliques dangereux. Effets du laser sur la peau tatouée : Le détatouage libère dans l'organisme des métaux ou des sous-produits organiques connus pour être toxiques, cancérigènes ou mutagènes (seul ou en cocktails)."
+    },
+    {
+      "question": "Comment puis-je me faire détatouer ?",
+      "answer": "L'encre de tatouage remonte en effet progressivement à la surface du derme, jusqu'à disparaître. Le détatouage au laser doit impérativement être pratiqué par un médecin agréé, formé au maniement du laser. Nous vous conseillons vivement de passer par un centre laser renommé pour faire enlever vos tatouages sans risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:46:23.368Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "saint-brevin-les-pins",
+  "cityName": "Saint-Brevin-les-Pins",
+  "businessName": "Lesage Tattoo",
+  "businesses": [
+    {
+      "name": "Lesage Tattoo",
+      "category": "Tatoueur",
+      "address": "262 Av. de Mindin, 44250 Saint-Brevin-les-Pins",
+      "rating": 4.9,
+      "reviewCount": 180
+    },
+    {
+      "name": "L'institut des Pins | Soins visage et traitements de la peau",
+      "category": "Centre d'épilation laser",
+      "address": "11 Rue de Pornic, 44250 Saint-Brevin-les-Pins",
+      "rating": 5,
+      "reviewCount": 188
+    },
+    {
+      "name": "Saint Brev'Ink",
+      "category": "Salon de tatouage et piercing",
+      "address": "52 Av. du Président Roosevelt, 44250 Saint-Brevin-les-Pins",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "Le Boudoir De Tara",
+      "category": "Institut de beauté",
+      "address": "6 All. de la Tour Carrée, 44250 Saint-Brevin l%E2%80%99Océan",
+      "rating": 4.9,
+      "reviewCount": 156
+    },
+    {
+      "name": "Emi.C Tattoo",
+      "category": "Tatoueur",
+      "address": "l'océan, 6 All. de la Tour Carrée, 44250 Saint-Brevin-les-Pins",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Beauté Naturel",
+      "category": "Institut de beauté",
+      "address": "26 Rue de Pornic, 44250 Saint-Brevin-les-Pins",
+      "rating": 4.7,
+      "reviewCount": 116
+    }
+  ],
+  "description": "Lesage Tattoo fait partie des centres de détatouage laser à Saint-Brevin-les-Pins. Avec une note de 4.9/5 sur 180 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Brevin-les-Pins.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:11:49.136Z"
+}

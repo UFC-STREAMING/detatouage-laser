@@ -1,0 +1,65 @@
+{
+  "slug": "draguignan",
+  "cityName": "Draguignan",
+  "businessName": "Alexis B. Maquillage Permanent & Dermopigmentation - Certifié PHIBROWS ArtistPropose : Tatouage de sourcils",
+  "businesses": [
+    {
+      "name": "Alexis B. Maquillage Permanent & Dermopigmentation - Certifié PHIBROWS ArtistPropose : Tatouage de sourcils",
+      "category": "Clinique de maquillage permanent",
+      "address": "49 All. d'Azémar, 83300 Draguignan",
+      "rating": 4.8,
+      "reviewCount": 104
+    },
+    {
+      "name": "Dermoclinique // maquillage permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "381 Bd Jean Mermoz, 83300 Draguignan",
+      "rating": 4.5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Institut de Beauté Isabelle D.",
+      "category": "Institut de beauté",
+      "address": "6 Bd Georges Clemenceau, 83300 Draguignan",
+      "rating": 4.9,
+      "reviewCount": 370
+    },
+    {
+      "name": "Derma CapillisPropose : Tatouage de cils",
+      "category": "Clinique de maquillage permanent",
+      "address": "12 Trav. des Ferrières, 83490 Le Muy",
+      "rating": 5,
+      "reviewCount": 22
+    },
+    {
+      "name": "Marchal and Steel",
+      "category": "Salon de tatouage et piercing",
+      "address": "65 Av. du Général de Gaulle, 83300 Draguignan",
+      "rating": 4.8,
+      "reviewCount": 306
+    },
+    {
+      "name": "Jull’s • tatouages sur mesure et tattoo coversPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "bd Jean Mermoz 381 Salon Dermoclinique 1er étage, 83300 Draguignan",
+      "rating": 4.8,
+      "reviewCount": 275
+    }
+  ],
+  "description": "Alexis B. Maquillage Permanent & Dermopigmentation - Certifié PHIBROWS ArtistPropose : Tatouage de sourcils fait partie des centres de détatouage laser à Draguignan. Avec une note de 4.8/5 sur 104 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Draguignan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Combien coûte le détatouage au laser  ?",
+      "answer": "Le coût d'une séance de détatouage au laser aux États-Unis varie généralement entre 200 et 500 dollars , en fonction de la taille, de l'ancienneté, de l'emplacement et des couleurs d'encre du tatouage. Un prix unique pour un résultat optimal."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:22:06.229Z"
+}

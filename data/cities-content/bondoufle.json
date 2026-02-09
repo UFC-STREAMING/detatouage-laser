@@ -1,0 +1,44 @@
+{
+  "slug": "bondoufle",
+  "cityName": "Bondoufle",
+  "businessName": "Cabinet de Tricopigmentation Paris & Essonne - Perfection PigmentPropose : Tatouage capillaire",
+  "businesses": [
+    {
+      "name": "Cabinet de Tricopigmentation Paris & Essonne - Perfection PigmentPropose : Tatouage capillaire",
+      "category": "Service de remplacement capillaire",
+      "address": "Rue Simone Signoret, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 5,
+      "reviewCount": 99
+    },
+    {
+      "name": "Dyfadermo - Maquillage Permanent & Semi Permanent - Epilation définitive - 91 EssonnePropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "83 Av. Gabriel Péri, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 4.9,
+      "reviewCount": 170
+    },
+    {
+      "name": "My Beauty ink",
+      "category": "Service de détatouage",
+      "address": "2 bis Rue de la Terrasse, 91160 Longjumeau",
+      "rating": 5,
+      "reviewCount": 188
+    }
+  ],
+  "description": "Cabinet de Tricopigmentation Paris & Essonne - Perfection PigmentPropose : Tatouage capillaire fait partie des centres de détatouage laser à Bondoufle. Avec une note de 5/5 sur 99 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bondoufle.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:40:13.258Z"
+}

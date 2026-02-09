@@ -1,0 +1,44 @@
+{
+  "slug": "sainte-luce-sur-loire",
+  "cityName": "Sainte-Luce-sur-Loire",
+  "businessName": "Ray studios Nantes - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Nantes - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "39 Bd Gabriel Guist'Hau, 44000 Nantes",
+      "rating": 4.9,
+      "reviewCount": 145
+    },
+    {
+      "name": "Laser Métal Design",
+      "category": "Service de découpe au laser",
+      "address": "247 Rue de la Bougrière B%C3%A2timent B, 44980 Sainte-Luce-sur-Loire",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Los Santos Customs TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "37 Rue du Nouveau Bêle, 44470 Carquefou",
+      "rating": 5,
+      "reviewCount": 4
+    }
+  ],
+  "description": "Ray studios Nantes - centre de détatouage laser fait partie des centres de détatouage laser à Sainte-Luce-sur-Loire. Avec une note de 4.9/5 sur 145 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sainte-Luce-sur-Loire.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût moyen d'un détatouage ?",
+      "answer": "Le coût moyen national* d'un détatouage est de 353 $, mais peut varier entre 272 $ et 659 $. Ce coût peut varier en fonction de plusieurs facteurs, notamment : la taille du tatouage et la profondeur de l'encre."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:02:40.388Z"
+}

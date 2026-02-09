@@ -1,0 +1,65 @@
+{
+  "slug": "saint-mande",
+  "cityName": "Saint-Mandé",
+  "businessName": "Epilation Laser & Medecine Esthetique | LASER NESS - Saint Mande 94",
+  "businesses": [
+    {
+      "name": "Epilation Laser & Medecine Esthetique | LASER NESS - Saint Mande 94",
+      "category": "Centre d'épilation laser",
+      "address": "61 bis Av. du Général de Gaulle",
+      "rating": 4.7,
+      "reviewCount": 401
+    },
+    {
+      "name": "Laser Épilatoire - Dr Etty Grynberg Laloum",
+      "category": "Centre d'épilation laser",
+      "address": "8 Av. Foch",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Détatouage sans laser",
+      "category": "Service de détatouage",
+      "address": "Paris",
+      "rating": 1,
+      "reviewCount": 1
+    },
+    {
+      "name": "Silk Light - Centre épilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "Vincennes",
+      "rating": 4.9,
+      "reviewCount": 15
+    },
+    {
+      "name": "EMMA GUETTA",
+      "category": "Institut de beauté",
+      "address": "4 Rue Poirier",
+      "rating": 4.2,
+      "reviewCount": 150
+    },
+    {
+      "name": "Centre médical laser et esthétique - Dr Besma THOUMIE MISSAOUI",
+      "category": "Médecin",
+      "address": "2 Av. Antoine Quinson, 94300 Vincennes",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "Epilation Laser & Medecine Esthetique | LASER NESS - Saint Mande 94 fait partie des centres de détatouage laser à Saint-Mandé. Avec une note de 4.7/5 sur 401 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Mandé.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:47:17.011Z"
+}

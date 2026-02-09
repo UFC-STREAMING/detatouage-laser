@@ -1,0 +1,52 @@
+{
+  "slug": "luneville",
+  "cityName": "Lunéville",
+  "businessName": "Namast'ink",
+  "businesses": [
+    {
+      "name": "Namast'ink",
+      "category": "Tatoueur",
+      "address": "49 Rue d'Alsace, 54300 Lunéville",
+      "rating": 5,
+      "reviewCount": 66
+    },
+    {
+      "name": "DORIAN STUDIO - Tatoueur Perceur Lunéville",
+      "category": "Salon de tatouage et piercing",
+      "address": "27 Rue Germain Charier, 54300 Lunéville",
+      "rating": 5,
+      "reviewCount": 302
+    },
+    {
+      "name": "Rose Moon Garden",
+      "category": "Salon de tatouage et piercing",
+      "address": "43 Rue de la République, 54300 Lunéville",
+      "rating": 5,
+      "reviewCount": 54
+    },
+    {
+      "name": "BLOOM INKDUSTRY Tatouages et piercings",
+      "category": "Salon de tatouage et piercing",
+      "address": "38 Rue des Bosquets, 54300 Lunéville",
+      "rating": 5,
+      "reviewCount": 118
+    },
+    {
+      "name": "TEMA TATTOO SHOP tatoueur polynesien de Nancy",
+      "category": "Tatoueur",
+      "address": "Rue de la Charité, 54300 Lunéville",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Dr Charlène BAUDOT",
+      "category": "Centre d'épilation laser",
+      "address": "5 Rue du Coq, 54300 Lunéville",
+      "rating": 4.3,
+      "reviewCount": 12
+    }
+  ],
+  "description": "Namast'ink fait partie des centres de détatouage laser à Lunéville. Avec une note de 5/5 sur 66 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lunéville.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:56:55.438Z"
+}

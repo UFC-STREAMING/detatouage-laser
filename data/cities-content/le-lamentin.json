@@ -1,0 +1,52 @@
+{
+  "slug": "le-lamentin",
+  "cityName": "Le Lamentin",
+  "businessName": "La Clinic’Piercings",
+  "businesses": [
+    {
+      "name": "La Clinic’Piercings",
+      "category": "Service de détatouage",
+      "address": "Le Lamentin, Martinique",
+      "rating": 4.8,
+      "reviewCount": 26
+    },
+    {
+      "name": "CapDermo",
+      "category": "Service de détatouage",
+      "address": "Immeuble Ixora, 97 Av. Georges Gratiant, Le Lamentin 97232, Martinique",
+      "rating": 4.9,
+      "reviewCount": 84
+    },
+    {
+      "name": "CRYSTAL INK",
+      "category": "Salon de tatouage et piercing",
+      "address": "20 Place Emile Berlan, Le Lamentin 97232, Martinique",
+      "rating": 3.6,
+      "reviewCount": 16
+    },
+    {
+      "name": "Centre Ô Laser",
+      "category": "Médecin",
+      "address": "Le Lamentin, Martinique",
+      "rating": 4.9,
+      "reviewCount": 181
+    },
+    {
+      "name": "LaserAddict - Martinique - Centre anti tabac et de bien-être",
+      "category": "Centre de bien-être",
+      "address": "Le Lamentin, Martinique",
+      "rating": 4.9,
+      "reviewCount": 19
+    },
+    {
+      "name": "Encre de Chine - Atelier de Tatouage",
+      "category": "Tatoueur",
+      "address": "Lot. les Hauts de Californie, Le Lamentin 97232, Martinique",
+      "rating": 4.5,
+      "reviewCount": 24
+    }
+  ],
+  "description": "La Clinic’Piercings fait partie des centres de détatouage laser à Le Lamentin. Avec une note de 4.8/5 sur 26 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Lamentin.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:22:39.700Z"
+}

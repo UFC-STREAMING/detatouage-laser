@@ -1,0 +1,44 @@
+{
+  "slug": "saint-leu-la-foret",
+  "cityName": "Saint-Leu-la-Forêt",
+  "businessName": "Stop Addict Laser",
+  "businesses": [
+    {
+      "name": "Stop Addict Laser",
+      "category": "Praticien de médecine alternative",
+      "address": "20 Rue de Verdun",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "Rue De La Gravure",
+      "category": "Graveur",
+      "address": "58 Sente du Pre",
+      "rating": 5,
+      "reviewCount": 246
+    },
+    {
+      "name": "ETHER NELL TATTOO",
+      "category": "Tatoueur",
+      "address": "5 Rue Sophie Donon",
+      "rating": 5,
+      "reviewCount": 30
+    }
+  ],
+  "description": "Stop Addict Laser fait partie des centres de détatouage laser à Saint-Leu-la-Forêt. Avec une note de 4.9/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Leu-la-Forêt.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:03:55.141Z"
+}

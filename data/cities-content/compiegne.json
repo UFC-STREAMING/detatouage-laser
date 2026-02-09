@@ -1,0 +1,65 @@
+{
+  "slug": "compiegne",
+  "cityName": "Compiègne",
+  "businessName": "Centre laser CtrlZ - Compiègne",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Compiègne",
+      "category": "Centre d'épilation laser",
+      "address": "22 Rue d'Amiens",
+      "rating": 5,
+      "reviewCount": 88
+    },
+    {
+      "name": "Beauxmonts Compiègne - Médecine esthétique et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "9 Rue Carnot, 60200 Compiègne",
+      "rating": 4.9,
+      "reviewCount": 25
+    },
+    {
+      "name": "Docteur Laurence Barry - Centre d'esthétique médicalePropose : Laser vasculaire",
+      "category": "Centre médical",
+      "address": "3 place d'Orléans, 60200 Compiègne",
+      "rating": 4.6,
+      "reviewCount": 99
+    },
+    {
+      "name": "Dr Hélène GRET - Médecine esthétique & laser",
+      "category": "Médecin",
+      "address": "89 Rue de Paris",
+      "rating": 4.8,
+      "reviewCount": 34
+    },
+    {
+      "name": "Lazeo Compiègne",
+      "category": "Centre d'épilation laser",
+      "address": "Pass. du Marché aux Herbes, 60200 Compiègne",
+      "rating": 4.8,
+      "reviewCount": 250
+    },
+    {
+      "name": "Renaiss’Encre",
+      "category": "Clinique de maquillage permanent",
+      "address": "5 Pl. de Choiseul, 60200 Compiègne",
+      "rating": 4.9,
+      "reviewCount": 69
+    }
+  ],
+  "description": "Centre laser CtrlZ - Compiègne fait partie des centres de détatouage laser à Compiègne. Avec une note de 5/5 sur 88 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Compiègne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:22:11.688Z"
+}

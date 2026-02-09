@@ -1,0 +1,31 @@
+{
+  "slug": "libourne",
+  "cityName": "Libourne",
+  "businessName": "Docteur Gautard Médecine EsthétiquePropose : Épilation laser",
+  "businesses": [
+    {
+      "name": "Docteur Gautard Médecine EsthétiquePropose : Épilation laser",
+      "category": "Médecin",
+      "address": "29 Cr Tourny, 33500 Libourne",
+      "rating": 5,
+      "reviewCount": 22
+    },
+    {
+      "name": "ExperTechnology Beauty",
+      "category": "Centre d'épilation laser",
+      "address": "7 Rue Montesquieu, 33500 Libourne",
+      "rating": 5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Centre Laser de Libourne",
+      "category": "Salon d'épilation",
+      "address": "12 Rue Thérèse et Charles BOUSSAT, 33500 Libourne",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "Docteur Gautard Médecine EsthétiquePropose : Épilation laser fait partie des centres de détatouage laser à Libourne. Avec une note de 5/5 sur 22 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Libourne.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:39:20.367Z"
+}

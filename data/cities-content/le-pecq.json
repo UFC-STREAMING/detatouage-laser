@@ -1,0 +1,31 @@
+{
+  "slug": "le-pecq",
+  "cityName": "Le Pecq",
+  "businessName": "Arteffet",
+  "businesses": [
+    {
+      "name": "Arteffet",
+      "category": "Tatoueur",
+      "address": "13 Av. du Général Leclerc",
+      "rating": 5,
+      "reviewCount": 109
+    },
+    {
+      "name": "Cabinet Médical Dr Husson: Épilation Laser | Épilation Définitive | Couperose | Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "Saint-Germain-en-Laye",
+      "rating": 4.9,
+      "reviewCount": 237
+    },
+    {
+      "name": "Centre de Médecine Esthétique : Épilation Laser, Détatouage et Électrolyse à Saint-Germain-en-Laye, Yvelines (78)",
+      "category": "Centre d'épilation laser",
+      "address": "Saint-Germain-en-Laye",
+      "rating": 4.9,
+      "reviewCount": 81
+    }
+  ],
+  "description": "Arteffet fait partie des centres de détatouage laser à Le Pecq. Avec une note de 5/5 sur 109 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Pecq.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:04:43.665Z"
+}

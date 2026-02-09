@@ -1,0 +1,31 @@
+{
+  "slug": "arcueil",
+  "cityName": "Arcueil",
+  "businessName": "Laser World Arcueil",
+  "businesses": [
+    {
+      "name": "Laser World Arcueil",
+      "category": "Centre de laser game",
+      "address": "Au dessus du McDonald's, CENTRE COMMERCIAL LA VACHE NOIRE, Pl. de la Vache Noire, 94110 Arcueil",
+      "rating": 4.6,
+      "reviewCount": 467
+    },
+    {
+      "name": "The Secret d'Angels",
+      "category": "Institut de beauté",
+      "address": "19 Rue Cauchy, 94110 Arcueil",
+      "rating": 4.7,
+      "reviewCount": 46
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "Laser World Arcueil fait partie des centres de détatouage laser à Arcueil. Avec une note de 4.6/5 sur 467 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Arcueil.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:44:08.491Z"
+}

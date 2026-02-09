@@ -1,0 +1,31 @@
+{
+  "slug": "montesson",
+  "cityName": "Montesson",
+  "businessName": "STUDIO NOSKI",
+  "businesses": [
+    {
+      "name": "STUDIO NOSKI",
+      "category": "Tatoueur",
+      "address": "28 Av. Aristide Briand, 78360 Montesson",
+      "rating": 4.9,
+      "reviewCount": 49
+    },
+    {
+      "name": "Make 'Derm",
+      "category": "Clinique de maquillage permanent",
+      "address": "9 Av. Auber, 78360 Montesson",
+      "rating": 5,
+      "reviewCount": 192
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "STUDIO NOSKI fait partie des centres de détatouage laser à Montesson. Avec une note de 4.9/5 sur 49 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montesson.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:11:37.845Z"
+}

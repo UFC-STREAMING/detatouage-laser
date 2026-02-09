@@ -1,0 +1,31 @@
+{
+  "slug": "floirac",
+  "cityName": "Floirac",
+  "businessName": "Cabinet LDS (Laser, Détatouage et Soins)",
+  "businesses": [
+    {
+      "name": "Cabinet LDS (Laser, Détatouage et Soins)",
+      "category": "Service de détatouage",
+      "address": "Détatouage et Soins), 25 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.9,
+      "reviewCount": 55
+    },
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Cabinet Dr Marie Fabiani - Médecine esthétique et épilation laser",
+      "category": "Service de détatouage",
+      "address": "218 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.7,
+      "reviewCount": 248
+    }
+  ],
+  "description": "Cabinet LDS (Laser, Détatouage et Soins) fait partie des centres de détatouage laser à Floirac. Avec une note de 4.9/5 sur 55 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Floirac.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:56:38.906Z"
+}

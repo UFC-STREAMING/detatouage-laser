@@ -1,0 +1,22 @@
+{
+  "slug": "pace",
+  "cityName": "Pacé",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Pacé grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pacé.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:31:17.940Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "lyon",
+  "cityName": "Lyon",
+  "businessName": "Centre Dermo Laser Lyon - Epilation Laser & Définitive - Détatouage",
+  "businesses": [
+    {
+      "name": "Centre Dermo Laser Lyon - Epilation Laser & Définitive - Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "95 Av. Maréchal de Saxe, 69003 Lyon",
+      "rating": 4.9,
+      "reviewCount": 314
+    },
+    {
+      "name": "Ray studios Lyon - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "104 Boulevard des Belges, 69006 Lyon",
+      "rating": 4.7,
+      "reviewCount": 123
+    },
+    {
+      "name": "Centre Lasers Dermatologiques à LyonPropose : Détatouage laser",
+      "category": "Centre d'épilation laser",
+      "address": "16 Rue Childebert, 69002 Lyon",
+      "rating": 4.7,
+      "reviewCount": 611
+    },
+    {
+      "name": "My Laser Lyon - Epilation Laser et Médecine EsthétiquePropose : Détatouage sourcils",
+      "category": "Centre d'épilation laser",
+      "address": "54 Rue de la République, 69002 Lyon",
+      "rating": 4.8,
+      "reviewCount": null
+    },
+    {
+      "name": "Centre Laser Lyon - Epilation Laser - Médecine EsthétiquePropose : Détatouage laser",
+      "category": "Centre d'épilation laser",
+      "address": "27 Rue Godefroy, 69006 Lyon",
+      "rating": 4.6,
+      "reviewCount": 457
+    },
+    {
+      "name": "Maison Yokō, centre de médecine esthétique et laser.",
+      "category": "Centre médical",
+      "address": "centre de médecine esthétique et laser., 1 Rue Boissac 1er étage, 69002 Lyon",
+      "rating": 4.9,
+      "reviewCount": 506
+    }
+  ],
+  "description": "Centre Dermo Laser Lyon - Epilation Laser & Définitive - Détatouage fait partie des centres de détatouage laser à Lyon. Avec une note de 4.9/5 sur 314 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lyon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'un détatouage laser à Lyon ?",
+      "answer": "Les tarifs de détatouage laser pratiqués à Lyon sont relativement similaires à ceux pratiqués dans le reste de la France. Le coût du traitement varie notamment en fonction de la zone ciblée, et du temps passé par le praticien sur la zone. Il faut compter au minimum 120 euros pour une séance de détatouage laser."
+    },
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:02:02.887Z"
+}

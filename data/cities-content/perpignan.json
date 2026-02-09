@@ -1,0 +1,65 @@
+{
+  "slug": "perpignan",
+  "cityName": "Perpignan",
+  "businessName": "Dr Gaëlle MUCHIR",
+  "businesses": [
+    {
+      "name": "Dr Gaëlle MUCHIR",
+      "category": "Médecin",
+      "address": "9 Bd Wilson, 66000 Perpignan",
+      "rating": 4.7,
+      "reviewCount": 188
+    },
+    {
+      "name": "Docteur Philippe ARNOLD - Centre de médecine esthétique à Perpignan",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Pierre Curie, 66000 Perpignan",
+      "rating": 4.5,
+      "reviewCount": 83
+    },
+    {
+      "name": "Julie Lecluze Institut de beauté et centre de formation CPF en esthétique dans Toute La France",
+      "category": "Service de détatouage",
+      "address": "10 Rue Joséphine San Vicens, 66330 Cabestany",
+      "rating": 4.8,
+      "reviewCount": 391
+    },
+    {
+      "name": "#432 Studio Tatouage et PiercingPropose : Détatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "61 Av. Maréchal Joffre, 66000 Perpignan",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Docteur Jérôme Quezel Guerraz MEDECIN ESTHETIQUE PERPIGNAN",
+      "category": "Médecin",
+      "address": "19 Espa. Méditérranée, 19 Av. Maréchal Leclerc, 66000 Perpignan",
+      "rating": 4.9,
+      "reviewCount": 544
+    },
+    {
+      "name": "DepilineaPropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "4 Rue Beno%C3%AEt Fourneyron, 66000 Perpignan",
+      "rating": 4.6,
+      "reviewCount": 120
+    }
+  ],
+  "description": "Dr Gaëlle MUCHIR fait partie des centres de détatouage laser à Perpignan. Avec une note de 4.7/5 sur 188 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Perpignan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour retirer un tatouage ?",
+      "answer": "Il dresse un bilan qui lui permet d'estimer le nombre de séances nécessaires pour enlever le tatouage, en général de 3 à 10. À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €.2 mars 2021"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:05:08.568Z"
+}

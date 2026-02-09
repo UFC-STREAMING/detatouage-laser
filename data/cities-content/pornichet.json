@@ -1,0 +1,44 @@
+{
+  "slug": "pornichet",
+  "cityName": "Pornichet",
+  "businessName": "Studio Dermographia",
+  "businesses": [
+    {
+      "name": "Studio Dermographia",
+      "category": "Institut de beauté",
+      "address": "2 Av. du Gulf Stream, 44380 Pornichet",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Holly's maquillage permanent et dermopigmentation Corrective .Propose : Tatouage de sourcils",
+      "category": "Clinique de maquillage permanent",
+      "address": "86 Av. du Général de Gaulle, 44380 Pornichet",
+      "rating": 5,
+      "reviewCount": 78
+    },
+    {
+      "name": "Entrak's Tattoo shop",
+      "category": "Tatoueur",
+      "address": "salon de tatouage, 35 Av. du Général de Gaulle, 44380 Pornichet",
+      "rating": 5,
+      "reviewCount": 175
+    }
+  ],
+  "description": "Studio Dermographia fait partie des centres de détatouage laser à Pornichet. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pornichet.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:22:32.755Z"
+}

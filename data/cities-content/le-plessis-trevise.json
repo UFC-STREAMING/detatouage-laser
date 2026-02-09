@@ -1,0 +1,22 @@
+{
+  "slug": "le-plessis-trevise",
+  "cityName": "Le Plessis-Trévise",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Le Plessis-Trévise grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Plessis-Trévise.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Comment puis-je détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:47:00.628Z"
+}

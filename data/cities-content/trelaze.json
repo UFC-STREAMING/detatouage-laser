@@ -1,0 +1,31 @@
+{
+  "slug": "trelaze",
+  "cityName": "Trélazé",
+  "businessName": "CLEMA aesthetics (DR Grandin Nathalie)",
+  "businesses": [
+    {
+      "name": "CLEMA aesthetics (DR Grandin Nathalie)",
+      "category": "Service de détatouage",
+      "address": "16 Rue Fran%C3%A7ois Cevert, 49000 Angers",
+      "rating": 4.8,
+      "reviewCount": 215
+    },
+    {
+      "name": "Centre laser CtrlZ - Angers",
+      "category": "Service de détatouage",
+      "address": "36 Rue Montesquieu, 49100 Angers",
+      "rating": 5,
+      "reviewCount": 51
+    },
+    {
+      "name": "Docteur Morgane Guerin-Moreau - dermatologie générale, lasers médicaux et médecine esthétique",
+      "category": "Service de détatouage",
+      "address": "lasers médicaux et médecine esthétique, 139 Rue des Ponts de Ce, 49000 Angers",
+      "rating": 4.5,
+      "reviewCount": 30
+    }
+  ],
+  "description": "CLEMA aesthetics (DR Grandin Nathalie) fait partie des centres de détatouage laser à Trélazé. Avec une note de 4.8/5 sur 215 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Trélazé.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:03:06.653Z"
+}

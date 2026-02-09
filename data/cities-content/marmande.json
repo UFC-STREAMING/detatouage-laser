@@ -1,0 +1,52 @@
+{
+  "slug": "marmande",
+  "cityName": "Marmande",
+  "businessName": "SKIN'ELINE | Épilation laser et soins technico-esthétiques | Marmande",
+  "businesses": [
+    {
+      "name": "SKIN'ELINE | Épilation laser et soins technico-esthétiques | Marmande",
+      "category": "Centre d'épilation laser",
+      "address": "5 Av. des Martyrs de la Résistance, 47200 Marmande",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Basta Laser centre Anti-Addictions et Bien-Être à Marmande",
+      "category": "Praticien de médecine alternative",
+      "address": "5 Rue Pasteur, 47200 Marmande",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Piercing Marmande",
+      "category": "Salon de piercing",
+      "address": "44 Rue d'Onzac, 47200 Marmande",
+      "rating": 5,
+      "reviewCount": 49
+    },
+    {
+      "name": "La Gomme - Spécialiste du Détatouage",
+      "category": "Service de détatouage",
+      "address": "",
+      "rating": 4.9,
+      "reviewCount": 9
+    },
+    {
+      "name": "Piercing Milmandra",
+      "category": "Salon de piercing",
+      "address": "38 Rue de la République, 47200 Marmande",
+      "rating": 4.9,
+      "reviewCount": 288
+    },
+    {
+      "name": "ElzeTattooPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "74 Av. Jean Jaurès, 47200 Marmande",
+      "rating": 4.9,
+      "reviewCount": 53
+    }
+  ],
+  "description": "SKIN'ELINE | Épilation laser et soins technico-esthétiques | Marmande fait partie des centres de détatouage laser à Marmande. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Marmande.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:59:47.622Z"
+}

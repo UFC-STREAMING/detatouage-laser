@@ -1,0 +1,44 @@
+{
+  "slug": "viroflay",
+  "cityName": "Viroflay",
+  "businessName": "Marginal Tattoo Lab",
+  "businesses": [
+    {
+      "name": "Marginal Tattoo Lab",
+      "category": "Tatoueur",
+      "address": "8 Rue René, 78220 Viroflay",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    },
+    {
+      "name": "L'Institut Rive Droite",
+      "category": "Institut de beauté",
+      "address": "14 Rue Gabriel Péri, 78220 Viroflay",
+      "rating": 5,
+      "reviewCount": 109
+    }
+  ],
+  "description": "Marginal Tattoo Lab fait partie des centres de détatouage laser à Viroflay. Avec une note de 5/5 sur 15 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Viroflay.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:00:35.292Z"
+}

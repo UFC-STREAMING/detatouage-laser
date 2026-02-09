@@ -1,0 +1,52 @@
+{
+  "slug": "pont-sainte-maxence",
+  "cityName": "Pont-Sainte-Maxence",
+  "businessName": "Lili Esthétique",
+  "businesses": [
+    {
+      "name": "Lili Esthétique",
+      "category": "Boutique de santé et beauté",
+      "address": "15 Rue Henri Bodchon",
+      "rating": 4.7,
+      "reviewCount": 53
+    },
+    {
+      "name": "La Touche Beauté",
+      "category": "Institut de beauté",
+      "address": "35 Rue Henri Bodchon",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Juju ink",
+      "category": "Tatoueur",
+      "address": "3 Pl. du Général Leclerc",
+      "rating": 5,
+      "reviewCount": 68
+    },
+    {
+      "name": "Kapil",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "5 Rue Louis Boutroy",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "E.Leclerc Une Heure Pour Soi",
+      "category": "Institut de beauté",
+      "address": "Av. d'Auvelais",
+      "rating": 3.9,
+      "reviewCount": 112
+    },
+    {
+      "name": "Belle et Natur'elle",
+      "category": "Institut de beauté",
+      "address": "28 Rue Henri Bodchon",
+      "rating": 4.7,
+      "reviewCount": 74
+    }
+  ],
+  "description": "Lili Esthétique fait partie des centres de détatouage laser à Pont-Sainte-Maxence. Avec une note de 4.7/5 sur 53 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pont-Sainte-Maxence.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:25:27.453Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "amiens",
+  "cityName": "Amiens",
+  "businessName": "Docteur Christian FAYARD Médecine Esthétique",
+  "businesses": [
+    {
+      "name": "Docteur Christian FAYARD Médecine Esthétique",
+      "category": "Médecin",
+      "address": "4 Pl. Léon Gontier, 80000 Amiens",
+      "rating": 4.9,
+      "reviewCount": 249
+    },
+    {
+      "name": "Lazeo Amiens",
+      "category": "Centre d'épilation laser",
+      "address": "47 Pl. René Goblet, 80000 Amiens",
+      "rating": 4.9,
+      "reviewCount": 492
+    },
+    {
+      "name": "Dr Caroline Tribout-Defossez - Centre de Dermatologie Esthétique OrigamiPropose : Le détatouage",
+      "category": "Médecin",
+      "address": "3 Av. Du Great Eastern, 80330 Longueau",
+      "rating": 4.8,
+      "reviewCount": 472
+    },
+    {
+      "name": "Centre laser CtrlZ - AmiensPropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "30 Av. d'Allemagne, 80090 Amiens",
+      "rating": 4.9,
+      "reviewCount": 42
+    },
+    {
+      "name": "Docteur Sylvain Leullier Laser Esthétique Epilation",
+      "category": "Médecin généraliste",
+      "address": "12 Rue Saint-Germain, 80000 Amiens",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "Centre Aesthetica",
+      "category": "Institut de beauté",
+      "address": "26 Rue Millevoye, 80000 Amiens",
+      "rating": 4.8,
+      "reviewCount": 40
+    }
+  ],
+  "description": "Docteur Christian FAYARD Médecine Esthétique fait partie des centres de détatouage laser à Amiens. Avec une note de 4.9/5 sur 249 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Amiens.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:04:48.546Z"
+}

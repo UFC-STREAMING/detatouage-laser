@@ -1,0 +1,44 @@
+{
+  "slug": "belfort",
+  "cityName": "Belfort",
+  "businessName": "tatouage Piercing Dermo inkPropose : Détatouage",
+  "businesses": [
+    {
+      "name": "tatouage Piercing Dermo inkPropose : Détatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "20 Rue Thiers, 90000 Belfort",
+      "rating": 4.9,
+      "reviewCount": 161
+    },
+    {
+      "name": "Alfa Center & Camelia",
+      "category": "Centre d'épilation laser",
+      "address": "56 Rue Jacques Foillet Porte B11 - 1er étage, 25200 Montbéliard",
+      "rating": 4.6,
+      "reviewCount": 115
+    },
+    {
+      "name": "L’Aiguille de Rose ( FERME DU 23 au 1 MARS )",
+      "category": "Salon de piercing",
+      "address": "127 Av. Jean Jaurès, 90000 Belfort",
+      "rating": 4.9,
+      "reviewCount": 159
+    }
+  ],
+  "description": "tatouage Piercing Dermo inkPropose : Détatouage fait partie des centres de détatouage laser à Belfort. Avec une note de 4.9/5 sur 161 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Belfort.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour retirer un tatouage ?",
+      "answer": "Il dresse un bilan qui lui permet d'estimer le nombre de séances nécessaires pour enlever le tatouage, en général de 3 à 10. À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €.2 mars 2021"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Où puis-je me détatouer à Montbéliard ?",
+      "answer": "Votre centre détatouage Alfa & Camelia Montbéliard Notre équipe est à votre disposition du Lundi au Samedi de 9h à 20h : Par téléphone : +33 6 45 34 50 78. Via le formulaire prise de contact ici. Par email : montbeliard@alfa-laser.center."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:18:47.684Z"
+}

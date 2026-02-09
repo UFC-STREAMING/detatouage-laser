@@ -1,0 +1,31 @@
+{
+  "slug": "yerres",
+  "cityName": "Yerres",
+  "businessName": "Tattoo Art",
+  "businesses": [
+    {
+      "name": "Tattoo Art",
+      "category": "Tatoueur",
+      "address": "110 Rue Pierre Brossolette, 91330 Yerres",
+      "rating": 5,
+      "reviewCount": 51
+    },
+    {
+      "name": "JFG CLINIC YERRES - LA CLINIC DE LA BEAUTÉPropose : Soin lipo-laser",
+      "category": "Institut de beauté",
+      "address": "89 Rue de Concy, 91330 Yerres",
+      "rating": 5,
+      "reviewCount": 49
+    },
+    {
+      "name": "Dérapage Corporel Tatouage Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 Rue d'Eschborn, 91230 Montgeron",
+      "rating": 4.9,
+      "reviewCount": 611
+    }
+  ],
+  "description": "Tattoo Art fait partie des centres de détatouage laser à Yerres. Avec une note de 5/5 sur 51 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Yerres.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:33:55.270Z"
+}

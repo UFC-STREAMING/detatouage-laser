@@ -1,0 +1,65 @@
+{
+  "slug": "sanary-sur-mer",
+  "cityName": "Sanary-sur-Mer",
+  "businessName": "Docteur Merzougui A.- Médecine Esthétique et Anti-âge",
+  "businesses": [
+    {
+      "name": "Docteur Merzougui A.- Médecine Esthétique et Anti-âge",
+      "category": "Médecin",
+      "address": "402 Chem. de l'Huide",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Centre anti-tabac laserOstop",
+      "category": "Clinique",
+      "address": "31 Imp. Pao",
+      "rating": 4.5,
+      "reviewCount": 133
+    },
+    {
+      "name": "Centre de termologie et laser",
+      "category": "Dermatologue",
+      "address": "425 Rdpt de Stellamare",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "𝘽𝙇𝘼𝘾𝙆 𝙅𝘼𝙂𝙐𝘼𝙍 𝙄𝙉𝙆 𝑆𝑎𝑛𝑎𝑟𝑦/𝑀𝑒𝑟",
+      "category": "Tatoueur",
+      "address": "24 Imp. Pao",
+      "rating": 4.9,
+      "reviewCount": 220
+    },
+    {
+      "name": "Epilation Définitive - DEPIL TECH SANARY SUR MER",
+      "category": "Salon d'épilation",
+      "address": "40 Av. des Poilus",
+      "rating": 4.6,
+      "reviewCount": 280
+    },
+    {
+      "name": "Le Trait Délicat",
+      "category": "Institut de beauté",
+      "address": "305 Av. du 2ème Spahis",
+      "rating": 5,
+      "reviewCount": 43
+    }
+  ],
+  "description": "Docteur Merzougui A.- Médecine Esthétique et Anti-âge fait partie des centres de détatouage laser à Sanary-sur-Mer. Avec une note de 5/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sanary-sur-Mer.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:55:45.889Z"
+}

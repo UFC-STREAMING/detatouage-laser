@@ -1,0 +1,65 @@
+{
+  "slug": "bourgoin-jallieu",
+  "cityName": "Bourgoin-Jallieu",
+  "businessName": "Laserostop Bourgoin-Jallieu - Centre de sevrage tabagique laser stop tabac",
+  "businesses": [
+    {
+      "name": "Laserostop Bourgoin-Jallieu - Centre de sevrage tabagique laser stop tabac",
+      "category": "Cabinet médical",
+      "address": "Ruy-Montceau",
+      "rating": 4.8,
+      "reviewCount": 107
+    },
+    {
+      "name": "Centre Laser Berjallien",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Claude Chappe",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "CENTRE EPILATION LASER ET SOINS ANTI-AGES",
+      "category": "Centre d'épilation laser",
+      "address": "60 Av. du Médipôle",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Centre Laser Esthétique Saint-Savin",
+      "category": "Centre d'épilation laser",
+      "address": "Saint-Savin",
+      "rating": 5,
+      "reviewCount": 36
+    },
+    {
+      "name": "Epilation Définitive - DEPIL TECH BOURGOIN-JALLIEU",
+      "category": "Salon d'épilation",
+      "address": "42 Rue de la République",
+      "rating": 4.9,
+      "reviewCount": 103
+    },
+    {
+      "name": "Laser Stop Addict Bourgoin - Centre de sevrage tabagique laser stop tabac",
+      "category": "Réflexologue",
+      "address": "Cessieu",
+      "rating": 5,
+      "reviewCount": 33
+    }
+  ],
+  "description": "Laserostop Bourgoin-Jallieu - Centre de sevrage tabagique laser stop tabac fait partie des centres de détatouage laser à Bourgoin-Jallieu. Avec une note de 4.8/5 sur 107 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bourgoin-Jallieu.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:31:37.800Z"
+}

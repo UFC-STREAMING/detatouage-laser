@@ -1,0 +1,65 @@
+{
+  "slug": "joinville-le-pont",
+  "cityName": "Joinville-le-Pont",
+  "businessName": "Angel's Esthétique Indienne",
+  "businesses": [
+    {
+      "name": "Angel's Esthétique Indienne",
+      "category": "Institut de beauté",
+      "address": "Quai Pierre Brossolette, 94340 Joinville-le-Pont",
+      "rating": 4,
+      "reviewCount": 25
+    },
+    {
+      "name": "✅Beldame Institut et Spa – Soins visage, épilation et massage – Joinville-le-Pont",
+      "category": "Institut de beauté",
+      "address": "2 Bd du Maréchal Leclerc",
+      "rating": 4.9,
+      "reviewCount": 378
+    },
+    {
+      "name": "BeautyProTech - Institut // JOINVILLE-LE-PONT",
+      "category": "Centre d'épilation laser",
+      "address": "28 Rue Chapsal",
+      "rating": 4.8,
+      "reviewCount": 317
+    },
+    {
+      "name": "Atout Beauté",
+      "category": "Institut de beauté",
+      "address": "27 Av. Ratel",
+      "rating": 4.7,
+      "reviewCount": 75
+    },
+    {
+      "name": "Dr Michaël NAOURI - Dermatologie Médicale, Esthétique et Lasers",
+      "category": "Dermatologue",
+      "address": "Nogent-sur-Marne",
+      "rating": 3.1,
+      "reviewCount": 286
+    },
+    {
+      "name": "Centre médical et dentaire de Joinville-le-Pont",
+      "category": "Dentiste",
+      "address": "7 Rue Jean Mermoz",
+      "rating": 4.8,
+      "reviewCount": 446
+    }
+  ],
+  "description": "Angel's Esthétique Indienne fait partie des centres de détatouage laser à Joinville-le-Pont. Avec une note de 4/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Joinville-le-Pont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:49:11.345Z"
+}

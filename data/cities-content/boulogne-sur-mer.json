@@ -1,0 +1,44 @@
+{
+  "slug": "boulogne-sur-mer",
+  "cityName": "Boulogne-sur-Mer",
+  "businessName": "Clinique Bellevue",
+  "businesses": [
+    {
+      "name": "Clinique Bellevue",
+      "category": "Centre d'épilation laser",
+      "address": "410 Bd Sainte-Beuve",
+      "rating": 4.2,
+      "reviewCount": 63
+    },
+    {
+      "name": "Reset Laser Boulogne-sur-Mer - Arrêter de fumer 62",
+      "category": "Cabinet médical",
+      "address": "77 Bd Daunou",
+      "rating": 4.9,
+      "reviewCount": 17
+    },
+    {
+      "name": "Dr Fanny Castain Médecine vasculaire, esthétique et laser",
+      "category": "Médecin",
+      "address": "Saint-Martin-Boulogne",
+      "rating": 4.8,
+      "reviewCount": 24
+    }
+  ],
+  "description": "Clinique Bellevue fait partie des centres de détatouage laser à Boulogne-sur-Mer. Avec une note de 4.2/5 sur 63 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Boulogne-sur-Mer.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:22:21.069Z"
+}

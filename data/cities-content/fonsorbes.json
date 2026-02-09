@@ -1,0 +1,31 @@
+{
+  "slug": "fonsorbes",
+  "cityName": "Fonsorbes",
+  "businessName": "Fokx.6studio",
+  "businesses": [
+    {
+      "name": "Fokx.6studio",
+      "category": "Tatoueur",
+      "address": "1685 Rte de Tarbes, 31470 Fonsorbes",
+      "rating": 5,
+      "reviewCount": 111
+    },
+    {
+      "name": "Ongl O SoleilPropose : Tatouage corps",
+      "category": "Institut de beauté",
+      "address": "1975 Rte de Tarbes, 31470 Fonsorbes",
+      "rating": 4.8,
+      "reviewCount": 150
+    },
+    {
+      "name": "Coralie di nicola / maquillage permanent / poil à poil",
+      "category": "Clinique de maquillage permanent",
+      "address": "Rte de Bragot, 31470 Fonsorbes",
+      "rating": 5,
+      "reviewCount": 22
+    }
+  ],
+  "description": "Fokx.6studio fait partie des centres de détatouage laser à Fonsorbes. Avec une note de 5/5 sur 111 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fonsorbes.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:21:23.354Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "bourges",
+  "cityName": "Bourges",
+  "businessName": "Lazeo Bourges",
+  "businesses": [
+    {
+      "name": "Lazeo Bourges",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Moyenne",
+      "rating": 4.9,
+      "reviewCount": 204
+    },
+    {
+      "name": "Éclat Derma",
+      "category": "Centre d'épilation laser",
+      "address": "24 Rue de l'Île d'Or",
+      "rating": 4.9,
+      "reviewCount": 115
+    },
+    {
+      "name": "Centre laser anti tabac BOURGES ( 18) - LaserOstop : Arrêtez de fumer laser.",
+      "category": "Clinique spécialisée",
+      "address": "7 Av. Jean Jaurès",
+      "rating": 4.7,
+      "reviewCount": 48
+    },
+    {
+      "name": "Centre Body Epil & Cryofast",
+      "category": "Institut de beauté",
+      "address": "9 Pl. de la Nation",
+      "rating": 5,
+      "reviewCount": 143
+    },
+    {
+      "name": "Skinzy maquillages permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "Rte des 4 Vents",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "DemSad Tatouage",
+      "category": "Tatoueur",
+      "address": "10 Av. Jean Jaurès",
+      "rating": 5,
+      "reviewCount": 4
+    }
+  ],
+  "description": "Lazeo Bourges fait partie des centres de détatouage laser à Bourges. Avec une note de 4.9/5 sur 204 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bourges.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il efficace ?",
+      "answer": "Vous l'avez compris : le détatouage laser fonctionne très bien et permet d'effacer les tatouages. Il y a toutefois plusieurs facteurs qui déterminent l'efficacité d'un détatouage."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:11:14.712Z"
+}

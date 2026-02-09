@@ -1,0 +1,65 @@
+{
+  "slug": "pointe-a-pitre",
+  "cityName": "Pointe-à-Pitre",
+  "businessName": "West Indies Tattoo",
+  "businesses": [
+    {
+      "name": "West Indies Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "18 bis, Rue Lamartine, Pointe-à-Pitre 97110, Guadeloupe",
+      "rating": 4.4,
+      "reviewCount": 95
+    },
+    {
+      "name": "True Ink Tattoo et Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "Pointe-à-Pitre, Guadeloupe",
+      "rating": 4.9,
+      "reviewCount": 9
+    },
+    {
+      "name": "BodygraphicPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "Marina du gosier, 14%2F15 boutique des moulins, Pointe-à-Pitre 97110, Guadeloupe",
+      "rating": 4.2,
+      "reviewCount": 19
+    },
+    {
+      "name": "Urbantatooink",
+      "category": "Salon de tatouage et piercing",
+      "address": "Pointe-à-Pitre, Guadeloupe",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Tina Dermo Touch - Spécialiste Sourcils GuadeloupePropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "Passage du dauphin-Grand baie, Le Gosier 97190, Guadeloupe",
+      "rating": 4.9,
+      "reviewCount": 181
+    },
+    {
+      "name": "Elianor beauty and more",
+      "category": "Institut de beauté",
+      "address": "40 Rue de Nozières, Pointe-à-Pitre 97110, Guadeloupe",
+      "rating": 3.3,
+      "reviewCount": 4
+    }
+  ],
+  "description": "West Indies Tattoo fait partie des centres de détatouage laser à Pointe-à-Pitre. Avec une note de 4.4/5 sur 95 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pointe-à-Pitre.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:09:31.642Z"
+}

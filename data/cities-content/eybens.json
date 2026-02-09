@@ -1,0 +1,31 @@
+{
+  "slug": "eybens",
+  "cityName": "Eybens",
+  "businessName": "L'antre-peaux",
+  "businesses": [
+    {
+      "name": "L'antre-peaux",
+      "category": "Tatoueur",
+      "address": "2 Av. de la République, 38320 Eybens",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Pura Vida - Tattoo & Cut",
+      "category": "Tatoueur",
+      "address": "131 Av. Jean Jaurès, 38320 Eybens",
+      "rating": 4.7,
+      "reviewCount": 23
+    },
+    {
+      "name": "L’Atelier d’Automne",
+      "category": "Tatoueur",
+      "address": "2 Rue du Trièves, 38320 Eybens",
+      "rating": 5,
+      "reviewCount": 6
+    }
+  ],
+  "description": "L'antre-peaux fait partie des centres de détatouage laser à Eybens. Avec une note de 5/5 sur 11 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Eybens.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:43:38.356Z"
+}

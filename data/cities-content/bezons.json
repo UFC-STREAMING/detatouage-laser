@@ -1,0 +1,44 @@
+{
+  "slug": "bezons",
+  "cityName": "Bezons",
+  "businessName": "LOOK'STHETIK Maquillage Permanent & Détatouage",
+  "businesses": [
+    {
+      "name": "LOOK'STHETIK Maquillage Permanent & Détatouage",
+      "category": "Service de détatouage",
+      "address": "97 Rue Danton, 92300 Levallois-Perret",
+      "rating": 4.5,
+      "reviewCount": 157
+    },
+    {
+      "name": "Centre Laser Clinique Claude Bernard",
+      "category": "Service de détatouage",
+      "address": "9 Av. Louis Armand, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 207
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "LOOK'STHETIK Maquillage Permanent & Détatouage fait partie des centres de détatouage laser à Bezons. Avec une note de 4.5/5 sur 157 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bezons.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:25:10.683Z"
+}

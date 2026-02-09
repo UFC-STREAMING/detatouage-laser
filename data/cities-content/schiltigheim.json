@@ -1,0 +1,52 @@
+{
+  "slug": "schiltigheim",
+  "cityName": "Schiltigheim",
+  "businessName": "SeeLine Tattoo & Piercing - Strasbourg Schiltigheim",
+  "businesses": [
+    {
+      "name": "SeeLine Tattoo & Piercing - Strasbourg Schiltigheim",
+      "category": "Salon de tatouage et piercing",
+      "address": "18 Rue de Saverne, 67300 Schiltigheim",
+      "rating": 5,
+      "reviewCount": 123
+    },
+    {
+      "name": "Alexandra Maquillage Permanent StrasbourgPropose : Epilation laser",
+      "category": "Institut de beauté",
+      "address": "4 Rue Victor Schoelcher, 67300 Schiltigheim",
+      "rating": 4.9,
+      "reviewCount": 208
+    },
+    {
+      "name": "Centre d'Epilation Laser - Médipôle",
+      "category": "Centre d'épilation laser",
+      "address": "127 Rte du Général de Gaulle, 67300 Schiltigheim",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Centre Dermo Laser Strasbourg - Epilation Laser & Définitive - Détatouage - Hydrafacial",
+      "category": "Centre d'épilation laser",
+      "address": "35 Av. de la Paix, 67000 Strasbourg",
+      "rating": 4.9,
+      "reviewCount": 154
+    },
+    {
+      "name": "Brindelette - tattoo shop & boutique créative",
+      "category": "Tatoueur",
+      "address": "2 Rue de Mundolsheim, 67300 Schiltigheim",
+      "rating": 5,
+      "reviewCount": 12
+    },
+    {
+      "name": "Laser Dermatologique Strasbourg Rhin",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Fran%C3%A7ois Epailly, 67100 Strasbourg",
+      "rating": 4.7,
+      "reviewCount": 430
+    }
+  ],
+  "description": "SeeLine Tattoo & Piercing - Strasbourg Schiltigheim fait partie des centres de détatouage laser à Schiltigheim. Avec une note de 5/5 sur 123 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Schiltigheim.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:26:29.180Z"
+}

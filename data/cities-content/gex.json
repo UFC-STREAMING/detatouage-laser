@@ -1,0 +1,31 @@
+{
+  "slug": "gex",
+  "cityName": "Gex",
+  "businessName": "LaserHappy Gex | Laser Anti-Tabac & Addictions (arrêter de fumer)",
+  "businesses": [
+    {
+      "name": "LaserHappy Gex | Laser Anti-Tabac & Addictions (arrêter de fumer)",
+      "category": "Praticien de médecine alternative",
+      "address": "29 Pl. du Jura",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Centre d'Amincissement et de Sport, Gex.",
+      "category": "Institut de beauté",
+      "address": "Le Tétras, 1 Av. de la Gare",
+      "rating": 4.8,
+      "reviewCount": 52
+    },
+    {
+      "name": "Centre stop tabac laserOstop Pays de Gex - Genève",
+      "category": "Naturopathe",
+      "address": "Saint-Genis-Pouilly",
+      "rating": 4.9,
+      "reviewCount": 70
+    }
+  ],
+  "description": "LaserHappy Gex | Laser Anti-Tabac & Addictions (arrêter de fumer) fait partie des centres de détatouage laser à Gex. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gex.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:17:11.714Z"
+}

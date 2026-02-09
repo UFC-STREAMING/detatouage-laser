@@ -1,0 +1,52 @@
+{
+  "slug": "saint-jean-de-vedas",
+  "cityName": "Saint-Jean-de-Védas",
+  "businessName": "Encre Nous",
+  "businesses": [
+    {
+      "name": "Encre Nous",
+      "category": "Service de détatouage",
+      "address": "13 Av. de la Libération",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "PERMANENT MAKEUP STUDIO MONTPELLIER Stéphanie professionnelle",
+      "category": "Clinique de maquillage permanent",
+      "address": "68 Rue Emma Blanc",
+      "rating": 4.9,
+      "reviewCount": 137
+    },
+    {
+      "name": "Ink Accessory Tattoo - Fournisseur spécialiste du Matériel de Tatouage Professionnel",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue Joseph Cugnot",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "Pau-ink TATTOO",
+      "category": "Tatoueur",
+      "address": "86 Rue Pierre et Marie Curie",
+      "rating": 4.9,
+      "reviewCount": 88
+    },
+    {
+      "name": "Dermo'Etik",
+      "category": "Clinique de maquillage permanent",
+      "address": "41 Rte de Béziers",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Absoluepil",
+      "category": "Institut de beauté",
+      "address": "24 bis Rte de Béziers RD 613",
+      "rating": 4.9,
+      "reviewCount": 65
+    }
+  ],
+  "description": "Encre Nous fait partie des centres de détatouage laser à Saint-Jean-de-Védas. Avec une note de 5/5 sur 20 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Jean-de-Védas.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:18:50.447Z"
+}

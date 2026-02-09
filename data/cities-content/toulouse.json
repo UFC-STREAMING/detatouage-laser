@@ -1,0 +1,44 @@
+{
+  "slug": "toulouse",
+  "cityName": "Toulouse",
+  "businessName": "Ray studios Toulouse - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Toulouse - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue du Fourbastard, 31000 Toulouse",
+      "rating": 4.9,
+      "reviewCount": 95
+    },
+    {
+      "name": "My Laser ToulousePropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "17 Rue de Metz, 31000 Toulouse",
+      "rating": 4.9,
+      "reviewCount": 452
+    },
+    {
+      "name": "Centre Laser Matabiau",
+      "category": "Centre d'épilation laser",
+      "address": "Tour Matabiau, 3 Bd des Minimes B%C3%A2timent A3 Rdc, 31200 Toulouse",
+      "rating": 4.8,
+      "reviewCount": 82
+    }
+  ],
+  "description": "Ray studios Toulouse - centre de détatouage laser fait partie des centres de détatouage laser à Toulouse. Avec une note de 4.9/5 sur 95 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Toulouse.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage à Toulouse ?",
+      "answer": "0:57C'est la saison du DÉTATOUAGE!!! Le détatouage par laser ...Instagram  ·  CLINIQUE MÉDICO-ESTHÉTIQUE SJ"
+    },
+    {
+      "question": "Quel est le prix pour retirer un tatouage ?",
+      "answer": "0:22Voici le déroulement détaillé d'une séance de détatouage au ...Instagram  ·  Docteur Gael Uzan"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "0:17✨ Détatouage au Laser : Reprenez le Contrôle de Votre Peau ...Facebook  ·  Le Showroom Formation"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:02:50.090Z"
+}

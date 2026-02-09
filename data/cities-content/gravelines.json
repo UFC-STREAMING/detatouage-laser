@@ -1,0 +1,40 @@
+{
+  "slug": "gravelines",
+  "cityName": "Gravelines",
+  "businessName": "Ultimat Art Tattoo",
+  "businesses": [
+    {
+      "name": "Ultimat Art Tattoo",
+      "category": "Tatoueur",
+      "address": "5 Rte de Calais, 59820 Gravelines",
+      "rating": 4.8,
+      "reviewCount": 39
+    },
+    {
+      "name": "Tattoo Bikers",
+      "category": "Tatoueur",
+      "address": "54 Av. Léon Jouhaux, 59820 Gravelines",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Cabinet d'orthoptie Claire Ledin Dumont / Noémie Kapinski",
+      "category": "Cabinet médical",
+      "address": "10 Rte de Calais, 59820 Gravelines",
+      "rating": 4.9,
+      "reviewCount": 8
+    }
+  ],
+  "description": "Ultimat Art Tattoo fait partie des centres de détatouage laser à Gravelines. Avec une note de 4.8/5 sur 39 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gravelines.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Qui peut détatouer ?",
+      "answer": "Vous savez maintenant que seul un médecin peut pratiquer le détatouage au laser. Bien choisir le lieu où vous allez suivre votre traitement laser est très important. Vous devez réaliser vos séances de détatouage dans un centre médical ou esthétique autorisé à réaliser le détatouage laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:34:21.008Z"
+}

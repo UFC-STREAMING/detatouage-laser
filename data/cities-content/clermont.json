@@ -1,0 +1,22 @@
+{
+  "slug": "clermont",
+  "cityName": "Clermont",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Clermont grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Clermont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-il possible d'enlever complètement un tatouage ?",
+      "answer": "Le laser médical est aujourd'hui la seule technique validée scientifiquement pour enlever un tatouage sans retirer de tissu cutané. Il offre une approche progressive et ciblée, bien plus respectueuse de la peau que les méthodes anciennes, tout en s'inscrivant dans un cadre médical sécurisé."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:42:39.764Z"
+}

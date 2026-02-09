@@ -1,0 +1,31 @@
+{
+  "slug": "wattignies",
+  "cityName": "Wattignies",
+  "businessName": "Clinique Laser du Parc Wattignies",
+  "businesses": [
+    {
+      "name": "Clinique Laser du Parc Wattignies",
+      "category": "Centre d'épilation laser",
+      "address": "5 Rue du Seigneur de LANNOY, 59139 Wattignies",
+      "rating": 4.9,
+      "reviewCount": 126
+    },
+    {
+      "name": "Dr Hadiza HIMA-BENTEIN",
+      "category": "Médecin généraliste",
+      "address": "5 Rue du Seigneur de LANNOY, 59139 Wattignies",
+      "rating": 4.5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    }
+  ],
+  "description": "Clinique Laser du Parc Wattignies fait partie des centres de détatouage laser à Wattignies. Avec une note de 4.9/5 sur 126 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Wattignies.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:07:32.723Z"
+}

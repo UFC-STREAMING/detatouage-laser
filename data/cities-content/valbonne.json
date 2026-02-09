@@ -1,0 +1,65 @@
+{
+  "slug": "valbonne",
+  "cityName": "Valbonne",
+  "businessName": "Dr Milène VERA- Médecine esthétique et épilation définitive",
+  "businesses": [
+    {
+      "name": "Dr Milène VERA- Médecine esthétique et épilation définitive",
+      "category": "Centre d'épilation laser",
+      "address": "5 Place de la Vignasse Porte E5",
+      "rating": 4.9,
+      "reviewCount": 34
+    },
+    {
+      "name": "Le Secret N35 - Épilation laser et Soins esthétiques - Valbonne",
+      "category": "Centre d'épilation laser",
+      "address": "1605 Rte de Cannes",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Dr CHICHE Paul-Emile - Médecine Esthétique - Épilation laser",
+      "category": "Médecin",
+      "address": "473 Rte des Dolines villa 4 1 er étage, 06560 Valbonne",
+      "rating": 5,
+      "reviewCount": 92
+    },
+    {
+      "name": "Beauté Solaire",
+      "category": "Institut de beauté",
+      "address": "6 Rue Joseph Bermond",
+      "rating": 4.8,
+      "reviewCount": 70
+    },
+    {
+      "name": "AG Tricopigmentation (micropigmentation capillaire, Hair Ink, SMP)",
+      "category": "Service de remplacement capillaire",
+      "address": "9 Rue Gambetta",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "ZBODYCARE Aesthetics",
+      "category": "Institut de beauté",
+      "address": "24 Chemin Darbousson Espace Médical Les Chênes verts L'Ile, Rdpt de l'Île Verte",
+      "rating": 4.9,
+      "reviewCount": 209
+    }
+  ],
+  "description": "Dr Milène VERA- Médecine esthétique et épilation définitive fait partie des centres de détatouage laser à Valbonne. Avec une note de 4.9/5 sur 34 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Valbonne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:30:22.659Z"
+}

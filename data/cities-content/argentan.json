@@ -1,0 +1,52 @@
+{
+  "slug": "argentan",
+  "cityName": "Argentan",
+  "businessName": "Deal’Art Tattoo",
+  "businesses": [
+    {
+      "name": "Deal’Art Tattoo",
+      "category": "Tatoueur",
+      "address": "15 Rue Saint-Germain",
+      "rating": 4.9,
+      "reviewCount": 82
+    },
+    {
+      "name": "Ady’ctive Tattoo",
+      "category": "Tatoueur",
+      "address": "18 Rue Etienne Panthou",
+      "rating": 4.9,
+      "reviewCount": 67
+    },
+    {
+      "name": "Chris Leblanc tatouage",
+      "category": "Tatoueur",
+      "address": "62 Rte de Sées",
+      "rating": 4.6,
+      "reviewCount": 43
+    },
+    {
+      "name": "Encre-en-ciel tatouage",
+      "category": "Tatoueur",
+      "address": "18 Rue Etienne Panthou",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "OV Tattoo",
+      "category": "Tatoueur",
+      "address": "Rue du Méridien",
+      "rating": 4.6,
+      "reviewCount": 24
+    },
+    {
+      "name": "Passion Regard",
+      "category": "Institut de beauté",
+      "address": "24 Rue de la Chaussée",
+      "rating": 4.8,
+      "reviewCount": 62
+    }
+  ],
+  "description": "Deal’Art Tattoo fait partie des centres de détatouage laser à Argentan. Avec une note de 4.9/5 sur 82 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Argentan.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:17:43.039Z"
+}

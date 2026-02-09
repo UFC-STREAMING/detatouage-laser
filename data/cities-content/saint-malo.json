@@ -1,0 +1,44 @@
+{
+  "slug": "saint-malo",
+  "cityName": "Saint-Malo",
+  "businessName": "Lazeo Saint-Malo",
+  "businesses": [
+    {
+      "name": "Lazeo Saint-Malo",
+      "category": "Centre d'épilation laser",
+      "address": "26 Av. Jean Jaurès",
+      "rating": 4.9,
+      "reviewCount": 141
+    },
+    {
+      "name": "Centre Laser Médical & Esthétique Saint-Malo",
+      "category": "Médecin",
+      "address": "4 Rue Joséphine le Scolan bâtiment La Conchée, 1er étage cellule 106",
+      "rating": 4.9,
+      "reviewCount": 28
+    },
+    {
+      "name": "Elegant Center St Malo (Piercing, détatouage, Strass Dentaire)",
+      "category": "Salon de piercing",
+      "address": "45 Rue Georges Clemenceau",
+      "rating": 5,
+      "reviewCount": 138
+    }
+  ],
+  "description": "Lazeo Saint-Malo fait partie des centres de détatouage laser à Saint-Malo. Avec une note de 4.9/5 sur 141 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Malo.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:17:14.930Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "castanet-tolosan",
+  "cityName": "Castanet-Tolosan",
+  "businessName": "DERMA SUD",
+  "businesses": [
+    {
+      "name": "DERMA SUD",
+      "category": "Centre d'épilation laser",
+      "address": "1 Rue André Lupiac",
+      "rating": 5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Luis Whisperink Tattoo",
+      "category": "Tatoueur",
+      "address": "14 Rue du Stade",
+      "rating": 4.7,
+      "reviewCount": 161
+    },
+    {
+      "name": "Anokitattoo",
+      "category": "Tatoueur",
+      "address": "13 Chem. du Château d'Eau",
+      "rating": 5,
+      "reviewCount": 78
+    },
+    {
+      "name": "Parfum d'Encre Tattoo",
+      "category": "Tatoueur",
+      "address": "112 Av. du Lauragais",
+      "rating": 5,
+      "reviewCount": 37
+    },
+    {
+      "name": "Stéphane Hamida Artiste Tatoueur Cover Tricopigmentation recouvrement de cicatrices",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 108
+    },
+    {
+      "name": "Vénus Institut (esthétique & tatouage)",
+      "category": "Institut de beauté",
+      "address": "112 Av. du Lauragais",
+      "rating": 4.8,
+      "reviewCount": 74
+    }
+  ],
+  "description": "DERMA SUD fait partie des centres de détatouage laser à Castanet-Tolosan. Avec une note de 5/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Castanet-Tolosan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:08:02.429Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "corbeil-essonnes",
+  "cityName": "Corbeil-Essonnes",
+  "businessName": "Body Art Tattoo",
+  "businesses": [
+    {
+      "name": "Body Art Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "57 Rue de Paris",
+      "rating": 4.5,
+      "reviewCount": 112
+    },
+    {
+      "name": "Tatoueur 91",
+      "category": "Tatoueur",
+      "address": "Corbeil-Essonnes",
+      "rating": 4.9,
+      "reviewCount": 48
+    },
+    {
+      "name": "Coeur de Voyou",
+      "category": "Tatoueur",
+      "address": "48 Rue du Dr Vignes",
+      "rating": 5,
+      "reviewCount": 47
+    }
+  ],
+  "description": "Body Art Tattoo fait partie des centres de détatouage laser à Corbeil-Essonnes. Avec une note de 4.5/5 sur 112 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Corbeil-Essonnes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:14:42.908Z"
+}

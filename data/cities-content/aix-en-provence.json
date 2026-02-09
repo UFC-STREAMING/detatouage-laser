@@ -1,0 +1,31 @@
+{
+  "slug": "aix-en-provence",
+  "cityName": "Aix-en-Provence",
+  "businessName": "Centre laser CtrlZ - Aix-en-ProvencePropose : Détatouage",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Aix-en-ProvencePropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "120 Av. Napoléon Bonaparte, 13100 Aix-en-Provence",
+      "rating": 5,
+      "reviewCount": 121
+    },
+    {
+      "name": "Dr. Christine Luneau- Esthétique et épilation laser à Aix en Provence",
+      "category": "Centre d'épilation laser",
+      "address": "17 Av. d'Indochine, 13100 Aix-en-Provence",
+      "rating": 4.6,
+      "reviewCount": 251
+    },
+    {
+      "name": "Inkoff - Detatouage, Médecine Esthétique & Bien-être",
+      "category": "Service de détatouage",
+      "address": "Médecine Esthétique %26 Bien-être, 57 Rue d'Italie, 13100 Aix-en-Provence",
+      "rating": 5,
+      "reviewCount": 17
+    }
+  ],
+  "description": "Centre laser CtrlZ - Aix-en-ProvencePropose : Détatouage fait partie des centres de détatouage laser à Aix-en-Provence. Avec une note de 5/5 sur 121 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aix-en-Provence.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:04:15.830Z"
+}

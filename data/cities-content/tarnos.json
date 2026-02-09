@@ -1,0 +1,44 @@
+{
+  "slug": "tarnos",
+  "cityName": "Tarnos",
+  "businessName": "STUDIO LASER TARNOS",
+  "businesses": [
+    {
+      "name": "STUDIO LASER TARNOS",
+      "category": "Centre d'épilation laser",
+      "address": "3 Bd Jacques Duclos, 40220 Tarnos",
+      "rating": 5,
+      "reviewCount": 61
+    },
+    {
+      "name": "Calathéa ✨ Centre esthétique Tarnos ✨Minceur Anti âge Épilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "2 Chem. de Tichené, 40220 Tarnos",
+      "rating": 5,
+      "reviewCount": 52
+    },
+    {
+      "name": "Nana tattoo moi",
+      "category": "Salon de tatouage et piercing",
+      "address": "17 Rue Victor Hugo, 40220 Tarnos",
+      "rating": 4.3,
+      "reviewCount": 41
+    }
+  ],
+  "description": "STUDIO LASER TARNOS fait partie des centres de détatouage laser à Tarnos. Avec une note de 5/5 sur 61 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tarnos.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:21:04.690Z"
+}

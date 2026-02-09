@@ -1,0 +1,52 @@
+{
+  "slug": "mende",
+  "cityName": "Mende",
+  "businessName": "Be You Concept | Épilation Laser et Soins Esthétique | MENDE",
+  "businesses": [
+    {
+      "name": "Be You Concept | Épilation Laser et Soins Esthétique | MENDE",
+      "category": "Centre d'épilation laser",
+      "address": "11 All. des Soupirs, 48000 Mende",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "Derm'Opaline",
+      "category": "Clinique de maquillage permanent",
+      "address": "2 Raspaillac, 48000 Barjac",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Arcane 23 La tattouée",
+      "category": "Tatoueur",
+      "address": "15 Rue Droite, 48000 Mende",
+      "rating": 4.9,
+      "reviewCount": 14
+    },
+    {
+      "name": "Attik Pik",
+      "category": "Salon de piercing",
+      "address": "14 Rue d'Angiran, 48000 Mende",
+      "rating": 4.9,
+      "reviewCount": 21
+    },
+    {
+      "name": "Wood'Art & Tattoo shop",
+      "category": "Tatoueur",
+      "address": "10 Rue Notre-Dame, 48000 Mende",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Cerise Tattoo Studio",
+      "category": "Tatoueur",
+      "address": "5 Bd Britexte, 48000 Mende",
+      "rating": 4.3,
+      "reviewCount": 19
+    }
+  ],
+  "description": "Be You Concept | Épilation Laser et Soins Esthétique | MENDE fait partie des centres de détatouage laser à Mende. Avec une note de 5/5 sur 19 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mende.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:25:07.603Z"
+}

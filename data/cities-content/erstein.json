@@ -1,0 +1,31 @@
+{
+  "slug": "erstein",
+  "cityName": "Erstein",
+  "businessName": "Un instant d'évasion",
+  "businesses": [
+    {
+      "name": "Un instant d'évasion",
+      "category": "Institut de beauté",
+      "address": "8 Rue des Sheds, 67150 Erstein",
+      "rating": 4.9,
+      "reviewCount": 151
+    },
+    {
+      "name": "Ocean Child Tatoo",
+      "category": "Tatoueur",
+      "address": "8 Rue du Monastère, 67150 Erstein",
+      "rating": 4.7,
+      "reviewCount": 54
+    },
+    {
+      "name": "Perla aestheticPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "16 Rue de Nairobi, 67150 Erstein",
+      "rating": 5,
+      "reviewCount": 13
+    }
+  ],
+  "description": "Un instant d'évasion fait partie des centres de détatouage laser à Erstein. Avec une note de 4.9/5 sur 151 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Erstein.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:39:59.630Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "bagnols-sur-ceze",
+  "cityName": "Bagnols-sur-Cèze",
+  "businessName": "Shop tattoo piercing",
+  "businesses": [
+    {
+      "name": "Shop tattoo piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 bis Av. Charrier",
+      "rating": 4.1,
+      "reviewCount": 52
+    },
+    {
+      "name": "Domingo Tatoo Zone",
+      "category": "Tatoueur",
+      "address": "3 Rue du Général Testé",
+      "rating": 4.8,
+      "reviewCount": 84
+    },
+    {
+      "name": "Lisa inktattoo",
+      "category": "Tatoueur",
+      "address": "33 Bd Théodore Lacombe",
+      "rating": 5,
+      "reviewCount": 44
+    },
+    {
+      "name": "Sopheria Tattoo",
+      "category": "Tatoueur",
+      "address": "Rue Saint-Victor",
+      "rating": 4.7,
+      "reviewCount": 11
+    },
+    {
+      "name": "Tattoo Ink By Bruce",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 Imp. des Muses",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Derma Sculpt - Centre Esthétique à Bagnols-sur-Cèze",
+      "category": "Programme de bien-être",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 3
+    }
+  ],
+  "description": "Shop tattoo piercing fait partie des centres de détatouage laser à Bagnols-sur-Cèze. Avec une note de 4.1/5 sur 52 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bagnols-sur-Cèze.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût moyen d'un détatouage ?",
+      "answer": "Le coût moyen national* d'un détatouage est de 353 $, mais peut varier entre 272 $ et 659 $. Ce coût peut varier en fonction de plusieurs facteurs, notamment : la taille du tatouage et la profondeur de l'encre."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:57:01.846Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "illkirch-graffenstaden",
+  "cityName": "Illkirch-Graffenstaden",
+  "businessName": "DERMAGRAFIAPropose : Tatouage de sourcils",
+  "businesses": [
+    {
+      "name": "DERMAGRAFIAPropose : Tatouage de sourcils",
+      "category": "Institut de beauté",
+      "address": "24 Rue de l'Industrie, 67400 Illkirch-Graffenstaden",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Epilation Définitive - DEPIL TECH STRASBOURG ILLKIRCH-GRAFFENSTADEN",
+      "category": "Centre d'épilation laser",
+      "address": "Av. de Strasbourg, 67400 Illkirch-Graffenstaden",
+      "rating": 4.7,
+      "reviewCount": 195
+    },
+    {
+      "name": "Laser Dermatologique De L'ill",
+      "category": "Dermatologue",
+      "address": "1 Rue de la Poste, 67400 Illkirch-Graffenstaden",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Sublima Centre laser - Epilation Définitive - Médecine Esthétique Strasbourg",
+      "category": "Centre d'épilation laser",
+      "address": "1 Pt Rue de l'Industrie, 67118 Geispolsheim",
+      "rating": 5,
+      "reviewCount": 33
+    },
+    {
+      "name": "The Glow Beauty Bar & HeadSpaPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "156%2F6 Rte de Lyon, 67400 Illkirch-Graffenstaden",
+      "rating": 4.6,
+      "reviewCount": 44
+    },
+    {
+      "name": "TATT'ROOTS",
+      "category": "Tatoueur",
+      "address": "4 Rue des Orfèvres, 67400 Illkirch-Graffenstaden",
+      "rating": 5,
+      "reviewCount": 52
+    }
+  ],
+  "description": "DERMAGRAFIAPropose : Tatouage de sourcils fait partie des centres de détatouage laser à Illkirch-Graffenstaden. Avec une note de 5/5 sur 17 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Illkirch-Graffenstaden.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:33:59.150Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "limay",
+  "cityName": "Limay",
+  "businessName": "Kali Beauty",
+  "businesses": [
+    {
+      "name": "Kali Beauty",
+      "category": "Service de détatouage",
+      "address": "6a Bd Aristide Briand, 78520 Limay",
+      "rating": 4.6,
+      "reviewCount": 9
+    },
+    {
+      "name": "studio by B to CPropose : Detatouage maquillage permanent",
+      "category": "Institut de beauté",
+      "address": "51 Rue du Dr Vinaver, 78520 Limay",
+      "rating": 4.6,
+      "reviewCount": 9
+    },
+    {
+      "name": "studio by B to C",
+      "category": "Service de détatouage",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Kali Beauty fait partie des centres de détatouage laser à Limay. Avec une note de 4.6/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Limay.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:58:02.791Z"
+}

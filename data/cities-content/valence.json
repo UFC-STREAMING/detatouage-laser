@@ -1,0 +1,65 @@
+{
+  "slug": "valence",
+  "cityName": "Valence",
+  "businessName": "Brun AlexandrePropose : Centre laser",
+  "businesses": [
+    {
+      "name": "Brun AlexandrePropose : Centre laser",
+      "category": "Chirurgien plasticien",
+      "address": "30 Av. Victor Hugo 3eme %C3%89t, 26000 Valence",
+      "rating": 4.4,
+      "reviewCount": 72
+    },
+    {
+      "name": "Dermo Nuance",
+      "category": "Institut de beauté",
+      "address": "7 All. des Glycines, 26120 Chabeuil",
+      "rating": 4.9,
+      "reviewCount": 29
+    },
+    {
+      "name": "Cosmetique Totale Valence - Epilation Laser - Peeling - Acide Hyaluronique",
+      "category": "Centre d'épilation laser",
+      "address": "10 Av. Pierre Semard, 26000 Valence",
+      "rating": 4.8,
+      "reviewCount": 383
+    },
+    {
+      "name": "TWOSTEP Spécialiste du sourcil Valence - Maquillage permanentPropose : Détatouage",
+      "category": "Clinique de maquillage permanent",
+      "address": "4 Cité Chabert, 26000 Valence",
+      "rating": 4.9,
+      "reviewCount": 353
+    },
+    {
+      "name": "Lazeo Valence",
+      "category": "Centre d'épilation laser",
+      "address": "49 Av. Victor Hugo, 26000 Valence",
+      "rating": 4.8,
+      "reviewCount": 81
+    },
+    {
+      "name": "Arrêt Tabac Valence Laser",
+      "category": "Centre de bien-être",
+      "address": "4 Av. Victor Hugo, 26000 Valence",
+      "rating": 4.8,
+      "reviewCount": 48
+    }
+  ],
+  "description": "Brun AlexandrePropose : Centre laser fait partie des centres de détatouage laser à Valence. Avec une note de 4.4/5 sur 72 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Valence.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:10:48.659Z"
+}

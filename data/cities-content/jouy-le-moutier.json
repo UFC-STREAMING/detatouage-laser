@@ -1,0 +1,44 @@
+{
+  "slug": "jouy-le-moutier",
+  "cityName": "Jouy-le-Moutier",
+  "businessName": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis",
+  "businesses": [
+    {
+      "name": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis",
+      "category": "Cabinet médical",
+      "address": "Pontoise",
+      "rating": 5,
+      "reviewCount": 337
+    },
+    {
+      "name": "De Toute Beauté",
+      "category": "Institut de beauté",
+      "address": "32 Av. du Vast",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "Mld Beauté Institut",
+      "category": "Institut de beauté",
+      "address": "108 Bd d'Écancourt",
+      "rating": 4.6,
+      "reviewCount": 113
+    }
+  ],
+  "description": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis fait partie des centres de détatouage laser à Jouy-le-Moutier. Avec une note de 5/5 sur 337 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Jouy-le-Moutier.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Est-ce que le laser chez le dermatologue est remboursé ?",
+      "answer": "Est-ce remboursé par la sécurité sociale ? Le remboursement par la Caisse Primaire d'Assurance Maladie (CPAM) des traitements par laser en dermatologie est réservé aux indications médicales. Ainsi, le traitement des angiomes plans ou des taches café au lait chez les enfants est pris en charge."
+    },
+    {
+      "question": "Quels sont les avis sur l'Institut du laser ?",
+      "answer": "Accueil chaleureux, personnel professionnel et résultats visibles rapidement. Je recommande sans hésiter 😊 » Madame De Oliveira Ton confort, ton bien-être et des résultats visibles dès la première séance : c'est notre promesse chez l'Institut du Laser 🤍 Prête à franchir le pas et dire adieu aux poils ?"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:58:15.870Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "brest",
+  "cityName": "Brest",
+  "businessName": "Centre laser CtrlZ - Brest",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Brest",
+      "category": "Service de détatouage",
+      "address": "10 Rue Louis Blanc, 29200 Brest",
+      "rating": 5,
+      "reviewCount": 47
+    },
+    {
+      "name": "Centre laser HTM Brest",
+      "category": "Clinique ophtalmologique",
+      "address": "32 Rue Amiral Linois, 29200 Brest",
+      "rating": 4,
+      "reviewCount": 24
+    },
+    {
+      "name": "Cabinet Infinity Docteur Christophe Bailleux",
+      "category": "Centre d'épilation laser",
+      "address": "48 bis Rue de Lyon, 29200 Brest",
+      "rating": 4.8,
+      "reviewCount": 210
+    }
+  ],
+  "description": "Centre laser CtrlZ - Brest fait partie des centres de détatouage laser à Brest. Avec une note de 5/5 sur 47 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Brest.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:04:36.576Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "vieux-conde",
+  "cityName": "Vieux-Condé",
+  "businessName": "Family Ink..",
+  "businesses": [
+    {
+      "name": "Family Ink..",
+      "category": "Salon de tatouage et piercing",
+      "address": "46 Rue Victor Hugo, 59690 Vieux-Condé",
+      "rating": 4.5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Centre Paramédical De Vieux-Condé Venus Skin Reborn VSK® Spécialiste Laser,HIFU, Cryolipolyse, hydrafacialPropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "HIFU, Cryolipolyse, hydrafacial, 200 Rue Jean Jaurès, 59690 Vieux-Condé",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "DocTatoo - MEDEL Clinic",
+      "category": "Service de détatouage",
+      "address": "A droite du Fort Rouge, Résidence de l'Escarpe, Rue Perdue 6, 7500 Tournai, Belgique",
+      "rating": 4.5,
+      "reviewCount": 33
+    }
+  ],
+  "description": "Family Ink.. fait partie des centres de détatouage laser à Vieux-Condé. Avec une note de 4.5/5 sur 18 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vieux-Condé.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:41:58.107Z"
+}

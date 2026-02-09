@@ -1,0 +1,44 @@
+{
+  "slug": "seysses",
+  "cityName": "Seysses",
+  "businessName": "DERMA STUDIOPropose : Épilation laser",
+  "businesses": [
+    {
+      "name": "DERMA STUDIOPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "2 Av. Marcel Langer, 31600 Seysses",
+      "rating": 5,
+      "reviewCount": 35
+    },
+    {
+      "name": "Ingas Tattoo Studio",
+      "category": "Tatoueur",
+      "address": "5 Rue Danielle Casanova, 31600 Seysses",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "House of Beauty - Maquillage Permanent et Formations",
+      "category": "Institut de beauté",
+      "address": "3 Rue Emile Dewoitine, 31600 Seysses",
+      "rating": 5,
+      "reviewCount": 99
+    }
+  ],
+  "description": "DERMA STUDIOPropose : Épilation laser fait partie des centres de détatouage laser à Seysses. Avec une note de 5/5 sur 35 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Seysses.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:42:58.128Z"
+}

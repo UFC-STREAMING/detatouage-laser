@@ -1,0 +1,65 @@
+{
+  "slug": "frejus",
+  "cityName": "Fréjus",
+  "businessName": "GOODLASER CLINIC - Centre d'épilation définitive",
+  "businesses": [
+    {
+      "name": "GOODLASER CLINIC - Centre d'épilation définitive",
+      "category": "Centre d'épilation laser",
+      "address": "258 Bd de la Mer, 83600 Fréjus",
+      "rating": 4.6,
+      "reviewCount": 44
+    },
+    {
+      "name": "Dermagraphic Fréjus Tatouage & Piercing",
+      "category": "Service de détatouage",
+      "address": "210 Rue des Moulins, 83600 Fréjus",
+      "rating": 4.9,
+      "reviewCount": 290
+    },
+    {
+      "name": "STUDIO: TATOO - DERMO - ESTHETIQUE",
+      "category": "Tatoueur",
+      "address": "480 Rue Eugène Joly, 83600 Fréjus",
+      "rating": 4.9,
+      "reviewCount": 100
+    },
+    {
+      "name": "Institut Médical de la Peau - IMP Fréjus",
+      "category": "Centre d'épilation laser",
+      "address": "237 Rue Jean Giono, 83600 Fréjus",
+      "rating": 4.6,
+      "reviewCount": 85
+    },
+    {
+      "name": "Dr. Gandillet - Médecine Esthétique et Phlébologie",
+      "category": "Service d'esthétique",
+      "address": "45 Rue Hippolyte Fabre, 83600 Fréjus",
+      "rating": 4.5,
+      "reviewCount": 234
+    },
+    {
+      "name": "CLINIQUE NOVA - Médecine esthétique, Epilation Laser, Hydrafacial, Cryolipolyse",
+      "category": "Clinique",
+      "address": "Epilation Laser, Hydrafacial, Cryolipolyse, 300 Via Nova, 83600 Fréjus",
+      "rating": 4.9,
+      "reviewCount": 66
+    }
+  ],
+  "description": "GOODLASER CLINIC - Centre d'épilation définitive fait partie des centres de détatouage laser à Fréjus. Avec une note de 4.6/5 sur 44 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fréjus.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:12:20.768Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "vesoul",
+  "cityName": "Vesoul",
+  "businessName": "Le Centre - esthétique et innovation",
+  "businesses": [
+    {
+      "name": "Le Centre - esthétique et innovation",
+      "category": "Service de détatouage",
+      "address": "8 Rue du Petit Montmarin, 70000 Vesoul",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "DOCTEUR Adeline PAQUIERS",
+      "category": "Centre d'épilation laser",
+      "address": "12 Rue de Cita, 70000 Vesoul",
+      "rating": 4.5,
+      "reviewCount": 37
+    },
+    {
+      "name": "SPA FLEUR DE PEAU",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Leblond, 70000 Vesoul",
+      "rating": 4.8,
+      "reviewCount": 189
+    },
+    {
+      "name": "Just'in Beauty",
+      "category": "Institut de beauté",
+      "address": "37 Rue du Breuil, 70000 Vesoul",
+      "rating": 4.4,
+      "reviewCount": 48
+    },
+    {
+      "name": "QIPAO",
+      "category": "Institut de beauté",
+      "address": "34 Rue d'Alsace Lorraine, 70000 Vesoul",
+      "rating": 4.3,
+      "reviewCount": 164
+    },
+    {
+      "name": "Ötzi & Chinchorro",
+      "category": "Salon de tatouage et piercing",
+      "address": "51 Rue Paul Morel, 70000 Vesoul",
+      "rating": 4.7,
+      "reviewCount": 87
+    }
+  ],
+  "description": "Le Centre - esthétique et innovation fait partie des centres de détatouage laser à Vesoul. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vesoul.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:08:58.646Z"
+}

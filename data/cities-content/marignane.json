@@ -1,0 +1,65 @@
+{
+  "slug": "marignane",
+  "cityName": "Marignane",
+  "businessName": "Oleaderme",
+  "businesses": [
+    {
+      "name": "Oleaderme",
+      "category": "Centre d'épilation laser",
+      "address": "27 Bd Georges Clemenceau, 13700 Marignane",
+      "rating": 4.9,
+      "reviewCount": 63
+    },
+    {
+      "name": "Alicia Dermo Skin Hair - hautement qualifiée",
+      "category": "Service de détatouage",
+      "address": "44 Av. du 8 Mai 1945, 13700 Marignane",
+      "rating": 5,
+      "reviewCount": 97
+    },
+    {
+      "name": "Sweet Dermo",
+      "category": "Clinique de maquillage permanent",
+      "address": "Le nombre d%E2%80%99or, Av. de l'Europe, 13700 Marignane",
+      "rating": 4.8,
+      "reviewCount": 72
+    },
+    {
+      "name": "laserOstop - Arrêter de fumer à Marignane",
+      "category": "Praticien de médecine alternative",
+      "address": "VILLAGE SANT%C3%89 Allée Georges Gonnet, 1er étage, 13730 Saint-Victoret",
+      "rating": 4.8,
+      "reviewCount": 222
+    },
+    {
+      "name": "Atelier du soin - Centre Laser et visage Marignane",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue du Commandant Pierre Colin, 13700 Marignane",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "Dr Pierre Monod - Médecin morphologue et anti-âge",
+      "category": "Médecin",
+      "address": "27 Bd Georges Clemenceau, 13700 Marignane",
+      "rating": 4.7,
+      "reviewCount": 15
+    }
+  ],
+  "description": "Oleaderme fait partie des centres de détatouage laser à Marignane. Avec une note de 4.9/5 sur 63 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Marignane.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:26:58.194Z"
+}

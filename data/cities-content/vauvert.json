@@ -1,0 +1,52 @@
+{
+  "slug": "vauvert",
+  "cityName": "Vauvert",
+  "businessName": "L' Art de la Beauté - Institut de beauté - Centre d’épilation Laser",
+  "businesses": [
+    {
+      "name": "L' Art de la Beauté - Institut de beauté - Centre d’épilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "193 Av. Ampère, 30600 Vauvert",
+      "rating": 5,
+      "reviewCount": 55
+    },
+    {
+      "name": "Elixir Eternel - Epilation laser et soins esthétiques à Vauvert",
+      "category": "Centre d'épilation laser",
+      "address": "1 Av. Robert Gourdon, 30600 Vauvert",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "LB Dermo Concept - Maquillage PermanentPropose : Tatouage de sourcils",
+      "category": "Clinique de maquillage permanent",
+      "address": "30600 Vauvert",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Dixie Wolf Tattoo | Tatoueur secteur Nîmes",
+      "category": "Tatoueur",
+      "address": "37 Chemin Gisèle Halimi, 30600 Vauvert",
+      "rating": 5,
+      "reviewCount": 48
+    },
+    {
+      "name": "z & n tattoo (salon privé) pas de piercing",
+      "category": "Tatoueur",
+      "address": "148 Rue du Creux des Mages, 30600 Vauvert",
+      "rating": 4.9,
+      "reviewCount": 53
+    },
+    {
+      "name": "Ka-Ly Beauty Artist ( chez L'art de la beauté )",
+      "category": "Salon de manucure",
+      "address": "193 Av. Ampère, 30600 Vauvert",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "L' Art de la Beauté - Institut de beauté - Centre d’épilation Laser fait partie des centres de détatouage laser à Vauvert. Avec une note de 5/5 sur 55 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vauvert.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:31:36.497Z"
+}

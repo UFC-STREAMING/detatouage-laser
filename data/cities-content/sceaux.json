@@ -1,0 +1,44 @@
+{
+  "slug": "sceaux",
+  "cityName": "Sceaux",
+  "businessName": "Centre Laser et Esthétique - Dr Audrey Kahan & Dr Charlotte Daguillon-Torre",
+  "businesses": [
+    {
+      "name": "Centre Laser et Esthétique - Dr Audrey Kahan & Dr Charlotte Daguillon-Torre",
+      "category": "Centre d'épilation laser",
+      "address": "42 Rue du Carreau, 92350 Le Plessis-Robinson",
+      "rating": 5,
+      "reviewCount": 207
+    },
+    {
+      "name": "MV Secret Beauty",
+      "category": "Centre de formation",
+      "address": "Rue Houdan, 92330 Sceaux",
+      "rating": 4.4,
+      "reviewCount": 33
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "Centre Laser et Esthétique - Dr Audrey Kahan & Dr Charlotte Daguillon-Torre fait partie des centres de détatouage laser à Sceaux. Avec une note de 5/5 sur 207 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sceaux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:47:41.746Z"
+}

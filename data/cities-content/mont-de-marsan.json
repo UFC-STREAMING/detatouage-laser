@@ -1,0 +1,65 @@
+{
+  "slug": "mont-de-marsan",
+  "cityName": "Mont-de-Marsan",
+  "businessName": "Studio Laser Mont-de-Marsan",
+  "businesses": [
+    {
+      "name": "Studio Laser Mont-de-Marsan",
+      "category": "Centre d'épilation laser",
+      "address": "7 Rue Pierre et Marie Curie, 40000 Mont-de-Marsan",
+      "rating": 5,
+      "reviewCount": 52
+    },
+    {
+      "name": "Origine Studio",
+      "category": "Centre d'épilation laser",
+      "address": "Zone commerciale Brico Leclerc, 1234 Av. du Vignau, 40000 Mont-de-Marsan",
+      "rating": 4.6,
+      "reviewCount": 10
+    },
+    {
+      "name": "Centre de Médecine Esthétique Dr Eric PEYRE",
+      "category": "Chirurgien esthétique",
+      "address": "4 Av. de la Frm du Pasques, 40000 Mont-de-Marsan",
+      "rating": 4.2,
+      "reviewCount": 41
+    },
+    {
+      "name": "Docteur Nicolas DIRIS",
+      "category": "Dermatologue",
+      "address": "4B Bd Ferdinand de Candau, 40000 Mont-de-Marsan",
+      "rating": 4.7,
+      "reviewCount": 430
+    },
+    {
+      "name": "Dermaslim Mont-de-Marsan - Centre Minceur & Anti-âge",
+      "category": "Institut de beauté",
+      "address": "436 Av. du Maréchal Juin, 40000 Mont-de-Marsan",
+      "rating": 4.6,
+      "reviewCount": 178
+    },
+    {
+      "name": "Ocean Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "28 All. Brouchet, 40000 Mont-de-Marsan",
+      "rating": 4.8,
+      "reviewCount": 172
+    }
+  ],
+  "description": "Studio Laser Mont-de-Marsan fait partie des centres de détatouage laser à Mont-de-Marsan. Avec une note de 5/5 sur 52 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mont-de-Marsan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:29:08.554Z"
+}

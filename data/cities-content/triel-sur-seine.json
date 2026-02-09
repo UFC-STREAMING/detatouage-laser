@@ -1,0 +1,44 @@
+{
+  "slug": "triel-sur-seine",
+  "cityName": "Triel-sur-Seine",
+  "businessName": "Inked by Me",
+  "businesses": [
+    {
+      "name": "Inked by Me",
+      "category": "Tatoueur",
+      "address": "179 Rue Paul Doumer",
+      "rating": 4.9,
+      "reviewCount": 35
+    },
+    {
+      "name": "cabinet médical laser épilatoire",
+      "category": "Médecin",
+      "address": "87 Rue Paul Doumer",
+      "rating": 5,
+      "reviewCount": 12
+    },
+    {
+      "name": "Institut DS",
+      "category": "Centre d'épilation laser",
+      "address": "137 Rue Paul Doumer",
+      "rating": 4.7,
+      "reviewCount": 71
+    }
+  ],
+  "description": "Inked by Me fait partie des centres de détatouage laser à Triel-sur-Seine. Avec une note de 4.9/5 sur 35 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Triel-sur-Seine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:27:45.637Z"
+}

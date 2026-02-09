@@ -1,0 +1,61 @@
+{
+  "slug": "gisors",
+  "cityName": "Gisors",
+  "businessName": "Tatoo Mõa",
+  "businesses": [
+    {
+      "name": "Tatoo Mõa",
+      "category": "Tatoueur",
+      "address": "3 Rue des Libertés, 27140 Gisors",
+      "rating": 4.9,
+      "reviewCount": 385
+    },
+    {
+      "name": "Private Tattoo Gisors",
+      "category": "Salon de tatouage et piercing",
+      "address": "2 Rue Fran%C3%A7ois Cadennes, 27140 Gisors",
+      "rating": 4.8,
+      "reviewCount": 82
+    },
+    {
+      "name": "Muse des âmes - Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "44 Rue de Paris, 27140 Gisors",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "homebeautybodyPropose : Tatouages délicats point par point",
+      "category": "Institut de beauté",
+      "address": "47 Rue de Paris, 27140 Gisors",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Tattoo addict",
+      "category": "Tatoueur",
+      "address": "26 Rue Cappeville, 27140 Gisors",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "L'Atelier du Corps",
+      "category": "Institut de beauté",
+      "address": "80 Rue de Vienne, 27140 Gisors",
+      "rating": 5,
+      "reviewCount": 3
+    }
+  ],
+  "description": "Tatoo Mõa fait partie des centres de détatouage laser à Gisors. Avec une note de 4.9/5 sur 385 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gisors.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:25:23.103Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "montreuil",
+  "cityName": "Montreuil",
+  "businessName": "Cap Horn esthétique - Centre laser Montreuil",
+  "businesses": [
+    {
+      "name": "Cap Horn esthétique - Centre laser Montreuil",
+      "category": "Centre d'épilation laser",
+      "address": "55-63 Rue Gaston Lauriau, 93100 Montreuil",
+      "rating": 5,
+      "reviewCount": 111
+    },
+    {
+      "name": "Maelis Centre Laser Montreuil / Vincennes - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "5 Bd Rouget de Lisle, 93100 Montreuil",
+      "rating": 4.9,
+      "reviewCount": 668
+    },
+    {
+      "name": "Lazeo Montreuil",
+      "category": "Centre d'épilation laser",
+      "address": "44 Av. du Président Wilson, 93100 Montreuil",
+      "rating": 4.9,
+      "reviewCount": 189
+    }
+  ],
+  "description": "Cap Horn esthétique - Centre laser Montreuil fait partie des centres de détatouage laser à Montreuil. Avec une note de 5/5 sur 111 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montreuil.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:05:35.294Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "loos",
+  "cityName": "Loos",
+  "businessName": "Ray studios Lille - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "Lille côté sud - Dermatologie esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "13 Rue du Maréchal Foch, 59120 Loos",
+      "rating": 3.8,
+      "reviewCount": 54
+    },
+    {
+      "name": "Diben tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "250 Av. Saint-Marcel, 59120 Loos",
+      "rating": 4.9,
+      "reviewCount": 79
+    },
+    {
+      "name": "Venom Tattoo",
+      "category": "Tatoueur",
+      "address": "32 Rue Jules Guesde, 59120 Loos",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Clinique Gantois",
+      "category": "Clinique spécialisée",
+      "address": "150 Rue Pierre Mauroy, 59800 Lille",
+      "rating": 4.9,
+      "reviewCount": 406
+    },
+    {
+      "name": "Centre laser CtrlZ - Lille",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue Saint-Sauveur, 59000 Lille",
+      "rating": 4.9,
+      "reviewCount": 60
+    }
+  ],
+  "description": "Ray studios Lille - centre de détatouage laser fait partie des centres de détatouage laser à Loos. Avec une note de 5/5 sur 74 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Loos.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:43:05.678Z"
+}

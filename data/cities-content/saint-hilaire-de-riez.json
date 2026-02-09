@@ -1,0 +1,52 @@
+{
+  "slug": "saint-hilaire-de-riez",
+  "cityName": "Saint-Hilaire-de-Riez",
+  "businessName": "L'IMPULSION BLEUE & CO Salon de tatouage et piercing",
+  "businesses": [
+    {
+      "name": "L'IMPULSION BLEUE & CO Salon de tatouage et piercing",
+      "category": "Service de détatouage",
+      "address": "51 Rue Georges Clemenceau, 85270 Saint-Hilaire-de-Riez",
+      "rating": 4.8,
+      "reviewCount": 77
+    },
+    {
+      "name": "Babyreb tattoo",
+      "category": "Magasin",
+      "address": "207 Av. de la Forêt, 85270 Saint-Hilaire-de-Riez",
+      "rating": 4.9,
+      "reviewCount": 63
+    },
+    {
+      "name": "Cha'ca Art Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Rue Achard, 85800 Saint-Gilles-Croix-de-Vie",
+      "rating": 4.8,
+      "reviewCount": 117
+    },
+    {
+      "name": "WONDERLAND Piercing & Bijoux dentairePropose : Tatouages, piercings",
+      "category": "Salon de piercing",
+      "address": "à l'arrière de la crèche %22Les Petits Hérissons, 14 Chem. de la Petite Croix, 85270 Saint-Hilaire-de-Riez",
+      "rating": 5,
+      "reviewCount": 227
+    },
+    {
+      "name": "Strel’Artattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 34
+    },
+    {
+      "name": "L'atelier de l'Océan - Découpe et Gravure Laser sur bois, liège, PMMA",
+      "category": "Magasin d'ameublement et de décoration",
+      "address": "liège, PMMA, 1 Rue des Estivants, 85270 Saint-Hilaire-de-Riez",
+      "rating": 4.5,
+      "reviewCount": 26
+    }
+  ],
+  "description": "L'IMPULSION BLEUE & CO Salon de tatouage et piercing fait partie des centres de détatouage laser à Saint-Hilaire-de-Riez. Avec une note de 4.8/5 sur 77 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Hilaire-de-Riez.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:20:23.942Z"
+}

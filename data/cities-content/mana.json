@@ -1,0 +1,22 @@
+{
+  "slug": "mana",
+  "cityName": "Mana",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Mana grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mana.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le type de tatouage le plus difficile à enlever ?",
+      "answer": "Le détatouage au laser fonctionne lorsque la couleur de l'encre absorbe l'énergie du laser. Les différentes couleurs d'encre absorbent l'énergie différemment. Plus précisément, les couleurs claires comme le blanc, le jaune, le bleu clair et le rose sont les plus difficiles à éliminer, de même que le vert, le rouge et les couleurs fluo.19 déc. 2017"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:38:17.057Z"
+}

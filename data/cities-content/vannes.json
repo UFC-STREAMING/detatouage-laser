@@ -1,0 +1,44 @@
+{
+  "slug": "vannes",
+  "cityName": "Vannes",
+  "businessName": "Médecine Esthétique Océane - centre laser estyle",
+  "businesses": [
+    {
+      "name": "Médecine Esthétique Océane - centre laser estyle",
+      "category": "Centre d'épilation laser",
+      "address": "2 All. Fran%C3%A7ois Joseph Broussais, 56000 Vannes",
+      "rating": 4.6,
+      "reviewCount": 59
+    },
+    {
+      "name": "Clinique Laser Esthétique Médicale",
+      "category": "Centre d'épilation laser",
+      "address": "74 Rue du Vincin, 56000 Vannes",
+      "rating": 4.8,
+      "reviewCount": 123
+    },
+    {
+      "name": "médecin esthétique vannes franck morel détatouage botox épilation",
+      "category": "Centre d'épilation laser",
+      "address": "17 Rue du Lt Fran%C3%A7ois Fromentin, 56000 Vannes",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Médecine Esthétique Océane - centre laser estyle fait partie des centres de détatouage laser à Vannes. Avec une note de 4.6/5 sur 59 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vannes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "0:23AVANT / APRÈS ️ Des lèvres pulpeuses et un bombée ...Facebook  ·  Clinique Laser Esthétique Médicale - CLEM Vannes"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "0:32Connaissez-vous le laser fractionné non ablatif 🧐? Découvrez ...Facebook  ·  Clinique Laser Esthétique Médicale - CLEM Vannes"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "0:20Teším sa na Vás. Lichnerová 41B SenecInstagram  ·  Daisies s.r.o."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:13:50.188Z"
+}

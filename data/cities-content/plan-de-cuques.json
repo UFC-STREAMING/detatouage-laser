@@ -1,0 +1,65 @@
+{
+  "slug": "plan-de-cuques",
+  "cityName": "Plan-de-Cuques",
+  "businessName": "Théa Derma",
+  "businesses": [
+    {
+      "name": "Théa Derma",
+      "category": "Centre d'épilation laser",
+      "address": "32 Av. Paul Sirvent",
+      "rating": 5,
+      "reviewCount": 61
+    },
+    {
+      "name": "Regard Unique Studio - spécialiste sourcils et cils",
+      "category": "Institut de beauté",
+      "address": "77 Av. Frédéric Mistral",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Tattoo Art Piou - Plan de Cuques",
+      "category": "Tatoueur",
+      "address": "le mail av general de gaulle, centre commercial bocage 2",
+      "rating": 4.9,
+      "reviewCount": 58
+    },
+    {
+      "name": "Tattoo Falhine",
+      "category": "Tatoueur",
+      "address": "5 Av. Frédéric Chevillon",
+      "rating": 4.8,
+      "reviewCount": 45
+    },
+    {
+      "name": "Ayanuz Tattoo",
+      "category": "Tatoueur",
+      "address": "55 Av. Paul Sirvent",
+      "rating": 4.9,
+      "reviewCount": 18
+    },
+    {
+      "name": "SPICA INK • Taches de rousseur naturelles et réalistes - Maquillage permanent - Browlift - Rehaussement de cils - Détatouage",
+      "category": "Clinique de maquillage permanent",
+      "address": "Chez A.M Institut, 59 Av. Frédéric Chevillon",
+      "rating": 5,
+      "reviewCount": 105
+    }
+  ],
+  "description": "Théa Derma fait partie des centres de détatouage laser à Plan-de-Cuques. Avec une note de 5/5 sur 61 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Plan-de-Cuques.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:32:14.177Z"
+}

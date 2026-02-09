@@ -1,0 +1,44 @@
+{
+  "slug": "sable-sur-sarthe",
+  "cityName": "Sablé-sur-Sarthe",
+  "businessName": "jo brass tatoo",
+  "businesses": [
+    {
+      "name": "jo brass tatoo",
+      "category": "Tatoueur",
+      "address": "54 Rue de l'Île",
+      "rating": 4.7,
+      "reviewCount": 63
+    },
+    {
+      "name": "Luuxiol tatouage",
+      "category": "Tatoueur",
+      "address": "10 Rue Carnot",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Secret de Beauté · Sablé-sur-Sarthe",
+      "category": "Salon d'épilation",
+      "address": "Z.A LA MARTINIERE, Rte du Mans",
+      "rating": 4.8,
+      "reviewCount": 24
+    }
+  ],
+  "description": "jo brass tatoo fait partie des centres de détatouage laser à Sablé-sur-Sarthe. Avec une note de 4.7/5 sur 63 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sablé-sur-Sarthe.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût moyen d'un détatouage ?",
+      "answer": "Le coût moyen national* d'un détatouage est de 353 $, mais peut varier entre 272 $ et 659 $. Ce coût peut varier en fonction de plusieurs facteurs, notamment : la taille du tatouage et la profondeur de l'encre."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:25:36.039Z"
+}

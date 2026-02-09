@@ -1,0 +1,65 @@
+{
+  "slug": "amberieu-en-bugey",
+  "cityName": "Ambérieu-en-Bugey",
+  "businessName": "Une envie d'encre",
+  "businesses": [
+    {
+      "name": "Une envie d'encre",
+      "category": "Salon de tatouage et piercing",
+      "address": "41 Av. Roger Salengro",
+      "rating": 5,
+      "reviewCount": 63
+    },
+    {
+      "name": "Psyche tattoo",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 44
+    },
+    {
+      "name": "Cabinet de médecine esthétique La Source",
+      "category": "Cabinet médical",
+      "address": "2 ,bis Rue du Clos Dutillier",
+      "rating": 4.5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Laser Game 01",
+      "category": "Centre de laser game",
+      "address": "37 Av. de la Libération",
+      "rating": 4.5,
+      "reviewCount": 89
+    },
+    {
+      "name": "Tahitian HK Tattoo",
+      "category": "Tatoueur",
+      "address": "83 bis Rue Aristide Briand",
+      "rating": 5,
+      "reviewCount": 131
+    },
+    {
+      "name": "Institut Lalibellule",
+      "category": "Institut de beauté",
+      "address": "623 Av. Léon Blum",
+      "rating": 4.7,
+      "reviewCount": 86
+    }
+  ],
+  "description": "Une envie d'encre fait partie des centres de détatouage laser à Ambérieu-en-Bugey. Avec une note de 5/5 sur 63 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ambérieu-en-Bugey.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Est-ce que le détatouage laisse des traces ?",
+      "answer": "Le détatouage peut laisser des traces, même s'il est réalisé par des professionnels qualifiés en utilisant des techniques modernes.7 nov. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:05:02.606Z"
+}

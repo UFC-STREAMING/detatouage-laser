@@ -1,0 +1,52 @@
+{
+  "slug": "ramonville-saint-agne",
+  "cityName": "Ramonville-Saint-Agne",
+  "businessName": "Evartist experte en Maquillage permanent à TOULOUSE",
+  "businesses": [
+    {
+      "name": "Evartist experte en Maquillage permanent à TOULOUSE",
+      "category": "Clinique de maquillage permanent",
+      "address": "85 Av. Tolosane",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "Sandra Sabina. Maquillage permanent, Microblading. Hydrafacial. Microneedling, Hyalnano, Carbon peel. Formations.",
+      "category": "Centre de formation",
+      "address": "7 All. des 2 Ormeaux",
+      "rating": 4.7,
+      "reviewCount": 52
+    },
+    {
+      "name": "KRN TTT • Fineline tattoo • Toulouse Sud",
+      "category": "Tatoueur",
+      "address": "23 Av. d'Occitanie, 31520 Ramonville-Saint-Agne",
+      "rating": 4.9,
+      "reviewCount": 72
+    },
+    {
+      "name": "Cabinet de Kinésithérapie Laila Daoudi ( Épilation définitive )",
+      "category": "Kinésithérapeute",
+      "address": "2 Pl. Pablo Picasso",
+      "rating": 4.8,
+      "reviewCount": 21
+    },
+    {
+      "name": "Eden Clinic - Médecine Esthétique - Injections - Esthétique Du Regard",
+      "category": "Spa médical",
+      "address": "Labège",
+      "rating": 5,
+      "reviewCount": 44
+    },
+    {
+      "name": "Ray studios Toulouse - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Toulouse",
+      "rating": 4.9,
+      "reviewCount": 95
+    }
+  ],
+  "description": "Evartist experte en Maquillage permanent à TOULOUSE fait partie des centres de détatouage laser à Ramonville-Saint-Agne. Avec une note de 5/5 sur 29 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ramonville-Saint-Agne.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:08:28.425Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "saint-gaudens",
+  "cityName": "Saint-Gaudens",
+  "businessName": "A Fleur De Peau Tattoo",
+  "businesses": [
+    {
+      "name": "A Fleur De Peau Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "4 Pl. Saint-Raymond, 31800 Saint-Gaudens",
+      "rating": 4.8,
+      "reviewCount": 209
+    },
+    {
+      "name": "Dermo Art Tattoo",
+      "category": "Tatoueur",
+      "address": "5 Rue du Moulat, 31800 Saint-Gaudens",
+      "rating": 4.8,
+      "reviewCount": 178
+    },
+    {
+      "name": "Audrey esthetique",
+      "category": "Institut de beauté",
+      "address": "15 Pl. Nationale Jean Jaurès, 31800 Saint-Gaudens",
+      "rating": 4.8,
+      "reviewCount": 29
+    },
+    {
+      "name": "espace beauté le temps pour soi Institut de BeautéPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "87 Av. Fran%C3%A7ois Mitterrand, 31800 Saint-Gaudens",
+      "rating": 4.4,
+      "reviewCount": 163
+    },
+    {
+      "name": "L'ATELIER DE GOÏA",
+      "category": "Institut de beauté",
+      "address": "7 Rue de Goumetx, 31800 Saint-Gaudens",
+      "rating": 5,
+      "reviewCount": 30
+    },
+    {
+      "name": "INKMAGINARIUM TATTOO",
+      "category": "Tatoueur",
+      "address": "8 Rue du Caro, 31800 Saint-Gaudens",
+      "rating": 5,
+      "reviewCount": 1
+    }
+  ],
+  "description": "A Fleur De Peau Tattoo fait partie des centres de détatouage laser à Saint-Gaudens. Avec une note de 4.8/5 sur 209 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Gaudens.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:28:14.682Z"
+}

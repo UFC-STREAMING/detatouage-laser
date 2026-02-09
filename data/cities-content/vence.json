@@ -1,0 +1,52 @@
+{
+  "slug": "vence",
+  "cityName": "Vence",
+  "businessName": "Aux Petits Soins pour tous - Soins anti-âge Vence Rajeunissement - Plasma lift - Détatouage naturel 06",
+  "businesses": [
+    {
+      "name": "Aux Petits Soins pour tous - Soins anti-âge Vence Rajeunissement - Plasma lift - Détatouage naturel 06",
+      "category": "Service de détatouage",
+      "address": "202 Pl. du Grand Jardin, 06140 Vence",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Céline MACHADO Institut et Centre Laser",
+      "category": "Centre d'épilation laser",
+      "address": "134 Av. Emile Hugues bat E, 06140 Vence",
+      "rating": 4.9,
+      "reviewCount": 111
+    },
+    {
+      "name": "L'Apaj Piercing & Tattoo - Salon Privé sur RDV à Vence",
+      "category": "Salon de tatouage et piercing",
+      "address": "1880 Chem. du Pioulier, 06140 Vence",
+      "rating": 4.9,
+      "reviewCount": 51
+    },
+    {
+      "name": "Skin EmotionPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "4 Pl. du Maréchal Juin, 06140 Vence",
+      "rating": 4.8,
+      "reviewCount": 101
+    },
+    {
+      "name": "L'Amie de L'ange",
+      "category": "Tatoueur",
+      "address": "25 Pl. Antony Mars, 06140 Vence",
+      "rating": 4.8,
+      "reviewCount": 32
+    },
+    {
+      "name": "Tatoueur à Vence",
+      "category": "Tatoueur",
+      "address": "16 Av. Henri Isnard, 06140 Vence",
+      "rating": 4.4,
+      "reviewCount": 15
+    }
+  ],
+  "description": "Aux Petits Soins pour tous - Soins anti-âge Vence Rajeunissement - Plasma lift - Détatouage naturel 06 fait partie des centres de détatouage laser à Vence. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vence.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:51:21.389Z"
+}

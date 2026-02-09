@@ -1,0 +1,52 @@
+{
+  "slug": "la-garde",
+  "cityName": "La Garde",
+  "businessName": "Sweet.Art",
+  "businesses": [
+    {
+      "name": "Sweet.Art",
+      "category": "Salon de piercing",
+      "address": "4 Rue Vincent Raspail, 83130 La Garde",
+      "rating": 4.9,
+      "reviewCount": 60
+    },
+    {
+      "name": "Action Anti-Âge Plus",
+      "category": "Service de détatouage",
+      "address": "33 Rue Capitaine Joseph Casanova, 83100 Toulon",
+      "rating": 4.4,
+      "reviewCount": 46
+    },
+    {
+      "name": "Clinic Aestheticare | Épilation laser et soins esthétiques | La Garde",
+      "category": "Centre d'épilation laser",
+      "address": "151 Av. Alphonse Lavallée Bat LEYBO, 83130 La Garde",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "Inkoff - détatouage laser picoseconde Toulon",
+      "category": "Service de détatouage",
+      "address": "42 Rue Paul Lendrin, 83000 Toulon",
+      "rating": 4.9,
+      "reviewCount": 90
+    },
+    {
+      "name": "Laser 26 - La Valette-du-var I Epilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "40 Av. Jacqueline Auriol, 83160 La Valette-du-Var",
+      "rating": 5,
+      "reviewCount": 46
+    },
+    {
+      "name": "Blackblood Tattoo La garde",
+      "category": "Tatoueur",
+      "address": "Blackblood Tattoo, 4 Rue Vincent Raspail, 83130 La Garde",
+      "rating": 5,
+      "reviewCount": 143
+    }
+  ],
+  "description": "Sweet.Art fait partie des centres de détatouage laser à La Garde. Avec une note de 4.9/5 sur 60 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Garde.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:36:39.861Z"
+}

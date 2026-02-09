@@ -1,0 +1,52 @@
+{
+  "slug": "domont",
+  "cityName": "Domont",
+  "businessName": "Centre CLEMED - Centre de médecine esthétique",
+  "businesses": [
+    {
+      "name": "Centre CLEMED - Centre de médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "163 Av. Jean Rostand, 95330 Domont",
+      "rating": 4.8,
+      "reviewCount": 144
+    },
+    {
+      "name": "Bioty Shine",
+      "category": "Institut de beauté",
+      "address": "70 Av. Jean Jaurès, 95330 Domont",
+      "rating": 5,
+      "reviewCount": 125
+    },
+    {
+      "name": "Academy Almeida | Centre de Formation Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "43 Av. de l'Europe, 95330 Domont",
+      "rating": 4.9,
+      "reviewCount": 118
+    },
+    {
+      "name": "Tattoo By Seb",
+      "category": "Tatoueur",
+      "address": "86 Av. Jean Jaurès, 95330 Domont",
+      "rating": 5,
+      "reviewCount": 133
+    },
+    {
+      "name": "Cabinet épilation laser Domont",
+      "category": "Centre d'épilation laser",
+      "address": "2 Av. Jean Jaurès, 95330 Domont",
+      "rating": 3,
+      "reviewCount": 2
+    },
+    {
+      "name": "Centre Laser Clinique Claude Bernard",
+      "category": "Centre d'épilation laser",
+      "address": "9 Av. Louis Armand, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 207
+    }
+  ],
+  "description": "Centre CLEMED - Centre de médecine esthétique fait partie des centres de détatouage laser à Domont. Avec une note de 4.8/5 sur 144 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Domont.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:04:26.661Z"
+}

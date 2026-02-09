@@ -1,0 +1,65 @@
+{
+  "slug": "porto-vecchio",
+  "cityName": "Porto-Vecchio",
+  "businessName": "LaserAddict Porto-Vecchio - Centre anti-tabac et bien-être au laser",
+  "businesses": [
+    {
+      "name": "LaserAddict Porto-Vecchio - Centre anti-tabac et bien-être au laser",
+      "category": "Centre de bien-être",
+      "address": "Immeuble GEMELLUS, Les 4 Chemins",
+      "rating": 4.7,
+      "reviewCount": 28
+    },
+    {
+      "name": "IMPAKT TATTOO et Piercing",
+      "category": "Tatoueur",
+      "address": "Rue Pierre Andreani",
+      "rating": 4.9,
+      "reviewCount": 288
+    },
+    {
+      "name": "GINO Tattoo Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Rue Docteur Joseph Balesi",
+      "rating": 4.8,
+      "reviewCount": 64
+    },
+    {
+      "name": "Centre Laser De Lecci Porto-Vecchio",
+      "category": "Centre d'épilation laser",
+      "address": "Lecci",
+      "rating": 4.9,
+      "reviewCount": 44
+    },
+    {
+      "name": "Orma tattoo club",
+      "category": "Salon de tatouage et piercing",
+      "address": "Rue René Biancarelli",
+      "rating": 5,
+      "reviewCount": 82
+    },
+    {
+      "name": "IDJEN PIERCING & Bijoux",
+      "category": "Salon de tatouage et piercing",
+      "address": "Rue René Biancarelli",
+      "rating": 5,
+      "reviewCount": 140
+    }
+  ],
+  "description": "LaserAddict Porto-Vecchio - Centre anti-tabac et bien-être au laser fait partie des centres de détatouage laser à Porto-Vecchio. Avec une note de 4.7/5 sur 28 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Porto-Vecchio.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:36:21.663Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "creil",
+  "cityName": "Creil",
+  "businessName": "Derma Skin Clinic - Centre Epilation Laser & Soins Dermo Esthétique",
+  "businesses": [
+    {
+      "name": "Derma Skin Clinic - Centre Epilation Laser & Soins Dermo Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "68 Quai d'Amont",
+      "rating": 4.9,
+      "reviewCount": 42
+    },
+    {
+      "name": "Centre Médical Esthétique Laser Sublimissime",
+      "category": "Médecin",
+      "address": "1 Rue des Prunelliers",
+      "rating": 4.9,
+      "reviewCount": 23
+    },
+    {
+      "name": "Arrêter de Fumer centre Laser Anti-tabac 60 Creil",
+      "category": "Cabinet médical",
+      "address": "373 Rue du Bois des Cerisiers",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Aux Doigts de Fee",
+      "category": "Salon de tatouage et piercing",
+      "address": "Zone de Vaux, 697 Av. du Tremblay",
+      "rating": 4.4,
+      "reviewCount": 100
+    },
+    {
+      "name": "Savage Tattoo Club",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Pl. Saint-Médard",
+      "rating": 4.8,
+      "reviewCount": 151
+    },
+    {
+      "name": "SIYAH Laser & Beauty Center",
+      "category": "Centre d'épilation laser",
+      "address": "4 Rue Jules Michelet",
+      "rating": 5,
+      "reviewCount": 51
+    }
+  ],
+  "description": "Derma Skin Clinic - Centre Epilation Laser & Soins Dermo Esthétique fait partie des centres de détatouage laser à Creil. Avec une note de 4.9/5 sur 42 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Creil.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:25:25.904Z"
+}

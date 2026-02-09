@@ -1,0 +1,52 @@
+{
+  "slug": "perigueux",
+  "cityName": "Périgueux",
+  "businessName": "Dr Jérémy ALLAFORT, Médecine esthétique, Acide Hyaluronique, Fils Tenseurs, Epilation Définitive Laser, Cryolipolyse",
+  "businesses": [
+    {
+      "name": "Dr Jérémy ALLAFORT, Médecine esthétique, Acide Hyaluronique, Fils Tenseurs, Epilation Définitive Laser, Cryolipolyse",
+      "category": "Médecin",
+      "address": "Médecine esthétique, Acide Hyaluronique, Fils Tenseurs, Epilation Définitive Laser, Cryolipolyse, 23 Bd Bertran de Born, 24000 Périgueux",
+      "rating": 4.9,
+      "reviewCount": 119
+    },
+    {
+      "name": "Messire",
+      "category": "Salon de tatouage et piercing",
+      "address": "30 Cr Michel Montaigne, 24000 Périgueux",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Le Studio d'Amélie",
+      "category": "Salon de tatouage et piercing",
+      "address": "18 Cr Tourny, 24000 Périgueux",
+      "rating": 5,
+      "reviewCount": 149
+    },
+    {
+      "name": "Les ArtismesPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "5 Rue Aubergerie, 24000 Périgueux",
+      "rating": 5,
+      "reviewCount": 257
+    },
+    {
+      "name": "ArtZone d'Encre&d'Acier",
+      "category": "Tatoueur",
+      "address": "Gal Daumesnil, 24000 Périgueux",
+      "rating": 4.6,
+      "reviewCount": 155
+    },
+    {
+      "name": "CRONER tattoo/piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "31 Rue Limogeanne, 24000 Périgueux",
+      "rating": 5,
+      "reviewCount": 134
+    }
+  ],
+  "description": "Dr Jérémy ALLAFORT, Médecine esthétique, Acide Hyaluronique, Fils Tenseurs, Epilation Définitive Laser, Cryolipolyse fait partie des centres de détatouage laser à Périgueux. Avec une note de 4.9/5 sur 119 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Périgueux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:32:58.716Z"
+}

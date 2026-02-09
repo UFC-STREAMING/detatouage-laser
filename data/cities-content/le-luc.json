@@ -1,0 +1,44 @@
+{
+  "slug": "le-luc",
+  "cityName": "Le Luc",
+  "businessName": "Feel Ink",
+  "businesses": [
+    {
+      "name": "Feel Ink",
+      "category": "Tatoueur",
+      "address": "377 Rte de Toulon, 83340 Le Luc",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Needle piercing",
+      "category": "Salon de piercing",
+      "address": "25 Rue Jean Jaurès, 83340 Le Luc",
+      "rating": 4.6,
+      "reviewCount": 98
+    },
+    {
+      "name": "Skin soft beauty",
+      "category": "Centre d'épilation laser",
+      "address": "4366 Rte de Brignoles, 83340 Le Luc",
+      "rating": 5,
+      "reviewCount": 117
+    }
+  ],
+  "description": "Feel Ink fait partie des centres de détatouage laser à Le Luc. Avec une note de 5/5 sur 24 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Luc.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Quelle est la différence entre le détatouage au laser et la lumière pulsée ?",
+      "answer": "Le détatouage au laser est plus précis et ciblé, idéal pour éliminer les pigments en profondeur sans trop affecter la peau environnante. En revanche, la lumière pulsée est moins adaptée pour les tatouages, car elle cible de larges zones et peut être moins efficace sur les encres résistances."
+    },
+    {
+      "question": "Qu'est-ce que l'épilation à la lumière pulsée des sourcils ?",
+      "answer": "L'épilation des sourcils à la lumière pulsée Pratiquée par un médecin pour plus de sécurité, elle consiste à émettre de la chaleur qui va être absorbée par les poils et sera conduite à leur racine pour les détruire."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:35:25.423Z"
+}

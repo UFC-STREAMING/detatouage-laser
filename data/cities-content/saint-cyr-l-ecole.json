@@ -1,0 +1,44 @@
+{
+  "slug": "saint-cyr-l-ecole",
+  "cityName": "Saint-Cyr-l\\'École",
+  "businessName": "Ton tatoueur préféréPropose : Finition de tatouage",
+  "businesses": [
+    {
+      "name": "Ton tatoueur préféréPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "11 Av. de la Division Leclerc, 78210 Saint-Cyr-l'%C3%89cole",
+      "rating": 4.8,
+      "reviewCount": 36
+    },
+    {
+      "name": "Dr Bitbol Myriam - Médecine esthétique et laser",
+      "category": "Médecin",
+      "address": "59 Rue Gabriel Péri, 78210 Saint-Cyr-l'%C3%89cole",
+      "rating": 4,
+      "reviewCount": 33
+    },
+    {
+      "name": "Institut des Lys",
+      "category": "Institut de beauté",
+      "address": "6 Rue Gabriel Péri, 78210 Saint-Cyr-l'%C3%89cole",
+      "rating": 4.8,
+      "reviewCount": 64
+    }
+  ],
+  "description": "Ton tatoueur préféréPropose : Finition de tatouage fait partie des centres de détatouage laser à Saint-Cyr-l\\'École. Avec une note de 4.8/5 sur 36 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Cyr-l\\'École.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Il fait bon vivre à Saint-Cyr-l'École ?",
+      "answer": "Les points positifs : Proche de Versailles et bien reliée à Paris (RER C, Transilien), cette ville allie tranquillité et dynamisme. Avec ses espaces verts, ses commodités et son cadre familial, c'est un bon compromis pour vivre en Île-de-France sans les inconvénients de la grande ville."
+    },
+    {
+      "question": "Qui est le maire actuel de Saint-Cyr-l'École ?",
+      "answer": "Le maire actuel est Mme Sonia BRAU (Divers droite). Elle a gagné les élections au premier tour avec sa liste SAINT CYR AU COEUR 2020. Elle totalise 2244 voix, soit 53.6% des votants."
+    },
+    {
+      "question": "Où se trouve l'école militaire de Saint-Cyr ?",
+      "answer": "Le lycée militaire de Saint-Cyr-L'École est situé 2 avenue Jean Jaurès à Saint-Cyr-l'École (78210)."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:46:41.545Z"
+}

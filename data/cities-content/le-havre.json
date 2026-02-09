@@ -1,0 +1,65 @@
+{
+  "slug": "le-havre",
+  "cityName": "Le Havre",
+  "businessName": "Lazeo Le Havre",
+  "businesses": [
+    {
+      "name": "Lazeo Le Havre",
+      "category": "Centre d'épilation laser",
+      "address": "66 Pl. de l'H%C3%B4tel de ville, 76600 Le Havre",
+      "rating": 4.9,
+      "reviewCount": 427
+    },
+    {
+      "name": "Dr. Eric Gaudin",
+      "category": "Médecin",
+      "address": "73 Rue de Font la Mallet, 76620 Le Havre",
+      "rating": 4.7,
+      "reviewCount": 102
+    },
+    {
+      "name": "Bella & CoPropose : Détatouage lumière pulsée",
+      "category": "Institut de beauté",
+      "address": "36 Rue Auguste Comte, 76600 Le Havre",
+      "rating": 5,
+      "reviewCount": 62
+    },
+    {
+      "name": "Athéna Laser ✨ Epilation Laser & Médecine Esthétique Le HavrePropose : Détatouage laser médical au Havre",
+      "category": "Centre d'épilation laser",
+      "address": "41 Rue Jules Siegfried, 76600 Le Havre",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "Ink & Styles",
+      "category": "Salon de tatouage et piercing",
+      "address": "106 Av. René Coty, 76600 Le Havre",
+      "rating": 5,
+      "reviewCount": 65
+    },
+    {
+      "name": "Le Concept Beauté | Experte Cils & Sourcils | Maquillage permanent | Soins ESTHEDERMPropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "40 Rue Raoul Dufy, 76600 Le Havre",
+      "rating": 5,
+      "reviewCount": 128
+    }
+  ],
+  "description": "Lazeo Le Havre fait partie des centres de détatouage laser à Le Havre. Avec une note de 4.9/5 sur 427 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Havre.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:03:42.108Z"
+}

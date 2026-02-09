@@ -1,0 +1,65 @@
+{
+  "slug": "castelsarrasin",
+  "cityName": "Castelsarrasin",
+  "businessName": "Nathalie Llabet Esthéticienne - dermographie réparatrice à Castelsarrasin, Moissac, Montauban, Tarn et Garonne (82)",
+  "businesses": [
+    {
+      "name": "Nathalie Llabet Esthéticienne - dermographie réparatrice à Castelsarrasin, Moissac, Montauban, Tarn et Garonne (82)",
+      "category": "Centre d'épilation laser",
+      "address": "Moissac, Montauban, Tarn et Garonne (82), p%C3%B4le santé du chantre, 201 Chem. du Chantre, 82100 Castelsarrasin",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Cynthia Pigment",
+      "category": "Tatoueur",
+      "address": "34 rue de la proven%C3%A7ale, 82100 Castelsarrasin",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Scanjer Tattoo's",
+      "category": "Salon de tatouage et piercing",
+      "address": "31 Chem. de Saint-Béarn, 82200 Moissac",
+      "rating": 4.8,
+      "reviewCount": 28
+    },
+    {
+      "name": "Derm'Excellence | Épilation laser - Amincissement - Anti-âge | Castelsarrasin",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue Edouard Herriot, 82100 Castelsarrasin",
+      "rating": 5,
+      "reviewCount": 49
+    },
+    {
+      "name": "Devil ink’s tattoo",
+      "category": "Tatoueur",
+      "address": "6 Pl. de la Raison, 82100 Castelsarrasin",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "Natibeauty Maquillage Permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "32 Bd Pierre Delbrel, 82200 Moissac",
+      "rating": 5,
+      "reviewCount": 50
+    }
+  ],
+  "description": "Nathalie Llabet Esthéticienne - dermographie réparatrice à Castelsarrasin, Moissac, Montauban, Tarn et Garonne (82) fait partie des centres de détatouage laser à Castelsarrasin. Avec une note de 5/5 sur 24 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Castelsarrasin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quels sont les tarifs du détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:13:23.490Z"
+}

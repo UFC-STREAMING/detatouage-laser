@@ -1,0 +1,65 @@
+{
+  "slug": "aix-les-bains",
+  "cityName": "Aix-les-Bains",
+  "businessName": "Persia esthétique",
+  "businesses": [
+    {
+      "name": "Persia esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "253 Allée Prom. des Bords du Lac, 73100 Aix-les-Bains",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Clinique du Lac",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rte de Paris, 73100 Brison-Saint-Innocent",
+      "rating": 4.3,
+      "reviewCount": 164
+    },
+    {
+      "name": "Cabinet d’esthétique et laser",
+      "category": "Infirmier praticien",
+      "address": "24 Av. Victoria, 73100 Aix-les-Bains",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Centre de médecine esthétique du Louvre - Dr Laurent Dumas-Vidal",
+      "category": "Centre d'épilation laser",
+      "address": "19 Av. Charles de Gaulle, 73100 Aix-les-Bains",
+      "rating": 4.4,
+      "reviewCount": 27
+    },
+    {
+      "name": "Laserostop Aix-les-Bains - Centre de sevrage tabagique laser stop tabac",
+      "category": "Cabinet médical",
+      "address": "101 Rue Maurice Herzog, 73420 Méry",
+      "rating": 4.8,
+      "reviewCount": 126
+    },
+    {
+      "name": "TIMELESS Maison d’Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rue Lamartine, 73100 Aix-les-Bains",
+      "rating": 5,
+      "reviewCount": 55
+    }
+  ],
+  "description": "Persia esthétique fait partie des centres de détatouage laser à Aix-les-Bains. Avec une note de 5/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aix-les-Bains.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:28:10.174Z"
+}

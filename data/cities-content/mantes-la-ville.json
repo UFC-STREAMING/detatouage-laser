@@ -1,0 +1,31 @@
+{
+  "slug": "mantes-la-ville",
+  "cityName": "Mantes-la-Ville",
+  "businessName": "Lazeo Mantes-la-jolie",
+  "businesses": [
+    {
+      "name": "Lazeo Mantes-la-jolie",
+      "category": "Centre d'épilation laser",
+      "address": "33 Rue Prte aux Saints, 78200 Mantes-la-Jolie",
+      "rating": 4.9,
+      "reviewCount": 225
+    },
+    {
+      "name": "CENTRE LASER DU MANTOIS",
+      "category": "Centre d'épilation laser",
+      "address": "89 Rte de Mantes, 78200 Buchelay",
+      "rating": 4.5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Derma'clinicPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "1 Rue du Tarn, 78200 Buchelay",
+      "rating": 4.7,
+      "reviewCount": 26
+    }
+  ],
+  "description": "Lazeo Mantes-la-jolie fait partie des centres de détatouage laser à Mantes-la-Ville. Avec une note de 4.9/5 sur 225 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mantes-la-Ville.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:43:42.133Z"
+}

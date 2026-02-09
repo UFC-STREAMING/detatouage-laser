@@ -1,0 +1,65 @@
+{
+  "slug": "montaigu-vendee",
+  "cityName": "Montaigu-Vendée",
+  "businessName": "LaserAddict MONTAIGU - Centre Anti-Tabac et Bien être au laser",
+  "businesses": [
+    {
+      "name": "LaserAddict MONTAIGU - Centre Anti-Tabac et Bien être au laser",
+      "category": "Centre de bien-être",
+      "address": "16 Cr Michel Ragon, 85600 Montaigu-Vendée",
+      "rating": 3.8,
+      "reviewCount": 30
+    },
+    {
+      "name": "Numta Salon de Tatouage",
+      "category": "Tatoueur",
+      "address": "7 Rue de la Marine Royale, 85600",
+      "rating": 4.8,
+      "reviewCount": 288
+    },
+    {
+      "name": "L’atelier Sestra",
+      "category": "Salon de tatouage et piercing",
+      "address": "5 Pl. Larevellière Lepeaux, 85600 Montaigu-Vendée",
+      "rating": 5,
+      "reviewCount": 68
+    },
+    {
+      "name": "Tatouages Encr'ailes",
+      "category": "Tatoueur",
+      "address": "7 Av. Villebois Mareuil, 85600 Montaigu-Vendée",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Chichi pompon tattoo",
+      "category": "Tatoueur",
+      "address": "7 Rue Jeanne d'Arc, 85600 Montaigu-Vendée",
+      "rating": 4.9,
+      "reviewCount": 67
+    },
+    {
+      "name": "Enfant De Minuit Tattoo",
+      "category": "Tatoueur",
+      "address": "7 Rue Jeanne d'Arc, 85600 Montaigu-Vendée",
+      "rating": 5,
+      "reviewCount": 5
+    }
+  ],
+  "description": "LaserAddict MONTAIGU - Centre Anti-Tabac et Bien être au laser fait partie des centres de détatouage laser à Montaigu-Vendée. Ce centre affiche une note de 3.8/5 pour ses prestations de détatouage. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montaigu-Vendée.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:46:54.546Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "deuil-la-barre",
+  "cityName": "Deuil-la-Barre",
+  "businessName": "Zazen Tattoo - Tatoueur Paris | Tatoueur 95",
+  "businesses": [
+    {
+      "name": "Zazen Tattoo - Tatoueur Paris | Tatoueur 95",
+      "category": "Tatoueur",
+      "address": "3 Bis Rue Charles de Gaulle",
+      "rating": 4.9,
+      "reviewCount": 219
+    },
+    {
+      "name": "L'Instant",
+      "category": "Institut de beauté",
+      "address": "3 Rue Charles de Gaulle",
+      "rating": 4.5,
+      "reviewCount": 73
+    },
+    {
+      "name": "Mvgic Ink",
+      "category": "Tatoueur",
+      "address": "105 Rue Haute",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Zazen Tattoo - Tatoueur Paris | Tatoueur 95 fait partie des centres de détatouage laser à Deuil-la-Barre. Avec une note de 4.9/5 sur 219 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Deuil-la-Barre.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:42:07.301Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "aubervilliers",
+  "cityName": "Aubervilliers",
+  "businessName": "My Laser Center Saint-Denis - Epilation laser & Médecine esthétique",
+  "businesses": [
+    {
+      "name": "My Laser Center Saint-Denis - Epilation laser & Médecine esthétique",
+      "category": "Service de détatouage",
+      "address": "19 Rue des Bretons, 93210 Saint-Denis",
+      "rating": 4.8,
+      "reviewCount": null
+    },
+    {
+      "name": "Ray studios Paris Marais - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "38 Rue au Maire, 75003 Paris",
+      "rating": 5,
+      "reviewCount": 103
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "My Laser Center Saint-Denis - Epilation laser & Médecine esthétique fait partie des centres de détatouage laser à Aubervilliers. Ce centre affiche une note de 4.8/5 pour ses prestations de détatouage. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aubervilliers.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:07:23.578Z"
+}

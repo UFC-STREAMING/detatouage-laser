@@ -1,0 +1,65 @@
+{
+  "slug": "cluses",
+  "cityName": "Cluses",
+  "businessName": "Dr Remi HORVATH - Médecin esthétique",
+  "businesses": [
+    {
+      "name": "Dr Remi HORVATH - Médecin esthétique",
+      "category": "Médecin",
+      "address": "1 Rue du Maréchal Leclerc",
+      "rating": 4.7,
+      "reviewCount": 29
+    },
+    {
+      "name": "Médic-Sculte | Centre de soins Paramédical & Bien-être",
+      "category": "Centre d'épilation laser",
+      "address": "185 Rue Emile Chautemps",
+      "rating": 5,
+      "reviewCount": 35
+    },
+    {
+      "name": "Marte Tattoo , We Are Blessed",
+      "category": "Tatoueur",
+      "address": "Rue du Pré Bénévix",
+      "rating": 5,
+      "reviewCount": 44
+    },
+    {
+      "name": "Dr David FRAGNIERES - Médecin esthétique",
+      "category": "Médecin",
+      "address": "1 Rue du Maréchal Leclerc",
+      "rating": 4.5,
+      "reviewCount": 56
+    },
+    {
+      "name": "Ink'ception Art Tattoo",
+      "category": "Tatoueur",
+      "address": "16 All. Ampère, 74300 Cluses",
+      "rating": 4.9,
+      "reviewCount": 122
+    },
+    {
+      "name": "Sandra Tattoo",
+      "category": "Tatoueur",
+      "address": "6 Rue de la Grenette",
+      "rating": 4.8,
+      "reviewCount": 78
+    }
+  ],
+  "description": "Dr Remi HORVATH - Médecin esthétique fait partie des centres de détatouage laser à Cluses. Avec une note de 4.7/5 sur 29 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cluses.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:58:34.092Z"
+}

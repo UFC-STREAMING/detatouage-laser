@@ -1,0 +1,44 @@
+{
+  "slug": "brunoy",
+  "cityName": "Brunoy",
+  "businessName": "Tattoo Factory",
+  "businesses": [
+    {
+      "name": "Tattoo Factory",
+      "category": "Salon de tatouage et piercing",
+      "address": "23 Rue de la Gare, 91800 Brunoy",
+      "rating": 4.8,
+      "reviewCount": 204
+    },
+    {
+      "name": "Centre du Maine de Brunoy . Épilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "9 Rue Philisbourg, 91800 Brunoy",
+      "rating": 4,
+      "reviewCount": 73
+    },
+    {
+      "name": "Centre Médical Pasteur Brunoy",
+      "category": "Centre médical",
+      "address": "1 Rue de Soulins, 91800 Brunoy",
+      "rating": 4.9,
+      "reviewCount": 316
+    }
+  ],
+  "description": "Tattoo Factory fait partie des centres de détatouage laser à Brunoy. Avec une note de 4.8/5 sur 204 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Brunoy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Qui peut enlever un tatouage au laser ?",
+      "answer": "Le détatouage est un acte médical qui doit être réalisé par un professionnel qualifié. En effet, pour effacer un tatouage sans risque, seuls les médecins sont autorisés à pratiquer le détatouage.13 févr. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:38:17.457Z"
+}

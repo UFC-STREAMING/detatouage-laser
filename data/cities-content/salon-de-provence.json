@@ -1,0 +1,65 @@
+{
+  "slug": "salon-de-provence",
+  "cityName": "Salon-de-Provence",
+  "businessName": "Vanishkaa Piercing & Maquillage Permanent Studio Merveilles Tattoo",
+  "businesses": [
+    {
+      "name": "Vanishkaa Piercing & Maquillage Permanent Studio Merveilles Tattoo",
+      "category": "Service de détatouage",
+      "address": "28 Rue Reynaud d'Ursule, 13300 Salon-de-Provence",
+      "rating": 4.9,
+      "reviewCount": 564
+    },
+    {
+      "name": "Laser 26 - Salon-de-Provence I Epilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "683 Bd du Roi René, 13300 Salon-de-Provence",
+      "rating": 4.9,
+      "reviewCount": 51
+    },
+    {
+      "name": "JFG CLINIC SALON-DE-PROVENCE",
+      "category": "Centre d'épilation laser",
+      "address": "160 Chem. des Entrages, 13300 Salon-de-Provence",
+      "rating": 4.9,
+      "reviewCount": 164
+    },
+    {
+      "name": "UNLIMITED EPILPropose : Épilation laser",
+      "category": "Salon d'épilation",
+      "address": "17 Bd Maréchal Foch, 13300 Salon-de-Provence",
+      "rating": 4.9,
+      "reviewCount": 70
+    },
+    {
+      "name": "Epilation Définitive - DEPIL TECH SALON DE PROVENCE",
+      "category": "Salon d'épilation",
+      "address": "133 Cr Gimon, 13300 Salon-de-Provence",
+      "rating": 4.8,
+      "reviewCount": 217
+    },
+    {
+      "name": "Buje piercing tattoo et bijoux salon de provence (perceuse chez Aladin tattoo)",
+      "category": "Salon de tatouage et piercing",
+      "address": "51 Rue de l'Horloge, 13300 Salon-de-Provence",
+      "rating": 5,
+      "reviewCount": 530
+    }
+  ],
+  "description": "Vanishkaa Piercing & Maquillage Permanent Studio Merveilles Tattoo fait partie des centres de détatouage laser à Salon-de-Provence. Avec une note de 4.9/5 sur 564 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Salon-de-Provence.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:19:44.244Z"
+}

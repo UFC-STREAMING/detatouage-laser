@@ -1,0 +1,52 @@
+{
+  "slug": "sallanches",
+  "cityName": "Sallanches",
+  "businessName": "Midori Studio",
+  "businesses": [
+    {
+      "name": "Midori Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "148 Rue du Mont Joly, 74700 Sallanches",
+      "rating": 4.9,
+      "reviewCount": 237
+    },
+    {
+      "name": "Fleur d’ébène",
+      "category": "Salon de tatouage et piercing",
+      "address": "86 Rue de la Paix, 74700 Sallanches",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "JFG Clinic Sallanches",
+      "category": "Centre d'épilation laser",
+      "address": "86 All. Kepler 1er étage, 74700 Sallanches",
+      "rating": 4.9,
+      "reviewCount": 39
+    },
+    {
+      "name": "Borderlines Boutique",
+      "category": "Tatoueur",
+      "address": "160 Rue Chenal, 74700 Sallanches",
+      "rating": 4.9,
+      "reviewCount": 319
+    },
+    {
+      "name": "Mont Blanc BeautyPropose : Épilation laser",
+      "category": "Esthéticien",
+      "address": "57 Rue des Gorges de la Frasse, 74700 Sallanches",
+      "rating": 5,
+      "reviewCount": 95
+    },
+    {
+      "name": "L'encre des cimes",
+      "category": "Tatoueur",
+      "address": "79 Quai de Warens, 74700 Sallanches",
+      "rating": 5,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Midori Studio fait partie des centres de détatouage laser à Sallanches. Avec une note de 4.9/5 sur 237 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sallanches.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:59:57.971Z"
+}

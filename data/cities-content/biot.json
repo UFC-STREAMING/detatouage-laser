@@ -1,0 +1,31 @@
+{
+  "slug": "biot",
+  "cityName": "Biot",
+  "businessName": "STUDIO DERMO CONCEPT",
+  "businesses": [
+    {
+      "name": "STUDIO DERMO CONCEPT",
+      "category": "Institut de beauté",
+      "address": "293 Chem. du Grand Bois, 06410 Biot",
+      "rating": 5,
+      "reviewCount": 72
+    },
+    {
+      "name": "Lolico Tattoo",
+      "category": "Tatoueur",
+      "address": "32 Pass. de la Bourgade, 06410 Biot",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Rose Mortelle Tattoo&Nails",
+      "category": "Tatoueur",
+      "address": "3 Calade des Migraniers, 06410 Biot",
+      "rating": 4.9,
+      "reviewCount": 43
+    }
+  ],
+  "description": "STUDIO DERMO CONCEPT fait partie des centres de détatouage laser à Biot. Avec une note de 5/5 sur 72 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Biot.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:43:10.320Z"
+}

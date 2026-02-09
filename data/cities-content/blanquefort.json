@@ -1,0 +1,31 @@
+{
+  "slug": "blanquefort",
+  "cityName": "Blanquefort",
+  "businessName": "La Caire du Tatouage",
+  "businesses": [
+    {
+      "name": "La Caire du Tatouage",
+      "category": "Tatoueur",
+      "address": "2 Pl. de l'%C3%89glise, 33290 Blanquefort",
+      "rating": 4.9,
+      "reviewCount": 126
+    },
+    {
+      "name": "Dr Kouto Alexandre",
+      "category": "Centre d'épilation laser",
+      "address": "9 Av. de l'Europe, 33290 Blanquefort",
+      "rating": 4.8,
+      "reviewCount": 48
+    },
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    }
+  ],
+  "description": "La Caire du Tatouage fait partie des centres de détatouage laser à Blanquefort. Avec une note de 4.9/5 sur 126 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Blanquefort.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:00:38.821Z"
+}

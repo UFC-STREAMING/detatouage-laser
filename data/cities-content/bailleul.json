@@ -1,0 +1,65 @@
+{
+  "slug": "bailleul",
+  "cityName": "Bailleul",
+  "businessName": "Laser Addiction",
+  "businesses": [
+    {
+      "name": "Laser Addiction",
+      "category": "Praticien de médecine alternative",
+      "address": "62 Rue d'Ypres, 59270 Bailleul",
+      "rating": 5,
+      "reviewCount": 71
+    },
+    {
+      "name": "De sang et d'encre",
+      "category": "Salon de tatouage et piercing",
+      "address": "19 Rue de la Gare, 59270 Bailleul",
+      "rating": 4.7,
+      "reviewCount": 58
+    },
+    {
+      "name": "EPIL LASER MEDICAL",
+      "category": "Centre d'épilation laser",
+      "address": "9 bis, Arnouldstraete, 59270 Bailleul",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "WER Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "34 Rue d'Occident, 59270 Bailleul",
+      "rating": 5,
+      "reviewCount": 105
+    },
+    {
+      "name": "Body skin by Maia",
+      "category": "Institut de beauté",
+      "address": "17 Rue de la Gare, 59270 Bailleul",
+      "rating": 4.7,
+      "reviewCount": 15
+    },
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    }
+  ],
+  "description": "Laser Addiction fait partie des centres de détatouage laser à Bailleul. Avec une note de 5/5 sur 71 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bailleul.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:10:59.454Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "saint-raphael",
+  "cityName": "Saint-Raphaël",
+  "businessName": "CLDR Centre Laser Dermatologique Raphaëlois - Médecine esthétique",
+  "businesses": [
+    {
+      "name": "CLDR Centre Laser Dermatologique Raphaëlois - Médecine esthétique",
+      "category": "Chirurgien esthétique",
+      "address": "84 Rue Waldeck Rousseau",
+      "rating": 3.7,
+      "reviewCount": 19
+    },
+    {
+      "name": "MED'ESTHETIC",
+      "category": "Centre d'épilation laser",
+      "address": "Centre alpha, 1846 Bd du Cerceron",
+      "rating": 5,
+      "reviewCount": 36
+    },
+    {
+      "name": "Laserlife - Saint Raphael",
+      "category": "Centre de bien-être",
+      "address": "1 Av. Henri Vadon",
+      "rating": 4.9,
+      "reviewCount": 16
+    },
+    {
+      "name": "Centre Esthétique Anti-Âge - Meilleur Ouvrier de France",
+      "category": "Clinique de maquillage permanent",
+      "address": "150 Rue Amiral Baux",
+      "rating": 4.6,
+      "reviewCount": 121
+    },
+    {
+      "name": "Centre Body-Contouring cryolipolyse",
+      "category": "Centre d'amincissement",
+      "address": "Centre Sigma, 1846 Bd du Cerceron",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Dr. Gandillet - Médecine Esthétique et Phlébologie",
+      "category": "Service d'esthétique",
+      "address": "Fréjus",
+      "rating": 4.5,
+      "reviewCount": 234
+    }
+  ],
+  "description": "CLDR Centre Laser Dermatologique Raphaëlois - Médecine esthétique fait partie des centres de détatouage laser à Saint-Raphaël. Ce centre affiche une note de 3.7/5 pour ses prestations de détatouage. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Raphaël.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:24:21.330Z"
+}

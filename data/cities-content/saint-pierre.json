@@ -1,0 +1,65 @@
+{
+  "slug": "saint-pierre",
+  "cityName": "Saint-Pierre",
+  "businessName": "Centre anti-tabac laserOstop SAINT-PIERRE",
+  "businesses": [
+    {
+      "name": "Centre anti-tabac laserOstop SAINT-PIERRE",
+      "category": "Cabinet médical",
+      "address": "Résidence Porcelaine, Rue Du Pere Favron",
+      "rating": 4.8,
+      "reviewCount": 66
+    },
+    {
+      "name": "LASERISTE STUDIO",
+      "category": "Centre d'épilation laser",
+      "address": "5, 143 VC Ancienne RN3 Conde",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Body sculpt",
+      "category": "Institut de beauté",
+      "address": "74B Rue Du Pere Favron",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "FRIDA",
+      "category": "Centre d'épilation laser",
+      "address": "10 Rue Joseph Hubert",
+      "rating": 4.8,
+      "reviewCount": 6
+    },
+    {
+      "name": "Laser Game Évolution Saint-Pierre",
+      "category": "Centre de laser game",
+      "address": "33 Rue du Cap Rond",
+      "rating": 4.3,
+      "reviewCount": 184
+    },
+    {
+      "name": "LASER QUEST",
+      "category": "Salle de jeux vidéo",
+      "address": "16 Rue Auguste Babet",
+      "rating": 3.5,
+      "reviewCount": 51
+    }
+  ],
+  "description": "Centre anti-tabac laserOstop SAINT-PIERRE fait partie des centres de détatouage laser à Saint-Pierre. Avec une note de 4.8/5 sur 66 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Pierre.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:07:43.638Z"
+}

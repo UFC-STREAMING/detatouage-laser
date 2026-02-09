@@ -1,0 +1,31 @@
+{
+  "slug": "sassenage",
+  "cityName": "Sassenage",
+  "businessName": "Antares tattoo",
+  "businesses": [
+    {
+      "name": "Antares tattoo",
+      "category": "Tatoueur",
+      "address": "63 Rue de la République, 38360 Sassenage",
+      "rating": 4.9,
+      "reviewCount": 19
+    },
+    {
+      "name": "Centre laser CtrlZ - Grenoble",
+      "category": "Service de détatouage",
+      "address": "32 Cr Jean Jaurès, 38000 Grenoble",
+      "rating": 4.9,
+      "reviewCount": 61
+    },
+    {
+      "name": "Les Fées du regard à Voreppe Maquillage Permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "180 Chem. des Lilas, 38340 Voreppe",
+      "rating": 5,
+      "reviewCount": 114
+    }
+  ],
+  "description": "Antares tattoo fait partie des centres de détatouage laser à Sassenage. Avec une note de 4.9/5 sur 19 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sassenage.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:31:57.118Z"
+}

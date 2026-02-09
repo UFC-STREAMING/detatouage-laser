@@ -1,0 +1,65 @@
+{
+  "slug": "les-sables-d-olonne",
+  "cityName": "Les Sables-d\\'Olonne",
+  "businessName": "Clean'Ink Tattoo ArtPropose : Tatouage",
+  "businesses": [
+    {
+      "name": "Clean'Ink Tattoo ArtPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "22 Bd Blaise Pascal, 85100 Les Sables-d'Olonne",
+      "rating": 5,
+      "reviewCount": 154
+    },
+    {
+      "name": "Clean'inkTattoo-MaquillagePropose : Tatouage de sourcils",
+      "category": "Clinique de maquillage permanent",
+      "address": "22 Bd Blaise Pascal, 85100 Les Sables-d'Olonne",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Alain Art Is Tic Tattoo",
+      "category": "Tatoueur",
+      "address": "72 Bd Ampère, 85100 Les Sables-d'Olonne",
+      "rating": 4.4,
+      "reviewCount": 110
+    },
+    {
+      "name": "NYMPHEA TATTOOPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "9 Quai Ernest de Franqueville, 85100 Les Sables-d'Olonne",
+      "rating": 4.9,
+      "reviewCount": 13
+    },
+    {
+      "name": "JJMTR",
+      "category": "Tatoueur",
+      "address": "99 Rue Ernest Landrieau, 85100 Les Sables-d'Olonne",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Absolem Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "9 Quai Ernest de Franqueville, 85100 Les Sables-d'Olonne",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "Clean'Ink Tattoo ArtPropose : Tatouage fait partie des centres de détatouage laser à Les Sables-d\\'Olonne. Avec une note de 5/5 sur 154 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Les Sables-d\\'Olonne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:16:34.596Z"
+}

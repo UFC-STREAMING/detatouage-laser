@@ -1,0 +1,44 @@
+{
+  "slug": "parempuyre",
+  "cityName": "Parempuyre",
+  "businessName": "STER TATTOO",
+  "businesses": [
+    {
+      "name": "STER TATTOO",
+      "category": "Tatoueur",
+      "address": "48a Rue de la Gare, 33290 Parempuyre",
+      "rating": 4.9,
+      "reviewCount": 576
+    },
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Pumpy Jules",
+      "category": "Service de détatouage",
+      "address": "48a Rue de la Gare, 33290 Parempuyre",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "STER TATTOO fait partie des centres de détatouage laser à Parempuyre. Avec une note de 4.9/5 sur 576 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Parempuyre.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:40:58.651Z"
+}

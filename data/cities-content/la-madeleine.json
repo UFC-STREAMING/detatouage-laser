@@ -1,0 +1,65 @@
+{
+  "slug": "la-madeleine",
+  "cityName": "La Madeleine",
+  "businessName": "La Clinique du Château - Grand Boulevard : centre laser et esthétique",
+  "businesses": [
+    {
+      "name": "La Clinique du Château - Grand Boulevard : centre laser et esthétique",
+      "category": "Service de détatouage",
+      "address": "187 Av. de la République, 59110 La Madeleine",
+      "rating": 5,
+      "reviewCount": 12
+    },
+    {
+      "name": "LASER'SMOKE",
+      "category": "Cabinet médical",
+      "address": "40 Rue Saint-Charles, 59110 La Madeleine",
+      "rating": 5,
+      "reviewCount": 37
+    },
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "Clinique Confidence - Epilation laser - Détatouage laser - Médecine esthétique - Orthodontie Invisalign Lille",
+      "category": "Centre d'épilation laser",
+      "address": "278 Bd Clemenceau, 59700 Marcq-en-Bar%C5%93ul",
+      "rating": 5,
+      "reviewCount": 260
+    },
+    {
+      "name": "Clinique Clemenceau",
+      "category": "Service de détatouage",
+      "address": "179b Bd Clemenceau, 59700 Marcq-en-Bar%C5%93ul",
+      "rating": 4.8,
+      "reviewCount": 4
+    },
+    {
+      "name": "Atelier Samaia Maquillage Permanent La Madeleine",
+      "category": "Institut de beauté",
+      "address": "Residence Les Terrasses du Riez, 106 Rue du Président Georges Pompidou, 59110 La Madeleine",
+      "rating": 5,
+      "reviewCount": 106
+    }
+  ],
+  "description": "La Clinique du Château - Grand Boulevard : centre laser et esthétique fait partie des centres de détatouage laser à La Madeleine. Avec une note de 5/5 sur 12 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Madeleine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:45:20.156Z"
+}

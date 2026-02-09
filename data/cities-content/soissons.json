@@ -1,0 +1,52 @@
+{
+  "slug": "soissons",
+  "cityName": "Soissons",
+  "businessName": "Beauxmonts Soissons – Médecine esthétique et Laser",
+  "businesses": [
+    {
+      "name": "Beauxmonts Soissons – Médecine esthétique et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue Racine",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "SANCABELLA",
+      "category": "Salon de piercing",
+      "address": "30 Rue Saint-Christophe",
+      "rating": 4.9,
+      "reviewCount": 286
+    },
+    {
+      "name": "Pamart studio",
+      "category": "Tatoueur",
+      "address": "1bis Bd Gambetta",
+      "rating": 4.8,
+      "reviewCount": 83
+    },
+    {
+      "name": "Laserostop Soissons",
+      "category": "Praticien de médecine alternative",
+      "address": "3 Rue des Minimes",
+      "rating": 5,
+      "reviewCount": 112
+    },
+    {
+      "name": "Tatoueur Sylva Tattoo",
+      "category": "Tatoueur",
+      "address": "13 Rue du Commerce",
+      "rating": 4.9,
+      "reviewCount": 142
+    },
+    {
+      "name": "Blondy Tattoo",
+      "category": "Tatoueur",
+      "address": "13 Rue du Commerce",
+      "rating": 5,
+      "reviewCount": 94
+    }
+  ],
+  "description": "Beauxmonts Soissons – Médecine esthétique et Laser fait partie des centres de détatouage laser à Soissons. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Soissons.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:33:49.228Z"
+}

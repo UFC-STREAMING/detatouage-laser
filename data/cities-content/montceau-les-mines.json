@@ -1,0 +1,40 @@
+{
+  "slug": "montceau-les-mines",
+  "cityName": "Montceau-les-Mines",
+  "businessName": "Hole Of Fame",
+  "businesses": [
+    {
+      "name": "Hole Of Fame",
+      "category": "Salon de tatouage et piercing",
+      "address": "13 Rue des Oiseaux",
+      "rating": 4.8,
+      "reviewCount": 82
+    },
+    {
+      "name": "Patte de loup tattoo",
+      "category": "Tatoueur",
+      "address": "9 Rue Rouget de Lisle",
+      "rating": 5,
+      "reviewCount": 59
+    },
+    {
+      "name": "P.B Beauty",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Blanqui",
+      "rating": 5,
+      "reviewCount": 8
+    }
+  ],
+  "description": "Hole Of Fame fait partie des centres de détatouage laser à Montceau-les-Mines. Avec une note de 4.8/5 sur 82 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montceau-les-Mines.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:00:46.200Z"
+}

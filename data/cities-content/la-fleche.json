@@ -1,0 +1,44 @@
+{
+  "slug": "la-fleche",
+  "cityName": "La Flèche",
+  "businessName": "Body Expression",
+  "businesses": [
+    {
+      "name": "Body Expression",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Rue Saint-Jacques, 72200 La Flèche",
+      "rating": 4.6,
+      "reviewCount": 63
+    },
+    {
+      "name": "L'alignement des planètes",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue Grollier, 72200 La Flèche",
+      "rating": 4.4,
+      "reviewCount": 22
+    },
+    {
+      "name": "Manochette Tattoo",
+      "category": "Tatoueur",
+      "address": "31 Rue du Collège, 72200 La Flèche",
+      "rating": 4.8,
+      "reviewCount": 26
+    }
+  ],
+  "description": "Body Expression fait partie des centres de détatouage laser à La Flèche. Avec une note de 4.6/5 sur 63 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Flèche.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le type de tatouage le plus difficile à enlever ?",
+      "answer": "Le détatouage au laser fonctionne lorsque la couleur de l'encre absorbe l'énergie du laser. Les différentes couleurs d'encre absorbent l'énergie différemment. Plus précisément, les couleurs claires comme le blanc, le jaune, le bleu clair et le rose sont les plus difficiles à éliminer, de même que le vert, le rouge et les couleurs fluo.19 déc. 2017"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Que signifie la flèche en tatouage ?",
+      "answer": "La flèche : Direction et persévérance Symbole simple mais riche de sens, la flèche est souvent utilisée en tatouage pour exprimer la direction, la persévérance et la capacité à avancer malgré les obstacles. Dans les cultures amérindiennes, la flèche symbolisait la protection et la défense."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:09:56.939Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "nice",
+  "cityName": "Nice",
+  "businessName": "Centre Laser Épilation Mozart",
+  "businesses": [
+    {
+      "name": "Centre Laser Épilation Mozart",
+      "category": "Centre d'épilation laser",
+      "address": "Av. Auber, 06000 Nice",
+      "rating": 4.7,
+      "reviewCount": 42
+    },
+    {
+      "name": "Centre Laser NicePropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "14 Av. Félix Faure, 06000 Nice",
+      "rating": 4.6,
+      "reviewCount": 60
+    },
+    {
+      "name": "𝑪𝒍𝒊𝒏𝒊𝒒𝒖𝒆 𝒍𝒆 𝑽𝒆𝒓𝒅𝒖𝒏 - 𝑵𝒊𝒄𝒆 -",
+      "category": "Centre d'épilation laser",
+      "address": "8 Av. de Verdun, 06000 Nice",
+      "rating": 4.8,
+      "reviewCount": 188
+    }
+  ],
+  "description": "Centre Laser Épilation Mozart fait partie des centres de détatouage laser à Nice. Avec une note de 4.7/5 sur 42 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Nice.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "0:23Séance détatouage⚡ La méthode utilisée pour enlever un ...Facebook  ·  Centre Laser Nice - Dermatologie et Esthétique"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "0:15Vous n’aimez plus votre tatouage ? 😰 Le laser #picoway de ...Facebook  ·  Clinique Mozart - Nice"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "0:09🔥Détatouage Notre laser détatouage de la marque ...Facebook  ·  Clinique Mozart - Nice"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:02:54.239Z"
+}

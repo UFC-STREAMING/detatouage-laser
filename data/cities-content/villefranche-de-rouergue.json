@@ -1,0 +1,44 @@
+{
+  "slug": "villefranche-de-rouergue",
+  "cityName": "Villefranche-de-Rouergue",
+  "businessName": "A base d'encres",
+  "businesses": [
+    {
+      "name": "A base d'encres",
+      "category": "Salon de tatouage et piercing",
+      "address": "2 All. Aristide Briand, 12200 Villefranche-de-Rouergue",
+      "rating": 5,
+      "reviewCount": 98
+    },
+    {
+      "name": "URBAN INK VDR Daddy Bear Tattoo",
+      "category": "Tatoueur",
+      "address": "33 Rue Belle Isle, 12200 Villefranche-de-Rouergue",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Bob Tattoo",
+      "category": "Tatoueur",
+      "address": "21 Rue Jacques Borelly, 12200 Villefranche-de-Rouergue",
+      "rating": 4.8,
+      "reviewCount": 35
+    }
+  ],
+  "description": "A base d'encres fait partie des centres de détatouage laser à Villefranche-de-Rouergue. Avec une note de 5/5 sur 98 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villefranche-de-Rouergue.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:35:35.440Z"
+}

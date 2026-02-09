@@ -1,0 +1,65 @@
+{
+  "slug": "montbrison",
+  "cityName": "Montbrison",
+  "businessName": "MELITYS",
+  "businesses": [
+    {
+      "name": "MELITYS",
+      "category": "Centre d'épilation laser",
+      "address": "12 Bd Chavassieu, 42600 Montbrison",
+      "rating": 5,
+      "reviewCount": 41
+    },
+    {
+      "name": "Wild Steel Tatouages Piercings",
+      "category": "Tatoueur",
+      "address": "19 Rue Saint-Jean, 42600 Montbrison",
+      "rating": 4.5,
+      "reviewCount": 228
+    },
+    {
+      "name": "Alana Studio",
+      "category": "Bar à sourcils",
+      "address": "3bis Bd Chavassieu, 42600 Montbrison",
+      "rating": 4.8,
+      "reviewCount": 28
+    },
+    {
+      "name": "Maison Clémentine",
+      "category": "Tatoueur",
+      "address": "5 Pl. Saint-André, 42600 Montbrison",
+      "rating": 4.8,
+      "reviewCount": 124
+    },
+    {
+      "name": "Lad'ink",
+      "category": "Tatoueur",
+      "address": "11 Rue des Legouvé, 42600 Montbrison",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "RAGNAR TATTOO MONTBRISON",
+      "category": "Tatoueur",
+      "address": "14 Rue du Marché, 42600 Montbrison",
+      "rating": 4.7,
+      "reviewCount": 39
+    }
+  ],
+  "description": "MELITYS fait partie des centres de détatouage laser à Montbrison. Avec une note de 5/5 sur 41 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montbrison.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:03:59.529Z"
+}

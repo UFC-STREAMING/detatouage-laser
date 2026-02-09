@@ -1,0 +1,44 @@
+{
+  "slug": "somain",
+  "cityName": "Somain",
+  "businessName": "Lumen Tattoo Shop",
+  "businesses": [
+    {
+      "name": "Lumen Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "19 Rue Wilson",
+      "rating": 5,
+      "reviewCount": 45
+    },
+    {
+      "name": "Monkey Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "63 Rue Suzanne Lanoy",
+      "rating": 4.8,
+      "reviewCount": 173
+    },
+    {
+      "name": "Somain Laser Vision - ELSAN",
+      "category": "Centre d'ophtalmologie",
+      "address": "28 Rue Anatole France",
+      "rating": 4.5,
+      "reviewCount": 33
+    }
+  ],
+  "description": "Lumen Tattoo Shop fait partie des centres de détatouage laser à Somain. Avec une note de 5/5 sur 45 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Somain.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:31:01.227Z"
+}

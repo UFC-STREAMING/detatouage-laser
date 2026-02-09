@@ -1,0 +1,65 @@
+{
+  "slug": "asnieres-sur-seine",
+  "cityName": "Asnières-sur-Seine",
+  "businessName": "Lazeo Asnières",
+  "businesses": [
+    {
+      "name": "Lazeo Asnières",
+      "category": "Centre d'épilation laser",
+      "address": "58 Rue de Nanterre",
+      "rating": 4.4,
+      "reviewCount": 374
+    },
+    {
+      "name": "Institut du Laser - Asnières",
+      "category": "Centre d'épilation laser",
+      "address": "63 Bd Voltaire",
+      "rating": 5,
+      "reviewCount": 67
+    },
+    {
+      "name": "Maelis Centre Laser Asnières-sur-Seine / Gennevilliers - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "135 Av. d'Argenteuil",
+      "rating": 4.9,
+      "reviewCount": 270
+    },
+    {
+      "name": "Body industry Asnières 92 - Epilation Laser / Definitive - Cryolipolyse",
+      "category": "Centre d'épilation laser",
+      "address": "122 Rue des Bourguignons",
+      "rating": 4.9,
+      "reviewCount": null
+    },
+    {
+      "name": "l'Atelier Vingt-Quatre",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue Bourdarie Lefure, 92600 Asnières-sur-Seine",
+      "rating": 5,
+      "reviewCount": 80
+    },
+    {
+      "name": "The house tattoo studio",
+      "category": "Tatoueur",
+      "address": "117 Av. d'Argenteuil",
+      "rating": 4.8,
+      "reviewCount": 293
+    }
+  ],
+  "description": "Lazeo Asnières fait partie des centres de détatouage laser à Asnières-sur-Seine. Avec une note de 4.4/5 sur 374 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Asnières-sur-Seine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:06:49.911Z"
+}

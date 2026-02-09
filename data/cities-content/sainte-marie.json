@@ -1,0 +1,61 @@
+{
+  "slug": "sainte-marie",
+  "cityName": "Sainte-Marie",
+  "businessName": "MAJ Ink Tattoo",
+  "businesses": [
+    {
+      "name": "MAJ Ink Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "242 Av. de la Bonne Entente, Sainte-Marie, QC G6E 2X1, Canada",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "InfiniLASER - Épilation au Laser",
+      "category": "Centre d'épilation laser",
+      "address": "Sainte-Marie, QC, Canada",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Tatouage Adn",
+      "category": "Salon de tatouage et piercing",
+      "address": "517 Ave du Jade, Sainte-Marie, QC G6E 0M1, Canada",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Skyn EsthétiquePropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "Sainte-Marie, QC, Canada",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Art-core Tattoo & barbershop ste-mariePropose : Tatouage couleur",
+      "category": "Barbier",
+      "address": "1083 Bd Vachon N, Sainte-Marie, QC G6E 1M8, Canada",
+      "rating": 4.7,
+      "reviewCount": 79
+    },
+    {
+      "name": "InfiniLASER - Épilation au laser",
+      "category": "Centre d'épilation laser",
+      "address": "1588 Rue des Arpents Verts, Sainte-Marie, QC G6E 1H3, Canada",
+      "rating": 5,
+      "reviewCount": 3
+    }
+  ],
+  "description": "MAJ Ink Tattoo fait partie des centres de détatouage laser à Sainte-Marie. Avec une note de 5/5 sur 39 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sainte-Marie.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:24:29.904Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "biganos",
+  "cityName": "Biganos",
+  "businessName": "Dermorelie socio esthétique, maquillage permanent, dermopigmentation réparatrice, prothésiste capillaire et mammaire externe",
+  "businesses": [
+    {
+      "name": "Dermorelie socio esthétique, maquillage permanent, dermopigmentation réparatrice, prothésiste capillaire et mammaire externe",
+      "category": "Institut de beauté",
+      "address": "maquillage permanent, dermopigmentation réparatrice, prothésiste capillaire et mammaire externe, Rue des Canadiens, 33380 Biganos",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "L'Aventure Corporelle",
+      "category": "Salon de tatouage et piercing",
+      "address": "72 bis Av. de la Libération, 33380 Biganos",
+      "rating": 4.7,
+      "reviewCount": 15
+    },
+    {
+      "name": "LUX TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "55 Av. de la Libération, 33380 Biganos",
+      "rating": 4.9,
+      "reviewCount": 143
+    },
+    {
+      "name": "Tatérapi Laser BIGANOS | Cabinet de Réflexologie Auriculaire Laser | Arrêt du tabac - Perte de poids - Stress - Douleurs",
+      "category": "Centre de bien-être",
+      "address": "Centre santé 3000, 680 Rue Gustave Eiffel, 33380 Biganos",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Eclat du Bassin Laser & Soins | Epilation au Laser",
+      "category": "Centre d'épilation laser",
+      "address": "4 Rue du Prieuré de Comprian, 33380 Biganos",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Toms Tattoo",
+      "category": "Tatoueur",
+      "address": "Av. Raymond Poincaré, 33380 Biganos",
+      "rating": 5,
+      "reviewCount": 52
+    }
+  ],
+  "description": "Dermorelie socio esthétique, maquillage permanent, dermopigmentation réparatrice, prothésiste capillaire et mammaire externe fait partie des centres de détatouage laser à Biganos. Avec une note de 5/5 sur 39 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Biganos.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:34:15.268Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "vaux-le-penil",
+  "cityName": "Vaux-le-Pénil",
+  "businessName": "Chimerink Tattoo",
+  "businesses": [
+    {
+      "name": "Chimerink Tattoo",
+      "category": "Tatoueur",
+      "address": "93 Av. Saint-Just",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "Centre laser CtrlZ - Melun",
+      "category": "Centre d'épilation laser",
+      "address": "Melun",
+      "rating": 5,
+      "reviewCount": 91
+    },
+    {
+      "name": "Capsule Ink Corp",
+      "category": "Tatoueur",
+      "address": "Melun",
+      "rating": 4.8,
+      "reviewCount": 207
+    },
+    {
+      "name": "Centre Laser Murano Melun- Médecine Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "Melun",
+      "rating": 4.9,
+      "reviewCount": 721
+    },
+    {
+      "name": "S BROWS",
+      "category": "Institut de beauté",
+      "address": "19 bis Rue des Ormessons",
+      "rating": 5,
+      "reviewCount": 52
+    },
+    {
+      "name": "Cactus Tattoo",
+      "category": "Tatoueur",
+      "address": "Melun",
+      "rating": 5,
+      "reviewCount": 237
+    }
+  ],
+  "description": "Chimerink Tattoo fait partie des centres de détatouage laser à Vaux-le-Pénil. Avec une note de 5/5 sur 29 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vaux-le-Pénil.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:33:34.751Z"
+}

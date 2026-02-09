@@ -1,0 +1,40 @@
+{
+  "slug": "trets",
+  "cityName": "Trets",
+  "businessName": "Body Custom",
+  "businesses": [
+    {
+      "name": "Body Custom",
+      "category": "Tatoueur",
+      "address": "19 Rte de Puyloubier, 13530 Trets",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Laser 26 - Trets I Epilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "5 ZA la Burlière 1er étage, 13530 Trets",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "Dr BAUDE Anaïs Dermatologue et Médecine Esthétique",
+      "category": "Dermatologue",
+      "address": "place Nelson Mandela, 15 Av. Mirabeau, 13530 Trets",
+      "rating": 3.5,
+      "reviewCount": 50
+    }
+  ],
+  "description": "Body Custom fait partie des centres de détatouage laser à Trets. Avec une note de 5/5 sur 16 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Trets.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:38:41.209Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "saint-amand-les-eaux",
+  "cityName": "Saint-Amand-les-Eaux",
+  "businessName": "Niro Tattoo INK",
+  "businesses": [
+    {
+      "name": "Niro Tattoo INK",
+      "category": "Salon de tatouage et piercing",
+      "address": "22 Rue Thiers, 59230 Saint-Amand-les-Eaux",
+      "rating": 4.5,
+      "reviewCount": 68
+    },
+    {
+      "name": "Urban Paradox Tattoo",
+      "category": "Tatoueur",
+      "address": "35 Pl. du 11 Novembre 1918, 59230 Saint-Amand-les-Eaux",
+      "rating": 5,
+      "reviewCount": 191
+    },
+    {
+      "name": "Chromat'ink (ex So Sweet ink)",
+      "category": "Tatoueur",
+      "address": "91 Rue d'Orchies, 59230 Saint-Amand-les-Eaux",
+      "rating": 5,
+      "reviewCount": 42
+    },
+    {
+      "name": "BIOUTY",
+      "category": "Institut de beauté",
+      "address": "49 bis Rue d'Orchies, 59230 Saint-Amand-les-Eaux",
+      "rating": 4.8,
+      "reviewCount": 79
+    },
+    {
+      "name": "Studio privé de Tatouage Leita",
+      "category": "Salon de tatouage et piercing",
+      "address": "159 Rue Notre Dame d'Amour, 59230 Saint-Amand-les-Eaux",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Studio 22 : Sparrow Tattoo-ink",
+      "category": "Tatoueur",
+      "address": "22 Rue Thiers, 59230 Saint-Amand-les-Eaux",
+      "rating": 5,
+      "reviewCount": 5
+    }
+  ],
+  "description": "Niro Tattoo INK fait partie des centres de détatouage laser à Saint-Amand-les-Eaux. Avec une note de 4.5/5 sur 68 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Amand-les-Eaux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:04:55.740Z"
+}

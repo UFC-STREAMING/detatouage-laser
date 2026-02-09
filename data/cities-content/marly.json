@@ -1,0 +1,31 @@
+{
+  "slug": "marly",
+  "cityName": "Marly",
+  "businessName": "VITACOSMIC | Médecine esthétique",
+  "businesses": [
+    {
+      "name": "VITACOSMIC | Médecine esthétique",
+      "category": "Clinique",
+      "address": "Rte du Midi 12A",
+      "rating": 4.6,
+      "reviewCount": 20
+    },
+    {
+      "name": "SKNR Détatouage Laser",
+      "category": "Service de détatouage",
+      "address": "Fribourg, Suisse",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Giant 13",
+      "category": "Salon de tatouage et piercing",
+      "address": "Rte de la Gruyère 13, 1723 Marly, Suisse",
+      "rating": 4.2,
+      "reviewCount": 9
+    }
+  ],
+  "description": "VITACOSMIC | Médecine esthétique fait partie des centres de détatouage laser à Marly. Avec une note de 4.6/5 sur 20 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Marly.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:29:57.328Z"
+}

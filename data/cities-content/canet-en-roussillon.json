@@ -1,0 +1,65 @@
+{
+  "slug": "canet-en-roussillon",
+  "cityName": "Canet-en-Roussillon",
+  "businessName": "Karen Studio TATTOO",
+  "businesses": [
+    {
+      "name": "Karen Studio TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "27 Av. de Sainte-Marie",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "PROJET INK TATTOO",
+      "category": "Tatoueur",
+      "address": "25 Av. Guy Drut",
+      "rating": 4.8,
+      "reviewCount": 141
+    },
+    {
+      "name": "Gwen Tattoo Canet",
+      "category": "Tatoueur",
+      "address": "3 Av. de Perpignan",
+      "rating": 4.9,
+      "reviewCount": 101
+    },
+    {
+      "name": "L'Atelier TATTOO/PIERCING",
+      "category": "Salon de tatouage et piercing",
+      "address": "25c Bd de la Jetée",
+      "rating": 5,
+      "reviewCount": 232
+    },
+    {
+      "name": "La Ligne Graff'ink",
+      "category": "Tatoueur",
+      "address": "3 Av. de Toulouse",
+      "rating": 4,
+      "reviewCount": 109
+    },
+    {
+      "name": "Luminéa esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "50 Rue Joseph Lafon",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Karen Studio TATTOO fait partie des centres de détatouage laser à Canet-en-Roussillon. Avec une note de 5/5 sur 27 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Canet-en-Roussillon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:19:46.964Z"
+}

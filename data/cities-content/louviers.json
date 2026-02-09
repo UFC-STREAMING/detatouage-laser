@@ -1,0 +1,52 @@
+{
+  "slug": "louviers",
+  "cityName": "Louviers",
+  "businessName": "Laser Free Addict LOUVIERS",
+  "businesses": [
+    {
+      "name": "Laser Free Addict LOUVIERS",
+      "category": "Praticien de médecine alternative",
+      "address": "2 Av. Fran%C3%A7ois Mitterrand, 27400 Louviers",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "L’Oeil d’Horus",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Pl. du Champ de ville, 27400 Louviers",
+      "rating": 4.9,
+      "reviewCount": 216
+    },
+    {
+      "name": "Sacra Luna",
+      "category": "Tatoueur",
+      "address": "12 Rue du Sornier, 27400 Louviers",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Tattoo’toi Louviers",
+      "category": "Tatoueur",
+      "address": "9 Rue Pierre Mendès France, 27400 Louviers",
+      "rating": 4.8,
+      "reviewCount": 142
+    },
+    {
+      "name": "Jusqu'à l'Os",
+      "category": "Tatoueur",
+      "address": "44 Rue du Général de Gaulle, 27400 Louviers",
+      "rating": 4.7,
+      "reviewCount": 31
+    },
+    {
+      "name": "Uk-Ink tatouage",
+      "category": "Tatoueur",
+      "address": "22 Rue du Quai, 27400 Louviers",
+      "rating": 4.9,
+      "reviewCount": 85
+    }
+  ],
+  "description": "Laser Free Addict LOUVIERS fait partie des centres de détatouage laser à Louviers. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Louviers.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:55:06.095Z"
+}

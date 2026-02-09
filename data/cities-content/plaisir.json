@@ -1,0 +1,44 @@
+{
+  "slug": "plaisir",
+  "cityName": "Plaisir",
+  "businessName": "Le Centre Dermo-Cosmétique",
+  "businesses": [
+    {
+      "name": "Le Centre Dermo-Cosmétique",
+      "category": "Institut de soins du visage",
+      "address": "28 Av. du 19 Mars 1962, 78370 Plaisir",
+      "rating": 5,
+      "reviewCount": 35
+    },
+    {
+      "name": "Derma Repair",
+      "category": "Institut de beauté",
+      "address": "8 Rue Paul Langevin, 78370 Plaisir",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Micropigmentation - Delphine Beauté",
+      "category": "Institut de beauté",
+      "address": "8 Rue Louis Mercier, 78370 Plaisir",
+      "rating": 4.5,
+      "reviewCount": 11
+    }
+  ],
+  "description": "Le Centre Dermo-Cosmétique fait partie des centres de détatouage laser à Plaisir. Avec une note de 5/5 sur 35 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Plaisir.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Est-ce que le détatouage est visible après une séance ?",
+      "answer": "Détatouage Après 1 Séance Dans la majorité des cas, on observe déjà un léger éclaircissement de la zone traitée. Le tatouage peut sembler fragmenté ou plus pâle, signe que l'encre commence à se décomposer sous l'effet du laser.15 avr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:28:45.290Z"
+}

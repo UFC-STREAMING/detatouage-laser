@@ -1,0 +1,44 @@
+{
+  "slug": "la-trinite-06",
+  "cityName": "La Trinité",
+  "businessName": "The Box Trinité",
+  "businesses": [
+    {
+      "name": "The Box Trinité",
+      "category": "Salon de tatouage et piercing",
+      "address": "4 Rue Joseph Lagrosillère, La Trinité 97220, Martinique",
+      "rating": 4,
+      "reviewCount": 92
+    },
+    {
+      "name": "Family tattoo truck",
+      "category": "Salon de tatouage et piercing",
+      "address": "La Trinité 97220, Martinique",
+      "rating": 5,
+      "reviewCount": 158
+    },
+    {
+      "name": "Kat's eyes",
+      "category": "Institut de beauté",
+      "address": "1 Rue Joseph Lagrosillère, La Trinité 97220, Martinique",
+      "rating": 4.2,
+      "reviewCount": 10
+    }
+  ],
+  "description": "The Box Trinité fait partie des centres de détatouage laser à La Trinité. Avec une note de 4/5 sur 92 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Trinité.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:42:07.266Z"
+}

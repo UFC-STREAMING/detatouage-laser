@@ -1,0 +1,65 @@
+{
+  "slug": "gardanne",
+  "cityName": "Gardanne",
+  "businessName": "MADEMOIZ'ELLE INSTITUT",
+  "businesses": [
+    {
+      "name": "MADEMOIZ'ELLE INSTITUT",
+      "category": "Service de détatouage",
+      "address": "Les lilas%22 centre medical et bien etre, 70 Av. Pierre Brossolette, 13120 Gardanne",
+      "rating": 5,
+      "reviewCount": 60
+    },
+    {
+      "name": "Inkoff - Detatouage, Médecine Esthétique & Bien-être",
+      "category": "Service de détatouage",
+      "address": "Médecine Esthétique %26 Bien-être, 57 Rue d'Italie, 13100 Aix-en-Provence",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Clinique 13 Méditerranée ~ Médecine Esthétique et Lasers",
+      "category": "Service de détatouage",
+      "address": "13 Sq. Abbé Blaise, 13080 Aix-en-Provence",
+      "rating": 5,
+      "reviewCount": 80
+    },
+    {
+      "name": "Centre laser CtrlZ - Aix-en-Provence",
+      "category": "Centre d'épilation laser",
+      "address": "120 Av. Napoléon Bonaparte, 13100 Aix-en-Provence",
+      "rating": 5,
+      "reviewCount": 121
+    },
+    {
+      "name": "Sakura Tattoo StudioPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "résidence beau soleil, Av. de Toulon, 13120 Gardanne",
+      "rating": 4.8,
+      "reviewCount": 71
+    },
+    {
+      "name": "TRICOPIGMENTATION cheveux AM SCALP MARSEILLE",
+      "category": "Service de remplacement capillaire",
+      "address": "35 Rue Borely, 13120 Gardanne",
+      "rating": 5,
+      "reviewCount": 65
+    }
+  ],
+  "description": "MADEMOIZ'ELLE INSTITUT fait partie des centres de détatouage laser à Gardanne. Avec une note de 5/5 sur 60 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gardanne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:46:04.026Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "ambares-et-lagrave",
+  "cityName": "Ambarès-et-Lagrave",
+  "businessName": "Sadik Tattoo Shop",
+  "businesses": [
+    {
+      "name": "Sadik Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Pl. de la Révolution, 33440 Saint-Louis-de-Montferrand",
+      "rating": 5,
+      "reviewCount": 47
+    },
+    {
+      "name": "Cabinet LDS (Laser, Détatouage et Soins)",
+      "category": "Service de détatouage",
+      "address": "Détatouage et Soins), 25 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.9,
+      "reviewCount": 55
+    },
+    {
+      "name": "MDP 33",
+      "category": "Service de détatouage",
+      "address": "4 Pl. Pierre Mendès France, 33560 Carbon-Blanc",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Sadik Tattoo Shop fait partie des centres de détatouage laser à Ambarès-et-Lagrave. Avec une note de 5/5 sur 47 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ambarès-et-Lagrave.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:59:04.961Z"
+}

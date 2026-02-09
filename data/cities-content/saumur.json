@@ -1,0 +1,65 @@
+{
+  "slug": "saumur",
+  "cityName": "Saumur",
+  "businessName": "Rose Noire - Centre médico-esthétique anti-âge",
+  "businesses": [
+    {
+      "name": "Rose Noire - Centre médico-esthétique anti-âge",
+      "category": "Centre d'épilation laser",
+      "address": "71 Av. du Général de Gaulle",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Arrêter de Fumer Centre Laser anti-tabac M.F.C. 49 Saumur",
+      "category": "Praticien de médecine alternative",
+      "address": "9 Rue Montesquieu Cabinet n°4",
+      "rating": 5,
+      "reviewCount": 52
+    },
+    {
+      "name": "Morsure • Manon Soyer",
+      "category": "Tatoueur",
+      "address": "9 Rue de l'Ancienne Messagerie",
+      "rating": 5,
+      "reviewCount": 72
+    },
+    {
+      "name": "Alex Saman Tattoo - Saumur",
+      "category": "Tatoueur",
+      "address": "15 Rue des Païens",
+      "rating": 5,
+      "reviewCount": 70
+    },
+    {
+      "name": "P’ink Lady studio 49",
+      "category": "Clinique de maquillage permanent",
+      "address": "Artannes-sur-Thouet",
+      "rating": 5,
+      "reviewCount": 41
+    },
+    {
+      "name": "Chris et Nathe Tattoo Shop Saumur",
+      "category": "Salon de tatouage et piercing",
+      "address": "4 Pl. de la République",
+      "rating": 4.7,
+      "reviewCount": 185
+    }
+  ],
+  "description": "Rose Noire - Centre médico-esthétique anti-âge fait partie des centres de détatouage laser à Saumur. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saumur.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:36:49.086Z"
+}

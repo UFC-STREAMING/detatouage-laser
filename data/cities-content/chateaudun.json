@@ -1,0 +1,52 @@
+{
+  "slug": "chateaudun",
+  "cityName": "Châteaudun",
+  "businessName": "Laser Beauty Châteaudun",
+  "businesses": [
+    {
+      "name": "Laser Beauty Châteaudun",
+      "category": "Centre d'épilation laser",
+      "address": "Rue du 19 Mars 1962, 28200 Ch%C3%A2teaudun",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "Kallima tattoo",
+      "category": "Tatoueur",
+      "address": "19 Rue Jean Moulin",
+      "rating": 4.9,
+      "reviewCount": 61
+    },
+    {
+      "name": "Sèma Beauty",
+      "category": "Institut de beauté",
+      "address": "Rue du Guichet",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Laur'Esthétique",
+      "category": "Institut de beauté",
+      "address": "76 Rue de la République",
+      "rating": 4.6,
+      "reviewCount": 50
+    },
+    {
+      "name": "Morgane Delcourt Esthétique & Conseils",
+      "category": "Institut de beauté",
+      "address": "71 Av. du Général de Gaulle",
+      "rating": 5,
+      "reviewCount": 66
+    },
+    {
+      "name": "Nico Tattoo",
+      "category": "Tatoueur",
+      "address": "Saint-Denis-Lanneray",
+      "rating": 4.6,
+      "reviewCount": 50
+    }
+  ],
+  "description": "Laser Beauty Châteaudun fait partie des centres de détatouage laser à Châteaudun. Avec une note de 5/5 sur 53 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Châteaudun.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:22:02.248Z"
+}

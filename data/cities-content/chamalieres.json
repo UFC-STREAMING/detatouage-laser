@@ -1,0 +1,65 @@
+{
+  "slug": "chamalieres",
+  "cityName": "Chamalières",
+  "businessName": "Sana Beauty Clermont-Ferrand - Détatouage - Hydrofacial - Make up Artist - Extension de cils",
+  "businesses": [
+    {
+      "name": "Sana Beauty Clermont-Ferrand - Détatouage - Hydrofacial - Make up Artist - Extension de cils",
+      "category": "Institut de beauté",
+      "address": "16 Rue du Pont de la Gravière, 63400 Chamalières",
+      "rating": 4.5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Body Art Concept",
+      "category": "Tatoueur",
+      "address": "8 Av. Jean Jaurès, 63130 Royat",
+      "rating": 4.9,
+      "reviewCount": 48
+    },
+    {
+      "name": "Poinsignon Olivier et Caroline (I_I) tatouage - ART - création",
+      "category": "Tatoueur",
+      "address": "56 Av. de Royat, 63400 Chamalières",
+      "rating": 5,
+      "reviewCount": 131
+    },
+    {
+      "name": "Centre Laser Dermatologique MEDILASER",
+      "category": "Centre d'épilation laser",
+      "address": "46 Pl. de Jaude 44, 63000 Clermont-Ferrand",
+      "rating": 2.8,
+      "reviewCount": 33
+    },
+    {
+      "name": "Médecine Esthétique Dr Paulet Salvador AnaPropose : Epilation Laser",
+      "category": "Médecin",
+      "address": "4 Av. de Villars, 63400 Chamalières",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "Institut Caroline Denat Spécialiste du regard et de l'ongle",
+      "category": "Institut de beauté",
+      "address": "1 Av. de Beaulieu, 63400 Chamalières",
+      "rating": 4.8,
+      "reviewCount": 41
+    }
+  ],
+  "description": "Sana Beauty Clermont-Ferrand - Détatouage - Hydrofacial - Make up Artist - Extension de cils fait partie des centres de détatouage laser à Chamalières. Avec une note de 4.5/5 sur 14 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chamalières.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le prix pour enlever un tatouage au laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:59:27.466Z"
+}

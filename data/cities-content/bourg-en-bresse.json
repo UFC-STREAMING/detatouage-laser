@@ -1,0 +1,65 @@
+{
+  "slug": "bourg-en-bresse",
+  "cityName": "Bourg-en-Bresse",
+  "businessName": "Centre laser CtrlZ - Bourg-en-Bresse",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Bourg-en-Bresse",
+      "category": "Centre d'épilation laser",
+      "address": "22 Pl. Bernard, 01000 Bourg-en-Bresse",
+      "rating": 5,
+      "reviewCount": 66
+    },
+    {
+      "name": "Max & Sam Needles SALON PRIVE (SUR RDV UNIQUEMENT) Tattoo, Piercing, maquillage permanent, ligne fine",
+      "category": "Salon de tatouage et piercing",
+      "address": "Piercing, maquillage permanent, ligne fine, 40 Rue Gabriel Vicaire, 01000 Bourg-en-Bresse",
+      "rating": 4.9,
+      "reviewCount": 844
+    },
+    {
+      "name": "Steel on Skin",
+      "category": "Salon de piercing",
+      "address": "6 Rue du Lycée, 01000 Bourg-en-Bresse",
+      "rating": 4.9,
+      "reviewCount": 194
+    },
+    {
+      "name": "Centre stop tabac Bourg en Bresse - Sevrage laserOstop",
+      "category": "Praticien de médecine alternative",
+      "address": "41 Av. Amédée Mercier, 01000 Bourg-en-Bresse",
+      "rating": 4.8,
+      "reviewCount": 150
+    },
+    {
+      "name": "Tatérapi Laser BOURG EN BRESSE | Réflexologie auriculaire | Arrêt Tabac - Perte de poids - Stress - Douleurs",
+      "category": "Centre de bien-être",
+      "address": "16 Av. Pablo Picasso, 01000 Bourg-en-Bresse",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Nuess - Épilation définitive Bourg en BressePropose : Épilation laser",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "41 Rue Maréchal Foch, 01000 Bourg-en-Bresse",
+      "rating": 4.9,
+      "reviewCount": 322
+    }
+  ],
+  "description": "Centre laser CtrlZ - Bourg-en-Bresse fait partie des centres de détatouage laser à Bourg-en-Bresse. Avec une note de 5/5 sur 66 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bourg-en-Bresse.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:20:54.617Z"
+}

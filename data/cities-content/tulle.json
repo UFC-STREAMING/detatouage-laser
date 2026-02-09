@@ -1,0 +1,52 @@
+{
+  "slug": "tulle",
+  "cityName": "Tulle",
+  "businessName": "La Forge Noire",
+  "businesses": [
+    {
+      "name": "La Forge Noire",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Quai Alfred de Chammard, 19000 Tulle",
+      "rating": 4.9,
+      "reviewCount": 22
+    },
+    {
+      "name": "Esperanza Body-Art",
+      "category": "Salon de tatouage et piercing",
+      "address": "22 Av. Charles de Gaulle, 19000 Tulle",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "Miss Nelly Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "3 Rue Jean Jaurès, 19000 Tulle",
+      "rating": 4.9,
+      "reviewCount": 23
+    },
+    {
+      "name": "Isa San Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "47 Quai Aristide Briand, 19000 Tulle",
+      "rating": 4.9,
+      "reviewCount": 61
+    },
+    {
+      "name": "A Fleur de Peau",
+      "category": "Institut de beauté",
+      "address": "3 Rue Sergent Lovy, 19000 Tulle",
+      "rating": 5,
+      "reviewCount": 35
+    },
+    {
+      "name": "Accord des Sens",
+      "category": "Institut de beauté",
+      "address": "2 Pl. Gambetta, 19000 Tulle",
+      "rating": 4.9,
+      "reviewCount": 41
+    }
+  ],
+  "description": "La Forge Noire fait partie des centres de détatouage laser à Tulle. Avec une note de 4.9/5 sur 22 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tulle.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:18:19.947Z"
+}

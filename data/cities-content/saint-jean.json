@@ -1,0 +1,44 @@
+{
+  "slug": "saint-jean",
+  "cityName": "Saint-Jean",
+  "businessName": "Pictampellis - Atelier Privé Tatouage artistique, recouvrement de cicatrices",
+  "businesses": [
+    {
+      "name": "Pictampellis - Atelier Privé Tatouage artistique, recouvrement de cicatrices",
+      "category": "Salon de tatouage et piercing",
+      "address": "recouvrement de cicatrices, Centre commercial, Rue des Roses, 31240 Saint-Jean",
+      "rating": 5,
+      "reviewCount": 81
+    },
+    {
+      "name": "L’Atelier Plume",
+      "category": "Institut de beauté",
+      "address": "16 Rue Ambroise Paré, 31240 Saint-Jean",
+      "rating": 5,
+      "reviewCount": 83
+    },
+    {
+      "name": "Derma Excellence",
+      "category": "Clinique de maquillage permanent",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Pictampellis - Atelier Privé Tatouage artistique, recouvrement de cicatrices fait partie des centres de détatouage laser à Saint-Jean. Avec une note de 5/5 sur 81 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Jean.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:35:44.459Z"
+}

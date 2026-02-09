@@ -1,0 +1,44 @@
+{
+  "slug": "l-union",
+  "cityName": "L\\'Union",
+  "businessName": "Tattoo'inPropose : Lettrage de tatouage personnalisé",
+  "businesses": [
+    {
+      "name": "Tattoo'inPropose : Lettrage de tatouage personnalisé",
+      "category": "Tatoueur",
+      "address": "centre commercial les Acacias, Av. des Acacias, 31240 L'Union",
+      "rating": 4.8,
+      "reviewCount": 54
+    },
+    {
+      "name": "Artcore Tattoos",
+      "category": "Tatoueur",
+      "address": "10 Av. de Toulouse, 31240 L'Union",
+      "rating": 4.8,
+      "reviewCount": 77
+    },
+    {
+      "name": "G&S esthétique et laser",
+      "category": "Centre d'épilation laser",
+      "address": "53 Rte de Lavaur, 31240 L'Union",
+      "rating": 4.9,
+      "reviewCount": 52
+    }
+  ],
+  "description": "Tattoo'inPropose : Lettrage de tatouage personnalisé fait partie des centres de détatouage laser à L\\'Union. Avec une note de 4.8/5 sur 54 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à L\\'Union.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quelle est la méthode de détatouage la plus efficace ?",
+      "answer": "Le laser PiQo4 est le laser le plus puissant du marché pour l'élimination des tatouages \\u200b\\u200bde toutes les couleurs, des taches brunes, des taches solaires, des marques de naissance et de la pigmentation du mélasma."
+    },
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Est-ce que le détatouage laisse des traces ?",
+      "answer": "Le détatouage peut laisser des traces, même s'il est réalisé par des professionnels qualifiés en utilisant des techniques modernes.7 nov. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:23:35.898Z"
+}

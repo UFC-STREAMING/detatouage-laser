@@ -1,0 +1,44 @@
+{
+  "slug": "saint-joseph",
+  "cityName": "Saint-Joseph",
+  "businessName": "SkinnTattoo",
+  "businesses": [
+    {
+      "name": "SkinnTattoo",
+      "category": "Tatoueur",
+      "address": "985 Chem. Principal, Saint-Joseph-du-Lac, QC J0N 1M0, Canada",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "Détatouage New Skin",
+      "category": "Service de détatouage",
+      "address": "13225 Bd Curé-Labelle %23504, Mirabel, Quebec J7J 2T3, Canada",
+      "rating": 4.9,
+      "reviewCount": 75
+    },
+    {
+      "name": "Détatouage Renaissance",
+      "category": "Service de détatouage",
+      "address": "277 Bd Curé-Labelle, Rosemère, QC J7A 2H3, Canada",
+      "rating": 4.6,
+      "reviewCount": 18
+    }
+  ],
+  "description": "SkinnTattoo fait partie des centres de détatouage laser à Saint-Joseph. Avec une note de 5/5 sur 13 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Joseph.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:22:44.627Z"
+}

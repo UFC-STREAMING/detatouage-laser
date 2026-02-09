@@ -1,0 +1,65 @@
+{
+  "slug": "mayenne",
+  "cityName": "Mayenne",
+  "businessName": "SPOITT Tatouage, Tatoueur Mayenne",
+  "businesses": [
+    {
+      "name": "SPOITT Tatouage, Tatoueur Mayenne",
+      "category": "Tatoueur",
+      "address": "Tatoueur Mayenne, 54, rue du 130e régiments d'infanterie, 53100 Mayenne",
+      "rating": 4.9,
+      "reviewCount": 92
+    },
+    {
+      "name": "Secret de Soin",
+      "category": "Institut de beauté",
+      "address": "14 Pl. Juhel, 53100 Mayenne",
+      "rating": 4.9,
+      "reviewCount": 17
+    },
+    {
+      "name": "CHAMAN CBD Piercing Tattoo",
+      "category": "Magasin de cannabis",
+      "address": "Hall, 20 Rue Aristide Briand, Résidence Aristide Briand, 53100 Mayenne",
+      "rating": 5,
+      "reviewCount": 91
+    },
+    {
+      "name": "La pieuvre noire tattoo studio",
+      "category": "Tatoueur",
+      "address": "17 Rue du Sergent Louvrier, 53100 Mayenne",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Le Petit Soleil Tattoo",
+      "category": "Magasin de cannabis",
+      "address": "20 Rue Aristide Briand, 53100 Mayenne",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "MeggieBk Body Piercing",
+      "category": "Salon de piercing",
+      "address": "44 Rue du 130%C3%88ME Régiment d'Infanterie, 53100 Mayenne",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "SPOITT Tatouage, Tatoueur Mayenne fait partie des centres de détatouage laser à Mayenne. Avec une note de 4.9/5 sur 92 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mayenne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:21:58.761Z"
+}

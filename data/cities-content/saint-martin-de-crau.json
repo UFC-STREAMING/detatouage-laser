@@ -1,0 +1,65 @@
+{
+  "slug": "saint-martin-de-crau",
+  "cityName": "Saint-Martin-de-Crau",
+  "businessName": "Alpilles Laser & Glow - Centre d’épilation laser - Saint-Martin-de-Crau",
+  "businesses": [
+    {
+      "name": "Alpilles Laser & Glow - Centre d’épilation laser - Saint-Martin-de-Crau",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rue de la Laure, 13310 Saint-Martin-de-Crau",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Lena Car D Tattoo , Piercing , Dermopigmentation, maquillage permanent & strass dentaire",
+      "category": "Tatoueur",
+      "address": "Piercing , Dermopigmentation, maquillage permanent %26 strass dentaire, 42 Av. de la République, 13310 Saint-Martin-de-Crau",
+      "rating": 4.9,
+      "reviewCount": 43
+    },
+    {
+      "name": "Dermo Lifting centerPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "5 rue Isaac Newton ZA Salat Parking Super U, 13310 Saint-Martin-de-Crau",
+      "rating": 5,
+      "reviewCount": 30
+    },
+    {
+      "name": "Lover/Loser Salon Tattoo",
+      "category": "Tatoueur",
+      "address": "Zone artisanale Salat, 7 Av. Galilée, 13310 Saint-Martin-de-Crau",
+      "rating": 4.9,
+      "reviewCount": 59
+    },
+    {
+      "name": "Centre Palmer St MARTIN DE CRAU",
+      "category": "Centre de bien-être",
+      "address": "1 Av. Marcel Pagnol, 13310 Saint-Martin-de-Crau",
+      "rating": 4.8,
+      "reviewCount": 41
+    },
+    {
+      "name": "Mel Esthétique",
+      "category": "Institut de beauté",
+      "address": "Av. des Flamants Roses, 13310 Saint-Martin-de-Crau",
+      "rating": 4.9,
+      "reviewCount": 82
+    }
+  ],
+  "description": "Alpilles Laser & Glow - Centre d’épilation laser - Saint-Martin-de-Crau fait partie des centres de détatouage laser à Saint-Martin-de-Crau. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Martin-de-Crau.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:13:57.871Z"
+}

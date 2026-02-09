@@ -1,0 +1,44 @@
+{
+  "slug": "seyssinet-pariset",
+  "cityName": "Seyssinet-Pariset",
+  "businessName": "Clinique Visage et Silhouette Grenoble Seyssinet-Pariset",
+  "businesses": [
+    {
+      "name": "Clinique Visage et Silhouette Grenoble Seyssinet-Pariset",
+      "category": "Centre d'épilation laser",
+      "address": "19 Rue Lamartine, 38170 Seyssinet-Pariset",
+      "rating": 4.9,
+      "reviewCount": 196
+    },
+    {
+      "name": "La Culpa tattoo shop",
+      "category": "Tatoueur",
+      "address": "76 Av. de la République, 38170 Seyssinet-Pariset",
+      "rating": 4.9,
+      "reviewCount": 58
+    },
+    {
+      "name": "Beauté Chez Soi 38",
+      "category": "Institut de beauté",
+      "address": "17 Bd des Frères Desaire, 38170 Seyssinet-Pariset",
+      "rating": 5,
+      "reviewCount": 63
+    }
+  ],
+  "description": "Clinique Visage et Silhouette Grenoble Seyssinet-Pariset fait partie des centres de détatouage laser à Seyssinet-Pariset. Avec une note de 4.9/5 sur 196 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Seyssinet-Pariset.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:31:09.866Z"
+}

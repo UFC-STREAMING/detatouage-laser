@@ -1,0 +1,44 @@
+{
+  "slug": "concarneau",
+  "cityName": "Concarneau",
+  "businessName": "Body Mind Care esthétique",
+  "businesses": [
+    {
+      "name": "Body Mind Care esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "77 Av. Alain le Lay, 29900 Concarneau",
+      "rating": 4.9,
+      "reviewCount": 8
+    },
+    {
+      "name": "Amazonite_Piercing",
+      "category": "Salon de piercing",
+      "address": "42 Av. de la Gare, 29900 Concarneau",
+      "rating": 4.9,
+      "reviewCount": 240
+    },
+    {
+      "name": "mrn_tattooshop",
+      "category": "Tatoueur",
+      "address": "9 Rue Villebois Mareuil, 29900 Concarneau",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "Body Mind Care esthétique fait partie des centres de détatouage laser à Concarneau. Avec une note de 4.9/5 sur 8 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Concarneau.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:47:47.405Z"
+}

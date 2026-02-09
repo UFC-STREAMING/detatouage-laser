@@ -1,0 +1,65 @@
+{
+  "slug": "rambouillet",
+  "cityName": "Rambouillet",
+  "businessName": "D Derma BeautyPropose : Épilation laser",
+  "businesses": [
+    {
+      "name": "D Derma BeautyPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "SMART CITY, 1 Rue de Clairefontaine, 78120 Rambouillet",
+      "rating": 4.8,
+      "reviewCount": 141
+    },
+    {
+      "name": "Denver Art",
+      "category": "Tatoueur",
+      "address": "Rue du Petit Parc, 78120 Rambouillet",
+      "rating": 5,
+      "reviewCount": 47
+    },
+    {
+      "name": "SUB ROSA Tattoo Art",
+      "category": "Salon de tatouage et piercing",
+      "address": "24 et, 20 Rue Raymond Poincaré 20, 78120 Rambouillet",
+      "rating": 5,
+      "reviewCount": 343
+    },
+    {
+      "name": "Amandine Beauté",
+      "category": "Institut de beauté",
+      "address": "4 Rue du Général Humbert Centre Ville, 78120 Rambouillet",
+      "rating": 4.6,
+      "reviewCount": 141
+    },
+    {
+      "name": "L'Atelier du Sourcil - Rambouillet",
+      "category": "Institut de beauté",
+      "address": "7 Rue Raymond Patenotre, 78120 Rambouillet",
+      "rating": 4.9,
+      "reviewCount": 489
+    },
+    {
+      "name": "Dermo Perfect",
+      "category": "Salon de tatouage et piercing",
+      "address": "9 Rue Verte, 78660 Prunay-en-Yvelines",
+      "rating": 5,
+      "reviewCount": 52
+    }
+  ],
+  "description": "D Derma BeautyPropose : Épilation laser fait partie des centres de détatouage laser à Rambouillet. Avec une note de 4.8/5 sur 141 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rambouillet.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:34:17.349Z"
+}

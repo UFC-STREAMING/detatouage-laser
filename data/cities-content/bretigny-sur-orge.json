@@ -1,0 +1,65 @@
+{
+  "slug": "bretigny-sur-orge",
+  "cityName": "Brétigny-sur-Orge",
+  "businessName": "Inkaholiks Brétigny",
+  "businesses": [
+    {
+      "name": "Inkaholiks Brétigny",
+      "category": "Salon de tatouage et piercing",
+      "address": "26 Rue du Bois de Châtres",
+      "rating": 4.8,
+      "reviewCount": 101
+    },
+    {
+      "name": "Infini Skin - Centre d’Épilation Laser à Brétigny",
+      "category": "Centre d'épilation laser",
+      "address": "29 Rue Danielle Casanova Bâtiment B1",
+      "rating": 5,
+      "reviewCount": 71
+    },
+    {
+      "name": "Em_Piercink",
+      "category": "Salon de piercing",
+      "address": "16 Rue du Général Leclerc",
+      "rating": 4.8,
+      "reviewCount": 184
+    },
+    {
+      "name": "Esthétik Corner",
+      "category": "Institut de beauté",
+      "address": "16 Rue du Général Leclerc",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Beauty Addict Bretigny",
+      "category": "Institut de beauté",
+      "address": "03 Rue Georges Charpak",
+      "rating": 4.9,
+      "reviewCount": 154
+    },
+    {
+      "name": "Laser Game Evolution Brétigny",
+      "category": "Centre de laser game",
+      "address": "3 rue du morvan, Av. de la Maison Neuve zac",
+      "rating": 4.8,
+      "reviewCount": null
+    }
+  ],
+  "description": "Inkaholiks Brétigny fait partie des centres de détatouage laser à Brétigny-sur-Orge. Avec une note de 4.8/5 sur 101 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Brétigny-sur-Orge.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:36:26.550Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "hyeres",
+  "cityName": "Hyères",
+  "businessName": "Dermo Skin Clinic",
+  "businesses": [
+    {
+      "name": "Dermo Skin Clinic",
+      "category": "Centre d'épilation laser",
+      "address": "2 Av. Olbius Riquier 3ème étage",
+      "rating": 4.8,
+      "reviewCount": 45
+    },
+    {
+      "name": "Carré Esthetic",
+      "category": "Clinique dermatologique",
+      "address": "12 Av. des Îles d'Or",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Dr alain Plault, médecine esthétique et laser sur Hyères près de Toulon",
+      "category": "Centre d'épilation laser",
+      "address": "les Jardins d'Hélios, 31 Rue Eugénie A1",
+      "rating": 4.9,
+      "reviewCount": 108
+    },
+    {
+      "name": "Inkoff - détatouage laser picoseconde Toulon",
+      "category": "Service de détatouage",
+      "address": "Toulon",
+      "rating": 4.9,
+      "reviewCount": 90
+    },
+    {
+      "name": "Epilation Définitive - DEPIL TECH HYÈRES",
+      "category": "Salon d'épilation",
+      "address": "1 Bis Rue du Soldat Bellon Antoine",
+      "rating": 4.7,
+      "reviewCount": 248
+    },
+    {
+      "name": "ATHÉNA AESTHÉ - Centre de Médecine Esthétique - Centre Laser - Dr MOLIMARD Catherine",
+      "category": "Médecin",
+      "address": "Cuers",
+      "rating": 5,
+      "reviewCount": 231
+    }
+  ],
+  "description": "Dermo Skin Clinic fait partie des centres de détatouage laser à Hyères. Avec une note de 4.8/5 sur 45 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Hyères.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:13:38.002Z"
+}

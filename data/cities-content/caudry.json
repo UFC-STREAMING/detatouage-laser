@@ -1,0 +1,65 @@
+{
+  "slug": "caudry",
+  "cityName": "Caudry",
+  "businessName": "Éclat d'ombres",
+  "businesses": [
+    {
+      "name": "Éclat d'ombres",
+      "category": "Salon de tatouage et piercing",
+      "address": "81 Bis Rue de Valenciennes, 59540 Caudry",
+      "rating": 4.8,
+      "reviewCount": 119
+    },
+    {
+      "name": "TED INFINITI ART",
+      "category": "Tatoueur",
+      "address": "123 Rue de Saint-Quentin, 59540 Caudry",
+      "rating": 4.7,
+      "reviewCount": 80
+    },
+    {
+      "name": "CherrySkins",
+      "category": "Salon de piercing",
+      "address": "81 bis Rue de Valenciennes, 59540 Caudry",
+      "rating": 5,
+      "reviewCount": 129
+    },
+    {
+      "name": "Tormh tattoo",
+      "category": "Tatoueur",
+      "address": "25 ter Rue Roger Salengro, 59540 Caudry",
+      "rating": 4.7,
+      "reviewCount": 17
+    },
+    {
+      "name": "Lucie Concept Beauté et FormationsPropose : Tatouage liner",
+      "category": "Institut de beauté",
+      "address": "36 Rue du Maréchal Leclerc, 59540 Caudry",
+      "rating": 4.9,
+      "reviewCount": 337
+    },
+    {
+      "name": "Cochese Tattoo",
+      "category": "Tatoueur",
+      "address": "112 Rue Aristide Briand, 59540 Caudry",
+      "rating": 4.1,
+      "reviewCount": 54
+    }
+  ],
+  "description": "Éclat d'ombres fait partie des centres de détatouage laser à Caudry. Avec une note de 4.8/5 sur 119 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Caudry.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:16:17.161Z"
+}

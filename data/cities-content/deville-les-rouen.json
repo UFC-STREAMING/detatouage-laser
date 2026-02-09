@@ -1,0 +1,31 @@
+{
+  "slug": "deville-les-rouen",
+  "cityName": "Déville-lès-Rouen",
+  "businessName": "Tur'koise Tatoo",
+  "businesses": [
+    {
+      "name": "Tur'koise Tatoo",
+      "category": "Tatoueur",
+      "address": "550 Rte de Dieppe, 76250 Déville-lès-Rouen",
+      "rating": 4.8,
+      "reviewCount": 173
+    },
+    {
+      "name": "Dermo room",
+      "category": "Institut de beauté",
+      "address": "544 Rte de Dieppe, 76250 Déville-lès-Rouen",
+      "rating": 5,
+      "reviewCount": 113
+    },
+    {
+      "name": "Tekayi Institut",
+      "category": "Institut de beauté",
+      "address": "201 Rte de Dieppe, 76250 Déville-lès-Rouen",
+      "rating": 4.7,
+      "reviewCount": 52
+    }
+  ],
+  "description": "Tur'koise Tatoo fait partie des centres de détatouage laser à Déville-lès-Rouen. Avec une note de 4.8/5 sur 173 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Déville-lès-Rouen.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:39:52.255Z"
+}

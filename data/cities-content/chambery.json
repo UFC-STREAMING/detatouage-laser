@@ -1,0 +1,31 @@
+{
+  "slug": "chambery",
+  "cityName": "Chambéry",
+  "businessName": "Centre laser CtrlZ - Chambéry",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Chambéry",
+      "category": "Centre d'épilation laser",
+      "address": "1 Pl. de la Libération",
+      "rating": 5,
+      "reviewCount": 42
+    },
+    {
+      "name": "Cabinet détatouage Chambéry Savoie",
+      "category": "Service de détatouage",
+      "address": "Barby",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "LE THEATRE",
+      "category": "Médecin",
+      "address": "18 Rue Croix d'Or",
+      "rating": 4.5,
+      "reviewCount": 94
+    }
+  ],
+  "description": "Centre laser CtrlZ - Chambéry fait partie des centres de détatouage laser à Chambéry. Avec une note de 5/5 sur 42 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chambéry.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:12:12.690Z"
+}

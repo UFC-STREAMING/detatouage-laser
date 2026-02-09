@@ -1,0 +1,44 @@
+{
+  "slug": "lys-lez-lannoy",
+  "cityName": "Lys-lez-Lannoy",
+  "businessName": "L'institut de Sarah",
+  "businesses": [
+    {
+      "name": "L'institut de Sarah",
+      "category": "Institut de beauté",
+      "address": "36 Rue du Fresnoy",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "DODO TATTOO ADDICT",
+      "category": "Tatoueur",
+      "address": "70 Rue Jules Guesde",
+      "rating": 4.3,
+      "reviewCount": 18
+    },
+    {
+      "name": "Skinclin",
+      "category": "Institut de beauté",
+      "address": "101 Rue Jules Guesde",
+      "rating": 5,
+      "reviewCount": 44
+    }
+  ],
+  "description": "L'institut de Sarah fait partie des centres de détatouage laser à Lys-lez-Lannoy. Avec une note de 5/5 sur 23 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lys-lez-Lannoy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est visible après une séance ?",
+      "answer": "Détatouage Après 1 Séance Dans la majorité des cas, on observe déjà un léger éclaircissement de la zone traitée. Le tatouage peut sembler fragmenté ou plus pâle, signe que l'encre commence à se décomposer sous l'effet du laser.15 avr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:15:16.188Z"
+}

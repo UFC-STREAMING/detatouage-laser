@@ -1,0 +1,31 @@
+{
+  "slug": "guyancourt",
+  "cityName": "Guyancourt",
+  "businessName": "laserostop montigny-le-bretonneux",
+  "businesses": [
+    {
+      "name": "laserostop montigny-le-bretonneux",
+      "category": "Clinique spécialisée",
+      "address": "5a Av. des Prés, 78180 Montigny-le-Bretonneux",
+      "rating": 4.8,
+      "reviewCount": 233
+    },
+    {
+      "name": "INA estheticPropose : Tatouage de cils",
+      "category": "Institut de beauté",
+      "address": "25 Rue Ambroise Croizat, 78280 Guyancourt",
+      "rating": 4.7,
+      "reviewCount": 116
+    },
+    {
+      "name": "Lady Blackwood Piercings",
+      "category": "Salon de piercing",
+      "address": "5 Av. des Prés B%C3%A2timent 5A - 4e étage, 78180 Montigny-le-Bretonneux",
+      "rating": 5,
+      "reviewCount": 213
+    }
+  ],
+  "description": "laserostop montigny-le-bretonneux fait partie des centres de détatouage laser à Guyancourt. Avec une note de 4.8/5 sur 233 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Guyancourt.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:32:30.136Z"
+}

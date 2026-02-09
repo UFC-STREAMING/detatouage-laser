@@ -1,0 +1,44 @@
+{
+  "slug": "villeneuve-saint-georges",
+  "cityName": "Villeneuve-Saint-Georges",
+  "businessName": "La maison du tatouage",
+  "businesses": [
+    {
+      "name": "La maison du tatouage",
+      "category": "Tatoueur",
+      "address": "30 Rue Thimonnier",
+      "rating": 5,
+      "reviewCount": 187
+    },
+    {
+      "name": "LaserOstop Villeneuve-Saint-Georges",
+      "category": "Praticien de médecine alternative",
+      "address": "21 Av. du Président Wilson",
+      "rating": 4.7,
+      "reviewCount": 71
+    },
+    {
+      "name": "WILLI TATTOO SHOP | Salon de Tatouage",
+      "category": "Tatoueur",
+      "address": "45 Rue Émile Zola",
+      "rating": 5,
+      "reviewCount": 28
+    }
+  ],
+  "description": "La maison du tatouage fait partie des centres de détatouage laser à Villeneuve-Saint-Georges. Avec une note de 5/5 sur 187 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeneuve-Saint-Georges.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:25:29.792Z"
+}

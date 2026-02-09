@@ -1,0 +1,65 @@
+{
+  "slug": "les-herbiers",
+  "cityName": "Les Herbiers",
+  "businessName": "L'encre de Marine",
+  "businesses": [
+    {
+      "name": "L'encre de Marine",
+      "category": "Tatoueur",
+      "address": "10 Rue de l'%C3%89glise, 85500 Les Herbiers",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Retro novae tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "24 Rue de Beaurepaire, 85500 Les Herbiers",
+      "rating": 4.8,
+      "reviewCount": 92
+    },
+    {
+      "name": "A FLEUR DE PEAU",
+      "category": "Esthéticien",
+      "address": "30 Rue de l'%C3%89glise, 85500 Les Herbiers",
+      "rating": 4.9,
+      "reviewCount": 30
+    },
+    {
+      "name": "KAHIKO tattoo",
+      "category": "Tatoueur",
+      "address": "21 bis Rue Neuve, 85500 Les Herbiers",
+      "rating": 5,
+      "reviewCount": 77
+    },
+    {
+      "name": "Angie Tattoo",
+      "category": "Tatoueur",
+      "address": "1 Rue de la Prise d'Eau, 85500 Les Herbiers",
+      "rating": 4.4,
+      "reviewCount": 127
+    },
+    {
+      "name": "Skinistry House",
+      "category": "Salon de tatouage et piercing",
+      "address": "2 Pl. de l'%C3%89glise, 85500 Mesnard-la-Barotière",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "L'encre de Marine fait partie des centres de détatouage laser à Les Herbiers. Avec une note de 5/5 sur 20 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Les Herbiers.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Les crèmes pour enlever les tatouages ​​sont-elles vraiment efficaces ?",
+      "answer": "Non, les crèmes d'effacement de tatouages \\u200b\\u200bsont inefficaces et peuvent même endommager gravement la peau. Ces crèmes prétendent estomper les tatouages, mais elles ne peuvent pas atteindre la couche de peau où l'encre est fixée. De plus, beaucoup contiennent des acides agressifs ou des allergènes susceptibles de provoquer des éruptions cutanées, des brûlures chimiques, des cicatrices permanentes ou un éclaircissement de la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:02:17.225Z"
+}

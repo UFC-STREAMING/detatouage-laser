@@ -1,0 +1,31 @@
+{
+  "slug": "laxou",
+  "cityName": "Laxou",
+  "businessName": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg",
+  "businesses": [
+    {
+      "name": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg",
+      "category": "Service de détatouage",
+      "address": "160a Rue Saint-Dizier, 54000 Nancy",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Centre laser CtrlZ - Nancy",
+      "category": "Service de détatouage",
+      "address": "9 Rue des Carmes, 54000 Nancy",
+      "rating": 4.8,
+      "reviewCount": 23
+    },
+    {
+      "name": "Calliopé Médecine Esthétique |Injection d'acide hyaluronique |Greffe Capillaire | Laser | Détatouage | Épilation | HIFU",
+      "category": "Service de détatouage",
+      "address": "160a Rue Saint-Dizier, 54000 Nancy",
+      "rating": 4.9,
+      "reviewCount": 91
+    }
+  ],
+  "description": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg fait partie des centres de détatouage laser à Laxou. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Laxou.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:10:30.420Z"
+}

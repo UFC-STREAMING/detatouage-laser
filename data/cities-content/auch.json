@@ -1,0 +1,44 @@
+{
+  "slug": "auch",
+  "cityName": "Auch",
+  "businessName": "Douce Douleur",
+  "businesses": [
+    {
+      "name": "Douce Douleur",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Rue du Pouy, 32000 Auch",
+      "rating": 5,
+      "reviewCount": 127
+    },
+    {
+      "name": "LEA LINDEMANN",
+      "category": "Centre d'épilation laser",
+      "address": "1 Pl. du 14 Juillet, 32000 Auch",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Clinique Vénus - Centre Médical Vasculaire et Esthétique - Dr Karima GUENOUN",
+      "category": "Centre d'épilation laser",
+      "address": "42 Rue du 8 Mai, 32000 Auch",
+      "rating": 4.5,
+      "reviewCount": 46
+    }
+  ],
+  "description": "Douce Douleur fait partie des centres de détatouage laser à Auch. Avec une note de 5/5 sur 127 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Auch.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:43:29.079Z"
+}

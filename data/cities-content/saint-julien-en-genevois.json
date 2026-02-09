@@ -1,0 +1,44 @@
+{
+  "slug": "saint-julien-en-genevois",
+  "cityName": "Saint-Julien-en-Genevois",
+  "businessName": "Skinity Institut | Épilation laser définitive & Peeling visage | Saint-Julien-en-Genevois",
+  "businesses": [
+    {
+      "name": "Skinity Institut | Épilation laser définitive & Peeling visage | Saint-Julien-en-Genevois",
+      "category": "Centre d'épilation laser",
+      "address": "1 Av. de Genève",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "TattooShop L-ink",
+      "category": "Tatoueur",
+      "address": "2 Bis Rue de la Font des Frères",
+      "rating": 4.9,
+      "reviewCount": 396
+    },
+    {
+      "name": "Glow up - Institut de beauté",
+      "category": "Institut de beauté",
+      "address": "7 Rue Amédée VIII de Savoie",
+      "rating": 4.9,
+      "reviewCount": 90
+    }
+  ],
+  "description": "Skinity Institut | Épilation laser définitive & Peeling visage | Saint-Julien-en-Genevois fait partie des centres de détatouage laser à Saint-Julien-en-Genevois. Avec une note de 5/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Julien-en-Genevois.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:03:37.837Z"
+}

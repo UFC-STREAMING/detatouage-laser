@@ -1,0 +1,44 @@
+{
+  "slug": "noisy-le-sec",
+  "cityName": "Noisy-le-Sec",
+  "businessName": "Myriam Lamriben Artist Piercer",
+  "businesses": [
+    {
+      "name": "Myriam Lamriben Artist Piercer",
+      "category": "Salon de tatouage et piercing",
+      "address": "44 Rue de la République, 93230 Romainville",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Ray studios Paris Opéra - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "41 Rue de Provence, 75009 Paris",
+      "rating": 4.7,
+      "reviewCount": 583
+    },
+    {
+      "name": "Ray studios Paris Marais - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "38 Rue au Maire, 75003 Paris",
+      "rating": 5,
+      "reviewCount": 103
+    }
+  ],
+  "description": "Myriam Lamriben Artist Piercer fait partie des centres de détatouage laser à Noisy-le-Sec. Avec une note de 5/5 sur 1 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Noisy-le-Sec.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:19:13.215Z"
+}

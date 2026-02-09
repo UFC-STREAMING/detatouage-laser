@@ -1,0 +1,65 @@
+{
+  "slug": "crepy-en-valois",
+  "cityName": "Crépy-en-Valois",
+  "businessName": "J REAL Studio",
+  "businesses": [
+    {
+      "name": "J REAL Studio",
+      "category": "Tatoueur",
+      "address": "37 Rue Thiers, 60800 Crépy-en-Valois",
+      "rating": 4.7,
+      "reviewCount": 233
+    },
+    {
+      "name": "Beauxmonts Crépy en Valois - Médecine esthétique et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rue des Fossés, 60800 Crépy-en-Valois",
+      "rating": 4.8,
+      "reviewCount": 15
+    },
+    {
+      "name": "SourcilFit",
+      "category": "Institut de beauté",
+      "address": "8B Rue Tassart, 60800 Crépy-en-Valois",
+      "rating": 4.9,
+      "reviewCount": 64
+    },
+    {
+      "name": "INDIAN QUEENPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "7 Pl. Georges Brassens, 60800 Crépy-en-Valois",
+      "rating": 4,
+      "reviewCount": 4
+    },
+    {
+      "name": "Eternal beauty by elo",
+      "category": "Salon de manucure",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Absolue Beauté",
+      "category": "Institut de beauté",
+      "address": "14 Rue Jeanne d'Arc, 60800 Crépy-en-Valois",
+      "rating": 4.6,
+      "reviewCount": 158
+    }
+  ],
+  "description": "J REAL Studio fait partie des centres de détatouage laser à Crépy-en-Valois. Avec une note de 4.7/5 sur 233 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Crépy-en-Valois.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:13:14.164Z"
+}

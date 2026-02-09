@@ -1,0 +1,52 @@
+{
+  "slug": "craponne",
+  "cityName": "Craponne",
+  "businessName": "Noir Sublime - Atelier de tatouage & Piercing",
+  "businesses": [
+    {
+      "name": "Noir Sublime - Atelier de tatouage & Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "86 Av. de l'An 2000, 69290 Craponne",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Juste de l'encre - salon de tatouage à Craponne près de Lyon",
+      "category": "Tatoueur",
+      "address": "73 bis Av. Edouard Millaud, 69290 Craponne",
+      "rating": 4.7,
+      "reviewCount": 117
+    },
+    {
+      "name": "Sodink - Tatouage à Craponne",
+      "category": "Tatoueur",
+      "address": "22 Ter Av. Jean Bergeron, 69290 Craponne",
+      "rating": 5,
+      "reviewCount": 129
+    },
+    {
+      "name": "Saphir Piercing",
+      "category": "Salon de piercing",
+      "address": "86 Av. de l'An 2000, 69290 Craponne",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "L 'Atelier des Sens",
+      "category": "Clinique de maquillage permanent",
+      "address": "1 Av. Edouard Millaud, 69290 Craponne",
+      "rating": 4.7,
+      "reviewCount": 35
+    },
+    {
+      "name": "The Beauty Room by CarolePropose : Tatouage lèvres",
+      "category": "Institut de beauté",
+      "address": "105 Av. Edouard Millaud, 69290 Craponne",
+      "rating": 4.9,
+      "reviewCount": 33
+    }
+  ],
+  "description": "Noir Sublime - Atelier de tatouage & Piercing fait partie des centres de détatouage laser à Craponne. Avec une note de 5/5 sur 14 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Craponne.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:28:33.724Z"
+}

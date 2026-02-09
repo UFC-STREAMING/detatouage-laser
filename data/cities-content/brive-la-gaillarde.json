@@ -1,0 +1,65 @@
+{
+  "slug": "brive-la-gaillarde",
+  "cityName": "Brive-la-Gaillarde",
+  "businessName": "Lazeo Brive-la-Gaillarde",
+  "businesses": [
+    {
+      "name": "Lazeo Brive-la-Gaillarde",
+      "category": "Centre d'épilation laser",
+      "address": "14 Rue Toulzac",
+      "rating": 4.7,
+      "reviewCount": 130
+    },
+    {
+      "name": "Docteur Sonia Labrousse - Médecine esthétique",
+      "category": "Médecin",
+      "address": "3 Av. Maréchal Foch",
+      "rating": 4.9,
+      "reviewCount": 45
+    },
+    {
+      "name": "Centre laser anti tabac BRIVE-LA-GAILLARDE (19) - LaserOstop : Arrêtez de fumer laser",
+      "category": "Centre médical",
+      "address": "27 BIS Av. Pasteur",
+      "rating": 4.6,
+      "reviewCount": 46
+    },
+    {
+      "name": "CLS Care (Brive-la-Gaillarde)",
+      "category": "Centre d'épilation laser",
+      "address": "Immeuble saint germain, rez de chaussée, 4 Bd Paul Painlevé",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Dr FEBLOT Alain",
+      "category": "Médecin",
+      "address": "Saint-Pantaléon-de-Larche",
+      "rating": 4.8,
+      "reviewCount": 192
+    },
+    {
+      "name": "Dr BOUVOT Catherine",
+      "category": "Médecin généraliste",
+      "address": "39 Av. Turgot",
+      "rating": 4.8,
+      "reviewCount": 12
+    }
+  ],
+  "description": "Lazeo Brive-la-Gaillarde fait partie des centres de détatouage laser à Brive-la-Gaillarde. Avec une note de 4.7/5 sur 130 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Brive-la-Gaillarde.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:17:47.839Z"
+}

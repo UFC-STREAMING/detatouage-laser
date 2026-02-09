@@ -1,0 +1,31 @@
+{
+  "slug": "eragny",
+  "cityName": "Éragny",
+  "businessName": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis",
+  "businesses": [
+    {
+      "name": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis",
+      "category": "Cabinet médical",
+      "address": "alcool, sucre, cannabis, Espace Carnot, 10 Rue Carnot, 95300 Pontoise",
+      "rating": 5,
+      "reviewCount": 337
+    },
+    {
+      "name": "LMCBeauty",
+      "category": "Institut de beauté",
+      "address": "Place du 8 mai, 249 Av. Roger Guichard, 95610 %C3%89ragny",
+      "rating": 4.9,
+      "reviewCount": 37
+    },
+    {
+      "name": "Centre Laser Clinique Claude Bernard",
+      "category": "Service de détatouage",
+      "address": "9 Av. Louis Armand, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 207
+    }
+  ],
+  "description": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis fait partie des centres de détatouage laser à Éragny. Avec une note de 5/5 sur 337 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Éragny.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:56:20.149Z"
+}

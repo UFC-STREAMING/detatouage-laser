@@ -1,0 +1,31 @@
+{
+  "slug": "hayange",
+  "cityName": "Hayange",
+  "businessName": "Myl Dermo",
+  "businesses": [
+    {
+      "name": "Myl Dermo",
+      "category": "Salon de tatouage et piercing",
+      "address": "35 Rue Saint-Théodore, 57700 Hayange",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "HAYANGELES Tattoo Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "A l'intérieur de la galerie Saint-Georges, 59 Rue Maréchal Foch, 57700 Hayange",
+      "rating": 4.9,
+      "reviewCount": 491
+    },
+    {
+      "name": "UNDERGROUND TATTOOPropose : Lettrage de tatouage personnalisé",
+      "category": "Tatoueur",
+      "address": "10 Rue Maréchal Foch, 57700 Hayange",
+      "rating": 4.8,
+      "reviewCount": 116
+    }
+  ],
+  "description": "Myl Dermo fait partie des centres de détatouage laser à Hayange. Avec une note de 5/5 sur 4 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Hayange.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:05:50.682Z"
+}

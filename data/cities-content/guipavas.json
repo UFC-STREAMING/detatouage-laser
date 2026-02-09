@@ -1,0 +1,31 @@
+{
+  "slug": "guipavas",
+  "cityName": "Guipavas",
+  "businessName": "Centre laser CtrlZ - Brest",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Brest",
+      "category": "Service de détatouage",
+      "address": "10 Rue Louis Blanc, 29200 Brest",
+      "rating": 5,
+      "reviewCount": 47
+    },
+    {
+      "name": "Reset Laser Brest - Arrêter de fumer 29",
+      "category": "Cabinet médical",
+      "address": "Maison de santé Brest, 155 Rue Gaby Carval, 29200 Brest",
+      "rating": 5,
+      "reviewCount": 48
+    },
+    {
+      "name": "MAXIMAX TATTOO",
+      "category": "Tatoueur",
+      "address": "2 Rue Saint-Thudon, 29490 Guipavas",
+      "rating": 5,
+      "reviewCount": 76
+    }
+  ],
+  "description": "Centre laser CtrlZ - Brest fait partie des centres de détatouage laser à Guipavas. Avec une note de 5/5 sur 47 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Guipavas.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:07:24.941Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "montataire",
+  "cityName": "Montataire",
+  "businessName": "Arrêter de Fumer centre Laser Anti-tabac 60 Creil",
+  "businesses": [
+    {
+      "name": "Arrêter de Fumer centre Laser Anti-tabac 60 Creil",
+      "category": "Cabinet médical",
+      "address": "Creil",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Bulle de Beauté 60",
+      "category": "Institut de beauté",
+      "address": "135 bis Rue Jean-Dominique Fauré",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Centre Médical Esthétique Laser Sublimissime",
+      "category": "Médecin",
+      "address": "Creil",
+      "rating": 4.9,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Arrêter de Fumer centre Laser Anti-tabac 60 Creil fait partie des centres de détatouage laser à Montataire. Avec une note de 5/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montataire.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:13:29.235Z"
+}

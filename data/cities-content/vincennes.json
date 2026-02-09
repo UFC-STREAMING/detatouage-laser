@@ -1,0 +1,31 @@
+{
+  "slug": "vincennes",
+  "cityName": "Vincennes",
+  "businessName": "Laserel Vincennes - Centre épilation laser et médecine esthétique",
+  "businesses": [
+    {
+      "name": "Laserel Vincennes - Centre épilation laser et médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue Lejemptel, 94300 Vincennes",
+      "rating": 4.7,
+      "reviewCount": 310
+    },
+    {
+      "name": "EYEDesigner - Vincennes Centre de formation & Salon de tatouage",
+      "category": "Centre de formation continue",
+      "address": "99 Rue Diderot, 94300 Vincennes",
+      "rating": 4.7,
+      "reviewCount": 13
+    },
+    {
+      "name": "Centre médical laser et esthétique - Dr Besma THOUMIE MISSAOUI",
+      "category": "Médecin",
+      "address": "2 Av. Antoine Quinson, 94300 Vincennes",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "Laserel Vincennes - Centre épilation laser et médecine esthétique fait partie des centres de détatouage laser à Vincennes. Avec une note de 4.7/5 sur 310 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vincennes.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:17:05.917Z"
+}

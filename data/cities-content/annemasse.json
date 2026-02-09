@@ -1,0 +1,44 @@
+{
+  "slug": "annemasse",
+  "cityName": "Annemasse",
+  "businessName": "Beaujour Annemasse",
+  "businesses": [
+    {
+      "name": "Beaujour Annemasse",
+      "category": "Centre d'épilation laser",
+      "address": "59 Av. de la Gare, 74100 Annemasse",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Lazeo Annemasse",
+      "category": "Centre d'épilation laser",
+      "address": "5 Rue de la Gare, 74100 Annemasse",
+      "rating": 3.9,
+      "reviewCount": 198
+    },
+    {
+      "name": "Crazy Needles",
+      "category": "Tatoueur",
+      "address": "18 Rue Léandre Vaillat, 74100 Annemasse",
+      "rating": 4.9,
+      "reviewCount": 143
+    }
+  ],
+  "description": "Beaujour Annemasse fait partie des centres de détatouage laser à Annemasse. Avec une note de 5/5 sur 3 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Annemasse.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:23:55.867Z"
+}

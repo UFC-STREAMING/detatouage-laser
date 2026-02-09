@@ -1,0 +1,65 @@
+{
+  "slug": "charenton-le-pont",
+  "cityName": "Charenton-le-Pont",
+  "businessName": "Laser Or - Centre d'épilation Laser définitif, Hydrafacial, Massages et Head Spa Charenton le Pont",
+  "businesses": [
+    {
+      "name": "Laser Or - Centre d'épilation Laser définitif, Hydrafacial, Massages et Head Spa Charenton le Pont",
+      "category": "Centre d'épilation laser",
+      "address": "Hydrafacial, Massages et Head Spa Charenton le Pont, 111 Rue de Paris, 94220 Charenton-le-Pont",
+      "rating": 4.9,
+      "reviewCount": 125
+    },
+    {
+      "name": "Laserel Charenton Le Pont - Centre d'épilation laser et de médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "148 Rue de Paris, 94220 Charenton-le-Pont",
+      "rating": 5,
+      "reviewCount": 90
+    },
+    {
+      "name": "Clinique de l'Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "95 Rue de Paris, 94220 Charenton-le-Pont",
+      "rating": 5,
+      "reviewCount": 77
+    },
+    {
+      "name": "Dr Magnier Christine, médecine esthétique et anti-âge 94",
+      "category": "Médecin",
+      "address": "médecine esthétique et anti-%C3%A2ge 94, 15 Rue Gabrielle, 94220 Charenton-le-Pont",
+      "rating": 4.5,
+      "reviewCount": 79
+    },
+    {
+      "name": "SKINIAL PARIS DETATOUAGE FORMATION CLIENTELE",
+      "category": "Centre de formation continue",
+      "address": "12 Rue Dugommier, 75012 Paris",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Détatouage sans laser",
+      "category": "Service de détatouage",
+      "address": "85 Rue de Picpus, 75012 Paris",
+      "rating": 1,
+      "reviewCount": 1
+    }
+  ],
+  "description": "Laser Or - Centre d'épilation Laser définitif, Hydrafacial, Massages et Head Spa Charenton le Pont fait partie des centres de détatouage laser à Charenton-le-Pont. Avec une note de 4.9/5 sur 125 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Charenton-le-Pont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:33:17.918Z"
+}

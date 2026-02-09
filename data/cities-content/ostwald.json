@@ -1,0 +1,44 @@
+{
+  "slug": "ostwald",
+  "cityName": "Ostwald",
+  "businessName": "Sublima Centre laser - Epilation Définitive - Médecine Esthétique Strasbourg",
+  "businesses": [
+    {
+      "name": "Sublima Centre laser - Epilation Définitive - Médecine Esthétique Strasbourg",
+      "category": "Service de détatouage",
+      "address": "1 Pt Rue de l'Industrie, 67118 Geispolsheim",
+      "rating": 5,
+      "reviewCount": 33
+    },
+    {
+      "name": "Asphalt Jungle",
+      "category": "Tatoueur",
+      "address": "22 Rue de Lingolsheim, 67540 Ostwald",
+      "rating": 4.9,
+      "reviewCount": 55
+    },
+    {
+      "name": "Laser Dermatologique Strasbourg Rhin",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Fran%C3%A7ois Epailly, 67100 Strasbourg",
+      "rating": 4.7,
+      "reviewCount": 430
+    }
+  ],
+  "description": "Sublima Centre laser - Epilation Définitive - Médecine Esthétique Strasbourg fait partie des centres de détatouage laser à Ostwald. Avec une note de 5/5 sur 33 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ostwald.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage à Strasbourg ?",
+      "answer": "Le prix de chaque séance est fonction directe de la surface et peut varier de 70 € à 200 € TTC, voire plus en cas de très grand tatouage."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:15:37.932Z"
+}

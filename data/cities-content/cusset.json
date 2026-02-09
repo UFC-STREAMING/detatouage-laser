@@ -1,0 +1,44 @@
+{
+  "slug": "cusset",
+  "cityName": "Cusset",
+  "businessName": "Dr Marion FEBVRE - Épilation Laser et Lasers Médicaux",
+  "businesses": [
+    {
+      "name": "Dr Marion FEBVRE - Épilation Laser et Lasers Médicaux",
+      "category": "Centre d'épilation laser",
+      "address": "40 Av. Gilbert Roux, 03300 Cusset",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Squirrel Tattoo",
+      "category": "Tatoueur",
+      "address": "18 Rue Saturnin Arloing, 03300 Cusset",
+      "rating": 4.9,
+      "reviewCount": 171
+    },
+    {
+      "name": "Maison Bateleur",
+      "category": "Salon de tatouage et piercing",
+      "address": "42 Rue Liandon, 03300 Cusset",
+      "rating": 5,
+      "reviewCount": 32
+    }
+  ],
+  "description": "Dr Marion FEBVRE - Épilation Laser et Lasers Médicaux fait partie des centres de détatouage laser à Cusset. Avec une note de 5/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cusset.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:18:58.325Z"
+}

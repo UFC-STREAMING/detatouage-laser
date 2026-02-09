@@ -1,0 +1,65 @@
+{
+  "slug": "villefranche-sur-saone",
+  "cityName": "Villefranche-sur-Saône",
+  "businessName": "Centre Laser Villefranche - Centre Esthétique et Lasers Médicaux",
+  "businesses": [
+    {
+      "name": "Centre Laser Villefranche - Centre Esthétique et Lasers Médicaux",
+      "category": "Centre d'épilation laser",
+      "address": "3 Av. Edouard Herriot B%C3%A2timent C, 69400 Limas",
+      "rating": 4.7,
+      "reviewCount": 103
+    },
+    {
+      "name": "Laserpol Centre d'Epilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "120 Anc. Rte de Beaujeu, 69400 Arnas",
+      "rating": 5,
+      "reviewCount": 123
+    },
+    {
+      "name": "Laser Game Evolution Villefranche sur Saône Blindtest Musical, Karaoké, bar, salle séminaire",
+      "category": "Centre de laser game",
+      "address": "Karaoké, bar, salle séminaire, 157 Rue des Chantiers du Beaujolais, 69400 Limas",
+      "rating": 4.7,
+      "reviewCount": 534
+    },
+    {
+      "name": "Dr Guillaume LASSERRE spécialiste en chirurgie et médecine esthétique",
+      "category": "Chirurgien plasticien",
+      "address": "90 Rue Auguste Aucour, 69400 Villefranche-sur-Sa%C3%B4ne",
+      "rating": 4.7,
+      "reviewCount": 100
+    },
+    {
+      "name": "Centre Stop Tabac Villefranche S/Saone - Sevrage laserOstop",
+      "category": "Naturopathe",
+      "address": "Centre d'affaires SCRIBES l%E2%80%99Eco-place, 413 Rue Philippe Héron Scribes, 69400 Villefranche-sur-Sa%C3%B4ne",
+      "rating": 4.8,
+      "reviewCount": 99
+    },
+    {
+      "name": "Epilation Définitive - DEPIL TECH VILLEFRANCHE SUR SAÔNE",
+      "category": "Salon d'épilation",
+      "address": "80 Pl. de la Gare, 69400 Villefranche-sur-Sa%C3%B4ne",
+      "rating": 4.7,
+      "reviewCount": 268
+    }
+  ],
+  "description": "Centre Laser Villefranche - Centre Esthétique et Lasers Médicaux fait partie des centres de détatouage laser à Villefranche-sur-Saône. Avec une note de 4.7/5 sur 103 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villefranche-sur-Saône.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:25:35.914Z"
+}

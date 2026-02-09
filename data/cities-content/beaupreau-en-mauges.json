@@ -1,0 +1,44 @@
+{
+  "slug": "beaupreau-en-mauges",
+  "cityName": "Beaupréau-en-Mauges",
+  "businessName": "Tattoo Ink 49",
+  "businesses": [
+    {
+      "name": "Tattoo Ink 49",
+      "category": "Tatoueur",
+      "address": "20 Rue des Mauges, 49600",
+      "rating": 4.3,
+      "reviewCount": 38
+    },
+    {
+      "name": "Make up Art’s",
+      "category": "Clinique de maquillage permanent",
+      "address": "16 Rue du Mal Foch, 49600 Beaupréau-en-Mauges",
+      "rating": 4.6,
+      "reviewCount": 39
+    },
+    {
+      "name": "Needles and Blood",
+      "category": "Tatoueur",
+      "address": "16 Rue du Mal Foch, 49600 Beaupréau-en-Mauges",
+      "rating": 4.7,
+      "reviewCount": 64
+    }
+  ],
+  "description": "Tattoo Ink 49 fait partie des centres de détatouage laser à Beaupréau-en-Mauges. Avec une note de 4.3/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Beaupréau-en-Mauges.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-il possible d'enlever complètement un tatouage ?",
+      "answer": "Qu'est-ce que le détatouage ? Le détatouage est un acte de médecine esthétique qui permet d'éliminer un tatouage de manière définitive. Cette technique vise à détruire le pigment artificiel grâce au laser. Il s'agit d'une intervention qui doit être réalisée par un médecin formé à la machine."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:40:43.639Z"
+}

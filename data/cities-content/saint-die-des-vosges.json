@@ -1,0 +1,65 @@
+{
+  "slug": "saint-die-des-vosges",
+  "cityName": "Saint-Dié-des-Vosges",
+  "businessName": "STUDIO VERDE | Épilation laser, Cryolipolyse et Pressothérapie | Saint-Dié-des-Vosges",
+  "businesses": [
+    {
+      "name": "STUDIO VERDE | Épilation laser, Cryolipolyse et Pressothérapie | Saint-Dié-des-Vosges",
+      "category": "Centre d'épilation laser",
+      "address": "Cryolipolyse et Pressothérapie %7C Saint-Dié-des-Vosges, 19 Rue des 3 Villes, 88100 Saint-Dié-des-Vosges",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Elo Sweet'Ink",
+      "category": "Tatoueur",
+      "address": "44 Rue de la Prairie, 88100 Saint-Dié-des-Vosges",
+      "rating": 5,
+      "reviewCount": 150
+    },
+    {
+      "name": "Le repère",
+      "category": "Salon de tatouage et piercing",
+      "address": "62 Rue de la Bolle, 88100 Saint-Dié-des-Vosges",
+      "rating": 4.9,
+      "reviewCount": 69
+    },
+    {
+      "name": "Shinink Nat",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Quai du Maréchal Leclerc, 88100 Saint-Dié-des-Vosges",
+      "rating": 5,
+      "reviewCount": 36
+    },
+    {
+      "name": "Les Deux Aiguilles",
+      "category": "Salon de tatouage et piercing",
+      "address": "20 Rue d'Alsace, 88100 Saint-Dié-des-Vosges",
+      "rating": 5,
+      "reviewCount": 304
+    },
+    {
+      "name": "SVELTEO CLINIC MINCEUR SAINT-DIE-DES-VOSGES",
+      "category": "Centre d'amincissement",
+      "address": "9 Rue du 12ème Régiment d'Artillerie, 88100 Saint-Dié-des-Vosges",
+      "rating": 4.8,
+      "reviewCount": 16
+    }
+  ],
+  "description": "STUDIO VERDE | Épilation laser, Cryolipolyse et Pressothérapie | Saint-Dié-des-Vosges fait partie des centres de détatouage laser à Saint-Dié-des-Vosges. Avec une note de 5/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Dié-des-Vosges.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:52:54.970Z"
+}

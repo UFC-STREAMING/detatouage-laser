@@ -1,0 +1,65 @@
+{
+  "slug": "echirolles",
+  "cityName": "Échirolles",
+  "businessName": "Centre laser CtrlZ - Grenoble",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Grenoble",
+      "category": "Service de détatouage",
+      "address": "Grenoble",
+      "rating": 4.9,
+      "reviewCount": 61
+    },
+    {
+      "name": "Lazeo Grenoble 2 Echirolles",
+      "category": "Centre d'épilation laser",
+      "address": "32 Rue de Comboire",
+      "rating": 4.7,
+      "reviewCount": 166
+    },
+    {
+      "name": "MY LASER CLINIC",
+      "category": "Centre médical",
+      "address": "Grenoble",
+      "rating": 4.6,
+      "reviewCount": 169
+    },
+    {
+      "name": "Tattoo shop Bouli-Style",
+      "category": "Tatoueur",
+      "address": "5 Rue d'Estienne d'Orves",
+      "rating": 4.9,
+      "reviewCount": 110
+    },
+    {
+      "name": "Head Spa By YS _ Head Spa Sensorielle Grenoble",
+      "category": "Spa",
+      "address": "39 Av. de Grugliasco",
+      "rating": 4.9,
+      "reviewCount": 291
+    },
+    {
+      "name": "Soley MistyTattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "13 Cr Jean Jaurès",
+      "rating": 5,
+      "reviewCount": 14
+    }
+  ],
+  "description": "Centre laser CtrlZ - Grenoble fait partie des centres de détatouage laser à Échirolles. Avec une note de 4.9/5 sur 61 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Échirolles.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte un détatouage sourcil ?",
+      "answer": "Une séance de détatouage laser pour les sourcils coûte entre 120 et 150 euros, en fonction du centre et de l'équipement utilisé. En moyenne, deux à 8 séances sont nécessaires pour obtenir un résultat satisfaisant, le centre propose des forfaits 3 séances souscrites + 1 séance offerte.15 nov. 2024"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:24:06.763Z"
+}

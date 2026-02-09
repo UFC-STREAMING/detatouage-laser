@@ -1,0 +1,52 @@
+{
+  "slug": "laval",
+  "cityName": "Laval",
+  "businessName": "La Clinique DC",
+  "businesses": [
+    {
+      "name": "La Clinique DC",
+      "category": "Service de détatouage",
+      "address": "205 Bd Curé-Labelle, Laval, Quebec H7L 2Z9, Canada",
+      "rating": 5,
+      "reviewCount": 529
+    },
+    {
+      "name": "Détatouage Renaissance",
+      "category": "Service de détatouage",
+      "address": "277 Bd Curé-Labelle, Rosemère, QC J7A 2H3, Canada",
+      "rating": 4.6,
+      "reviewCount": 18
+    },
+    {
+      "name": "Détatouage New Skin",
+      "category": "Service de détatouage",
+      "address": "13225 Bd Curé-Labelle %23504, Mirabel, Quebec J7J 2T3, Canada",
+      "rating": 4.9,
+      "reviewCount": 75
+    },
+    {
+      "name": "Clinique MG Phibrows MeriemPropose : Détatouage",
+      "category": "Spa médical",
+      "address": "4337 A. des Laurentides, Laval, QC H7L 6C4, Canada",
+      "rating": 4.9,
+      "reviewCount": 166
+    },
+    {
+      "name": "Clinique DermaMédiBeautéPropose : Détatouage Picosure Pro",
+      "category": "Spa médical",
+      "address": "1600 Bd Curé-Labelle Suite 310, Laval, QC H7V 2W2, Canada",
+      "rating": 5,
+      "reviewCount": 77
+    },
+    {
+      "name": "Clinique D EsthétiquePropose : Détatouage",
+      "category": "Spa médical",
+      "address": "1150 Bd de l'Avenir Bureau 320, Laval, QC H7N 6L2, Canada",
+      "rating": 5,
+      "reviewCount": 17
+    }
+  ],
+  "description": "La Clinique DC fait partie des centres de détatouage laser à Laval. Avec une note de 5/5 sur 529 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Laval.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:16:40.260Z"
+}

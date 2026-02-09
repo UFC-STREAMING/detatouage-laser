@@ -1,0 +1,31 @@
+{
+  "slug": "le-relecq-kerhuon",
+  "cityName": "Le Relecq-Kerhuon",
+  "businessName": "Sombre Éclat",
+  "businesses": [
+    {
+      "name": "Sombre Éclat",
+      "category": "Salon de tatouage et piercing",
+      "address": "9 Rue Brizeux, 29480 Le Relecq-Kerhuon",
+      "rating": 4.9,
+      "reviewCount": 66
+    },
+    {
+      "name": "Hill Valley Tattoo",
+      "category": "Tatoueur",
+      "address": "2 Rue Traonouez, 29480 Le Relecq-Kerhuon",
+      "rating": 4.9,
+      "reviewCount": 51
+    },
+    {
+      "name": "Médecine esthétique & lasers Moulin Blanc - Dr Valérie GOURHANNIC",
+      "category": "Centre d'épilation laser",
+      "address": "P%C3%B4le Santé, 2 Rue Louis Lichou, 29480 Le Relecq-Kerhuon",
+      "rating": 4.4,
+      "reviewCount": 28
+    }
+  ],
+  "description": "Sombre Éclat fait partie des centres de détatouage laser à Le Relecq-Kerhuon. Avec une note de 4.9/5 sur 66 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Relecq-Kerhuon.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:30:50.001Z"
+}

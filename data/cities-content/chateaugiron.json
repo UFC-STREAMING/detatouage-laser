@@ -1,0 +1,40 @@
+{
+  "slug": "chateaugiron",
+  "cityName": "Châteaugiron",
+  "businessName": "Tête de l'art - Tatouage et Piercing",
+  "businesses": [
+    {
+      "name": "Tête de l'art - Tatouage et Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "4 Rue Alexis Garnier",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "L'Aiguille Noire Tattoo Studio",
+      "category": "Tatoueur",
+      "address": "8 Rue d'Yaigne",
+      "rating": 5,
+      "reviewCount": 73
+    },
+    {
+      "name": "Le Salon des Sens",
+      "category": "Institut de beauté",
+      "address": "48 Rue de la Madeleine",
+      "rating": 4.9,
+      "reviewCount": 80
+    }
+  ],
+  "description": "Tête de l'art - Tatouage et Piercing fait partie des centres de détatouage laser à Châteaugiron. Avec une note de 5/5 sur 69 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Châteaugiron.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:39:38.969Z"
+}

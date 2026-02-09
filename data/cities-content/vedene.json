@@ -1,0 +1,52 @@
+{
+  "slug": "vedene",
+  "cityName": "Vedène",
+  "businessName": "Vitattoo",
+  "businesses": [
+    {
+      "name": "Vitattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "699 Av. Vidier, 84270 Vedène",
+      "rating": 5,
+      "reviewCount": 33
+    },
+    {
+      "name": "Black House Avignon",
+      "category": "Tatoueur",
+      "address": "17 bis Rue Frédéric Mistral, 84270 Vedène",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "Julien Dirtycool Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "54 Rue Frédéric Mistral, 84270 Vedène",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Laura V Studio",
+      "category": "Institut de beauté",
+      "address": "805 Chem. de Tayolle, 84270 Vedène",
+      "rating": 4.9,
+      "reviewCount": 58
+    },
+    {
+      "name": "SILILO TATTOO",
+      "category": "Tatoueur",
+      "address": "59 Rue Joliot Curie, 84270 Vedène",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Le Studio Tattoo d’Auré",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 68
+    }
+  ],
+  "description": "Vitattoo fait partie des centres de détatouage laser à Vedène. Avec une note de 5/5 sur 33 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vedène.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:30:15.134Z"
+}

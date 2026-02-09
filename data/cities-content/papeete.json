@@ -1,0 +1,31 @@
+{
+  "slug": "papeete",
+  "cityName": "Papeete",
+  "businessName": "Papeete tattoo center",
+  "businesses": [
+    {
+      "name": "Papeete tattoo center",
+      "category": "Tatoueur",
+      "address": "Papeete, Polynésie française",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Tagaloa Tattoo Tahiti",
+      "category": "Tatoueur",
+      "address": "11(bis Rue Paul Gauguin, Papeete 98714, Polynésie fran%C3%A7aise",
+      "rating": 5,
+      "reviewCount": 51
+    },
+    {
+      "name": "Mahana TATAU SHOP",
+      "category": "Salon de tatouage et piercing",
+      "address": "Papeete, Polynésie française",
+      "rating": 4.9,
+      "reviewCount": 54
+    }
+  ],
+  "description": "Papeete tattoo center fait partie des centres de détatouage laser à Papeete. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Papeete.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:36:30.969Z"
+}

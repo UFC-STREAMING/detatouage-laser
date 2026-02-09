@@ -1,0 +1,31 @@
+{
+  "slug": "les-pennes-mirabeau",
+  "cityName": "Les Pennes-Mirabeau",
+  "businessName": "American Tattoo and piercing",
+  "businesses": [
+    {
+      "name": "American Tattoo and piercing",
+      "category": "Salon de piercing",
+      "address": "12 Av. Victor Hugo",
+      "rating": 4.7,
+      "reviewCount": 220
+    },
+    {
+      "name": "Dermobeauty",
+      "category": "Institut de beauté",
+      "address": "116 Av. François Mitterrand",
+      "rating": 4.6,
+      "reviewCount": 94
+    },
+    {
+      "name": "Alien's tattoo (studio de tatouage)",
+      "category": "Tatoueur",
+      "address": "85 Chem. de Marthe, 13170 Les Pennes-Mirabeau",
+      "rating": 5,
+      "reviewCount": 17
+    }
+  ],
+  "description": "American Tattoo and piercing fait partie des centres de détatouage laser à Les Pennes-Mirabeau. Avec une note de 4.7/5 sur 220 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Les Pennes-Mirabeau.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:43:16.059Z"
+}

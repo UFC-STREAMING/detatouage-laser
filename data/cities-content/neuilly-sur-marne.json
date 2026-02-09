@@ -1,0 +1,65 @@
+{
+  "slug": "neuilly-sur-marne",
+  "cityName": "Neuilly-sur-Marne",
+  "businessName": "Laser Addicts",
+  "businesses": [
+    {
+      "name": "Laser Addicts",
+      "category": "Praticien de médecine alternative",
+      "address": "97 rue des frères lumières, 93330 Neuilly-sur-Marne",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "Inkperatrice - Tattoo Shop 93",
+      "category": "Service de détatouage",
+      "address": "67 Rue Théophile Gaubert, 93330 Neuilly-sur-Marne",
+      "rating": 4.8,
+      "reviewCount": 48
+    },
+    {
+      "name": "Dermoclinic Academy",
+      "category": "Centre de formation",
+      "address": "94 Rue Louis Ampère, 93330 Neuilly-sur-Marne",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Dermatelier",
+      "category": "Institut de beauté",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 45
+    },
+    {
+      "name": "LaDelicateTouch Laser Tabac et Addiction",
+      "category": "Praticien de médecine alternative",
+      "address": "Pl. du Chanoine Heroux, 93330 Neuilly-sur-Marne",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Centre Laselis Noisy-le-Grand - Médecine Esthétique - Epilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "155 Rue Pierre Brossolette, 93160 Noisy-le-Grand",
+      "rating": 4.9,
+      "reviewCount": 115
+    }
+  ],
+  "description": "Laser Addicts fait partie des centres de détatouage laser à Neuilly-sur-Marne. Avec une note de 5/5 sur 4 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Neuilly-sur-Marne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:22:33.403Z"
+}

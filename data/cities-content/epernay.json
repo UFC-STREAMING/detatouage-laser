@@ -1,0 +1,65 @@
+{
+  "slug": "epernay",
+  "cityName": "Épernay",
+  "businessName": "L'Atelier de Lou",
+  "businesses": [
+    {
+      "name": "L'Atelier de Lou",
+      "category": "Institut de beauté",
+      "address": "16 Pl. Auban Mo%C3%ABt, 51200 %C3%89pernay",
+      "rating": 5,
+      "reviewCount": 92
+    },
+    {
+      "name": "Sublim Tattoo",
+      "category": "Tatoueur",
+      "address": "9 Rue Saint-Thibault, 51200 %C3%89pernay",
+      "rating": 4.5,
+      "reviewCount": 144
+    },
+    {
+      "name": "LaserOstop Epernay/Dizy",
+      "category": "Centre de bien-être",
+      "address": "167 Av. du Général Leclerc, 51530 Dizy",
+      "rating": 4.9,
+      "reviewCount": 94
+    },
+    {
+      "name": "INSTITUT de beauté et bien-être DOUCE ÉVASION Centre Épilation Laser et Minceur Body Contouring",
+      "category": "Institut de beauté",
+      "address": "34 Rue Eugène Mercier, 51200 %C3%89pernay",
+      "rating": 4.9,
+      "reviewCount": 134
+    },
+    {
+      "name": "Bien-être et Nature",
+      "category": "Institut de beauté",
+      "address": "28 Rue de l'H%C3%B4pital Auban - Mo%C3%ABt, 51200 %C3%89pernay",
+      "rating": 4.8,
+      "reviewCount": 77
+    },
+    {
+      "name": "QIPAO",
+      "category": "Institut de beauté",
+      "address": "2 Rue du Paulmier, 51200 %C3%89pernay",
+      "rating": 4.3,
+      "reviewCount": 108
+    }
+  ],
+  "description": "L'Atelier de Lou fait partie des centres de détatouage laser à Épernay. Avec une note de 5/5 sur 92 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Épernay.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:44:13.530Z"
+}

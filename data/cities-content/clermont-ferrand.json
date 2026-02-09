@@ -1,0 +1,44 @@
+{
+  "slug": "clermont-ferrand",
+  "cityName": "Clermont-Ferrand",
+  "businessName": "Centre Laser Dermatologique MEDILASER",
+  "businesses": [
+    {
+      "name": "Centre Laser Dermatologique MEDILASER",
+      "category": "Centre d'épilation laser",
+      "address": "46 Pl. de Jaude 44, 63000 Clermont-Ferrand",
+      "rating": 2.8,
+      "reviewCount": 33
+    },
+    {
+      "name": "Dr Abdurrahman SULVAC, médecin esthétique et anti-âge à Clermont-Ferrand",
+      "category": "Centre d'épilation laser",
+      "address": "médecin esthétique et anti-%C3%A2ge à Clermont-Ferrand, 21 Rue de Sarliève, 63800 Cournon-d'Auvergne",
+      "rating": 4.8,
+      "reviewCount": 60
+    },
+    {
+      "name": "Anne Deschamps - Maquillage permanent, dermographie & épilation",
+      "category": "Service de détatouage",
+      "address": "dermographie %26 épilation, 27 Av. des %C3%89tats Unis, 63000 Clermont-Ferrand",
+      "rating": 5,
+      "reviewCount": 24
+    }
+  ],
+  "description": "Centre Laser Dermatologique MEDILASER fait partie des centres de détatouage laser à Clermont-Ferrand. Ce centre affiche une note de 2.8/5 pour ses prestations de détatouage. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Clermont-Ferrand.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:04:22.900Z"
+}

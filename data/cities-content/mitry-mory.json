@@ -1,0 +1,65 @@
+{
+  "slug": "mitry-mory",
+  "cityName": "Mitry-Mory",
+  "businessName": "MAELSO | Épilation Laser Soprano©️Hydrafacial©️ - Amincissement Indiba©️ | Mitry-Mory",
+  "businesses": [
+    {
+      "name": "MAELSO | Épilation Laser Soprano©️Hydrafacial©️ - Amincissement Indiba©️ | Mitry-Mory",
+      "category": "Centre d'épilation laser",
+      "address": "9 Av. Jean-Baptiste Clément, 77290 Mitry-Mory",
+      "rating": 5,
+      "reviewCount": 52
+    },
+    {
+      "name": "INKCUP - tattoo & piercings sur RDV",
+      "category": "Tatoueur",
+      "address": "sur RDV, Av. des Iris, 77290 Mitry-Mory",
+      "rating": 5,
+      "reviewCount": 131
+    },
+    {
+      "name": "Clara Dermo",
+      "category": "Clinique de maquillage permanent",
+      "address": "1 Rue Paul Gauguin, 77290 Mitry-Mory",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "BRIN DE DETENTE LASER MINCEUR PEELING",
+      "category": "Institut de beauté",
+      "address": "45 Rue de Villeparisis, 77290 Mitry-Mory",
+      "rating": 5,
+      "reviewCount": 55
+    },
+    {
+      "name": "Em_Pik | Pierceuse | Salon de Piercing",
+      "category": "Salon de piercing",
+      "address": "A 5min de la gare, 77410 Mitry le neuf",
+      "rating": 5,
+      "reviewCount": 381
+    },
+    {
+      "name": "Tatouage Mika",
+      "category": "Tatoueur",
+      "address": "20 Imp. du Ch%C3%A2teau d'Eau, 77290 Mitry-Mory",
+      "rating": 5,
+      "reviewCount": 25
+    }
+  ],
+  "description": "MAELSO | Épilation Laser Soprano©️Hydrafacial©️ - Amincissement Indiba©️ | Mitry-Mory fait partie des centres de détatouage laser à Mitry-Mory. Avec une note de 5/5 sur 52 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mitry-Mory.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:49:36.349Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "barentin",
+  "cityName": "Barentin",
+  "businessName": "Art Corps",
+  "businesses": [
+    {
+      "name": "Art Corps",
+      "category": "Salon de tatouage et piercing",
+      "address": "115 Av. de la Prte Océane, 76360 Barentin",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Studio Luméo | Épilation laser, soin visage et amincissement | Barentin",
+      "category": "Centre d'épilation laser",
+      "address": "Pôle de santé Santé Centre Commercial Mesnil Roux",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "BLACK & WHITE Johntattoo",
+      "category": "Tatoueur",
+      "address": "25 Rue Louis Leseigneur",
+      "rating": 4.8,
+      "reviewCount": 91
+    }
+  ],
+  "description": "Art Corps fait partie des centres de détatouage laser à Barentin. Avec une note de 5/5 sur 21 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Barentin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:29:35.322Z"
+}

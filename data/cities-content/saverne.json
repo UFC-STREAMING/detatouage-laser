@@ -1,0 +1,52 @@
+{
+  "slug": "saverne",
+  "cityName": "Saverne",
+  "businessName": "Atelier du Tatoueur - Tatouage Saverne",
+  "businesses": [
+    {
+      "name": "Atelier du Tatoueur - Tatouage Saverne",
+      "category": "Tatoueur",
+      "address": "3 Rue des %C3%89glises, 67700 Saverne",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "DEPILEO CLINIC LASER SAVERNE",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue de la Poste, 67700 Saverne",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "BodyArt by Marie",
+      "category": "Institut de beauté",
+      "address": "3 Quai du Ch%C3%A2teau, 67700 Saverne",
+      "rating": 4.8,
+      "reviewCount": 48
+    },
+    {
+      "name": "Blue Jeanne Tatouage",
+      "category": "Tatoueur",
+      "address": "24 Rue de Dettwiller, 67700 Saverne",
+      "rating": 5,
+      "reviewCount": 42
+    },
+    {
+      "name": "Dimension Ink Tattoo",
+      "category": "Tatoueur",
+      "address": "1 Rue du Griffon, 67700 Saverne",
+      "rating": 4.8,
+      "reviewCount": 52
+    },
+    {
+      "name": "Desperados tattoo",
+      "category": "Tatoueur",
+      "address": "17 Rue de la C%C3%B4t%D0%B5, 67700 Saverne",
+      "rating": 4.8,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Atelier du Tatoueur - Tatouage Saverne fait partie des centres de détatouage laser à Saverne. Avec une note de 5/5 sur 14 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saverne.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:33:40.044Z"
+}

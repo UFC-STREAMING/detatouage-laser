@@ -1,0 +1,52 @@
+{
+  "slug": "tassin-la-demi-lune",
+  "cityName": "Tassin-la-Demi-Lune",
+  "businessName": "Beaujour Lyon OUEST (ex CLMO)",
+  "businesses": [
+    {
+      "name": "Beaujour Lyon OUEST (ex CLMO)",
+      "category": "Centre d'épilation laser",
+      "address": "Espace Victor Hugo, 13 Av. Victor Hugo 2ème étage",
+      "rating": 4.6,
+      "reviewCount": 372
+    },
+    {
+      "name": "Centre Jennifer Glomaud - Tricopigmentation",
+      "category": "Clinique spécialisée",
+      "address": "13 Av. Victor Hugo",
+      "rating": 4.9,
+      "reviewCount": 121
+    },
+    {
+      "name": "Lazeo Tassin",
+      "category": "Centre d'épilation laser",
+      "address": "9 Rue des Maraîchers",
+      "rating": 4.9,
+      "reviewCount": 242
+    },
+    {
+      "name": "Docteur Eloïse Moreau - Médecine Esthétique - Tassin-la-demi-lune",
+      "category": "Médecin",
+      "address": "13 Av. Victor Hugo 2ème étage",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Epilation Définitive - DEPIL TECH TASSIN LA DEMI LUNE",
+      "category": "Salon d'épilation",
+      "address": "60 Av. Victor Hugo",
+      "rating": 4.4,
+      "reviewCount": 279
+    },
+    {
+      "name": "Ray studios Lyon - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Lyon",
+      "rating": 4.7,
+      "reviewCount": 123
+    }
+  ],
+  "description": "Beaujour Lyon OUEST (ex CLMO) fait partie des centres de détatouage laser à Tassin-la-Demi-Lune. Avec une note de 4.6/5 sur 372 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tassin-la-Demi-Lune.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:41:55.970Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "le-haillan",
+  "cityName": "Le Haillan",
+  "businessName": "Ray studios Bordeaux - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Peauésie - Détatouage & épilation laser Mérignac",
+      "category": "Service de détatouage",
+      "address": "9 Rue Pablo Picasso, 33700 Mérignac",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "DEMOS",
+      "category": "Service de détatouage",
+      "address": "11 Av. de Canteranne B%C3%A2timent Elnath, 33600 Pessac",
+      "rating": 4.1,
+      "reviewCount": 22
+    }
+  ],
+  "description": "Ray studios Bordeaux - centre de détatouage laser fait partie des centres de détatouage laser à Le Haillan. Avec une note de 5/5 sur 69 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Haillan.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:35:00.770Z"
+}

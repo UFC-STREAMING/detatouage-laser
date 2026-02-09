@@ -1,0 +1,44 @@
+{
+  "slug": "valenton",
+  "cityName": "Valenton",
+  "businessName": "JM ESTETIC Centre Médical Esthétique Et Laser",
+  "businesses": [
+    {
+      "name": "JM ESTETIC Centre Médical Esthétique Et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "53 Rue du Général Leclerc, 94000 Créteil",
+      "rating": 4.7,
+      "reviewCount": 99
+    },
+    {
+      "name": "Epilation Laser Créteil , centre laser , de cryolipolyse et de médecine esthétique du Dr Cohen Stéphane",
+      "category": "Centre d'épilation laser",
+      "address": "centre laser , de cryolipolyse et de médecine esthétique du Dr Cohen Stéphane, 62 Av. Fran%C3%A7ois Mitterrand, 94000 Créteil",
+      "rating": 4.8,
+      "reviewCount": 173
+    },
+    {
+      "name": "Laserel Charenton Le Pont - Centre d'épilation laser et de médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "148 Rue de Paris, 94220 Charenton-le-Pont",
+      "rating": 5,
+      "reviewCount": 90
+    }
+  ],
+  "description": "JM ESTETIC Centre Médical Esthétique Et Laser fait partie des centres de détatouage laser à Valenton. Avec une note de 4.7/5 sur 99 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Valenton.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment se faire rembourser un détatouage ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:12:43.489Z"
+}

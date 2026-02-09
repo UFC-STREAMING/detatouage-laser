@@ -1,0 +1,44 @@
+{
+  "slug": "lamballe-armor",
+  "cityName": "Lamballe-Armor",
+  "businessName": "Beauty Tattoo Shop",
+  "businesses": [
+    {
+      "name": "Beauty Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Rue du Grand Boulevard",
+      "rating": 4.8,
+      "reviewCount": 354
+    },
+    {
+      "name": "Breizh Tattoo Academy",
+      "category": "Salon de tatouage et piercing",
+      "address": "15 Rue des Averies",
+      "rating": 4.8,
+      "reviewCount": 69
+    },
+    {
+      "name": "Rose Poudrée",
+      "category": "Clinique de maquillage permanent",
+      "address": "1 Rue du Grand Boulevard",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Beauty Tattoo Shop fait partie des centres de détatouage laser à Lamballe-Armor. Avec une note de 4.8/5 sur 354 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lamballe-Armor.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:00:31.003Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "rognac",
+  "cityName": "Rognac",
+  "businessName": "Darkside Tattoo",
+  "businesses": [
+    {
+      "name": "Darkside Tattoo",
+      "category": "Tatoueur",
+      "address": "Le Corina, 39 Rue Gabriel Péri, 13340 Rognac",
+      "rating": 5,
+      "reviewCount": 56
+    },
+    {
+      "name": "Centre de Laser Stop Addiction",
+      "category": "Praticien de médecine alternative",
+      "address": "574 D113, 13340 Rognac",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Bushop Tattoo",
+      "category": "Tatoueur",
+      "address": "28 Bd Jean Jaurès, 13340 Rognac",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "La Maison Bleue - Tattoo",
+      "category": "Tatoueur",
+      "address": "Av. des Acacias, 13340 Rognac",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "ADERMOPRO",
+      "category": "Clinique de maquillage permanent",
+      "address": "22 Bd des Lilas, 13340 Rognac",
+      "rating": 5,
+      "reviewCount": 47
+    },
+    {
+      "name": "MTS Tattoo",
+      "category": "Tatoueur",
+      "address": "espace, RN 113, 13127 Vitrolles",
+      "rating": 5,
+      "reviewCount": 60
+    }
+  ],
+  "description": "Darkside Tattoo fait partie des centres de détatouage laser à Rognac. Avec une note de 5/5 sur 56 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rognac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le tarif d'un détatouage à Marseille ?",
+      "answer": "Détatouage Marseille Le coût d'un traitement de détatouage à Marseille dépend de plusieurs facteurs, tels que la taille et la complexité du tatouage. En général, le coût d'un traitement de détatouage peut varier de 90€ à plus de 290€ par séance.19 janv. 2026"
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:24:02.866Z"
+}

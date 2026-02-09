@@ -1,0 +1,52 @@
+{
+  "slug": "saint-cyr-sur-loire",
+  "cityName": "Saint-Cyr-sur-Loire",
+  "businessName": "Docteur Julien BESNARD - Médecine Générale et Détatouage Laser",
+  "businesses": [
+    {
+      "name": "Docteur Julien BESNARD - Médecine Générale et Détatouage Laser",
+      "category": "Médecin",
+      "address": "4 All. Joseph Jaunay, 37540 Saint-Cyr-sur-Loire",
+      "rating": 4.5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Scotty Ragondin Tattoo (Salon privé sur RDV)",
+      "category": "Tatoueur",
+      "address": "3 Quai de Saint-Cyr, 37540 Saint-Cyr-sur-Loire",
+      "rating": 5,
+      "reviewCount": 37
+    },
+    {
+      "name": "Dr Roba SAFAR, dermatologue et médecin esthétique, lasers",
+      "category": "Dermatologue",
+      "address": "dermatologue et médecin esthétique, lasers, 19 bis Rue de la Lignière, 37540 Saint-Cyr-sur-Loire",
+      "rating": 4.8,
+      "reviewCount": 60
+    },
+    {
+      "name": "La Cabine",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "82 Bd Charles de Gaulle, 37540 Saint-Cyr-sur-Loire",
+      "rating": 5,
+      "reviewCount": 34
+    },
+    {
+      "name": "Centre laser CtrlZ - Tours",
+      "category": "Centre d'épilation laser",
+      "address": "6 Bis Bd Béranger, 37000 Tours",
+      "rating": 5,
+      "reviewCount": 46
+    },
+    {
+      "name": "HOZHO TOURS Dermopigmentation correctriceTricopigmentation Plasmapen Microneedling",
+      "category": "Boutique de santé et beauté",
+      "address": "23 Rue du Dr Velpeau, 37540 Saint-Cyr-sur-Loire",
+      "rating": 5,
+      "reviewCount": 6
+    }
+  ],
+  "description": "Docteur Julien BESNARD - Médecine Générale et Détatouage Laser fait partie des centres de détatouage laser à Saint-Cyr-sur-Loire. Avec une note de 4.5/5 sur 15 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Cyr-sur-Loire.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:00:58.789Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "begles",
+  "cityName": "Bègles",
+  "businessName": "Ray studios Bordeaux - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "L’encréaliste, tricopigmentation / Bordeaux",
+      "category": "Service de remplacement capillaire",
+      "address": "tricopigmentation %2F Bordeaux, 6 Rua Antoine de St Exupéry, 33130 Bègles",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Free d’A…Propose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "558 Rte de Toulouse, 33140 Villenave-d'Ornon",
+      "rating": 5,
+      "reviewCount": 165
+    },
+    {
+      "name": "le dernier rituel",
+      "category": "Tatoueur",
+      "address": "Le dernier rituel, 166 Cr Victor Hugo, 33130 Bègles",
+      "rating": 4.9,
+      "reviewCount": 74
+    },
+    {
+      "name": "Tokyta.ttt",
+      "category": "Salon de tatouage et piercing",
+      "address": "69 Cr de la Somme, 33800 Bordeaux",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Cabinet LDS (Laser, Détatouage et Soins)",
+      "category": "Centre d'épilation laser",
+      "address": "Détatouage et Soins), 25 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.9,
+      "reviewCount": 55
+    }
+  ],
+  "description": "Ray studios Bordeaux - centre de détatouage laser fait partie des centres de détatouage laser à Bègles. Avec une note de 5/5 sur 69 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bègles.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:28:40.155Z"
+}

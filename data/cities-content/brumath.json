@@ -1,0 +1,52 @@
+{
+  "slug": "brumath",
+  "cityName": "Brumath",
+  "businessName": "L'encre Éternelle Studio de Tatouage",
+  "businesses": [
+    {
+      "name": "L'encre Éternelle Studio de Tatouage",
+      "category": "Tatoueur",
+      "address": "3B Rue Sandgarten",
+      "rating": 4.7,
+      "reviewCount": 53
+    },
+    {
+      "name": "DEPILEO CLINIC LASER BRUMATH",
+      "category": "Centre d'épilation laser",
+      "address": "5 Pl. de la Liberté",
+      "rating": 4.6,
+      "reviewCount": 21
+    },
+    {
+      "name": "Otakoo - Tatouage & Piercing (Fabien Tattoos)",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 Rue du Général Rampont, 67170 Brumath",
+      "rating": 5,
+      "reviewCount": 268
+    },
+    {
+      "name": "Blacknoak tattoo",
+      "category": "Tatoueur",
+      "address": "49a Rue des Remparts",
+      "rating": 5,
+      "reviewCount": 112
+    },
+    {
+      "name": "Novalya Médical & Esthétique",
+      "category": "Centre médical",
+      "address": "4a Rue des Carrières 1er étage",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "SVELTEO CLINIC MINCEUR BRUMATH",
+      "category": "Centre d'amincissement",
+      "address": "5 Pl. de la Liberté",
+      "rating": 4.9,
+      "reviewCount": 122
+    }
+  ],
+  "description": "L'encre Éternelle Studio de Tatouage fait partie des centres de détatouage laser à Brumath. Avec une note de 4.7/5 sur 53 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Brumath.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:43:33.728Z"
+}

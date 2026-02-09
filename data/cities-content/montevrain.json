@@ -1,0 +1,44 @@
+{
+  "slug": "montevrain",
+  "cityName": "Montévrain",
+  "businessName": "Centre essential Val d'Europe - chirurgie esthétique dermatologie laser épilatoire au Val d'Europe",
+  "businesses": [
+    {
+      "name": "Centre essential Val d'Europe - chirurgie esthétique dermatologie laser épilatoire au Val d'Europe",
+      "category": "Centre d'épilation laser",
+      "address": "24 Cr du Danube, 77700 Serris",
+      "rating": 4.7,
+      "reviewCount": 581
+    },
+    {
+      "name": "DERMALYSE",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "18 Rue de Berlin, 77144 Montévrain",
+      "rating": 4.8,
+      "reviewCount": 112
+    },
+    {
+      "name": "FLORESCENCE ESTHETIQUEMENT",
+      "category": "Service de détatouage",
+      "address": "Espaces Germinas, 1 Rue la Fontaine, 77400 Gouvernes",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Centre essential Val d'Europe - chirurgie esthétique dermatologie laser épilatoire au Val d'Europe fait partie des centres de détatouage laser à Montévrain. Avec une note de 4.7/5 sur 581 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montévrain.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:06:47.315Z"
+}

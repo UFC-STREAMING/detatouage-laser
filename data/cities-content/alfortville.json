@@ -1,0 +1,65 @@
+{
+  "slug": "alfortville",
+  "cityName": "Alfortville",
+  "businessName": "Glow Studio",
+  "businesses": [
+    {
+      "name": "Glow Studio",
+      "category": "Centre d'épilation laser",
+      "address": "4 Bd Carnot, 94140 Alfortville",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Black Carbon tattoo",
+      "category": "Tatoueur",
+      "address": "27 Rue Paul Vaillant Couturier, 94140 Alfortville",
+      "rating": 4.9,
+      "reviewCount": 585
+    },
+    {
+      "name": "Gaya Centre Laser Esthétique - Alfortville",
+      "category": "Centre d'épilation laser",
+      "address": "21 Rue Victor Hugo, 94140 Alfortville",
+      "rating": 4.8,
+      "reviewCount": 50
+    },
+    {
+      "name": "Tatouage bloodyline94",
+      "category": "Tatoueur",
+      "address": "3 Rue Véron, 94140 Alfortville",
+      "rating": 5,
+      "reviewCount": 26
+    },
+    {
+      "name": "LR esthétique",
+      "category": "Institut de beauté",
+      "address": "22 Rue Etienne Dolet, 94140 Alfortville",
+      "rating": 4.8,
+      "reviewCount": 82
+    },
+    {
+      "name": "JM ESTETIC Centre Médical Esthétique Et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "53 Rue du Général Leclerc, 94000 Créteil",
+      "rating": 4.7,
+      "reviewCount": 99
+    }
+  ],
+  "description": "Glow Studio fait partie des centres de détatouage laser à Alfortville. Avec une note de 5/5 sur 17 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Alfortville.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:19:05.302Z"
+}

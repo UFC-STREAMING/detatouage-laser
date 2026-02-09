@@ -1,0 +1,44 @@
+{
+  "slug": "cenon",
+  "cityName": "Cenon",
+  "businessName": "Cabinet LDS (Laser, Détatouage et Soins)",
+  "businesses": [
+    {
+      "name": "Cabinet LDS (Laser, Détatouage et Soins)",
+      "category": "Service de détatouage",
+      "address": "Détatouage et Soins), 25 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.9,
+      "reviewCount": 55
+    },
+    {
+      "name": "Cabinet Dr Marie Fabiani - Médecine esthétique et épilation laser",
+      "category": "Service de détatouage",
+      "address": "218 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.7,
+      "reviewCount": 248
+    },
+    {
+      "name": "Laserskin Cenon - Docteur RIPAULT Bruno",
+      "category": "Centre d'épilation laser",
+      "address": "2 Av. Georges Clemenceau, 33150 Cenon",
+      "rating": 4.3,
+      "reviewCount": 142
+    }
+  ],
+  "description": "Cabinet LDS (Laser, Détatouage et Soins) fait partie des centres de détatouage laser à Cenon. Avec une note de 4.9/5 sur 55 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cenon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:36:12.172Z"
+}

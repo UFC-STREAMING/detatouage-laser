@@ -1,0 +1,52 @@
+{
+  "slug": "cuers",
+  "cityName": "Cuers",
+  "businessName": "ATHÉNA AESTHÉ - Centre de Médecine Esthétique - Centre Laser - Dr MOLIMARD Catherine",
+  "businesses": [
+    {
+      "name": "ATHÉNA AESTHÉ - Centre de Médecine Esthétique - Centre Laser - Dr MOLIMARD Catherine",
+      "category": "Service de détatouage",
+      "address": "Le P%C3%B4le, 755 Av. Léon Amic Bat D, 83390 Cuers",
+      "rating": 5,
+      "reviewCount": 231
+    },
+    {
+      "name": "Microblading Dermopigmentation Maquillage Permanent Act'Derm Var",
+      "category": "Service de détatouage",
+      "address": "8 Av. du Lion, 83210 Solliès-Pont",
+      "rating": 5,
+      "reviewCount": 132
+    },
+    {
+      "name": "Cyssou tattoo",
+      "category": "Tatoueur",
+      "address": "15 Rue de l'%C3%89galité, 83390 Cuers",
+      "rating": 4.8,
+      "reviewCount": 30
+    },
+    {
+      "name": "Inkoff - détatouage laser picoseconde Toulon",
+      "category": "Service de détatouage",
+      "address": "42 Rue Paul Lendrin, 83000 Toulon",
+      "rating": 4.9,
+      "reviewCount": 90
+    },
+    {
+      "name": "Maison Delacroix Tatouage chez Jo",
+      "category": "Tatoueur",
+      "address": "29 Av. Maréchal Foch, 83390 Cuers",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Flosub ink tattoo",
+      "category": "Tatoueur",
+      "address": "Av. du Commandant Lofi, 83390 Cuers",
+      "rating": 5,
+      "reviewCount": 156
+    }
+  ],
+  "description": "ATHÉNA AESTHÉ - Centre de Médecine Esthétique - Centre Laser - Dr MOLIMARD Catherine fait partie des centres de détatouage laser à Cuers. Avec une note de 5/5 sur 231 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cuers.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:19:08.152Z"
+}

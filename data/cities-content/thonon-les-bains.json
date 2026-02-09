@@ -1,0 +1,52 @@
+{
+  "slug": "thonon-les-bains",
+  "cityName": "Thonon-les-Bains",
+  "businessName": "Lazeo Thonon-les-Bains",
+  "businesses": [
+    {
+      "name": "Lazeo Thonon-les-Bains",
+      "category": "Centre d'épilation laser",
+      "address": "19 Grande Rue",
+      "rating": 4.9,
+      "reviewCount": 66
+    },
+    {
+      "name": "She Glow",
+      "category": "Centre d'épilation laser",
+      "address": "2 Av. des Allinges",
+      "rating": 4.9,
+      "reviewCount": 32
+    },
+    {
+      "name": "Centre Stop Tabac - LaserOstop - Arrêter de fumer 74",
+      "category": "Cabinet médical",
+      "address": "97 Av. du Général de Gaulle",
+      "rating": 4.8,
+      "reviewCount": 330
+    },
+    {
+      "name": "Salon de Tatouage A Thonon - L'encre du Lac - Tattoo, Piercing, Maquillage semi Permanent",
+      "category": "Tatoueur",
+      "address": "21 Av. des Vallées",
+      "rating": 5,
+      "reviewCount": 81
+    },
+    {
+      "name": "L’institut by MK Beauté",
+      "category": "Clinique de maquillage permanent",
+      "address": "21 Chem. de Ronde",
+      "rating": 4.8,
+      "reviewCount": 112
+    },
+    {
+      "name": "Microblading maquillage permanent Thonon les bains Charlotte L encre du lac",
+      "category": "Clinique de maquillage permanent",
+      "address": "21bis Av. des Vallées",
+      "rating": 4.9,
+      "reviewCount": 68
+    }
+  ],
+  "description": "Lazeo Thonon-les-Bains fait partie des centres de détatouage laser à Thonon-les-Bains. Avec une note de 4.9/5 sur 66 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Thonon-les-Bains.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:23:42.737Z"
+}

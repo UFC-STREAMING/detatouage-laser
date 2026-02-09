@@ -1,0 +1,31 @@
+{
+  "slug": "genas",
+  "cityName": "Genas",
+  "businessName": "Head spa Aurélie ( New Eyes Lyon)",
+  "businesses": [
+    {
+      "name": "Head spa Aurélie ( New Eyes Lyon)",
+      "category": "Institut de beauté",
+      "address": "6 Pl. de la République, 69740 Genas",
+      "rating": 5,
+      "reviewCount": 38
+    },
+    {
+      "name": "MEDICALASER GENAS - INDEPENDANT DE PREVIDERM",
+      "category": "Centre d'épilation laser",
+      "address": "44 Rue de l'Avenir, 69740 Genas",
+      "rating": 2.7,
+      "reviewCount": 18
+    },
+    {
+      "name": "Darkk.swan.ink",
+      "category": "Tatoueur",
+      "address": "Rue des Bleuets, 69740 Genas",
+      "rating": 5,
+      "reviewCount": 22
+    }
+  ],
+  "description": "Head spa Aurélie ( New Eyes Lyon) fait partie des centres de détatouage laser à Genas. Avec une note de 5/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Genas.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:18:05.597Z"
+}

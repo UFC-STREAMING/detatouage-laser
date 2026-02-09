@@ -1,0 +1,31 @@
+{
+  "slug": "la-londe-les-maures",
+  "cityName": "La Londe-les-Maures",
+  "businessName": "Carmela Art Tattoo Maquillage PermanentPropose : Tatouage de sourcils",
+  "businesses": [
+    {
+      "name": "Carmela Art Tattoo Maquillage PermanentPropose : Tatouage de sourcils",
+      "category": "Clinique de maquillage permanent",
+      "address": "630 Rte du Caroubier, 83250 La Londe-les-Maures",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "axlookPropose : Détatouage sans laser",
+      "category": "Esthéticien",
+      "address": "24 Rue du Pont Blanc, 83250 La Londe-les-Maures",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Inkoff - détatouage laser picoseconde Toulon",
+      "category": "Service de détatouage",
+      "address": "42 Rue Paul Lendrin, 83000 Toulon",
+      "rating": 4.9,
+      "reviewCount": 90
+    }
+  ],
+  "description": "Carmela Art Tattoo Maquillage PermanentPropose : Tatouage de sourcils fait partie des centres de détatouage laser à La Londe-les-Maures. Avec une note de 5/5 sur 3 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Londe-les-Maures.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:42:27.934Z"
+}

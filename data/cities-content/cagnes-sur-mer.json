@@ -1,0 +1,65 @@
+{
+  "slug": "cagnes-sur-mer",
+  "cityName": "Cagnes-sur-Mer",
+  "businessName": "Centre 163 - Médecine esthétique et laserPropose : Détatouage",
+  "businesses": [
+    {
+      "name": "Centre 163 - Médecine esthétique et laserPropose : Détatouage",
+      "category": "Clinique dermatologique",
+      "address": "5 Av. Maréchal de Lattre de Tassigny, 06800 Cagnes-sur-Mer",
+      "rating": 4.2,
+      "reviewCount": 57
+    },
+    {
+      "name": "Dr. Simon Lamquin | Cabinet de médecine esthétiquePropose : Détatouage",
+      "category": "Cabinet médical",
+      "address": "5%2F7 Av. Maréchal de Lattre de Tassigny, 06800 Cagnes-sur-Mer",
+      "rating": 4.7,
+      "reviewCount": 114
+    },
+    {
+      "name": "NASS'INK STUDIO-MAQUILLAGE PERMANENT-CAGNES-SUR-MER",
+      "category": "Institut de beauté",
+      "address": "10 Av. de Verdun, 06800 Cagnes-sur-Mer",
+      "rating": 5,
+      "reviewCount": 197
+    },
+    {
+      "name": "Ink Intention",
+      "category": "Tatoueur",
+      "address": "16 Bd Maréchal Juin, 06800 Cagnes-sur-Mer",
+      "rating": 4.8,
+      "reviewCount": 148
+    },
+    {
+      "name": "Lazeo Cagnes-sur-Mer",
+      "category": "Centre d'épilation laser",
+      "address": "107 Av. de la Santoline, 06800 Cagnes-sur-Mer",
+      "rating": 4.7,
+      "reviewCount": 245
+    },
+    {
+      "name": "KAROU TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "24 BIS Av. Auguste Renoir, 06800 Cagnes-sur-Mer",
+      "rating": 4.9,
+      "reviewCount": 220
+    }
+  ],
+  "description": "Centre 163 - Médecine esthétique et laserPropose : Détatouage fait partie des centres de détatouage laser à Cagnes-sur-Mer. Avec une note de 4.2/5 sur 57 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cagnes-sur-Mer.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:15:16.720Z"
+}

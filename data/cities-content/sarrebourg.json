@@ -1,0 +1,44 @@
+{
+  "slug": "sarrebourg",
+  "cityName": "Sarrebourg",
+  "businessName": "Tatérapi Laser SARREBOURG | Réflexologie auriculaire | Arrêt Tabac - Perte de poids - Stress",
+  "businesses": [
+    {
+      "name": "Tatérapi Laser SARREBOURG | Réflexologie auriculaire | Arrêt Tabac - Perte de poids - Stress",
+      "category": "Centre de bien-être",
+      "address": "23 Av. Gambetta",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "DREMOVAL",
+      "category": "Siège social",
+      "address": "8 Av. Clemenceau, 57400 Sarrebourg",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Institut L’art de la beauté by Leïla",
+      "category": "Institut de beauté",
+      "address": "8 Av. de France",
+      "rating": 5,
+      "reviewCount": 52
+    }
+  ],
+  "description": "Tatérapi Laser SARREBOURG | Réflexologie auriculaire | Arrêt Tabac - Perte de poids - Stress fait partie des centres de détatouage laser à Sarrebourg. Avec une note de 5/5 sur 23 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sarrebourg.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:27:55.389Z"
+}

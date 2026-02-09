@@ -1,0 +1,31 @@
+{
+  "slug": "charvieu-chavagneux",
+  "cityName": "Charvieu-Chavagneux",
+  "businessName": "Atrium Tattoo",
+  "businesses": [
+    {
+      "name": "Atrium Tattoo",
+      "category": "Tatoueur",
+      "address": "12 Rue Wagram",
+      "rating": 5,
+      "reviewCount": 145
+    },
+    {
+      "name": "Mario tattoo",
+      "category": "Tatoueur",
+      "address": "3 Rue des Mûriers",
+      "rating": 4.6,
+      "reviewCount": 29
+    },
+    {
+      "name": "Home beauty by caro",
+      "category": "Esthéticien",
+      "address": "COMPLEXE HALL 22, 200 Av. de Bretagne",
+      "rating": 5,
+      "reviewCount": 32
+    }
+  ],
+  "description": "Atrium Tattoo fait partie des centres de détatouage laser à Charvieu-Chavagneux. Avec une note de 5/5 sur 145 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Charvieu-Chavagneux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:42:49.792Z"
+}

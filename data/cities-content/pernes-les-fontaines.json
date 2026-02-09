@@ -1,0 +1,44 @@
+{
+  "slug": "pernes-les-fontaines",
+  "cityName": "Pernes-les-Fontaines",
+  "businessName": "Redemption Tattoo",
+  "businesses": [
+    {
+      "name": "Redemption Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "49 Cr de la République",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "Mastilo Tattoo",
+      "category": "Tatoueur",
+      "address": "72 Av. Perle du Comtat",
+      "rating": 5,
+      "reviewCount": 94
+    },
+    {
+      "name": "Redemption Piercing",
+      "category": "Salon de piercing",
+      "address": "49 Cr de la République",
+      "rating": 5,
+      "reviewCount": 16
+    }
+  ],
+  "description": "Redemption Tattoo fait partie des centres de détatouage laser à Pernes-les-Fontaines. Avec une note de 5/5 sur 39 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pernes-les-Fontaines.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quel tatouage pour 150 € ?",
+      "answer": "Prix tatouage en salon : sortie d'aiguille et tarif horaireTaille / type de tatouagePrix indicatif (France)Petit tatouage (ex. symbole discret, 2–5 cm)≈ 70 – 150 € (Inkland Tattoo)Tatouage moyen (ex. avant-bras, mollet, motif plus travaillé)≈ 150 – 500 € (Inkland Tattoo)1 autre ligne•1 déc. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:43:14.197Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "sarreguemines",
+  "cityName": "Sarreguemines",
+  "businessName": "MEDECINE ESTHETIQUE (MORPHOLOGIE ET ANTI AGE) EPILATION LASER-MESOTHERAPIE-INJECTIONS ACIDE HYALURONIQUE PEELINGS DR GALICHET",
+  "businesses": [
+    {
+      "name": "MEDECINE ESTHETIQUE (MORPHOLOGIE ET ANTI AGE) EPILATION LASER-MESOTHERAPIE-INJECTIONS ACIDE HYALURONIQUE PEELINGS DR GALICHET",
+      "category": "Centre d'épilation laser",
+      "address": "20 Rue nationale Centre Elysée 3 eme etage, 57200 Sarreguemines en Moselle",
+      "rating": 4.9,
+      "reviewCount": 449
+    },
+    {
+      "name": "Dr Matusiak Corinne",
+      "category": "Cabinet médical",
+      "address": "301 Rue de la Montagne, 57200 Sarreguemines",
+      "rating": 4.8,
+      "reviewCount": 37
+    },
+    {
+      "name": "Dépiléo Épilation Laser Sarreguemines",
+      "category": "Centre d'épilation laser",
+      "address": "17 Rue nationale, 57200 Sarreguemines",
+      "rating": 4.5,
+      "reviewCount": 45
+    },
+    {
+      "name": "Institut Ar'tribal",
+      "category": "Tatoueur",
+      "address": "12 Pl. du Marché, 57200 Sarreguemines",
+      "rating": 4.6,
+      "reviewCount": 34
+    },
+    {
+      "name": "Real Pigmentation",
+      "category": "Clinique de maquillage permanent",
+      "address": "22 Rue Sainte-Barbe, 57200 Sarreguemines",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Les Loges De La Beauté",
+      "category": "Institut de beauté",
+      "address": "9 Rue Charles Utzschneider, 57200 Sarreguemines",
+      "rating": 5,
+      "reviewCount": 53
+    }
+  ],
+  "description": "MEDECINE ESTHETIQUE (MORPHOLOGIE ET ANTI AGE) EPILATION LASER-MESOTHERAPIE-INJECTIONS ACIDE HYALURONIQUE PEELINGS DR GALICHET fait partie des centres de détatouage laser à Sarreguemines. Avec une note de 4.9/5 sur 449 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sarreguemines.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:50:20.545Z"
+}

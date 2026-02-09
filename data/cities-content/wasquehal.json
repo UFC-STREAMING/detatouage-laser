@@ -1,0 +1,65 @@
+{
+  "slug": "wasquehal",
+  "cityName": "Wasquehal",
+  "businessName": "The Black Club Wasquehal",
+  "businesses": [
+    {
+      "name": "The Black Club Wasquehal",
+      "category": "Tatoueur",
+      "address": "40 Rue de Lille, 59290 Wasquehal",
+      "rating": 5,
+      "reviewCount": 77
+    },
+    {
+      "name": "Clinique Clemenceau",
+      "category": "Service de détatouage",
+      "address": "179b Bd Clemenceau, 59700 Marcq-en-Bar%C5%93ul",
+      "rating": 4.8,
+      "reviewCount": 4
+    },
+    {
+      "name": "Clinique Confidence - Epilation laser - Détatouage laser - Médecine esthétique - Orthodontie Invisalign Lille",
+      "category": "Service de détatouage",
+      "address": "278 Bd Clemenceau, 59700 Marcq-en-Bar%C5%93ul",
+      "rating": 5,
+      "reviewCount": 260
+    },
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "Lumine Tattoo Studio",
+      "category": "Tatoueur",
+      "address": "9 Rue Francisco Ferrer, 59290 Wasquehal",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Dr Natalia BRANCZKO - Médecine esthétique, épilation laser, détatouage",
+      "category": "Médecin",
+      "address": "épilation laser, détatouage, 278 Bd Clemenceau, 59700 Marcq-en-Bar%C5%93ul",
+      "rating": 5,
+      "reviewCount": 5
+    }
+  ],
+  "description": "The Black Club Wasquehal fait partie des centres de détatouage laser à Wasquehal. Avec une note de 5/5 sur 77 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Wasquehal.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte un détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:48:16.819Z"
+}

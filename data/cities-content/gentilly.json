@@ -1,0 +1,31 @@
+{
+  "slug": "gentilly",
+  "cityName": "Gentilly",
+  "businessName": "Centre Laser Détatouage et Esthétique Le Marais",
+  "businesses": [
+    {
+      "name": "Centre Laser Détatouage et Esthétique Le Marais",
+      "category": "Service de détatouage",
+      "address": "20 R. du Renard, 75004 Paris",
+      "rating": 4.4,
+      "reviewCount": 51
+    },
+    {
+      "name": "Ray studios Paris Marais - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "38 Rue au Maire, 75003 Paris",
+      "rating": 5,
+      "reviewCount": 103
+    },
+    {
+      "name": "New life beauty center",
+      "category": "Institut de beauté",
+      "address": "5 Pl. de la Victoire du 8 Mai 1945, 94250 Gentilly",
+      "rating": 3.9,
+      "reviewCount": 41
+    }
+  ],
+  "description": "Centre Laser Détatouage et Esthétique Le Marais fait partie des centres de détatouage laser à Gentilly. Avec une note de 4.4/5 sur 51 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gentilly.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:51:09.700Z"
+}

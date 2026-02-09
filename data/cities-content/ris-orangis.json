@@ -1,0 +1,44 @@
+{
+  "slug": "ris-orangis",
+  "cityName": "Ris-Orangis",
+  "businessName": "DARKSEID STUDIO TATTOO",
+  "businesses": [
+    {
+      "name": "DARKSEID STUDIO TATTOO",
+      "category": "Tatoueur",
+      "address": "83 Rte de Grigny",
+      "rating": 4.9,
+      "reviewCount": 202
+    },
+    {
+      "name": "Harmonie by Alicia",
+      "category": "Centre de bien-être",
+      "address": "25 Rue Albert Rémy",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "IMBeauty",
+      "category": "Institut de beauté",
+      "address": "11B Rue de Bourgogne",
+      "rating": 5,
+      "reviewCount": 82
+    }
+  ],
+  "description": "DARKSEID STUDIO TATTOO fait partie des centres de détatouage laser à Ris-Orangis. Avec une note de 4.9/5 sur 202 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ris-Orangis.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:29:42.104Z"
+}

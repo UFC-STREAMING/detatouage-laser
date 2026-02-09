@@ -1,0 +1,44 @@
+{
+  "slug": "mantes-la-jolie",
+  "cityName": "Mantes-la-Jolie",
+  "businessName": "Lazeo Mantes-la-jolie",
+  "businesses": [
+    {
+      "name": "Lazeo Mantes-la-jolie",
+      "category": "Centre d'épilation laser",
+      "address": "33 Rue Prte aux Saints",
+      "rating": 4.9,
+      "reviewCount": 225
+    },
+    {
+      "name": "CENTRE LASER DU MANTOIS",
+      "category": "Centre d'épilation laser",
+      "address": "Buchelay",
+      "rating": 4.5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Derma'clinic",
+      "category": "Institut de beauté",
+      "address": "Buchelay",
+      "rating": 4.7,
+      "reviewCount": 26
+    }
+  ],
+  "description": "Lazeo Mantes-la-jolie fait partie des centres de détatouage laser à Mantes-la-Jolie. Avec une note de 4.9/5 sur 225 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mantes-la-Jolie.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:20:06.001Z"
+}

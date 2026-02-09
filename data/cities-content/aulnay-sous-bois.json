@@ -1,0 +1,65 @@
+{
+  "slug": "aulnay-sous-bois",
+  "cityName": "Aulnay-sous-Bois",
+  "businessName": "Maelis Centre Laser Aulnay-sous-Bois / Le Blanc-Mesnil - Épilation laser / définitive",
+  "businesses": [
+    {
+      "name": "Maelis Centre Laser Aulnay-sous-Bois / Le Blanc-Mesnil - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "101 Av. Anatole France, 93600 Aulnay-sous-Bois",
+      "rating": 4.9,
+      "reviewCount": 711
+    },
+    {
+      "name": "Docteur Amar AMRANE- Aulnay Anti-âge, laser, injections acide hyaluronique",
+      "category": "Médecin",
+      "address": "laser, injections acide hyaluronique, 05 Rue Gilbert Gatouillat, 93600 Aulnay-sous-Bois",
+      "rating": 4.9,
+      "reviewCount": 220
+    },
+    {
+      "name": "CMPL - Esthétique & Laser",
+      "category": "Centre d'épilation laser",
+      "address": "21 bis Av. Paul Langevin, 93600 Aulnay-sous-Bois",
+      "rating": 4.7,
+      "reviewCount": 262
+    },
+    {
+      "name": "Lazeo Aulnay-Sous-Bois",
+      "category": "Centre d'épilation laser",
+      "address": "32 Rte de Bondy, 93600 Aulnay-sous-Bois",
+      "rating": 4.8,
+      "reviewCount": 279
+    },
+    {
+      "name": "Docteur Perrod Aurélien - Injection acide hyaluronique Fils tenseur & greffe capillairePropose : Épilation laser",
+      "category": "Médecin",
+      "address": "21 bis Av. Paul Langevin, 93600 Aulnay-sous-Bois",
+      "rating": 4.8,
+      "reviewCount": 151
+    },
+    {
+      "name": "Body industry Aulnay Sous Bois 93 - Epilation Laser / Definitive - Cryolipolyse",
+      "category": "Centre d'épilation laser",
+      "address": "1 Pl. du Général Leclerc, 93600 Aulnay-sous-Bois",
+      "rating": 4.9,
+      "reviewCount": null
+    }
+  ],
+  "description": "Maelis Centre Laser Aulnay-sous-Bois / Le Blanc-Mesnil - Épilation laser / définitive fait partie des centres de détatouage laser à Aulnay-sous-Bois. Avec une note de 4.9/5 sur 711 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aulnay-sous-Bois.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:07:30.621Z"
+}

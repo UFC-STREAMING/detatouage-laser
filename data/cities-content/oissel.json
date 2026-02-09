@@ -1,0 +1,44 @@
+{
+  "slug": "oissel",
+  "cityName": "Oissel",
+  "businessName": "Azraelle Factor’Ink",
+  "businesses": [
+    {
+      "name": "Azraelle Factor’Ink",
+      "category": "Tatoueur",
+      "address": "5 Rue Victor Malo, 76350 Oissel-sur-Seine",
+      "rating": 4.6,
+      "reviewCount": 170
+    },
+    {
+      "name": "Adele Art Tattoo",
+      "category": "Tatoueur",
+      "address": "9 Av. de la Fraternité, 76350 Oissel-sur-Seine",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Dr Chiraz SFAR | Médecine Esthétique | Mésothérapie | Lasers médicaux | Injections",
+      "category": "Centre d'épilation laser",
+      "address": "3 Rue Parc en Seine, 76410 Tourville-la-Rivière",
+      "rating": 4.3,
+      "reviewCount": 30
+    }
+  ],
+  "description": "Azraelle Factor’Ink fait partie des centres de détatouage laser à Oissel. Avec une note de 4.6/5 sur 170 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Oissel.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Enlever tatouage sel et citron ?",
+      "answer": "Les méthodes maison, comme l'utilisation de citron, sel, vinaigre ou crèmes, sont inefficaces et dangereuses. Elles peuvent causer des cicatrices, des infections, et ne parviennent généralement pas à enlever l'encre profondément ancrée dans la peau. Il est préférable de consulter un dermatologue laseriste.9 sept. 2024"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €. Le Laser ND-Yag : Ce laser convient à tous les types de peau. Il est utilisé pour effacer divers tatouages et corriger certaines imperfections cutanées, sans endommager la peau ni laisser beaucoup de cicatrices."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:25:41.341Z"
+}

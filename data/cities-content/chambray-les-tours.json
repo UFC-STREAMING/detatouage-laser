@@ -1,0 +1,31 @@
+{
+  "slug": "chambray-les-tours",
+  "cityName": "Chambray-lès-Tours",
+  "businessName": "Mary Heveas Dermo",
+  "businesses": [
+    {
+      "name": "Mary Heveas Dermo",
+      "category": "Institut de beauté",
+      "address": "14 Av. de Bordeaux, 37170 Chambray-lès-Tours",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Centre Laser Vallée Violette",
+      "category": "Service de détatouage",
+      "address": "45 Rue de Chenonceaux, 37300 Joué-lès-Tours",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "Dermopeel",
+      "category": "Institut de beauté",
+      "address": "71 Av. de la République B%C3%A2timent D, 37170 Chambray-lès-Tours",
+      "rating": 5,
+      "reviewCount": 47
+    }
+  ],
+  "description": "Mary Heveas Dermo fait partie des centres de détatouage laser à Chambray-lès-Tours. Avec une note de 5/5 sur 3 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chambray-lès-Tours.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:22:55.895Z"
+}

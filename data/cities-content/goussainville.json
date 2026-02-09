@@ -1,0 +1,31 @@
+{
+  "slug": "goussainville",
+  "cityName": "Goussainville",
+  "businessName": "Freire frade Victorine - Le studio d'una stellaPropose : Tatouage de sourcils",
+  "businesses": [
+    {
+      "name": "Freire frade Victorine - Le studio d'una stellaPropose : Tatouage de sourcils",
+      "category": "Clinique de maquillage permanent",
+      "address": "3 bis Rue du Pont, 95190 Goussainville",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Zeyna laser",
+      "category": "Centre d'épilation laser",
+      "address": "3 Rue Camélinat, 95190 Goussainville",
+      "rating": 5,
+      "reviewCount": 49
+    },
+    {
+      "name": "Maison Minaya | Épilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue des Rossignols, 95190 Goussainville",
+      "rating": 4.9,
+      "reviewCount": 144
+    }
+  ],
+  "description": "Freire frade Victorine - Le studio d'una stellaPropose : Tatouage de sourcils fait partie des centres de détatouage laser à Goussainville. Avec une note de 5/5 sur 18 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Goussainville.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:29:35.546Z"
+}

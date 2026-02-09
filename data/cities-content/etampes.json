@@ -1,0 +1,65 @@
+{
+  "slug": "etampes",
+  "cityName": "Étampes",
+  "businessName": "Clinik beauté Mbuthia",
+  "businesses": [
+    {
+      "name": "Clinik beauté Mbuthia",
+      "category": "Service de détatouage",
+      "address": "16 Rue de Charpeaux, 91150 %C3%89tampes",
+      "rating": 4.9,
+      "reviewCount": 9
+    },
+    {
+      "name": "LASEROSTOP ETAMPES",
+      "category": "Programme de bien-être",
+      "address": "1 Pl. de la Bastille, 91150 %C3%89tampes",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Tatoueur Une Histoire d'Encre",
+      "category": "Salon de tatouage et piercing",
+      "address": "20 Rue de la Juiverie, 91150 %C3%89tampes",
+      "rating": 4.8,
+      "reviewCount": 27
+    },
+    {
+      "name": "TATTOO REMY",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Av. de Paris, 91150 %C3%89tampes",
+      "rating": 4.7,
+      "reviewCount": 304
+    },
+    {
+      "name": "TATIKITOA",
+      "category": "Tatoueur",
+      "address": "136 Rue Saint-Jacques, 91150 %C3%89tampes",
+      "rating": 4.9,
+      "reviewCount": 72
+    },
+    {
+      "name": "Jessy tattoo",
+      "category": "Tatoueur",
+      "address": "35 Rue du Haut Pavé, 91150 %C3%89tampes",
+      "rating": 4.7,
+      "reviewCount": 80
+    }
+  ],
+  "description": "Clinik beauté Mbuthia fait partie des centres de détatouage laser à Étampes. Avec une note de 4.9/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Étampes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:35:59.536Z"
+}

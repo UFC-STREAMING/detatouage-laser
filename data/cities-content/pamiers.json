@@ -1,0 +1,57 @@
+{
+  "slug": "pamiers",
+  "cityName": "Pamiers",
+  "businessName": "Centre Expert Esthétique Idéalskin",
+  "businesses": [
+    {
+      "name": "Centre Expert Esthétique Idéalskin",
+      "category": "Centre d'épilation laser",
+      "address": "31 bis Chem. de Lastourelles, 09100 Pamiers",
+      "rating": 4.8,
+      "reviewCount": 6
+    },
+    {
+      "name": "Centre Esthétique et Lasers \"Le Phénix\"",
+      "category": "Centre d'épilation laser",
+      "address": "36 Bis Av. du 9éme RCP",
+      "rating": 4.7,
+      "reviewCount": 17
+    },
+    {
+      "name": "O body piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "1a Bd Delcassé, 09100 Pamiers",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Épilation Laser Ariège - Nbeautydesigner",
+      "category": "Institut de beauté",
+      "address": "18 Chem. des Menestrels",
+      "rating": 4.4,
+      "reviewCount": 13
+    },
+    {
+      "name": "ALBANE TATTOO STUDIO",
+      "category": "Tatoueur",
+      "address": "1A Bd Delcassé",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Éclat Rythmique TATTOO",
+      "category": "Tatoueur",
+      "address": "25 Rue des Jacobins",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "Centre Expert Esthétique Idéalskin fait partie des centres de détatouage laser à Pamiers. Avec une note de 4.8/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pamiers.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Toutes les languesToutes les languesRecherche dans les pages en FrançaisDate indifférenteDate indifférente Moins d'une heure Moins de 24 heures Moins d'une semaine Moins d'un mois Moins d'un anDates précisesDates précisesDeÀOKTous les résultatsTous les résultatsMot à motRecherche avancéeEnviron 18 600 résultats (0,32 s)"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:02:25.499Z"
+}

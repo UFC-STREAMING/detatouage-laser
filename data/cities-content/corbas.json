@@ -1,0 +1,44 @@
+{
+  "slug": "corbas",
+  "cityName": "Corbas",
+  "businessName": "EGERY STUDIO maquillage permanent- centre anti âge.Propose : Détatouage SKINIAL maquillage permanent",
+  "businesses": [
+    {
+      "name": "EGERY STUDIO maquillage permanent- centre anti âge.Propose : Détatouage SKINIAL maquillage permanent",
+      "category": "Institut de beauté",
+      "address": "7 All. Joseph Andujar, 69780 Mions",
+      "rating": 5,
+      "reviewCount": 73
+    },
+    {
+      "name": "Ray studios Lyon - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "104 Boulevard des Belges, 69006 Lyon",
+      "rating": 4.7,
+      "reviewCount": 123
+    },
+    {
+      "name": "Power Body Art",
+      "category": "Salon de piercing",
+      "address": "2 Pl. Léon Sublet, 69200 Vénissieux",
+      "rating": 4.9,
+      "reviewCount": 95
+    }
+  ],
+  "description": "EGERY STUDIO maquillage permanent- centre anti âge.Propose : Détatouage SKINIAL maquillage permanent fait partie des centres de détatouage laser à Corbas. Avec une note de 5/5 sur 73 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Corbas.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Comment estomper un tatouage sans laser ?",
+      "answer": "Dermabrasion La dermabrasion consiste à exfolier les couches superficielles de la peau pour éliminer les pigments et les zones affectées, et favoriser la régénération cutanée. Elle peut être réalisée à l'aide de papier de verre, d'acides caustiques ou de sel (on parle alors de salibrasion), ou encore avec une brosse rotative à grande vitesse."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:35:22.034Z"
+}

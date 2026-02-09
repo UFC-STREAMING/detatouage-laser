@@ -1,0 +1,44 @@
+{
+  "slug": "maisons-alfort",
+  "cityName": "Maisons-Alfort",
+  "businessName": "Maelis Centre Laser Maisons-Alfort / Créteil - Épilation laser / définitive",
+  "businesses": [
+    {
+      "name": "Maelis Centre Laser Maisons-Alfort / Créteil - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "124 Rue Jean Jaurès, 94700 Maisons-Alfort",
+      "rating": 4.9,
+      "reviewCount": 482
+    },
+    {
+      "name": "Laserostop Maisons-Alfort",
+      "category": "Clinique spécialisée",
+      "address": "21 Av. Gambetta, 94700 Maisons-Alfort",
+      "rating": 4.5,
+      "reviewCount": 61
+    },
+    {
+      "name": "Tattoo factory maisons Alfort",
+      "category": "Salon de tatouage et piercing",
+      "address": "96 Av. Gambetta, 94700 Maisons-Alfort",
+      "rating": 4.8,
+      "reviewCount": 66
+    }
+  ],
+  "description": "Maelis Centre Laser Maisons-Alfort / Créteil - Épilation laser / définitive fait partie des centres de détatouage laser à Maisons-Alfort. Avec une note de 4.9/5 sur 482 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Maisons-Alfort.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Est-ce que Maison Alfort craint ?",
+      "answer": "Commune du Val-de-Marne située aux portes de Paris, Maisons-Alfort affiche un taux de criminalité de 51,4 pour mille habitants en 2024. Avec 2 952 crimes et délits recensés, la ville connaît une hausse préoccupante de 48 % par rapport à 2023. Cette augmentation place certains quartiers sous surveillance.11 oct. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:13:30.623Z"
+}

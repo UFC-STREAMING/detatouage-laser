@@ -1,0 +1,31 @@
+{
+  "slug": "bagneux",
+  "cityName": "Bagneux",
+  "businessName": "EPIL CARE",
+  "businesses": [
+    {
+      "name": "EPIL CARE",
+      "category": "Centre d'épilation laser",
+      "address": "10 Rue Gustave Courbet, 92220 Bagneux",
+      "rating": 4.7,
+      "reviewCount": 82
+    },
+    {
+      "name": "Beauty World ParisPropose : Tatouage henné ( rouge, noir)",
+      "category": "Institut de beauté",
+      "address": "12 Av. Victor Hugo, 92220 Bagneux",
+      "rating": 4.3,
+      "reviewCount": 192
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "EPIL CARE fait partie des centres de détatouage laser à Bagneux. Avec une note de 4.7/5 sur 82 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bagneux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:19:29.665Z"
+}

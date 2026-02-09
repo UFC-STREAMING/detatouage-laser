@@ -1,0 +1,65 @@
+{
+  "slug": "selestat",
+  "cityName": "Sélestat",
+  "businessName": "DermaMorphose",
+  "businesses": [
+    {
+      "name": "DermaMorphose",
+      "category": "Salon de tatouage et piercing",
+      "address": "9 Rue des Chevaliers",
+      "rating": 4.9,
+      "reviewCount": 92
+    },
+    {
+      "name": "LaserAddict Selestat - centre anti-tabac et bien être au laser",
+      "category": "Centre de bien-être",
+      "address": "5 Pl. du Marché Vert",
+      "rating": 4.8,
+      "reviewCount": 13
+    },
+    {
+      "name": "CENTRE MEDICAL FOCH",
+      "category": "Centre d'épilation laser",
+      "address": "4 Bd du Maréchal Foch",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "laserOstop - Arrêter de fumer à Sélestat",
+      "category": "Praticien de médecine alternative",
+      "address": "11 Av. Louis Pasteur",
+      "rating": 4.8,
+      "reviewCount": 41
+    },
+    {
+      "name": "InkedBeautyLounge",
+      "category": "Tatoueur",
+      "address": "28 Rue President Poincare",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Meli de DermaMorphose",
+      "category": "Tatoueur",
+      "address": "9 Rue des Chevaliers",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "DermaMorphose fait partie des centres de détatouage laser à Sélestat. Avec une note de 4.9/5 sur 92 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sélestat.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:51:50.808Z"
+}

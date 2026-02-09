@@ -1,0 +1,44 @@
+{
+  "slug": "plougastel-daoulas",
+  "cityName": "Plougastel-Daoulas",
+  "businessName": "BUVARD-NOIR",
+  "businesses": [
+    {
+      "name": "BUVARD-NOIR",
+      "category": "Tatoueur",
+      "address": "2 Rue de la Mairie",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Be-Harmony Brest (29) Arrêter de fumer au laser et perdre du poids !",
+      "category": "Centre de bien-être",
+      "address": "97 Av. Charles de Gaulle",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Centre laser CtrlZ - Brest",
+      "category": "Centre d'épilation laser",
+      "address": "Brest",
+      "rating": 5,
+      "reviewCount": 47
+    }
+  ],
+  "description": "BUVARD-NOIR fait partie des centres de détatouage laser à Plougastel-Daoulas. Avec une note de 5/5 sur 18 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Plougastel-Daoulas.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Détatouage meilleur technique ?",
+      "answer": "Le laser Q-Switched est une référence, surtout pour les tatouages plus anciens ou noirs. Aujourd'hui considéré comme le plus efficace pour le détatouage, il agit plus rapidement que les lasers classiques en fragmentant les pigments plus finement, ce qui facilite leur élimination par le corps."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:17:58.140Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "l-isle-adam",
+  "cityName": "L\\'Isle-Adam",
+  "businessName": "Clinique La MarinaPropose : Épilation laser",
+  "businesses": [
+    {
+      "name": "Clinique La MarinaPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "14 Av. Paul Thoureau, 95290 L'Isle-Adam",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "CENTRE CLEA médecine esthétique, injections, épilation laser, cryolipolyse à L'Isle Adam",
+      "category": "Centre d'épilation laser",
+      "address": "injections, épilation laser, cryolipolyse à L'Isle Adam, 19 avenue de Paris, B%C3%A2timent A RDC, 95290 L'Isle-Adam",
+      "rating": 4.3,
+      "reviewCount": 55
+    },
+    {
+      "name": "Centre épilation Laser 95 - Laser et Esthétique Conti",
+      "category": "Centre d'épilation laser",
+      "address": "3 Chem. des Trois Sources, 95290 L'Isle-Adam",
+      "rating": 4.4,
+      "reviewCount": 39
+    }
+  ],
+  "description": "Clinique La MarinaPropose : Épilation laser fait partie des centres de détatouage laser à L\\'Isle-Adam. Avec une note de 5/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à L\\'Isle-Adam.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:24:38.629Z"
+}

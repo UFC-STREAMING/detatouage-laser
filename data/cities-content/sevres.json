@@ -1,0 +1,36 @@
+{
+  "slug": "sevres",
+  "cityName": "Sèvres",
+  "businessName": "Centre Laselis Sèvres - Médecine Esthétique - Epilation Laser",
+  "businesses": [
+    {
+      "name": "Centre Laselis Sèvres - Médecine Esthétique - Epilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "86 Grande Rue, 92310 Sèvres",
+      "rating": 4.8,
+      "reviewCount": 57
+    },
+    {
+      "name": "Docteur Sylvie Olive - Dermatologie et médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "86 Grande Rue, 92310 Sèvres",
+      "rating": 2.9,
+      "reviewCount": 228
+    },
+    {
+      "name": "Centre Médecine Esthetique et Traitements Laser",
+      "category": "Service de détatouage",
+      "address": "55 Bd Jean Jaurès, 92100 Boulogne-Billancourt",
+      "rating": 4.8,
+      "reviewCount": 570
+    }
+  ],
+  "description": "Centre Laselis Sèvres - Médecine Esthétique - Epilation Laser fait partie des centres de détatouage laser à Sèvres. Avec une note de 4.8/5 sur 57 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sèvres.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Détatouage laser PicoSure | Centre de détatouage LilleClinique Confidence"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:43:47.999Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "les-ponts-de-ce",
+  "cityName": "Les Ponts-de-Cé",
+  "businessName": "Vainae | Épilation laser et Soins esthétiques | Angers",
+  "businesses": [
+    {
+      "name": "Vainae | Épilation laser et Soins esthétiques | Angers",
+      "category": "Centre d'épilation laser",
+      "address": "3 Sq. des Roncières, 49130 Les Ponts-de-Cé",
+      "rating": 5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Natural Tattoo",
+      "category": "Tatoueur",
+      "address": "73 Rue Victor Hugo, 49130 Les Ponts-de-Cé",
+      "rating": 4.7,
+      "reviewCount": 60
+    },
+    {
+      "name": "Docteur Morgane Guerin-Moreau - dermatologie générale, lasers médicaux et médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "lasers médicaux et médecine esthétique, 139 Rue des Ponts de Ce, 49000 Angers",
+      "rating": 4.5,
+      "reviewCount": 30
+    },
+    {
+      "name": "Soun'art création tattoo",
+      "category": "Tatoueur",
+      "address": "32 Rue du Dr Lucile Rozier, 49130 Les Ponts-de-Cé",
+      "rating": 5,
+      "reviewCount": 54
+    },
+    {
+      "name": "EPIL'AUDERMPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "2 Av. Amiral Chauvin, 49130 Les Ponts-de-Cé",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Centre Dermatologique De L'Anjou",
+      "category": "Clinique dermatologique",
+      "address": "139 Rue des Ponts de Ce, 49000 Angers",
+      "rating": 3,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Vainae | Épilation laser et Soins esthétiques | Angers fait partie des centres de détatouage laser à Les Ponts-de-Cé. Avec une note de 5/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Les Ponts-de-Cé.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien coûte l'enlever un tatouage à Angers ?",
+      "answer": "Le coût du traitement de détatouage à Angers varie en fonction de la taille du tatouage et du nombre de séances nécessaires. En moyenne, les patients peuvent s'attendre à payer entre 90 et 290 euros par séance. Cependant, le coût peut être plus élevé pour les tatouages plus grands et plus complexes."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:20:04.175Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "guebwiller",
+  "cityName": "Guebwiller",
+  "businessName": "Ladytattoo",
+  "businesses": [
+    {
+      "name": "Ladytattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "23 Rue du Maréchal Joffre, 68500 Guebwiller",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "AURA BEAUTY - Tattoo Fineline - Maquillage permanent - Extensions de cils",
+      "category": "Service de détatouage",
+      "address": "195 Rue de la République, 68500 Guebwiller",
+      "rating": 4.9,
+      "reviewCount": 96
+    },
+    {
+      "name": "La Tanière - Tattoo & Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "27 Rue de la République, 68500 Guebwiller",
+      "rating": 4.9,
+      "reviewCount": 63
+    },
+    {
+      "name": "Jalò Piercing",
+      "category": "Salon de piercing",
+      "address": "La Tanière Sous la Galerie Coupole, 27 Rue de la République, 68500 Guebwiller",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Derma Skin Studio",
+      "category": "Institut de beauté",
+      "address": "6 Sq. Henri Paul Bourcart, 68500 Guebwiller",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Atelier&Co : Esthétique - Spa Privatisé - HeadSpaPropose : Tatouages",
+      "category": "Institut de beauté",
+      "address": "195 Rue de la République, 68500 Guebwiller",
+      "rating": 4.9,
+      "reviewCount": 71
+    }
+  ],
+  "description": "Ladytattoo fait partie des centres de détatouage laser à Guebwiller. Avec une note de 5/5 sur 16 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Guebwiller.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'un eye liner permanent ?",
+      "answer": "YEUXPrestationTarifsEYELINER CORÉEN : HYPER RÉALISTE390€EYELINER CLASSIQUE : TRAIT FIN280€LASH LINER HAUT : RAS-DE-CILS280€LASH LINER BAS : RAS-DE-CILS200€1 autre ligne"
+    },
+    {
+      "question": "Quel est le prix d'un tatouage de tache de rousseur ?",
+      "answer": "Combien coûtent les tatouages de taches de rousseur? Chez nous, les prix varient entre 140 et 220 euros et dépendent généralement du nombre de tâches de rousseur que vous souhaitez injecter dans vos joues et votre nez.3 mai 2024"
+    },
+    {
+      "question": "Quel est le prix d'un tatouage de grain de beauté sur le visage ?",
+      "answer": "Détatouage de Maquillage PermanentCréationRetouche Annuelle si création StylidermGrain de beauté170€50€2 à 3100€70€Correction Maquillage Permanent27 autres lignes"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:35:53.805Z"
+}

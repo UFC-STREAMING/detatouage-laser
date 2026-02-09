@@ -1,0 +1,65 @@
+{
+  "slug": "caluire-et-cuire",
+  "cityName": "Caluire-et-Cuire",
+  "businessName": "Camille Dermo'Art",
+  "businesses": [
+    {
+      "name": "Camille Dermo'Art",
+      "category": "Clinique de maquillage permanent",
+      "address": "46 Rue Jean Moulin",
+      "rating": 4.8,
+      "reviewCount": 106
+    },
+    {
+      "name": "Ray studios Lyon - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Lyon",
+      "rating": 4.7,
+      "reviewCount": 123
+    },
+    {
+      "name": "Détatouage By Tani",
+      "category": "Service de détatouage",
+      "address": "Lyon",
+      "rating": 4.8,
+      "reviewCount": 6
+    },
+    {
+      "name": "Shinuko studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "21 Rue Dumont, 69004 Lyon",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Mak'art dermopigmentation maquillage permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "507 Av. du 8 Mai 1945",
+      "rating": 5,
+      "reviewCount": 94
+    },
+    {
+      "name": "Tattoo de Lys",
+      "category": "Salon de tatouage et piercing",
+      "address": "74 Grande Rue de St Clair",
+      "rating": 4.7,
+      "reviewCount": 51
+    }
+  ],
+  "description": "Camille Dermo'Art fait partie des centres de détatouage laser à Caluire-et-Cuire. Avec une note de 4.8/5 sur 106 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Caluire-et-Cuire.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quel est le tarif d'un détatouage laser à Lyon ?",
+      "answer": "Les tarifs de détatouage laser pratiqués à Lyon sont relativement similaires à ceux pratiqués dans le reste de la France. Le coût du traitement varie notamment en fonction de la zone ciblée, et du temps passé par le praticien sur la zone. Il faut compter au minimum 120 euros pour une séance de détatouage laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:19:52.938Z"
+}

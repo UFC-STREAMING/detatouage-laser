@@ -1,0 +1,44 @@
+{
+  "slug": "neuilly-plaisance",
+  "cityName": "Neuilly-Plaisance",
+  "businessName": "LASERTIC",
+  "businesses": [
+    {
+      "name": "LASERTIC",
+      "category": "Centre de bien-être",
+      "address": "27 Av. Georges Clemenceau, 93360 Neuilly-Plaisance",
+      "rating": 4.2,
+      "reviewCount": 5
+    },
+    {
+      "name": "Dermatelier",
+      "category": "Institut de beauté",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 45
+    },
+    {
+      "name": "Inkperatrice - Tattoo Shop 93",
+      "category": "Service de détatouage",
+      "address": "67 Rue Théophile Gaubert, 93330 Neuilly-sur-Marne",
+      "rating": 4.8,
+      "reviewCount": 48
+    }
+  ],
+  "description": "LASERTIC fait partie des centres de détatouage laser à Neuilly-Plaisance. Avec une note de 4.2/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Neuilly-Plaisance.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:44:50.061Z"
+}

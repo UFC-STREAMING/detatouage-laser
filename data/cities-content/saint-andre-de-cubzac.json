@@ -1,0 +1,52 @@
+{
+  "slug": "saint-andre-de-cubzac",
+  "cityName": "Saint-André-de-Cubzac",
+  "businessName": "My body by laury- soins minceurs et anti âge - 📍St André de cubzacPropose : Épilation laser",
+  "businesses": [
+    {
+      "name": "My body by laury- soins minceurs et anti âge - 📍St André de cubzacPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "23 Rue du Collège, 33240 Saint-André-de-Cubzac",
+      "rating": 5,
+      "reviewCount": 51
+    },
+    {
+      "name": "Tatérapi Laser SAINT-ANDRE-DE-CUBZAC | Réflexologie auriculaire | Arrêt Tabac - Perte de poids - Stress",
+      "category": "Centre de bien-être",
+      "address": "2 Rue de Lucias, 33240 Saint-André-de-Cubzac",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "lazer aventures",
+      "category": "Centre de laser game",
+      "address": "40 Av. Boucicaut, 33240 Saint-André-de-Cubzac",
+      "rating": 4.8,
+      "reviewCount": 50
+    },
+    {
+      "name": "Docteur JAMAL DJOUDI",
+      "category": "Clinique",
+      "address": "7 Imp. du 45EME Parallèle, 33240 Saint-André-de-Cubzac",
+      "rating": 4.5,
+      "reviewCount": 30
+    },
+    {
+      "name": "P' Ink Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "15 Rue du Commandant Cousteau, 33240 Saint-André-de-Cubzac",
+      "rating": 4.8,
+      "reviewCount": 255
+    },
+    {
+      "name": "Beauty MethodPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "191 Rue nationale, 33240 Saint-André-de-Cubzac",
+      "rating": 4.9,
+      "reviewCount": 78
+    }
+  ],
+  "description": "My body by laury- soins minceurs et anti âge - 📍St André de cubzacPropose : Épilation laser fait partie des centres de détatouage laser à Saint-André-de-Cubzac. Avec une note de 5/5 sur 51 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-André-de-Cubzac.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:23:43.332Z"
+}

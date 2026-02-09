@@ -1,0 +1,44 @@
+{
+  "slug": "draveil",
+  "cityName": "Draveil",
+  "businessName": "Beauté Permanente",
+  "businesses": [
+    {
+      "name": "Beauté Permanente",
+      "category": "Service de détatouage",
+      "address": "Cabinet du Centre, 9 Rue Jean Moulin, 91210 Draveil",
+      "rating": 4.9,
+      "reviewCount": 32
+    },
+    {
+      "name": "The Tattoo LifeStyle",
+      "category": "Salon de tatouage et piercing",
+      "address": "Centre Commercial DANTON, 65 Bd Henri Barbusse, 91210 Draveil",
+      "rating": 4.7,
+      "reviewCount": 270
+    },
+    {
+      "name": "Dermo Estetika",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue Jean Danaux, 91260 Juvisy-sur-Orge",
+      "rating": 4.4,
+      "reviewCount": 56
+    }
+  ],
+  "description": "Beauté Permanente fait partie des centres de détatouage laser à Draveil. Avec une note de 4.9/5 sur 32 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Draveil.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:31:42.339Z"
+}

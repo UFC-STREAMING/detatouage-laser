@@ -1,0 +1,37 @@
+{
+  "slug": "saint-gratien",
+  "cityName": "Saint-Gratien",
+  "businessName": "Laser Concept Epilation, Cryolipolyse et Peelings",
+  "businesses": [
+    {
+      "name": "Laser Concept Epilation, Cryolipolyse et Peelings",
+      "category": "Centre d'épilation laser",
+      "address": "Cryolipolyse et Peelings, 11 Bd du Maréchal Foch, 95210 Saint-Gratien",
+      "rating": 4.5,
+      "reviewCount": 26
+    },
+    {
+      "name": "Epilation Définitive Dr Tania Tolédano",
+      "category": "Centre d'épilation laser",
+      "address": "11 Bd du Maréchal Foch, 95210 Saint-Gratien",
+      "rating": 4.1,
+      "reviewCount": 41
+    }
+  ],
+  "description": "Laser Concept Epilation, Cryolipolyse et Peelings fait partie des centres de détatouage laser à Saint-Gratien. Avec une note de 4.5/5 sur 26 avis, les patients confirment la qualité des traitements proposés. 2 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Gratien.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:46:38.019Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "merignac",
+  "cityName": "Mérignac",
+  "businessName": "Peauésie - Détatouage & épilation laser Mérignac",
+  "businesses": [
+    {
+      "name": "Peauésie - Détatouage & épilation laser Mérignac",
+      "category": "Service de détatouage",
+      "address": "9 Rue Pablo Picasso, 33700 Mérignac",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Centre laser CtrlZ - Mérignac",
+      "category": "Service de détatouage",
+      "address": "365 Av. d'Arès, 33200 Bordeaux",
+      "rating": 5,
+      "reviewCount": 147
+    },
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Dr ELIAS EID Medecin Morpho-esthetique BordeauxPropose : Epilation laser",
+      "category": "Médecin",
+      "address": "Villa Médicale, 2 Av. Henri Barbusse, 33700 Mérignac",
+      "rating": 4.7,
+      "reviewCount": 44
+    },
+    {
+      "name": "LASERITY",
+      "category": "Centre d'épilation laser",
+      "address": "cabinet médical des jacinthes, 15 Sq. des Jacinthes, 33700 Mérignac",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "DEMOS",
+      "category": "Service de détatouage",
+      "address": "11 Av. de Canteranne B%C3%A2timent Elnath, 33600 Pessac",
+      "rating": 4.1,
+      "reviewCount": 22
+    }
+  ],
+  "description": "Peauésie - Détatouage & épilation laser Mérignac fait partie des centres de détatouage laser à Mérignac. Avec une note de 5/5 sur 18 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mérignac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:08:26.199Z"
+}

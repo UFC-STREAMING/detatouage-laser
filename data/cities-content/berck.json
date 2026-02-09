@@ -1,0 +1,31 @@
+{
+  "slug": "berck",
+  "cityName": "Berck",
+  "businessName": "La galerie des aiguilles",
+  "businesses": [
+    {
+      "name": "La galerie des aiguilles",
+      "category": "Salon de tatouage et piercing",
+      "address": "19 Rue Alfred Lambert",
+      "rating": 4.6,
+      "reviewCount": 57
+    },
+    {
+      "name": "La Tannerie Noire",
+      "category": "Tatoueur",
+      "address": "76 Rue de l'Impératrice, 62600 Berck",
+      "rating": 4.9,
+      "reviewCount": 41
+    },
+    {
+      "name": "DERMA-CONTOURS/ Épilation Laser esthétique/Radiofréquence/Hydractive visage/Remodelage silhouette:Cavitation/Pressothérapie",
+      "category": "Centre d'épilation laser",
+      "address": "14 Rue Gabriel Péri",
+      "rating": 5,
+      "reviewCount": 16
+    }
+  ],
+  "description": "La galerie des aiguilles fait partie des centres de détatouage laser à Berck. Avec une note de 4.6/5 sur 57 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Berck.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:21:32.919Z"
+}

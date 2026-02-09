@@ -1,0 +1,31 @@
+{
+  "slug": "woippy",
+  "cityName": "Woippy",
+  "businessName": "Tatoo Dav",
+  "businesses": [
+    {
+      "name": "Tatoo Dav",
+      "category": "Tatoueur",
+      "address": "57 Rue Maréchal Foch",
+      "rating": 5,
+      "reviewCount": 85
+    },
+    {
+      "name": "INSTITUT DE BEAUTE ETERNAL REJUVENESS - METZ/WOIPPY",
+      "category": "Centre d'épilation laser",
+      "address": "10 Av. de Thionville",
+      "rating": 4.9,
+      "reviewCount": 394
+    },
+    {
+      "name": "Détatouage Laser Médical Metz Thionville Luxembourg PICO Q-Switched",
+      "category": "Médecin",
+      "address": "Metz",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Tatoo Dav fait partie des centres de détatouage laser à Woippy. Avec une note de 5/5 sur 85 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Woippy.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:09:44.550Z"
+}

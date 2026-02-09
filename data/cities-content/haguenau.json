@@ -1,0 +1,65 @@
+{
+  "slug": "haguenau",
+  "cityName": "Haguenau",
+  "businessName": "Centre Laser Dermatologique Nord Alsace",
+  "businesses": [
+    {
+      "name": "Centre Laser Dermatologique Nord Alsace",
+      "category": "Dermatologue",
+      "address": "1 Rue Colomé, 67500 Haguenau",
+      "rating": 3.7,
+      "reviewCount": 10
+    },
+    {
+      "name": "Jordane K - Dermo Esthetic - Dermopraxie ️",
+      "category": "Clinique de maquillage permanent",
+      "address": "1A Rue des Lapins, 67500 Haguenau",
+      "rating": 5,
+      "reviewCount": 85
+    },
+    {
+      "name": "Marina Tattooartist",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 Bd de l'Europe, 67500 Haguenau",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "DEPILEO CLINIC LASER HAGUENAU",
+      "category": "Centre d'épilation laser",
+      "address": "28 A Rte de Bitche, 67500 Haguenau",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "ULTRA LASER",
+      "category": "Centre de laser game",
+      "address": "12 Rue Taubenhof, 67500 Haguenau",
+      "rating": 4.9,
+      "reviewCount": 339
+    },
+    {
+      "name": "Maquillage permanent Haguenau",
+      "category": "Clinique de maquillage permanent",
+      "address": "57 Grand Rue, 67500 Haguenau",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Centre Laser Dermatologique Nord Alsace fait partie des centres de détatouage laser à Haguenau. Ce centre affiche une note de 3.7/5 pour ses prestations de détatouage. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Haguenau.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:25:16.823Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "vitry-sur-seine",
+  "cityName": "Vitry-sur-Seine",
+  "businessName": "New Derma - Institut Médical",
+  "businesses": [
+    {
+      "name": "New Derma - Institut Médical",
+      "category": "Centre médical",
+      "address": "22 Av. Chanzy",
+      "rating": 4.8,
+      "reviewCount": 25
+    },
+    {
+      "name": "Level Art tattoo",
+      "category": "Tatoueur",
+      "address": "39 Av. Anatole France",
+      "rating": 4.6,
+      "reviewCount": 48
+    },
+    {
+      "name": "Thiek Tattoo / Asian ink",
+      "category": "Tatoueur",
+      "address": "31 Rue Federico Garcia Lorca",
+      "rating": 5,
+      "reviewCount": 312
+    }
+  ],
+  "description": "New Derma - Institut Médical fait partie des centres de détatouage laser à Vitry-sur-Seine. Avec une note de 4.8/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vitry-sur-Seine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:06:45.616Z"
+}

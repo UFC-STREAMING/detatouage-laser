@@ -1,0 +1,44 @@
+{
+  "slug": "sarcelles",
+  "cityName": "Sarcelles",
+  "businessName": "Léa laser Paris",
+  "businesses": [
+    {
+      "name": "Léa laser Paris",
+      "category": "Centre d'épilation laser",
+      "address": "44 Rue Pierre Brossolette, 95200 Sarcelles",
+      "rating": 4.9,
+      "reviewCount": 36
+    },
+    {
+      "name": "Miko Piercing & Tattoo",
+      "category": "Tatoueur",
+      "address": "Les flanades, 95200 Sarcelles",
+      "rating": 4.6,
+      "reviewCount": 190
+    },
+    {
+      "name": "Epilation Laser Sarcelles \"Ellaser\"",
+      "category": "Centre d'épilation laser",
+      "address": "19 Bd Albert Camus, 95200 Sarcelles",
+      "rating": 4.9,
+      "reviewCount": 18
+    }
+  ],
+  "description": "Léa laser Paris fait partie des centres de détatouage laser à Sarcelles. Avec une note de 4.9/5 sur 36 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sarcelles.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage couleur  ?",
+      "answer": "Le coût d'une séance de détatouage au laser aux États-Unis varie généralement entre 200 et 500 dollars , en fonction de la taille, de l'ancienneté, de l'emplacement et des couleurs d'encre du tatouage. Un prix unique pour un résultat optimal."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:12:43.526Z"
+}

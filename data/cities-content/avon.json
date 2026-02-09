@@ -1,0 +1,22 @@
+{
+  "slug": "avon",
+  "cityName": "Avon",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Avon grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Avon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le meilleur effaceur de tatouage ?",
+      "answer": "Lorsque le temps d'effacer un tatouage est venu, la meilleure façon d'y parvenir est de le soumettre à quelques séances de laser spécifique de l'encre dermique. Aujourd'hui le meilleur d'entre eux est le laser PicoPlus® de la société Lutronic remplaçant du laser Picosure."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:17:06.132Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "herblay-sur-seine",
+  "cityName": "Herblay-sur-Seine",
+  "businessName": "Mashinka",
+  "businesses": [
+    {
+      "name": "Mashinka",
+      "category": "Salon de tatouage et piercing",
+      "address": "25 Rue de Paris, 95220 Herblay-sur-Seine",
+      "rating": 4.8,
+      "reviewCount": 58
+    },
+    {
+      "name": "IMPACT Une (en)vie de changement",
+      "category": "Institut de beauté",
+      "address": "4 Pl. de la Halle, 95220 Herblay-sur-Seine",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Dermographe Val d'Oise, Dermopigmentation, Tatouage artistique, STUDIO V",
+      "category": "Clinique de maquillage permanent",
+      "address": "Dermopigmentation, Tatouage artistique, STUDIO V, 28 Av. du Général Leclerc, 95250 Beauchamp",
+      "rating": 5,
+      "reviewCount": 124
+    },
+    {
+      "name": "Laser Quest Herblay",
+      "category": "Centre de laser game",
+      "address": "9 Rue René Cassin, 95220 Herblay-sur-Seine",
+      "rating": 4.7,
+      "reviewCount": null
+    },
+    {
+      "name": "Bella Sourcil",
+      "category": "Institut de beauté",
+      "address": "11 Pl. de la Halle, 95220 Herblay-sur-Seine",
+      "rating": 4.8,
+      "reviewCount": 186
+    },
+    {
+      "name": "CGF BEAUTE BIEN-ETREPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "cabinet POLE 3S, 26 Rue Jean Leclaire, 95220 Herblay-sur-Seine",
+      "rating": 4.8,
+      "reviewCount": 105
+    }
+  ],
+  "description": "Mashinka fait partie des centres de détatouage laser à Herblay-sur-Seine. Avec une note de 4.8/5 sur 58 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Herblay-sur-Seine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:28:49.289Z"
+}

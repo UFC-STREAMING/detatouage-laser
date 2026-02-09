@@ -1,0 +1,44 @@
+{
+  "slug": "carrieres-sous-poissy",
+  "cityName": "Carrières-sous-Poissy",
+  "businessName": "Out 14 Tattoo",
+  "businesses": [
+    {
+      "name": "Out 14 Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "170 Rue Léonard de Vinci",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Osun",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "50 Rue du Frère Givone",
+      "rating": 5,
+      "reviewCount": 78
+    },
+    {
+      "name": "Estelle Beauté",
+      "category": "Institut de beauté",
+      "address": "40 Rue Claude Monet",
+      "rating": 4.6,
+      "reviewCount": 73
+    }
+  ],
+  "description": "Out 14 Tattoo fait partie des centres de détatouage laser à Carrières-sous-Poissy. Avec une note de 5/5 sur 15 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Carrières-sous-Poissy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage au laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:48:06.248Z"
+}

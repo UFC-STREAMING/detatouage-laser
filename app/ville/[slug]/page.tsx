@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getCityBySlug, cities } from "@/data/cities";
 import { getProximityCitiesDynamic } from "@/lib/utils/proximity";
 import { getBusinessesByCity } from "@/data/businesses";
+import { getCityContent } from "@/lib/city-content";
 import { QuoteForm } from "@/components/ui/QuoteForm";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { ProximityLinks } from "@/components/ui/ProximityLinks";
@@ -33,10 +34,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
-  const title = `Détatouage Laser à ${city.name} | Prix & Devis Gratuit`;
-  const description = `Spécialiste du détatouage laser à ${city.name}, ${city.department.name}. Retrait de tatouage par laser de dernière génération. Devis gratuit et consultation personnalisée.`;
+  const cityContent = getCityContent(slug);
 
-  // Keywords enrichis pour SEO local
+  const title = `Détatouage Laser à ${city.name} | Prix & Devis Gratuit`;
+  const description = cityContent?.description
+    || `Spécialiste du détatouage laser à ${city.name}, ${city.department.name}. Retrait de tatouage par laser de dernière génération. Devis gratuit et consultation personnalisée.`;
+
   const keywords = [
     `détatouage ${city.name}`,
     `détatouage laser ${city.name}`,
@@ -76,10 +79,20 @@ export default async function CityPage({ params }: Props) {
 
   const proximityCities = getProximityCitiesDynamic(city.slug);
   const cityBusinesses = getBusinessesByCity(city.slug);
+  const cityContent = getCityContent(slug);
+
+  // Filter valid peopleAlsoAsk (exclude broken answers from video snippets)
+  const validPAA = (cityContent?.peopleAlsoAsk || []).filter(
+    (q) => q.question && q.answer && !q.answer.startsWith("0:")
+  );
 
   return (
     <>
-      <FAQSchema cityName={city.name} departmentName={city.department.name} />
+      <FAQSchema
+        cityName={city.name}
+        departmentName={city.department.name}
+        customQuestions={validPAA}
+      />
       <LocalBusinessSchema
         city={city.name}
         department={city.department.name}
@@ -132,12 +145,16 @@ export default async function CityPage({ params }: Props) {
             <QuoteForm initialPostalCode={city.postalCode} />
 
         <section className="prose prose-lg max-w-none mb-12">
-          <p className="text-lg leading-relaxed">
-            Vous recherchez un <strong>spécialiste du détatouage laser à {city.name}</strong> ?
-            Notre centre utilise la technologie laser la plus avancée pour vous offrir un{" "}
-            <strong>retrait de tatouage efficace et sécurisé</strong> dans le département{" "}
-            {city.department.name} ({city.department.number}).
-          </p>
+          {cityContent?.description ? (
+            <p className="text-lg leading-relaxed">{cityContent.description}</p>
+          ) : (
+            <p className="text-lg leading-relaxed">
+              Vous recherchez un <strong>spécialiste du détatouage laser à {city.name}</strong> ?
+              Notre centre utilise la technologie laser la plus avancée pour vous offrir un{" "}
+              <strong>retrait de tatouage efficace et sécurisé</strong> dans le département{" "}
+              {city.department.name} ({city.department.number}).
+            </p>
+          )}
 
           <h2 className="text-2xl font-bold text-[var(--color-primary)] mt-8 mb-4">
             Pourquoi choisir notre centre de détatouage à {city.name} ?
@@ -198,33 +215,46 @@ export default async function CityPage({ params }: Props) {
             Questions fréquentes sur le détatouage à {city.name}
           </h2>
 
-          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-            Combien coûte un détatouage laser à {city.name} ?
-          </h3>
-          <p>
-            Le coût dépend de plusieurs facteurs : la taille du tatouage, sa complexité, les
-            couleurs utilisées et le nombre de séances nécessaires. Demandez votre{" "}
-            <strong>devis gratuit</strong> ci-dessous pour obtenir une estimation personnalisée pour
-            votre projet de détatouage à {city.name}.
-          </p>
+          {validPAA.length > 0 ? (
+            validPAA.map((paa, index) => (
+              <div key={index}>
+                <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
+                  {paa.question}
+                </h3>
+                <p>{paa.answer}</p>
+              </div>
+            ))
+          ) : (
+            <>
+              <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
+                Combien coûte un détatouage laser à {city.name} ?
+              </h3>
+              <p>
+                Le coût dépend de plusieurs facteurs : la taille du tatouage, sa complexité, les
+                couleurs utilisées et le nombre de séances nécessaires. Demandez votre{" "}
+                <strong>devis gratuit</strong> ci-dessous pour obtenir une estimation personnalisée pour
+                votre projet de détatouage à {city.name}.
+              </p>
 
-          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-            Le détatouage laser est-il douloureux ?
-          </h3>
-          <p>
-            La sensation est souvent comparée à un élastique qui claque contre la peau. À {city.name}
-            , nous utilisons des techniques d'anesthésie locale (crème anesthésiante ou froid) pour
-            minimiser l'inconfort pendant le traitement.
-          </p>
+              <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
+                Le détatouage laser est-il douloureux ?
+              </h3>
+              <p>
+                La sensation est souvent comparée à un élastique qui claque contre la peau. À {city.name}
+                , nous utilisons des techniques d'anesthésie locale (crème anesthésiante ou froid) pour
+                minimiser l'inconfort pendant le traitement.
+              </p>
 
-          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-            Combien de séances sont nécessaires ?
-          </h3>
-          <p>
-            Le nombre de séances varie généralement entre 5 et 10, selon la profondeur de l'encre,
-            les couleurs utilisées et la taille du tatouage. Les tatouages noirs sont généralement
-            plus faciles à effacer que les tatouages colorés.
-          </p>
+              <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
+                Combien de séances sont nécessaires ?
+              </h3>
+              <p>
+                Le nombre de séances varie généralement entre 5 et 10, selon la profondeur de l'encre,
+                les couleurs utilisées et la taille du tatouage. Les tatouages noirs sont généralement
+                plus faciles à effacer que les tatouages colorés.
+              </p>
+            </>
+          )}
         </section>
 
         <div
@@ -258,7 +288,11 @@ export default async function CityPage({ params }: Props) {
       </div>
 
       {/* Section des entreprises locales */}
-      <BusinessListings businesses={cityBusinesses} cityName={city.name} />
+      <BusinessListings
+        businesses={cityBusinesses}
+        serpBusinesses={cityContent?.businesses}
+        cityName={city.name}
+      />
 
       {/* Villes à proximité */}
       {proximityCities.length > 0 && (

@@ -1,0 +1,44 @@
+{
+  "slug": "montmagny",
+  "cityName": "Montmagny",
+  "businessName": "InfiniLASER - Épilation au laser",
+  "businesses": [
+    {
+      "name": "InfiniLASER - Épilation au laser",
+      "category": "Centre d'épilation laser",
+      "address": "82 Rue St Jean Baptiste E, Montmagny, QC G5V 1K2, Canada",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "Salon Évasion Beauté - Médico Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "82 Rue St Jean Baptiste E, Montmagny, QC G5V 1K2, Canada",
+      "rating": 4.9,
+      "reviewCount": 66
+    },
+    {
+      "name": "Lady Lydia tatouage et piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "Montmagny, QC, Canada",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "InfiniLASER - Épilation au laser fait partie des centres de détatouage laser à Montmagny. Avec une note de 5/5 sur 27 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montmagny.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:08:46.352Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "colomiers",
+  "cityName": "Colomiers",
+  "businessName": "Reset Laser Toulouse - Arrêter de fumer 31",
+  "businesses": [
+    {
+      "name": "Reset Laser Toulouse - Arrêter de fumer 31",
+      "category": "Cabinet médical",
+      "address": "12 Av. du Louron, 31770 Colomiers",
+      "rating": 5,
+      "reviewCount": 68
+    },
+    {
+      "name": "Centre Laser Médical (épilation, vasculaire)",
+      "category": "Centre d'épilation laser",
+      "address": "vasculaire), 73 Rue Gilet, 31770 Colomiers",
+      "rating": 4.6,
+      "reviewCount": 18
+    },
+    {
+      "name": "ESTUDIO DEL TATTOO",
+      "category": "Boutique de santé et beauté",
+      "address": "14b Chem. de la Chasse, 31770 Colomiers",
+      "rating": 4.7,
+      "reviewCount": 12
+    },
+    {
+      "name": "Perle de soins",
+      "category": "Centre d'épilation laser",
+      "address": "12 Av. du Louron, 31770 Colomiers",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "NO FUN TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 Rue d'Auch, 31770 Colomiers",
+      "rating": 5,
+      "reviewCount": 319
+    },
+    {
+      "name": "Dam'de Pic",
+      "category": "Salon de piercing",
+      "address": "20 Pl. du Val d'Aran, 31770 Colomiers",
+      "rating": 4.6,
+      "reviewCount": 122
+    }
+  ],
+  "description": "Reset Laser Toulouse - Arrêter de fumer 31 fait partie des centres de détatouage laser à Colomiers. Avec une note de 5/5 sur 68 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Colomiers.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:21:56.872Z"
+}

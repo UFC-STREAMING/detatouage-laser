@@ -1,0 +1,65 @@
+{
+  "slug": "mamoudzou",
+  "cityName": "Mamoudzou",
+  "businessName": "VAP’N TATTOO MAMOUDZOU",
+  "businesses": [
+    {
+      "name": "VAP’N TATTOO MAMOUDZOU",
+      "category": "Boutique de cigarettes électroniques",
+      "address": "Mamoudzou, Mayotte",
+      "rating": 4.9,
+      "reviewCount": 21
+    },
+    {
+      "name": "Centre Laser Mayotte - Épilation Laser & Médecine Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "Mamoudzou, Mayotte",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Sublime Institut Mayotte",
+      "category": "Institut de beauté",
+      "address": "107, Rue du Commerce, Mamoudzou 97600, Mayotte",
+      "rating": 4.4,
+      "reviewCount": 51
+    },
+    {
+      "name": "Djina Tatouage au henne",
+      "category": "Tatoueur",
+      "address": "17 Rue du Commerce, Mamoudzou 97600, Mayotte",
+      "rating": 1,
+      "reviewCount": 2
+    },
+    {
+      "name": "LA BEAUTE DU LAGON",
+      "category": "Centre d'amincissement",
+      "address": "Cavani Sud 2, 1, Mamoudzou 97600, Mayotte",
+      "rating": 4.2,
+      "reviewCount": 5
+    },
+    {
+      "name": "Balou Jungle Art’s Tattoo",
+      "category": "Tatoueur",
+      "address": "10 Rue Mouzdalifa, Labattoir 97615, Mayotte",
+      "rating": 5,
+      "reviewCount": 6
+    }
+  ],
+  "description": "VAP’N TATTOO MAMOUDZOU fait partie des centres de détatouage laser à Mamoudzou. Avec une note de 4.9/5 sur 21 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mamoudzou.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:09:44.320Z"
+}

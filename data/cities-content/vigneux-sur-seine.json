@@ -1,0 +1,52 @@
+{
+  "slug": "vigneux-sur-seine",
+  "cityName": "Vigneux-sur-Seine",
+  "businessName": "Institut Beauty Light",
+  "businesses": [
+    {
+      "name": "Institut Beauty Light",
+      "category": "Centre d'épilation laser",
+      "address": "51 Av. Henri Barbusse",
+      "rating": 4.5,
+      "reviewCount": 68
+    },
+    {
+      "name": "Dérapage Corporel Tatouage Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "Montgeron",
+      "rating": 4.9,
+      "reviewCount": 611
+    },
+    {
+      "name": "Laskin - Centre esthétique",
+      "category": "Institut de beauté",
+      "address": "1 bis Av. du Président Robert Lakota, 91270 Vigneux-sur-Seine",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "LUUNA BEAUTY 91",
+      "category": "Institut de beauté",
+      "address": "57b Av. Paul Vaillant-Couturier",
+      "rating": 4.7,
+      "reviewCount": 41
+    },
+    {
+      "name": "Centre esthétique de la Plaine des sables",
+      "category": "Institut de beauté",
+      "address": "5 Av. Henri Barbusse",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Naïs Beauté",
+      "category": "Centre de bien-être",
+      "address": "Montgeron",
+      "rating": 3.9,
+      "reviewCount": 61
+    }
+  ],
+  "description": "Institut Beauty Light fait partie des centres de détatouage laser à Vigneux-sur-Seine. Avec une note de 4.5/5 sur 68 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vigneux-sur-Seine.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:29:22.816Z"
+}

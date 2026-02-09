@@ -1,0 +1,31 @@
+{
+  "slug": "val-de-reuil",
+  "cityName": "Val-de-Reuil",
+  "businessName": "FJ Clinic",
+  "businesses": [
+    {
+      "name": "FJ Clinic",
+      "category": "Centre d'épilation laser",
+      "address": "Le Vaudreuil",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "URBAN'PAINTBALL",
+      "category": "Centre de paintball",
+      "address": "20 Voie des Chalands",
+      "rating": 4.3,
+      "reviewCount": 120
+    },
+    {
+      "name": "Laser Free Addict LOUVIERS",
+      "category": "Praticien de médecine alternative",
+      "address": "Louviers",
+      "rating": 5,
+      "reviewCount": 6
+    }
+  ],
+  "description": "FJ Clinic fait partie des centres de détatouage laser à Val-de-Reuil. Avec une note de 5/5 sur 40 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Val-de-Reuil.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:19:33.251Z"
+}

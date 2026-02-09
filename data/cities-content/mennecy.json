@@ -1,0 +1,40 @@
+{
+  "slug": "mennecy",
+  "cityName": "Mennecy",
+  "businessName": "A L'Equilibre: Centre Medico esthétique et Bien-être",
+  "businesses": [
+    {
+      "name": "A L'Equilibre: Centre Medico esthétique et Bien-être",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue du Four %C3%80 Chaux, 91540 Mennecy",
+      "rating": 4.9,
+      "reviewCount": 132
+    },
+    {
+      "name": "BEAUTY LINES",
+      "category": "Institut de beauté",
+      "address": "Boutique Natur House, 47 Bd Charles de Gaulle, 91540 Mennecy",
+      "rating": 4.9,
+      "reviewCount": 132
+    },
+    {
+      "name": "Beauté & Compagnie Mennecy Institut de Beauté & Laser",
+      "category": "Institut de beauté",
+      "address": "10 bis Av. Darblay, 91540 Mennecy",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "A L'Equilibre: Centre Medico esthétique et Bien-être fait partie des centres de détatouage laser à Mennecy. Avec une note de 4.9/5 sur 132 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mennecy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:02:33.506Z"
+}

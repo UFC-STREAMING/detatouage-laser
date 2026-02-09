@@ -1,0 +1,65 @@
+{
+  "slug": "courbevoie",
+  "cityName": "Courbevoie",
+  "businessName": "Centre Medical de l'Arche - Epilation Laser à Courbevoie - La Défense - La Garenne-Colombes | Injection Acide Hyaluronique",
+  "businesses": [
+    {
+      "name": "Centre Medical de l'Arche - Epilation Laser à Courbevoie - La Défense - La Garenne-Colombes | Injection Acide Hyaluronique",
+      "category": "Centre d'épilation laser",
+      "address": "57 Rue Gaultier, 92400 Courbevoie",
+      "rating": 4.9,
+      "reviewCount": 176
+    },
+    {
+      "name": "Fleur de Peau Tattoo Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "12 Rue Baudin Charras%26Co, 92400 Courbevoie",
+      "rating": 5,
+      "reviewCount": 206
+    },
+    {
+      "name": "Lalka - Institut de Beauté Courbevoie - Extension cils / Détatouage / Épilation définitive",
+      "category": "Institut de beauté",
+      "address": "53 Av. Gambetta, 92400 Courbevoie",
+      "rating": 4,
+      "reviewCount": 196
+    },
+    {
+      "name": "Cyber Game Laser",
+      "category": "Centre de laser game",
+      "address": "47 Av. de l'Europe, 92400 Courbevoie",
+      "rating": 4.3,
+      "reviewCount": 681
+    },
+    {
+      "name": "LOOK'STHETIK Maquillage Permanent & Détatouage",
+      "category": "Clinique de maquillage permanent",
+      "address": "97 Rue Danton, 92300 Levallois-Perret",
+      "rating": 4.5,
+      "reviewCount": 157
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "Centre Medical de l'Arche - Epilation Laser à Courbevoie - La Défense - La Garenne-Colombes | Injection Acide Hyaluronique fait partie des centres de détatouage laser à Courbevoie. Avec une note de 4.9/5 sur 176 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Courbevoie.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:07:57.425Z"
+}

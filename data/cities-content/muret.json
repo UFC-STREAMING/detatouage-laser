@@ -1,0 +1,65 @@
+{
+  "slug": "muret",
+  "cityName": "Muret",
+  "businessName": "LASEROSTOP",
+  "businesses": [
+    {
+      "name": "LASEROSTOP",
+      "category": "Cabinet médical",
+      "address": "11 Bd Edgar Fauré, 31600 Muret",
+      "rating": 5,
+      "reviewCount": 120
+    },
+    {
+      "name": "Pimandou",
+      "category": "Salon de tatouage et piercing",
+      "address": "21 Pl. de la République, 31600 Muret",
+      "rating": 5,
+      "reviewCount": 150
+    },
+    {
+      "name": "CENTRE CEOR",
+      "category": "Centre d'épilation laser",
+      "address": "1 Rue du Col d'Aspin 1e étage B%C3%A2timent B, 31600 Muret",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "AMANDRA Tatouages",
+      "category": "Salon de tatouage et piercing",
+      "address": "33 Rue Pierre Fons, 31600 Muret",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Good Omens Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "9 Rue Jean Jaurès, 31600 Muret",
+      "rating": 4.7,
+      "reviewCount": 110
+    },
+    {
+      "name": "Centre BodySculpt | Centre minceur et traitement de la cellulite",
+      "category": "Centre d'amincissement",
+      "address": "24 Imp. Jacques Monod, 31600 Muret",
+      "rating": 4.9,
+      "reviewCount": 67
+    }
+  ],
+  "description": "LASEROSTOP fait partie des centres de détatouage laser à Muret. Avec une note de 5/5 sur 120 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Muret.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:37:22.976Z"
+}

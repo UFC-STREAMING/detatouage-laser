@@ -1,0 +1,44 @@
+{
+  "slug": "lanester",
+  "cityName": "Lanester",
+  "businessName": "Permanent Expert Studio LorientPropose : Tatouage de cils",
+  "businesses": [
+    {
+      "name": "Permanent Expert Studio LorientPropose : Tatouage de cils",
+      "category": "Institut de beauté",
+      "address": "3 Avenue du Cheval Blanc 15 rue des fontaines 56100 lorient, 3 Av. du Cheval Blanc, 56600 Lanester",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Centre laser CtrlZ - Lorient",
+      "category": "Service de détatouage",
+      "address": "2 Rue Charles de Clairambault, 56100 Lorient",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "La Mélancolie Tattoo Club",
+      "category": "Tatoueur",
+      "address": "73 Rue du Maréchal Foch, 56100 Lorient",
+      "rating": 5,
+      "reviewCount": 26
+    }
+  ],
+  "description": "Permanent Expert Studio LorientPropose : Tatouage de cils fait partie des centres de détatouage laser à Lanester. Avec une note de 5/5 sur 21 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lanester.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:41:41.921Z"
+}

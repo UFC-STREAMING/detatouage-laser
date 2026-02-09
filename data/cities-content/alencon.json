@@ -1,0 +1,44 @@
+{
+  "slug": "alencon",
+  "cityName": "Alençon",
+  "businessName": "CLEM61 Alençon : Cabinet Laser Esthétique et Médical",
+  "businesses": [
+    {
+      "name": "CLEM61 Alençon : Cabinet Laser Esthétique et Médical",
+      "category": "Centre d'épilation laser",
+      "address": "30 Rue de la Poterne",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Centre Laser Alençon Skineo",
+      "category": "Centre d'épilation laser",
+      "address": "1 Bd de Strasbourg",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Golden Brows",
+      "category": "Institut de beauté",
+      "address": "20 Rue aux Sieurs",
+      "rating": 4.9,
+      "reviewCount": 8
+    }
+  ],
+  "description": "CLEM61 Alençon : Cabinet Laser Esthétique et Médical fait partie des centres de détatouage laser à Alençon. Avec une note de 5/5 sur 24 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Alençon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:38:39.866Z"
+}

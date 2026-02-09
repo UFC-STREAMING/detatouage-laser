@@ -1,0 +1,31 @@
+{
+  "slug": "le-plessis-robinson",
+  "cityName": "Le Plessis-Robinson",
+  "businessName": "Centre Laser et Esthétique - Dr Audrey Kahan & Dr Charlotte Daguillon-Torre",
+  "businesses": [
+    {
+      "name": "Centre Laser et Esthétique - Dr Audrey Kahan & Dr Charlotte Daguillon-Torre",
+      "category": "Centre d'épilation laser",
+      "address": "42 Rue du Carreau",
+      "rating": 5,
+      "reviewCount": 207
+    },
+    {
+      "name": "Feel'ink tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 Pl. François Spoerry",
+      "rating": 4.8,
+      "reviewCount": 76
+    },
+    {
+      "name": "Docteur Audrey Kahan",
+      "category": "Médecin",
+      "address": "42 Rue du Carreau",
+      "rating": 4.9,
+      "reviewCount": 27
+    }
+  ],
+  "description": "Centre Laser et Esthétique - Dr Audrey Kahan & Dr Charlotte Daguillon-Torre fait partie des centres de détatouage laser à Le Plessis-Robinson. Avec une note de 5/5 sur 207 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Plessis-Robinson.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:33:13.631Z"
+}

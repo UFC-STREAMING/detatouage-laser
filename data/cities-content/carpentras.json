@@ -1,0 +1,65 @@
+{
+  "slug": "carpentras",
+  "cityName": "Carpentras",
+  "businessName": "New Derma",
+  "businesses": [
+    {
+      "name": "New Derma",
+      "category": "Centre d'épilation laser",
+      "address": "154 Av. Bel air, 84200 Carpentras",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Clinique Provincia Ventoux - Clinique de médecine esthétique et centre d'épilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "300 Rte de Monteux, 84200 Carpentras",
+      "rating": 4.7,
+      "reviewCount": 63
+    },
+    {
+      "name": "Docteur Benjamin Ruwet - Site de Carpentras - Médecine Esthétique et laser",
+      "category": "Centre d'épilation laser",
+      "address": "Provincia Carpentras, 300 Rte de Monteux, 84200 Carpentras",
+      "rating": 4.5,
+      "reviewCount": 82
+    },
+    {
+      "name": "LA CLINIC DU LASER CARPENTRAS",
+      "category": "Centre d'épilation laser",
+      "address": "660 Av. Victor Hugo, 84200 Carpentras",
+      "rating": 4.1,
+      "reviewCount": 49
+    },
+    {
+      "name": "La Clinic de la Beauté | Carpentras",
+      "category": "Centre de bien-être",
+      "address": "680 Av. Victor Hugo, 84200 Carpentras",
+      "rating": 3.8,
+      "reviewCount": 91
+    },
+    {
+      "name": "Centre esthétique Atlas",
+      "category": "Esthéticien",
+      "address": "1111 Av. Jean Henri Fabre, 84200 Carpentras",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "New Derma fait partie des centres de détatouage laser à Carpentras. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Carpentras.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:29:02.216Z"
+}

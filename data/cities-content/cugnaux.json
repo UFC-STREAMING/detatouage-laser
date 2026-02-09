@@ -1,0 +1,52 @@
+{
+  "slug": "cugnaux",
+  "cityName": "Cugnaux",
+  "businessName": "Tatoo L’Âme",
+  "businesses": [
+    {
+      "name": "Tatoo L’Âme",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Rue du Pré Vicinal, 31270 Cugnaux",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "L'empreinte de Margot | Épilation Laser - Amincissement | Cugnaux",
+      "category": "Centre d'épilation laser",
+      "address": "66 G Av. de Toulouse, 31270 Cugnaux",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Cocalye Tattoo",
+      "category": "Tatoueur",
+      "address": "46 Av. de Toulouse, 31270 Cugnaux",
+      "rating": 5,
+      "reviewCount": 92
+    },
+    {
+      "name": "Ray studios Toulouse - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue du Fourbastard, 31000 Toulouse",
+      "rating": 4.9,
+      "reviewCount": 95
+    },
+    {
+      "name": "Maï BrowsPropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "3 Esp. Jacques Chirac, 31270 Cugnaux",
+      "rating": 5,
+      "reviewCount": 193
+    },
+    {
+      "name": "BEN Tattoo studio",
+      "category": "Tatoueur",
+      "address": "69 Av. de Toulouse, 31270 Cugnaux",
+      "rating": 4.8,
+      "reviewCount": 77
+    }
+  ],
+  "description": "Tatoo L’Âme fait partie des centres de détatouage laser à Cugnaux. Avec une note de 5/5 sur 1 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cugnaux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:48:36.088Z"
+}

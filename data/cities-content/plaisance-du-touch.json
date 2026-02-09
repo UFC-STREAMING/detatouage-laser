@@ -1,0 +1,52 @@
+{
+  "slug": "plaisance-du-touch",
+  "cityName": "Plaisance-du-Touch",
+  "businessName": "Nottam'ink",
+  "businesses": [
+    {
+      "name": "Nottam'ink",
+      "category": "Tatoueur",
+      "address": "17b Rue Palanquette, 31830 Plaisance-du-Touch",
+      "rating": 4.8,
+      "reviewCount": 102
+    },
+    {
+      "name": "Mauvaise Graine Tatouage",
+      "category": "Tatoueur",
+      "address": "4 Pl. de la Libération, 31830 Plaisance-du-Touch",
+      "rating": 4.7,
+      "reviewCount": 108
+    },
+    {
+      "name": "SKÓRA TATTOO SHOP",
+      "category": "Tatoueur",
+      "address": "81 Av. des Pyrénées, 31830 Plaisance-du-Touch",
+      "rating": 4.9,
+      "reviewCount": 161
+    },
+    {
+      "name": "Les tatouages de Muriel / Muriel VerstraetePropose : Tatouage réparateur sein/mamelon/aréole/tétons/aréole \nmammaire/cicatrices péri-aréolaires",
+      "category": "Tatoueur",
+      "address": "38-40 Av. des Pyrénées, 31830 Plaisance-du-Touch",
+      "rating": 5,
+      "reviewCount": 57
+    },
+    {
+      "name": "Daruma tattoo shopPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "1 Bd des Capelles, 31830 Plaisance-du-Touch",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "Atypik' Tattoo Piercings",
+      "category": "Salon de tatouage et piercing",
+      "address": "17 Rue Palanquette, 31830 Plaisance-du-Touch",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Nottam'ink fait partie des centres de détatouage laser à Plaisance-du-Touch. Avec une note de 4.8/5 sur 102 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Plaisance-du-Touch.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:47:07.823Z"
+}

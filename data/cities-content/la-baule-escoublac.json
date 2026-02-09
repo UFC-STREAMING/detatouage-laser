@@ -1,0 +1,65 @@
+{
+  "slug": "la-baule-escoublac",
+  "cityName": "La Baule-Escoublac",
+  "businessName": "Clinique des Champs Elysées La Baule - Médecine esthétique",
+  "businesses": [
+    {
+      "name": "Clinique des Champs Elysées La Baule - Médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "Galerie Passage Royal, 44500 La Baule-Escoublac",
+      "rating": 4.7,
+      "reviewCount": 168
+    },
+    {
+      "name": "Dr Benoit Meslin, Médecine Esthétique La Baule",
+      "category": "Cabinet médical",
+      "address": "Médecine Esthétique La Baule, 9 All. des Tamaris, 44500 La Baule-Escoublac",
+      "rating": 4.5,
+      "reviewCount": 66
+    },
+    {
+      "name": "Dr Corinne Potet, médecin esthétique et anti-âge",
+      "category": "Médecin",
+      "address": "médecin esthétique et anti-%C3%A2ge, 67 Av. Louis Lajarrige, 44500 La Baule-Escoublac",
+      "rating": 4.6,
+      "reviewCount": 62
+    },
+    {
+      "name": "Sailor Ink Studio (Salon de tatouage)",
+      "category": "Tatoueur",
+      "address": "138 Av. du Maréchal de Lattre de Tassigny, 44500 La Baule-Escoublac",
+      "rating": 5,
+      "reviewCount": 41
+    },
+    {
+      "name": "Le 4 Tattoo shop (Fanny Gervier Tatouage)",
+      "category": "Tatoueur",
+      "address": "4 Av. de Noirmoutier, 44500 La Baule-Escoublac",
+      "rating": 5,
+      "reviewCount": 137
+    },
+    {
+      "name": "MB ACADÉMIE DE LA BEAUTÉ",
+      "category": "Institut de beauté",
+      "address": "291 Av. du Maréchal de Lattre de Tassigny 289, 44500 La Baule-Escoublac",
+      "rating": 4.6,
+      "reviewCount": 59
+    }
+  ],
+  "description": "Clinique des Champs Elysées La Baule - Médecine esthétique fait partie des centres de détatouage laser à La Baule-Escoublac. Avec une note de 4.7/5 sur 168 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Baule-Escoublac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:01:07.186Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "cournon-d-auvergne",
+  "cityName": "Cournon-d\\'Auvergne",
+  "businessName": "Tattoo Design",
+  "businesses": [
+    {
+      "name": "Tattoo Design",
+      "category": "Tatoueur",
+      "address": "44 Av. du Livradois, 63800 Cournon-d'Auvergne",
+      "rating": 4.7,
+      "reviewCount": 82
+    },
+    {
+      "name": "Authentic | Épilation laser & Soins esthétiques à Cournon-d’Auvergne",
+      "category": "Centre d'épilation laser",
+      "address": "1 Pl. de la République, 63800 Cournon-d'Auvergne",
+      "rating": 5,
+      "reviewCount": 32
+    },
+    {
+      "name": "Sook Hee Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "31 Rue du Commerce, 63800 Cournon-d'Auvergne",
+      "rating": 4.9,
+      "reviewCount": 54
+    },
+    {
+      "name": "Tattoolife valmadink",
+      "category": "Tatoueur",
+      "address": "7 Rue Gisèle Halimi, 63800 Cournon-d'Auvergne",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "Centre EDDERMA-minceur-anti-âge/peeling-épilation définitive ( cellulite/raffermissement/anti-rides/fermeté",
+      "category": "Institut de soins du visage",
+      "address": "15 Rue de Sarliève 2 Eme Etage, 63800 Cournon-d'Auvergne",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "Pike tattoo studio",
+      "category": "Tatoueur",
+      "address": "47 Av. du Midi, 63800 Cournon-d'Auvergne",
+      "rating": 4.9,
+      "reviewCount": 34
+    }
+  ],
+  "description": "Tattoo Design fait partie des centres de détatouage laser à Cournon-d\\'Auvergne. Avec une note de 4.7/5 sur 82 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cournon-d\\'Auvergne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:51:14.955Z"
+}

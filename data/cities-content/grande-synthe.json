@@ -1,0 +1,31 @@
+{
+  "slug": "grande-synthe",
+  "cityName": "Grande-Synthe",
+  "businessName": "Regard de Rêve Academy - Formation institut de beauté Dunkerque",
+  "businesses": [
+    {
+      "name": "Regard de Rêve Academy - Formation institut de beauté Dunkerque",
+      "category": "Service de détatouage",
+      "address": "7 Pl. de l'Abbé Pierre",
+      "rating": 4.8,
+      "reviewCount": 144
+    },
+    {
+      "name": "Laser Game Evolution Grande-Synthe -3 Labyrinthes/Fléchettes connectées",
+      "category": "Centre de laser game",
+      "address": "140 C Av. de Petite-Synthe",
+      "rating": 4.8,
+      "reviewCount": null
+    },
+    {
+      "name": "Hello Sun Centre de bronzage Ergoline UV Dunkerque",
+      "category": "Institut de bronzage",
+      "address": "10 Rue Garnaerstraete",
+      "rating": 5,
+      "reviewCount": 359
+    }
+  ],
+  "description": "Regard de Rêve Academy - Formation institut de beauté Dunkerque fait partie des centres de détatouage laser à Grande-Synthe. Avec une note de 4.8/5 sur 144 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Grande-Synthe.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:50:10.204Z"
+}

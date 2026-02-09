@@ -1,0 +1,65 @@
+{
+  "slug": "cavaillon",
+  "cityName": "Cavaillon",
+  "businessName": "L' Institut de beauté Art du Corps (Centre du Laser - Centre Expert LPG)",
+  "businesses": [
+    {
+      "name": "L' Institut de beauté Art du Corps (Centre du Laser - Centre Expert LPG)",
+      "category": "Centre d'épilation laser",
+      "address": "10 Rue du commerce, 84300 Cavaillon",
+      "rating": 4.7,
+      "reviewCount": 81
+    },
+    {
+      "name": "Hasta La Muerte tattoo/Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "248 Cr Bournissac, 84300 Cavaillon",
+      "rating": 4.8,
+      "reviewCount": 158
+    },
+    {
+      "name": "Clinique Provincia Luberon - Clinique de médecine esthétique et centre d'épilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "132 Av. Gabriel Péri, 84300 Cavaillon",
+      "rating": 4.3,
+      "reviewCount": 37
+    },
+    {
+      "name": "Dermo académiePropose : Tatouage de cils",
+      "category": "Centre de formation",
+      "address": "23 Rue Raspail, 84300 Cavaillon",
+      "rating": 4.9,
+      "reviewCount": 209
+    },
+    {
+      "name": "Syb’tattooPropose : Détatouage",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Dr Benjamin RUWET - site de Cavaillon - Clinique Provincia Cavaillon Médecine Esthétique - Laser",
+      "category": "Centre d'épilation laser",
+      "address": "132 Av. Gabriel Péri, 84300 Cavaillon",
+      "rating": 4.4,
+      "reviewCount": 19
+    }
+  ],
+  "description": "L' Institut de beauté Art du Corps (Centre du Laser - Centre Expert LPG) fait partie des centres de détatouage laser à Cavaillon. Avec une note de 4.7/5 sur 81 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cavaillon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:38:21.705Z"
+}

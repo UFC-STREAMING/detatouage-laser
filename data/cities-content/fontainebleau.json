@@ -1,0 +1,44 @@
+{
+  "slug": "fontainebleau",
+  "cityName": "Fontainebleau",
+  "businessName": "Centre Laser Médical Silice",
+  "businesses": [
+    {
+      "name": "Centre Laser Médical Silice",
+      "category": "Médecin",
+      "address": "15 Av. Franklin Roosevelt, 77210 Avon",
+      "rating": 4.2,
+      "reviewCount": 85
+    },
+    {
+      "name": "Cleanink Détatouage",
+      "category": "Service de détatouage",
+      "address": "11 bis Rue Montebello, 77300 Fontainebleau",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "Laser Factory",
+      "category": "Centre d'épilation laser",
+      "address": "20 Rue Aristide Briand, 77300 Fontainebleau",
+      "rating": 4.3,
+      "reviewCount": 43
+    }
+  ],
+  "description": "Centre Laser Médical Silice fait partie des centres de détatouage laser à Fontainebleau. Avec une note de 4.2/5 sur 85 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fontainebleau.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:07:09.068Z"
+}

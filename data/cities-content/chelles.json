@@ -1,0 +1,31 @@
+{
+  "slug": "chelles",
+  "cityName": "Chelles",
+  "businessName": "Body-R-Evolution",
+  "businesses": [
+    {
+      "name": "Body-R-Evolution",
+      "category": "Salon de tatouage et piercing",
+      "address": "3Bis Rue de la Paix, 77500 Chelles",
+      "rating": 4.8,
+      "reviewCount": 433
+    },
+    {
+      "name": "Maelis Centre Laser Chelles / Gagny - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "41 Av. du Maréchal Foch, 77500 Chelles",
+      "rating": 5,
+      "reviewCount": 463
+    },
+    {
+      "name": "Alchemy tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "43 Bd Chilperic, 77500 Chelles",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Body-R-Evolution fait partie des centres de détatouage laser à Chelles. Avec une note de 4.8/5 sur 433 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chelles.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:14:39.198Z"
+}

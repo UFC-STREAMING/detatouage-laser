@@ -1,0 +1,44 @@
+{
+  "slug": "laon",
+  "cityName": "Laon",
+  "businessName": "Marydetattoo Détatouage sans laser piercing",
+  "businesses": [
+    {
+      "name": "Marydetattoo Détatouage sans laser piercing",
+      "category": "Service de détatouage",
+      "address": "Rue Jean Jaurès Espace C , Cellule 3, 02000 Chambry",
+      "rating": 4.9,
+      "reviewCount": 218
+    },
+    {
+      "name": "l'atelier des damnés",
+      "category": "Salon de tatouage et piercing",
+      "address": "17 Rue Eugène Leduc, 02000 Laon",
+      "rating": 4.9,
+      "reviewCount": 153
+    },
+    {
+      "name": "Cherry ink tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "21 Av. Charles de Gaulle, 02000 Laon",
+      "rating": 4.8,
+      "reviewCount": 97
+    }
+  ],
+  "description": "Marydetattoo Détatouage sans laser piercing fait partie des centres de détatouage laser à Laon. Avec une note de 4.9/5 sur 218 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Laon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:39:54.145Z"
+}

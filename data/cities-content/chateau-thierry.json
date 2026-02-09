@@ -1,0 +1,65 @@
+{
+  "slug": "chateau-thierry",
+  "cityName": "Château-Thierry",
+  "businessName": "Lez' Art du Corps",
+  "businesses": [
+    {
+      "name": "Lez' Art du Corps",
+      "category": "Salon de tatouage et piercing",
+      "address": "17 Rue Carnot",
+      "rating": 4.6,
+      "reviewCount": 187
+    },
+    {
+      "name": "Black Addiction Barber Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "15 Av. de Paris",
+      "rating": 4.8,
+      "reviewCount": 217
+    },
+    {
+      "name": "L'Avancée | Épilation laser et Soins esthétiques | Château-Thierry",
+      "category": "Centre d'épilation laser",
+      "address": "14 Rue Vallée",
+      "rating": 5,
+      "reviewCount": 64
+    },
+    {
+      "name": "Gwendoline body piercing",
+      "category": "Salon de piercing",
+      "address": "15 Av. de Paris",
+      "rating": 4.9,
+      "reviewCount": 95
+    },
+    {
+      "name": "Centre Laser Esthétique CLE",
+      "category": "Centre d'épilation laser",
+      "address": "30 Rue Carnot",
+      "rating": 4.9,
+      "reviewCount": 32
+    },
+    {
+      "name": "La Fontaine D'encre",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 Rue Lefèvre Maugras",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Lez' Art du Corps fait partie des centres de détatouage laser à Château-Thierry. Avec une note de 4.6/5 sur 187 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Château-Thierry.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:08:53.313Z"
+}

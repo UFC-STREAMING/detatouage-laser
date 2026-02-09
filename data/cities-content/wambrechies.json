@@ -1,0 +1,52 @@
+{
+  "slug": "wambrechies",
+  "cityName": "Wambrechies",
+  "businessName": "Clinique Confidence - Epilation laser - Détatouage laser - Médecine esthétique - Orthodontie Invisalign Lille",
+  "businesses": [
+    {
+      "name": "Clinique Confidence - Epilation laser - Détatouage laser - Médecine esthétique - Orthodontie Invisalign Lille",
+      "category": "Service de détatouage",
+      "address": "278 Bd Clemenceau, 59700 Marcq-en-Bar%C5%93ul",
+      "rating": 5,
+      "reviewCount": 260
+    },
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "LumeaDerm - Épilation laser & cryolipolyse à Wambrechies",
+      "category": "Centre d'épilation laser",
+      "address": "939 Rue d'Ypres, 59118 Wambrechies",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Clinique Clemenceau",
+      "category": "Service de détatouage",
+      "address": "179b Bd Clemenceau, 59700 Marcq-en-Bar%C5%93ul",
+      "rating": 4.8,
+      "reviewCount": 4
+    },
+    {
+      "name": "CLINIC RENAISSANCE - Centre de médecine esthétiquePropose : Détatouage",
+      "category": "Médecin",
+      "address": "181 Rue de Menin, 59520 Marquette-lez-Lille",
+      "rating": 4.8,
+      "reviewCount": 611
+    },
+    {
+      "name": "The Inkorrigibles",
+      "category": "Salon de tatouage et piercing",
+      "address": "1023 Rue d'Ypres, 59118 Wambrechies",
+      "rating": 4.7,
+      "reviewCount": 107
+    }
+  ],
+  "description": "Clinique Confidence - Epilation laser - Détatouage laser - Médecine esthétique - Orthodontie Invisalign Lille fait partie des centres de détatouage laser à Wambrechies. Avec une note de 5/5 sur 260 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Wambrechies.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:37:24.400Z"
+}

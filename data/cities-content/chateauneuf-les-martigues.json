@@ -1,0 +1,44 @@
+{
+  "slug": "chateauneuf-les-martigues",
+  "cityName": "Châteauneuf-les-Martigues",
+  "businessName": "Laser 26 - Châteauneuf les Martigues I Centre d'Épilation Laser",
+  "businesses": [
+    {
+      "name": "Laser 26 - Châteauneuf les Martigues I Centre d'Épilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "Centre commercial Les Oliviers, 58 Chem. de Patafloux",
+      "rating": 4.9,
+      "reviewCount": 33
+    },
+    {
+      "name": "Memory ink tattoo",
+      "category": "Tatoueur",
+      "address": "Zone commerciale les oliviers",
+      "rating": 4.7,
+      "reviewCount": 14
+    },
+    {
+      "name": "Your Esthetik / Head Spa",
+      "category": "Institut de beauté",
+      "address": "19 Bd Armand Audibert",
+      "rating": 5,
+      "reviewCount": 206
+    }
+  ],
+  "description": "Laser 26 - Châteauneuf les Martigues I Centre d'Épilation Laser fait partie des centres de détatouage laser à Châteauneuf-les-Martigues. Avec une note de 4.9/5 sur 33 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Châteauneuf-les-Martigues.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:56:10.669Z"
+}

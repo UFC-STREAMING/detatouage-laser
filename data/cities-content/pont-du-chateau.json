@@ -1,0 +1,52 @@
+{
+  "slug": "pont-du-chateau",
+  "cityName": "Pont-du-Château",
+  "businessName": "Helene dermostyle",
+  "businesses": [
+    {
+      "name": "Helene dermostyle",
+      "category": "Clinique de maquillage permanent",
+      "address": "35 Rue du Dr Chambige, 63430 Pont-du-Ch%C3%A2teau",
+      "rating": 4.8,
+      "reviewCount": 102
+    },
+    {
+      "name": "Sturgis Tattoo",
+      "category": "Tatoueur",
+      "address": "3 Rue de L H%C3%B4tel de ville, 63430 Pont-du-Ch%C3%A2teau",
+      "rating": 4.7,
+      "reviewCount": 71
+    },
+    {
+      "name": "Excellence Formation | Beauté, Bien-être & Hygiène",
+      "category": "Centre de formation continue",
+      "address": "Bien-être %26 Hygiène, 35 Rue du Dr Chambige, 63430 Pont-du-Ch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 148
+    },
+    {
+      "name": "Beaute D Ange",
+      "category": "Institut de beauté",
+      "address": "11 Ave Jean Moulin, 63430 Pont-du-Ch%C3%A2teau",
+      "rating": 4.8,
+      "reviewCount": 78
+    },
+    {
+      "name": "Diamantine's beauté",
+      "category": "Institut de beauté",
+      "address": "34 Chem. Sainte-Marcelle, 63430 Pont-du-Ch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 34
+    },
+    {
+      "name": "Laëtitia Guedes",
+      "category": "Institut de beauté",
+      "address": "10 Pl. de la Liberté, 63430 Pont-du-Ch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 41
+    }
+  ],
+  "description": "Helene dermostyle fait partie des centres de détatouage laser à Pont-du-Château. Avec une note de 4.8/5 sur 102 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pont-du-Château.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:25:15.353Z"
+}

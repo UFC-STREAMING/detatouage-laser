@@ -1,0 +1,31 @@
+{
+  "slug": "noyon",
+  "cityName": "Noyon",
+  "businessName": "Abaddon Tattoo Studio",
+  "businesses": [
+    {
+      "name": "Abaddon Tattoo Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "40 Rue de Paris, 60400 Noyon",
+      "rating": 4.4,
+      "reviewCount": 28
+    },
+    {
+      "name": "Studio 76 Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "76 Grande Rue, 60400 Salency",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "Shock tattoo",
+      "category": "Tatoueur",
+      "address": "245 Rue de Chauny, 60640 Fréniches",
+      "rating": 5,
+      "reviewCount": 34
+    }
+  ],
+  "description": "Abaddon Tattoo Studio fait partie des centres de détatouage laser à Noyon. Avec une note de 4.4/5 sur 28 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Noyon.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:20:52.860Z"
+}

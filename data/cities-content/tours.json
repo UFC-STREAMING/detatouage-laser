@@ -1,0 +1,65 @@
+{
+  "slug": "tours",
+  "cityName": "Tours",
+  "businessName": "Centre laser CtrlZ - Tours",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Tours",
+      "category": "Centre d'épilation laser",
+      "address": "6 Bis Bd Béranger, 37000 Tours",
+      "rating": 5,
+      "reviewCount": 46
+    },
+    {
+      "name": "Médélia",
+      "category": "Institut de beauté",
+      "address": "21 Rue de Clocheville, 37000 Tours",
+      "rating": 4.7,
+      "reviewCount": 209
+    },
+    {
+      "name": "Centre Laser Vallée Violette",
+      "category": "Centre d'épilation laser",
+      "address": "45 Rue de Chenonceaux, 37300 Joué-lès-Tours",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "Centre Laser maquillage permanent - Tours",
+      "category": "Esthéticien",
+      "address": "17 Rue de Jérusalem, 37000 Tours",
+      "rating": 4.9,
+      "reviewCount": 35
+    },
+    {
+      "name": "Docteur Julien BESNARD - Médecine Générale et Détatouage Laser",
+      "category": "Médecin",
+      "address": "4 All. Joseph Jaunay, 37540 Saint-Cyr-sur-Loire",
+      "rating": 4.5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Lazeo Tours",
+      "category": "Centre d'épilation laser",
+      "address": "84 bis Av. de Grammont, 37000 Tours",
+      "rating": 4.4,
+      "reviewCount": 276
+    }
+  ],
+  "description": "Centre laser CtrlZ - Tours fait partie des centres de détatouage laser à Tours. Avec une note de 5/5 sur 46 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tours.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:04:44.097Z"
+}

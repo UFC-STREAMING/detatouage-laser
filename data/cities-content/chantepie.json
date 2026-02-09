@@ -1,0 +1,44 @@
+{
+  "slug": "chantepie",
+  "cityName": "Chantepie",
+  "businessName": "Elegant Center (Piercing, Strass Dentaire, détatouage)",
+  "businesses": [
+    {
+      "name": "Elegant Center (Piercing, Strass Dentaire, détatouage)",
+      "category": "Salon de piercing",
+      "address": "Strass Dentaire, détatouage), 13 Bd René Laennec, 35000 Rennes",
+      "rating": 4.9,
+      "reviewCount": 564
+    },
+    {
+      "name": "Monsieur Berdah",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Rue du Breil, 35000 Rennes",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Centre Laser Médical de Rennes",
+      "category": "Centre d'épilation laser",
+      "address": "20 Rue Victor Hugo, 35000 Rennes",
+      "rating": 4.1,
+      "reviewCount": 106
+    }
+  ],
+  "description": "Elegant Center (Piercing, Strass Dentaire, détatouage) fait partie des centres de détatouage laser à Chantepie. Avec une note de 4.9/5 sur 564 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chantepie.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Le détatouage laser est-il efficace ?",
+      "answer": "Le laser de détatouage fonctionne en effet pleinement lorsque la couleur du tatouage est bien visible et que la couleur de l'encre contraste avec celle de la peau. Si vous avez des croûtes ou que votre peau est rouge, abîmée, le laser ne sera pas en mesure de repérer les pigments et de les faire éclater."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:41:14.278Z"
+}

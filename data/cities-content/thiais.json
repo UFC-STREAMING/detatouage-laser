@@ -1,0 +1,31 @@
+{
+  "slug": "thiais",
+  "cityName": "Thiais",
+  "businessName": "Centre Laser Beauté Médical - Dr Saragosti.",
+  "businesses": [
+    {
+      "name": "Centre Laser Beauté Médical - Dr Saragosti.",
+      "category": "Service de détatouage",
+      "address": "Tour Europa Carrefour, 9 Av. de l'Europe Porte 4, 94320 Thiais",
+      "rating": 4.3,
+      "reviewCount": 41
+    },
+    {
+      "name": "Nymphea Aesthetic | Épilation Laser - Amincissement - Anti-Âge | THIAIS",
+      "category": "Centre d'épilation laser",
+      "address": "15 Rue Marcel Bierry, 94320 Thiais",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "La cabane qui pique",
+      "category": "Tatoueur",
+      "address": "22 Rue de l'Insurrection Parisienne, 94600 Choisy-le-Roi",
+      "rating": 5,
+      "reviewCount": 53
+    }
+  ],
+  "description": "Centre Laser Beauté Médical - Dr Saragosti. fait partie des centres de détatouage laser à Thiais. Avec une note de 4.3/5 sur 41 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Thiais.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:27:38.313Z"
+}

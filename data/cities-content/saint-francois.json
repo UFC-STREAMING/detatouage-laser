@@ -1,0 +1,40 @@
+{
+  "slug": "saint-francois",
+  "cityName": "Saint-François",
+  "businessName": "Esthétique Lily",
+  "businesses": [
+    {
+      "name": "Esthétique Lily",
+      "category": "Institut de beauté",
+      "address": "93A Rte Marie-Victorin suite 104",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "MylTattoo",
+      "category": "Tatoueur",
+      "address": "rang de la Grande-Terre",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Beautéal - Centre de médecine esthétique et laser du Dr Alice DEMOLY",
+      "category": "Médecin",
+      "address": "Saint-François, Guadeloupe",
+      "rating": 4.8,
+      "reviewCount": 44
+    }
+  ],
+  "description": "Esthétique Lily fait partie des centres de détatouage laser à Saint-François. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-François.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:15:43.627Z"
+}

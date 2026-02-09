@@ -1,0 +1,44 @@
+{
+  "slug": "halluin",
+  "cityName": "Halluin",
+  "businessName": "Bellissima marina",
+  "businesses": [
+    {
+      "name": "Bellissima marina",
+      "category": "Institut de beauté",
+      "address": "66 Carrière du Lapin Blanc",
+      "rating": 5,
+      "reviewCount": 56
+    },
+    {
+      "name": "Tag-me Salon De Tatouage",
+      "category": "Tatoueur",
+      "address": "118 ter Rue de Lille",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "MBL.technico-esthetique",
+      "category": "Centre d'épilation laser",
+      "address": "45 Rue de l'Abbé Coulon",
+      "rating": 5,
+      "reviewCount": 11
+    }
+  ],
+  "description": "Bellissima marina fait partie des centres de détatouage laser à Halluin. Avec une note de 5/5 sur 56 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Halluin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:48:21.331Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "issoudun",
+  "cityName": "Issoudun",
+  "businessName": "L'artisan tattoo",
+  "businesses": [
+    {
+      "name": "L'artisan tattoo",
+      "category": "Tatoueur",
+      "address": "1 bis, Rue du Père Jules Chevalier rue du",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Peau de Bête",
+      "category": "Tatoueur",
+      "address": "4 Rue des Minimes",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Dark design tattoo",
+      "category": "Tatoueur",
+      "address": "8 Rue de la République",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Red Black and Blue",
+      "category": "Salon de tatouage et piercing",
+      "address": "26 Bd Franklin Roosevelt, 36100 Issoudun",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Art de Soi - Issoudun",
+      "category": "Institut de beauté",
+      "address": "50 Pl. de la Croix de Pierre",
+      "rating": 4.6,
+      "reviewCount": 79
+    },
+    {
+      "name": "AURA TATTOO THERAPY",
+      "category": "Salon de tatouage et piercing",
+      "address": "12 Rue des %C3%89chelles, 36100 La Champenoise",
+      "rating": 5,
+      "reviewCount": 16
+    }
+  ],
+  "description": "L'artisan tattoo fait partie des centres de détatouage laser à Issoudun. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Issoudun.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:36:26.640Z"
+}

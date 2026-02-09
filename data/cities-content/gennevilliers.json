@@ -1,0 +1,31 @@
+{
+  "slug": "gennevilliers",
+  "cityName": "Gennevilliers",
+  "businessName": "DocteurTatoo",
+  "businesses": [
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    },
+    {
+      "name": "NB Beauty AcademyPropose : Speed détatouage",
+      "category": "Institut de beauté",
+      "address": "17 Rue Royer Bendelé, 92230 Gennevilliers",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Body industry Asnières 92 - Epilation Laser / Definitive - Cryolipolyse",
+      "category": "Centre d'épilation laser",
+      "address": "122 Rue des Bourguignons, 92600 Asnières-sur-Seine",
+      "rating": 4.9,
+      "reviewCount": null
+    }
+  ],
+  "description": "DocteurTatoo fait partie des centres de détatouage laser à Gennevilliers. Avec une note de 4.9/5 sur 297 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gennevilliers.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:16:12.971Z"
+}

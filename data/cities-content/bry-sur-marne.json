@@ -1,0 +1,44 @@
+{
+  "slug": "bry-sur-marne",
+  "cityName": "Bry-sur-Marne",
+  "businessName": "Pardon MamanPropose : Tatouage",
+  "businesses": [
+    {
+      "name": "Pardon MamanPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "2 Bd du Général Gallieni, 94360 Bry-sur-Marne",
+      "rating": 4.8,
+      "reviewCount": 200
+    },
+    {
+      "name": "L'Arcorporel Centre Laser Le Perreux sur Marne - Centre esthétique épilation définitive",
+      "category": "Centre d'épilation laser",
+      "address": "6 Av. du Général de Gaulle, 94170 Le Perreux-sur-Marne",
+      "rating": 4.8,
+      "reviewCount": 299
+    },
+    {
+      "name": "Corpspour'L | Maison de beauté | Bry-sur-Marne (94)Propose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "4 Rue de Noisy le Grand, 94360 Bry-sur-Marne",
+      "rating": 4.9,
+      "reviewCount": 228
+    }
+  ],
+  "description": "Pardon MamanPropose : Tatouage fait partie des centres de détatouage laser à Bry-sur-Marne. Avec une note de 4.8/5 sur 200 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bry-sur-Marne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:56:04.382Z"
+}

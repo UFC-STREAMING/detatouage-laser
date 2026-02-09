@@ -1,0 +1,31 @@
+{
+  "slug": "yzeure",
+  "cityName": "Yzeure",
+  "businessName": "TattooFactory",
+  "businesses": [
+    {
+      "name": "TattooFactory",
+      "category": "Salon de tatouage et piercing",
+      "address": "Moulins",
+      "rating": 4.9,
+      "reviewCount": 78
+    },
+    {
+      "name": "L'Arboretum Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "Moulins",
+      "rating": 4.7,
+      "reviewCount": 25
+    },
+    {
+      "name": "Human be Ink ( L’Arboretum Tattoo Shop )",
+      "category": "Tatoueur",
+      "address": "Moulins",
+      "rating": 4.7,
+      "reviewCount": 28
+    }
+  ],
+  "description": "TattooFactory fait partie des centres de détatouage laser à Yzeure. Avec une note de 4.9/5 sur 78 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Yzeure.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:21:50.004Z"
+}

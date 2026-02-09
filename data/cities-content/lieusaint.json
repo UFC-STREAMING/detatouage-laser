@@ -1,0 +1,52 @@
+{
+  "slug": "lieusaint",
+  "cityName": "Lieusaint",
+  "businessName": "LEDEN CENTRE LIEUSAINT SENART 2, Médecine Esthétique et Laser",
+  "businesses": [
+    {
+      "name": "LEDEN CENTRE LIEUSAINT SENART 2, Médecine Esthétique et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "Médecine Esthétique et Laser, P%C3%B4le Médical Carré Sénart2, 6 Points de Vue BAT A - 3ème étage, 77127 Lieusaint",
+      "rating": 4.3,
+      "reviewCount": 257
+    },
+    {
+      "name": "Never Fade Collective Tattoo Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "Carré Haussmann III, 1 All. de la Frm de Varatre, 77127 Lieusaint",
+      "rating": 5,
+      "reviewCount": 204
+    },
+    {
+      "name": "Imara Institut - Institut de Beauté & Centre de formation Esthétique LieusaintPropose : Tatouage",
+      "category": "Institut de beauté",
+      "address": "11-13 Pl. du Colombier, 77127 Lieusaint",
+      "rating": 4.9,
+      "reviewCount": 180
+    },
+    {
+      "name": "Jeff TattooPropose : Tatouage (pas de piercing)",
+      "category": "Tatoueur",
+      "address": "13 Rue Jateau, 77127 Lieusaint",
+      "rating": 4.8,
+      "reviewCount": 69
+    },
+    {
+      "name": "Centre laser CtrlZ - Melun",
+      "category": "Centre d'épilation laser",
+      "address": "1 Pl. Praslin, 77000 Melun",
+      "rating": 5,
+      "reviewCount": 91
+    },
+    {
+      "name": "Lazeo Senart",
+      "category": "Centre d'épilation laser",
+      "address": "1 All. de la Frm de Varatre, 77127 Lieusaint",
+      "rating": 4.5,
+      "reviewCount": 372
+    }
+  ],
+  "description": "LEDEN CENTRE LIEUSAINT SENART 2, Médecine Esthétique et Laser fait partie des centres de détatouage laser à Lieusaint. Avec une note de 4.3/5 sur 257 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lieusaint.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:15:29.066Z"
+}

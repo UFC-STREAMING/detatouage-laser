@@ -1,0 +1,31 @@
+{
+  "slug": "sevran",
+  "cityName": "Sevran",
+  "businessName": "GLAZE Sevran | Clinique de Médecine Esthétique",
+  "businesses": [
+    {
+      "name": "GLAZE Sevran | Clinique de Médecine Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue Auguste Cretier, 93270 Sevran",
+      "rating": 4.9,
+      "reviewCount": 89
+    },
+    {
+      "name": "NLN Beauty - Centre de soins esthétiques avancés: épilation définitive sur mesure, minceur et traitements anti-âgePropose : Speed détatouage",
+      "category": "Centre d'amincissement",
+      "address": "minceur et traitements anti-%C3%A2ge, 59 Av. Dupuis, 93600 Aulnay-sous-Bois",
+      "rating": 4.9,
+      "reviewCount": 49
+    },
+    {
+      "name": "Da beauty&sculpte rasping/ épilation laser diode, Soin visage , peeling ROSE DE MER de CHRISTINA COSMECEUTICALS",
+      "category": "Centre d'épilation laser",
+      "address": "Soin visage , peeling ROSE DE MER de CHRISTINA COSMECEUTICALS, 37 Bd Lucien Gelot, 93270 Sevran",
+      "rating": 5,
+      "reviewCount": 11
+    }
+  ],
+  "description": "GLAZE Sevran | Clinique de Médecine Esthétique fait partie des centres de détatouage laser à Sevran. Avec une note de 4.9/5 sur 89 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sevran.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:15:49.673Z"
+}

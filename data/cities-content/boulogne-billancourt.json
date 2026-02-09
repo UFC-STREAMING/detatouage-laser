@@ -1,0 +1,65 @@
+{
+  "slug": "boulogne-billancourt",
+  "cityName": "Boulogne-Billancourt",
+  "businessName": "Centre Médecine Esthetique et Traitements Laser",
+  "businesses": [
+    {
+      "name": "Centre Médecine Esthetique et Traitements Laser",
+      "category": "Service de détatouage",
+      "address": "55 Bd Jean Jaurès",
+      "rating": 4.8,
+      "reviewCount": 570
+    },
+    {
+      "name": "Centre laser CtrlZ - Boulogne-Billancourt",
+      "category": "Centre d'épilation laser",
+      "address": "69 Rue du Point du Jour",
+      "rating": 4.9,
+      "reviewCount": 37
+    },
+    {
+      "name": "Reset Laser Boulogne-Billancourt - Arrêter de fumer 92",
+      "category": "Cabinet médical",
+      "address": "14 Rue de la Belle Feuille",
+      "rating": 5,
+      "reviewCount": 76
+    },
+    {
+      "name": "Lazeo Médical Boulogne",
+      "category": "Centre d'épilation laser",
+      "address": "203 Bd Jean Jaurès 1er étage",
+      "rating": 4.6,
+      "reviewCount": 316
+    },
+    {
+      "name": "ELITE LASER",
+      "category": "Centre d'épilation laser",
+      "address": "119 Av. André Morizet",
+      "rating": 4.9,
+      "reviewCount": 138
+    },
+    {
+      "name": "Centre laser Stop 92",
+      "category": "Cabinet médical",
+      "address": "44 Rue d'Aguesseau",
+      "rating": 5,
+      "reviewCount": 17
+    }
+  ],
+  "description": "Centre Médecine Esthetique et Traitements Laser fait partie des centres de détatouage laser à Boulogne-Billancourt. Avec une note de 4.8/5 sur 570 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Boulogne-Billancourt.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:05:13.714Z"
+}

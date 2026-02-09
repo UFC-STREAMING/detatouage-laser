@@ -1,0 +1,40 @@
+{
+  "slug": "treillieres",
+  "cityName": "Treillières",
+  "businessName": "Ray studios Nantes - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Nantes - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "39 Bd Gabriel Guist'Hau, 44000 Nantes",
+      "rating": 4.9,
+      "reviewCount": 145
+    },
+    {
+      "name": "Neopsis Dermographie | Dermopigmentation Réparatrice, Esthétique, Tricopigmentation, Tatouage & Piercing.",
+      "category": "Clinique",
+      "address": "Esthétique, Tricopigmentation, Tatouage %26 Piercing., 27 Rue de la Vrière, 44240 La Chapelle-sur-Erdre",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "My Laser Nantes - Epilation laser & Médecine esthétique",
+      "category": "Service de détatouage",
+      "address": "6 Rue de Mazagran, 44100 Nantes",
+      "rating": 4.9,
+      "reviewCount": 162
+    }
+  ],
+  "description": "Ray studios Nantes - centre de détatouage laser fait partie des centres de détatouage laser à Treillières. Avec une note de 4.9/5 sur 145 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Treillières.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:42:12.888Z"
+}

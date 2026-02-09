@@ -1,0 +1,52 @@
+{
+  "slug": "garches",
+  "cityName": "Garches",
+  "businessName": "Dr Anne-Sophie Sellier",
+  "businesses": [
+    {
+      "name": "Dr Anne-Sophie Sellier",
+      "category": "Centre d'épilation laser",
+      "address": "152 Bd du Général de Gaulle, 92380 Garches",
+      "rating": 4.5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Dr Mélanie HERZ - Médecine Esthétique & Lasers Médicaux",
+      "category": "Centre d'épilation laser",
+      "address": "Centre Médical Esthéa, 152 Bd du Général de Gaulle, 92380 Garches",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    },
+    {
+      "name": "Lazeo Garches",
+      "category": "Centre d'épilation laser",
+      "address": "71-73 Rue de Suresnes, 92380 Garches",
+      "rating": 4.9,
+      "reviewCount": 27
+    },
+    {
+      "name": "Rachel SolPropose : Tatouage de cils",
+      "category": "Clinique de maquillage permanent",
+      "address": "Rue des Quatre Vents, 92380 Garches",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Centre Médecine Esthetique et Traitements Laser",
+      "category": "Centre médical",
+      "address": "55 Bd Jean Jaurès, 92100 Boulogne-Billancourt",
+      "rating": 4.8,
+      "reviewCount": 570
+    }
+  ],
+  "description": "Dr Anne-Sophie Sellier fait partie des centres de détatouage laser à Garches. Avec une note de 4.5/5 sur 16 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Garches.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:58:49.355Z"
+}

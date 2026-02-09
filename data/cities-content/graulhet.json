@@ -1,0 +1,40 @@
+{
+  "slug": "graulhet",
+  "cityName": "Graulhet",
+  "businessName": "La Mégisserie Tattoo studio",
+  "businesses": [
+    {
+      "name": "La Mégisserie Tattoo studio",
+      "category": "Tatoueur",
+      "address": "3 Bis Rue Colonel Naudy, 81300 Graulhet",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Zone 51",
+      "category": "Salon de tatouage et piercing",
+      "address": "Rue de la Mégisserie, 81300 Graulhet",
+      "rating": 4.5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Titi tattoo",
+      "category": "Tatoueur",
+      "address": "3 Bd Dr Pontier boulevard du, 81300 Graulhet",
+      "rating": 4.7,
+      "reviewCount": 83
+    }
+  ],
+  "description": "La Mégisserie Tattoo studio fait partie des centres de détatouage laser à Graulhet. Avec une note de 5/5 sur 20 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Graulhet.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Quels sont les avis sur LS Beauty à Graulhet ?",
+      "answer": "LS Beauty. Vraiment très contente de cette prestation et de cette rencontre. Jeune fille très professionnelle je recommande ! Situé à Graulhet, LS Beauty, est un havre de sérénité où le professionnalisme et la gaieté restent à l'honneur."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:20:18.907Z"
+}

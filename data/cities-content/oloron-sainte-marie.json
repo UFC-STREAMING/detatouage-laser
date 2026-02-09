@@ -1,0 +1,65 @@
+{
+  "slug": "oloron-sainte-marie",
+  "cityName": "Oloron-Sainte-Marie",
+  "businessName": "Armixt",
+  "businesses": [
+    {
+      "name": "Armixt",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Rue Louis Barthou",
+      "rating": 4.9,
+      "reviewCount": 43
+    },
+    {
+      "name": "LASER OLORON",
+      "category": "Boutique d'accessoires de mode",
+      "address": "4 Rue Van Gogh",
+      "rating": 4.2,
+      "reviewCount": 176
+    },
+    {
+      "name": "Titou Tattoo Studio",
+      "category": "Tatoueur",
+      "address": "20 Rue Louis Barthou",
+      "rating": 4.8,
+      "reviewCount": 133
+    },
+    {
+      "name": "Clin d'Oeil spa",
+      "category": "Institut de beauté",
+      "address": "7 Av. du 4 Septembre",
+      "rating": 4.9,
+      "reviewCount": 34
+    },
+    {
+      "name": "La Sangtième Ligne",
+      "category": "Tatoueur",
+      "address": "1 Rue de la Filature",
+      "rating": 5,
+      "reviewCount": 47
+    },
+    {
+      "name": "Chrysalide",
+      "category": "Institut de beauté",
+      "address": "13 Rue Alfred de Vigny",
+      "rating": 5,
+      "reviewCount": 44
+    }
+  ],
+  "description": "Armixt fait partie des centres de détatouage laser à Oloron-Sainte-Marie. Avec une note de 4.9/5 sur 43 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Oloron-Sainte-Marie.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:40:53.755Z"
+}

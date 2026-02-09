@@ -1,0 +1,44 @@
+{
+  "slug": "saint-pierre-du-perray",
+  "cityName": "Saint-Pierre-du-Perray",
+  "businessName": "LEDEN CENTRE LIEUSAINT SENART 2, Médecine Esthétique et Laser",
+  "businesses": [
+    {
+      "name": "LEDEN CENTRE LIEUSAINT SENART 2, Médecine Esthétique et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "Médecine Esthétique et Laser, P%C3%B4le Médical Carré Sénart2, 6 Points de Vue BAT A - 3ème étage, 77127 Lieusaint",
+      "rating": 4.3,
+      "reviewCount": 257
+    },
+    {
+      "name": "Vos sourcils au naturel",
+      "category": "Institut de beauté",
+      "address": "Rue des Bleuets, 91280 Saint-Pierre-du-Perray",
+      "rating": 5,
+      "reviewCount": 163
+    },
+    {
+      "name": "Ametys Esthétique",
+      "category": "Institut de beauté",
+      "address": "45 Av. du Général de Gaulle, 91280 Saint-Pierre-du-Perray",
+      "rating": 4.9,
+      "reviewCount": 126
+    }
+  ],
+  "description": "LEDEN CENTRE LIEUSAINT SENART 2, Médecine Esthétique et Laser fait partie des centres de détatouage laser à Saint-Pierre-du-Perray. Avec une note de 4.3/5 sur 257 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Pierre-du-Perray.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quels sont les tarifs du détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:30:05.318Z"
+}

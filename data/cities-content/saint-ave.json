@@ -1,0 +1,31 @@
+{
+  "slug": "saint-ave",
+  "cityName": "Saint-Avé",
+  "businessName": "STUDIO NEODERM maquillage permanent, microblading & dermopigmentation corrective",
+  "businesses": [
+    {
+      "name": "STUDIO NEODERM maquillage permanent, microblading & dermopigmentation corrective",
+      "category": "Clinique de maquillage permanent",
+      "address": "34 Rue des Constellations",
+      "rating": 5,
+      "reviewCount": 67
+    },
+    {
+      "name": "Ev'ink Tattoo",
+      "category": "Clinique de maquillage permanent",
+      "address": "1 Rue Pierre le Nouail",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Médecine Esthétique Océane - centre laser estyle",
+      "category": "Centre d'épilation laser",
+      "address": "Vannes",
+      "rating": 4.6,
+      "reviewCount": 59
+    }
+  ],
+  "description": "STUDIO NEODERM maquillage permanent, microblading & dermopigmentation corrective fait partie des centres de détatouage laser à Saint-Avé. Avec une note de 5/5 sur 67 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Avé.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:24:43.769Z"
+}

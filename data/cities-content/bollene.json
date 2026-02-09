@@ -1,0 +1,52 @@
+{
+  "slug": "bollene",
+  "cityName": "Bollène",
+  "businessName": "Elynk Tattoo",
+  "businesses": [
+    {
+      "name": "Elynk Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "36 bis Bd Victor Hugo, 84500 Bollène",
+      "rating": 4.7,
+      "reviewCount": 11
+    },
+    {
+      "name": "Dermex Centre Dermo-EsthétiquePropose : Dissimulation et retouche de tatouages",
+      "category": "Salon spécialisé dans le travail des cils",
+      "address": "5 Rue Sainte-Anne, 84500 Bollène",
+      "rating": 4.8,
+      "reviewCount": 33
+    },
+    {
+      "name": "Matt_gold_piercing",
+      "category": "Salon de piercing",
+      "address": "7 Rue Emile Zola, 84500 Bollène",
+      "rating": 4.9,
+      "reviewCount": 106
+    },
+    {
+      "name": "L'atelier de Fannie",
+      "category": "Tatoueur",
+      "address": "340 Av. Marius Coulon, 84500 Bollène",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Birdy Ink",
+      "category": "Tatoueur",
+      "address": "434 Rue Alphonse Daudet, 84500 Bollène",
+      "rating": 4.8,
+      "reviewCount": 53
+    },
+    {
+      "name": "A&G Beauty",
+      "category": "Salon de manucure",
+      "address": "7 Rue Emile Zola, 84500 Bollène",
+      "rating": 4.9,
+      "reviewCount": 49
+    }
+  ],
+  "description": "Elynk Tattoo fait partie des centres de détatouage laser à Bollène. Avec une note de 4.7/5 sur 11 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bollène.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:15:24.541Z"
+}

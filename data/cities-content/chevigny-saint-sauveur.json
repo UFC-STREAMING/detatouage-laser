@@ -1,0 +1,40 @@
+{
+  "slug": "chevigny-saint-sauveur",
+  "cityName": "Chevigny-Saint-Sauveur",
+  "businessName": "L’ atmosph’ere",
+  "businesses": [
+    {
+      "name": "L’ atmosph’ere",
+      "category": "Tatoueur",
+      "address": "11 Rue Jean Baptiste Say",
+      "rating": 5,
+      "reviewCount": 48
+    },
+    {
+      "name": "Mad Saloon Tattoo",
+      "category": "Tatoueur",
+      "address": "11 Rue Jean Baptiste Say, 21800 Chevigny-Saint-Sauveur",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Le Salon de Mel- Tatoueuse diplômée en dermopigmentation médicale et maquillage semi-permanent. Extensions de cil",
+      "category": "Clinique de maquillage permanent",
+      "address": "L'Atmosph'ere, 11 Rue Jean Baptiste Say",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "L’ atmosph’ere fait partie des centres de détatouage laser à Chevigny-Saint-Sauveur. Avec une note de 5/5 sur 48 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chevigny-Saint-Sauveur.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix tatouage tache de rousseur ?",
+      "answer": "Combien coûtent les tatouages de taches de rousseur? Chez nous, les prix varient entre 140 et 220 euros et dépendent généralement du nombre de tâches de rousseur que vous souhaitez injecter dans vos joues et votre nez.3 mai 2024"
+    },
+    {
+      "question": "Détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:36:49.684Z"
+}

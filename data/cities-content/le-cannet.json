@@ -1,0 +1,31 @@
+{
+  "slug": "le-cannet",
+  "cityName": "Le Cannet",
+  "businessName": "PIERCING - La TROUTROUTEUSE - TATTOO",
+  "businesses": [
+    {
+      "name": "PIERCING - La TROUTROUTEUSE - TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "5 Rue du Commandant Lamy, 06110 Le Cannet",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "Za tattooart",
+      "category": "Salon de tatouage et piercing",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Beauté Morizur Patricia maquillage semi permanent Esthétique",
+      "category": "Service de détatouage",
+      "address": "4 Anc. Chem. des Vallergues, 06400 Cannes",
+      "rating": 4.7,
+      "reviewCount": 73
+    }
+  ],
+  "description": "PIERCING - La TROUTROUTEUSE - TATTOO fait partie des centres de détatouage laser à Le Cannet. Avec une note de 5/5 sur 53 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Cannet.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:21:18.406Z"
+}

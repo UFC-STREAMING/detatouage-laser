@@ -1,0 +1,65 @@
+{
+  "slug": "douai",
+  "cityName": "Douai",
+  "businessName": "Salon Privé ELO • Esthétique & Tatouages Minimalistes",
+  "businesses": [
+    {
+      "name": "Salon Privé ELO • Esthétique & Tatouages Minimalistes",
+      "category": "Service de détatouage",
+      "address": "89 Rue Morel, 59500 Douai",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Nels Tattoo/Trans Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "84 Rue de la Cuve d'Or, 59500 Douai",
+      "rating": 4.7,
+      "reviewCount": 230
+    },
+    {
+      "name": "H-Derma - Cornéothérapeute - Maquillage permanent -Tricopigmentation - Beauté - Bien-êtrePropose : Tatouage de cils",
+      "category": "Institut de beauté",
+      "address": "25 Rue de l'Abbé de l'%C3%89pée, 59500 Douai",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "sowi'ink tatoueuse & body piercing de l'antre des curiosités",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Rue des Foulons, 59500 Douai",
+      "rating": 4.9,
+      "reviewCount": 74
+    },
+    {
+      "name": "AVE STUDIO",
+      "category": "Salon de tatouage et piercing",
+      "address": "74 Av. Georges Clemenceau, 59500 Douai",
+      "rating": 5,
+      "reviewCount": 22
+    },
+    {
+      "name": "KORPUS Collectif – Tatouages et ongles à Douai",
+      "category": "Salon de tatouage et piercing",
+      "address": "206 Rue de Paris, 59500 Douai",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Salon Privé ELO • Esthétique & Tatouages Minimalistes fait partie des centres de détatouage laser à Douai. Avec une note de 5/5 sur 14 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Douai.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:22:27.025Z"
+}

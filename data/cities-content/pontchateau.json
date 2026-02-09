@@ -1,0 +1,61 @@
+{
+  "slug": "pontchateau",
+  "cityName": "Pontchâteau",
+  "businessName": "La Maison B",
+  "businesses": [
+    {
+      "name": "La Maison B",
+      "category": "Salon de tatouage et piercing",
+      "address": "22 Grande Rue, 44160 Pontch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "Bliink.tattoo",
+      "category": "Tatoueur",
+      "address": "22 Grande Rue, 44160 Pontch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 98
+    },
+    {
+      "name": "Le cabinet Mag'Ink",
+      "category": "Tatoueur",
+      "address": "12 Rue Maurice Sambron, 44160 Pontch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Misstigrii-ink Tattoo",
+      "category": "Tatoueur",
+      "address": "42 Rte de Crossac, 44160 Pontch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "La Dépendance - beauté du regard",
+      "category": "Institut de beauté",
+      "address": "22 Grande Rue, 44160 Pontch%C3%A2teau",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Institut Manoa Beauté - Mary Cohr",
+      "category": "Institut de beauté",
+      "address": "3 Esp. Yves Mesnier, 44160 Pontch%C3%A2teau",
+      "rating": 4.9,
+      "reviewCount": 95
+    }
+  ],
+  "description": "La Maison B fait partie des centres de détatouage laser à Pontchâteau. Avec une note de 5/5 sur 13 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pontchâteau.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:33:25.107Z"
+}

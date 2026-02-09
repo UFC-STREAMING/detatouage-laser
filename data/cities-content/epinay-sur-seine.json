@@ -1,0 +1,44 @@
+{
+  "slug": "epinay-sur-seine",
+  "cityName": "Épinay-sur-Seine",
+  "businessName": "Laser Skin Epinay-sur-Seine",
+  "businesses": [
+    {
+      "name": "Laser Skin Epinay-sur-Seine",
+      "category": "Centre d'épilation laser",
+      "address": "24 Vla du Bel air, 93800 %C3%89pinay-sur-Seine",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Meeko ink",
+      "category": "Salon de tatouage et piercing",
+      "address": "12 Rue Dumas, 93800 %C3%89pinay-sur-Seine",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Dr Laser | Centre médecine esthétique | Epilation laser | Cryolipolyse | Soin du visage",
+      "category": "Centre d'épilation laser",
+      "address": "11 Rue de l'Arrivée, 95880 Enghien-les-Bains",
+      "rating": 4.9,
+      "reviewCount": 115
+    }
+  ],
+  "description": "Laser Skin Epinay-sur-Seine fait partie des centres de détatouage laser à Épinay-sur-Seine. Avec une note de 5/5 sur 15 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Épinay-sur-Seine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:15:30.891Z"
+}

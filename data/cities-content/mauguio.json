@@ -1,0 +1,52 @@
+{
+  "slug": "mauguio",
+  "cityName": "Mauguio",
+  "businessName": "Studio del skin - centre de soins",
+  "businesses": [
+    {
+      "name": "Studio del skin - centre de soins",
+      "category": "Institut de beauté",
+      "address": "75 Gd Rue François Mitterrand",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Villa Derma Occitane - Médecine esthétique à Mauguio",
+      "category": "Centre d'épilation laser",
+      "address": "15 Rue Pasteur",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Pierc'ing To You",
+      "category": "Salon de piercing",
+      "address": "Gd Rue François Mitterrand",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Le Regard de Cécile",
+      "category": "Clinique de maquillage permanent",
+      "address": "74 Bd de la République",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Necro.tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "439 Av. Etienne Frédéric Bouisson",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "Be.elegant",
+      "category": "Institut de beauté",
+      "address": "20 Rue Achille Vacassy",
+      "rating": 4.9,
+      "reviewCount": 124
+    }
+  ],
+  "description": "Studio del skin - centre de soins fait partie des centres de détatouage laser à Mauguio. Avec une note de 5/5 sur 7 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mauguio.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:02:11.802Z"
+}

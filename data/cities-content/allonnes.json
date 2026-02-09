@@ -1,0 +1,44 @@
+{
+  "slug": "allonnes",
+  "cityName": "Allonnes",
+  "businessName": "Centre laser CtrlZ - Le Mans",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Le Mans",
+      "category": "Service de détatouage",
+      "address": "1 Rue Charles Fabry, 72000 Le Mans",
+      "rating": 4.9,
+      "reviewCount": 83
+    },
+    {
+      "name": "Centre du Triangle d’Or - Laser et Médecine Esthétique Le Mans",
+      "category": "Centre d'épilation laser",
+      "address": "21 Rue de Tascher, 72100 Le Mans",
+      "rating": 4.9,
+      "reviewCount": 89
+    },
+    {
+      "name": "Centre Laser Esthétique",
+      "category": "Institut de beauté",
+      "address": "30 Rue Montoise, 72000 Le Mans",
+      "rating": 3.6,
+      "reviewCount": 34
+    }
+  ],
+  "description": "Centre laser CtrlZ - Le Mans fait partie des centres de détatouage laser à Allonnes. Avec une note de 4.9/5 sur 83 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Allonnes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:40:25.455Z"
+}

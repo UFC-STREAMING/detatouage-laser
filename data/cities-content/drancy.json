@@ -1,0 +1,44 @@
+{
+  "slug": "drancy",
+  "cityName": "Drancy",
+  "businessName": "WONDER EPIL",
+  "businesses": [
+    {
+      "name": "WONDER EPIL",
+      "category": "Service de détatouage",
+      "address": "47 Av. Henri Barbusse, 93700 Drancy",
+      "rating": 4.9,
+      "reviewCount": 119
+    },
+    {
+      "name": "Epil’Estetic - Centre d’épilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "4 Av. Voiron, 93700 Drancy",
+      "rating": 5,
+      "reviewCount": 169
+    },
+    {
+      "name": "Body L",
+      "category": "Centre d'épilation laser",
+      "address": "166 Av. Henri Barbusse, 93700 Drancy",
+      "rating": 4.8,
+      "reviewCount": 24
+    }
+  ],
+  "description": "WONDER EPIL fait partie des centres de détatouage laser à Drancy. Avec une note de 4.9/5 sur 119 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Drancy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage des sourcils ?",
+      "answer": "Une séance de détatouage laser pour les sourcils coûte entre 120 et 150 euros, en fonction du centre et de l'équipement utilisé. En moyenne, deux à 8 séances sont nécessaires pour obtenir un résultat satisfaisant, le centre propose des forfaits 3 séances souscrites + 1 séance offerte.15 nov. 2024"
+    },
+    {
+      "question": "Quels sont les avis sur Ec glamm Drancy ?",
+      "answer": "Avis vérifiésParfait. ... Top. ... Personne très agréable Je remercie la jeune praticienne pour sa gentillesse et son travail sublime J'aime les sourcils. ... Super Cabinet, Evin est une personne irréprochable.Plus…"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:09:38.491Z"
+}

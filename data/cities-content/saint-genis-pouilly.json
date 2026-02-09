@@ -1,0 +1,44 @@
+{
+  "slug": "saint-genis-pouilly",
+  "cityName": "Saint-Genis-Pouilly",
+  "businessName": "INSTITUT DU DERME",
+  "businesses": [
+    {
+      "name": "INSTITUT DU DERME",
+      "category": "Institut de beauté",
+      "address": "238 Rue Marie-Claude Vaillant-Couturier",
+      "rating": 4.8,
+      "reviewCount": 134
+    },
+    {
+      "name": "Centre stop tabac laserOstop Pays de Gex - Genève",
+      "category": "Naturopathe",
+      "address": "110 Rue Germaine Tillion",
+      "rating": 4.9,
+      "reviewCount": 70
+    },
+    {
+      "name": "PERFECT LYNE",
+      "category": "Institut de beauté",
+      "address": "141 Pl. Jean Monnet",
+      "rating": 4.7,
+      "reviewCount": 47
+    }
+  ],
+  "description": "INSTITUT DU DERME fait partie des centres de détatouage laser à Saint-Genis-Pouilly. Avec une note de 4.8/5 sur 134 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Genis-Pouilly.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quels sont les tarifs du détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:12:21.457Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "lormont",
+  "cityName": "Lormont",
+  "businessName": "Cabinet LDS (Laser, Détatouage et Soins)",
+  "businesses": [
+    {
+      "name": "Cabinet LDS (Laser, Détatouage et Soins)",
+      "category": "Service de détatouage",
+      "address": "Détatouage et Soins), 25 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.9,
+      "reviewCount": 55
+    },
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Cabinet Dr Marie Fabiani - Médecine esthétique et épilation laser",
+      "category": "Service de détatouage",
+      "address": "218 Av. René Cassagne, 33150 Cenon",
+      "rating": 4.7,
+      "reviewCount": 248
+    },
+    {
+      "name": "BLOOM Lormont",
+      "category": "Centre d'épilation laser",
+      "address": "75 Rue Edouard Herriot, 33310 Lormont",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "MDP 33",
+      "category": "Service de détatouage",
+      "address": "4 Pl. Pierre Mendès France, 33560 Carbon-Blanc",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Beauty inked",
+      "category": "Tatoueur",
+      "address": "4 Rue des Ramiers, 33370 Artigues-près-Bordeaux",
+      "rating": 5,
+      "reviewCount": 48
+    }
+  ],
+  "description": "Cabinet LDS (Laser, Détatouage et Soins) fait partie des centres de détatouage laser à Lormont. Avec une note de 4.9/5 sur 55 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lormont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:38:04.754Z"
+}

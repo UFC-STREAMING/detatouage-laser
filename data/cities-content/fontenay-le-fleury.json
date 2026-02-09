@@ -1,0 +1,31 @@
+{
+  "slug": "fontenay-le-fleury",
+  "cityName": "Fontenay-le-Fleury",
+  "businessName": "Thomas WEAN SFORACCHI",
+  "businesses": [
+    {
+      "name": "Thomas WEAN SFORACCHI",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 4.7,
+      "reviewCount": 68
+    },
+    {
+      "name": "Centre d' Electrolyse et d'Esthétique SECRETS DE SOIN",
+      "category": "Centre d'épilation laser",
+      "address": "4 Av. Jean Lurçat",
+      "rating": 4.9,
+      "reviewCount": 244
+    },
+    {
+      "name": "Mine à Tatouage",
+      "category": "Tatoueur",
+      "address": "13 Rue Maurice Ravel, 78390 Bois-d'Arcy",
+      "rating": 5,
+      "reviewCount": 130
+    }
+  ],
+  "description": "Thomas WEAN SFORACCHI fait partie des centres de détatouage laser à Fontenay-le-Fleury. Avec une note de 4.7/5 sur 68 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fontenay-le-Fleury.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:17:01.804Z"
+}

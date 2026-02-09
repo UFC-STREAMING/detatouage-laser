@@ -1,0 +1,31 @@
+{
+  "slug": "noisy-le-grand",
+  "cityName": "Noisy-le-Grand",
+  "businessName": "Centre Laselis Noisy-le-Grand - Médecine Esthétique - Epilation Laser",
+  "businesses": [
+    {
+      "name": "Centre Laselis Noisy-le-Grand - Médecine Esthétique - Epilation Laser",
+      "category": "Centre d'épilation laser",
+      "address": "155 Rue Pierre Brossolette, 93160 Noisy-le-Grand",
+      "rating": 4.9,
+      "reviewCount": 115
+    },
+    {
+      "name": "Centre ANAHEY - Epilation Laser et Médecine Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "42 Clos des Cascades, 93160 Noisy-le-Grand",
+      "rating": 5,
+      "reviewCount": 49
+    },
+    {
+      "name": "A m'aime la peau - TATTOOPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "4 Rue des Bois, 93160 Noisy-le-Grand",
+      "rating": 4.9,
+      "reviewCount": 113
+    }
+  ],
+  "description": "Centre Laselis Noisy-le-Grand - Médecine Esthétique - Epilation Laser fait partie des centres de détatouage laser à Noisy-le-Grand. Avec une note de 4.9/5 sur 115 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Noisy-le-Grand.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:09:33.246Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "acheres",
+  "cityName": "Achères",
+  "businessName": "L’adresse beauté",
+  "businesses": [
+    {
+      "name": "L’adresse beauté",
+      "category": "Centre d'épilation laser",
+      "address": "3 Sq. du Dr Léon Vogel, 78260 Achères",
+      "rating": 5,
+      "reviewCount": 86
+    },
+    {
+      "name": "Tanière de l’Encre",
+      "category": "Salon de tatouage et piercing",
+      "address": "28 bis Rue du Maréchal Foch, 78570 Andrésy",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "OCG JUMP",
+      "category": "Centre de loisirs",
+      "address": "5 All. des Souches, 78260 Achères",
+      "rating": 5,
+      "reviewCount": 4
+    }
+  ],
+  "description": "L’adresse beauté fait partie des centres de détatouage laser à Achères. Avec une note de 5/5 sur 86 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Achères.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quels sont les risques de se détatouer par laser ?",
+      "answer": "Même s'il est quasi indolore, le rayon laser peut laisser des traces sur la peau. Des gonflements, des rougeurs, une croûte ou de petites cloques peuvent survenir et provoquer des sensations désagréables dans les heures et jours consécutifs à un traitement au laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:43:56.964Z"
+}

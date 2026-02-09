@@ -1,0 +1,65 @@
+{
+  "slug": "romorantin-lanthenay",
+  "cityName": "Romorantin-Lanthenay",
+  "businessName": "Clavicula Nox Romorantin",
+  "businesses": [
+    {
+      "name": "Clavicula Nox Romorantin",
+      "category": "Salon de tatouage et piercing",
+      "address": "21 Rue du 8 Mai",
+      "rating": 4.8,
+      "reviewCount": 37
+    },
+    {
+      "name": "Spyrit Glyphe",
+      "category": "Tatoueur",
+      "address": "4 Pl. de la Paix",
+      "rating": 4.8,
+      "reviewCount": 59
+    },
+    {
+      "name": "La Cabane Beauté",
+      "category": "Institut de beauté",
+      "address": "84 C Rue de Bruadan",
+      "rating": 5,
+      "reviewCount": 81
+    },
+    {
+      "name": "LA MUE",
+      "category": "Institut de soins du visage",
+      "address": "3 Rue de la Forêt",
+      "rating": 4.9,
+      "reviewCount": 72
+    },
+    {
+      "name": "LASER STOPPER",
+      "category": "Centre de formation continue",
+      "address": "14 Rue du 8 Mai 1945",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Décap'laser 41",
+      "category": "Services de nettoyage",
+      "address": "",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Clavicula Nox Romorantin fait partie des centres de détatouage laser à Romorantin-Lanthenay. Avec une note de 4.8/5 sur 37 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Romorantin-Lanthenay.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €. Le Laser ND-Yag : Ce laser convient à tous les types de peau. Il est utilisé pour effacer divers tatouages et corriger certaines imperfections cutanées, sans endommager la peau ni laisser beaucoup de cicatrices."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:56:33.744Z"
+}

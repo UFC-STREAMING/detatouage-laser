@@ -1,0 +1,31 @@
+{
+  "slug": "joue-les-tours",
+  "cityName": "Joué-lès-Tours",
+  "businessName": "Centre Laser Vallée Violette",
+  "businesses": [
+    {
+      "name": "Centre Laser Vallée Violette",
+      "category": "Centre d'épilation laser",
+      "address": "45 Rue de Chenonceaux",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "Centre Laser Dermatologique 37",
+      "category": "Clinique",
+      "address": "18 Rue Rabelais",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Centre laser CtrlZ - Tours",
+      "category": "Centre d'épilation laser",
+      "address": "Tours",
+      "rating": 5,
+      "reviewCount": 46
+    }
+  ],
+  "description": "Centre Laser Vallée Violette fait partie des centres de détatouage laser à Joué-lès-Tours. Avec une note de 4.9/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Joué-lès-Tours.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:23:18.745Z"
+}

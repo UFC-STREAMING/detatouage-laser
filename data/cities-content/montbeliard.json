@@ -1,0 +1,44 @@
+{
+  "slug": "montbeliard",
+  "cityName": "Montbéliard",
+  "businessName": "Alfa Center & Camelia",
+  "businesses": [
+    {
+      "name": "Alfa Center & Camelia",
+      "category": "Centre d'épilation laser",
+      "address": "56 Rue Jacques Foillet Porte B11 - 1er étage, 25200 Montbéliard",
+      "rating": 4.6,
+      "reviewCount": 115
+    },
+    {
+      "name": "Centre stop tabac Montbeliard - Sevrage laserOstop",
+      "category": "Praticien en médecine holistique",
+      "address": "56 Rue Jacques Foillet, 25200 Montbéliard",
+      "rating": 4.7,
+      "reviewCount": 139
+    },
+    {
+      "name": "BE : Epilation LASER (clarity 2) / Électrolyste APILUS / Soins du visage / lumière pulsée",
+      "category": "Institut de beauté",
+      "address": "7 Rue Vivaldi, 25200 Montbéliard",
+      "rating": 4.4,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Alfa Center & Camelia fait partie des centres de détatouage laser à Montbéliard. Avec une note de 4.6/5 sur 115 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montbéliard.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Où puis-je me détatouer à Montbéliard ?",
+      "answer": "Votre centre détatouage Alfa & Camelia Montbéliard Notre équipe est à votre disposition du Lundi au Samedi de 9h à 20h : Par téléphone : +33 6 45 34 50 78. Via le formulaire prise de contact ici. Par email : montbeliard@alfa-laser.center."
+    },
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:39:41.330Z"
+}

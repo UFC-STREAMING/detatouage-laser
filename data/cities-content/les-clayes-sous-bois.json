@@ -1,0 +1,31 @@
+{
+  "slug": "les-clayes-sous-bois",
+  "cityName": "Les Clayes-sous-Bois",
+  "businessName": "Quoc-Anh Tattoo",
+  "businesses": [
+    {
+      "name": "Quoc-Anh Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Av. de Villepreux, 78340 Les Clayes-sous-Bois",
+      "rating": 4.7,
+      "reviewCount": 337
+    },
+    {
+      "name": "L’ENTOURLOUPE TATTOO Shop privé sur RDV",
+      "category": "Tatoueur",
+      "address": "8 Av. du Président John Fitzgerald Kennedy, 78340 Les Clayes-sous-Bois",
+      "rating": 5,
+      "reviewCount": 92
+    },
+    {
+      "name": "Syam Tattoo Ink Plaisir",
+      "category": "Salon de tatouage et piercing",
+      "address": "1170 Av. de Saint-Germain, 78370 Plaisir",
+      "rating": 4.8,
+      "reviewCount": 205
+    }
+  ],
+  "description": "Quoc-Anh Tattoo fait partie des centres de détatouage laser à Les Clayes-sous-Bois. Avec une note de 4.7/5 sur 337 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Les Clayes-sous-Bois.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:01:22.056Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "pornic",
+  "cityName": "Pornic",
+  "businessName": "Atelier Nativis - Dermographe Esthétique - Lucie Jagut",
+  "businesses": [
+    {
+      "name": "Atelier Nativis - Dermographe Esthétique - Lucie Jagut",
+      "category": "Clinique de maquillage permanent",
+      "address": "4 Rue Jean Monnet, 44210 Pornic",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "31 Bis Rue des Champs Francs, 44210 Pornic",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Klarys Ink - L'encre de rêve",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Rue Robert Schuman, 44210 Pornic",
+      "rating": 4.6,
+      "reviewCount": 87
+    },
+    {
+      "name": "Studio K.l Tattoo",
+      "category": "Tatoueur",
+      "address": "60 Rue des Sables, 44210 Pornic",
+      "rating": 4.4,
+      "reviewCount": 66
+    },
+    {
+      "name": "Gamine Encrée Tattoo",
+      "category": "Tatoueur",
+      "address": "11 Rue du Traité de Paris, 44210 Pornic",
+      "rating": 4.9,
+      "reviewCount": 33
+    },
+    {
+      "name": "La Ligne Noire tattoo shop • Vinther Dask & Meow •",
+      "category": "Tatoueur",
+      "address": "26 Pl. de l'%C3%89glise le Clion, 44210 Pornic",
+      "rating": 4.8,
+      "reviewCount": 69
+    }
+  ],
+  "description": "Atelier Nativis - Dermographe Esthétique - Lucie Jagut fait partie des centres de détatouage laser à Pornic. Avec une note de 4.9/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pornic.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:54:52.559Z"
+}

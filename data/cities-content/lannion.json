@@ -1,0 +1,65 @@
+{
+  "slug": "lannion",
+  "cityName": "Lannion",
+  "businessName": "In Tenebris",
+  "businesses": [
+    {
+      "name": "In Tenebris",
+      "category": "Salon de tatouage et piercing",
+      "address": "12 Pl. du Général Leclerc",
+      "rating": 4.8,
+      "reviewCount": 425
+    },
+    {
+      "name": "Blood and blade",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue Geoffroy de Pontblanc",
+      "rating": 5,
+      "reviewCount": 423
+    },
+    {
+      "name": "Pharaon noir tattoo studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "12 Quai d'Aiguillon, 22300 Lannion",
+      "rating": 4.9,
+      "reviewCount": 61
+    },
+    {
+      "name": "Tricopigmentation Hairline Geffroy Tatouage capillaire",
+      "category": "Service de remplacement capillaire",
+      "address": "Salon Privé, adresse sur demande",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Docteur Charles Botter",
+      "category": "Chirurgien plasticien",
+      "address": "19 Av. Ernest Renan, 22300 Lannion",
+      "rating": 4.9,
+      "reviewCount": 167
+    },
+    {
+      "name": "Lazeo Lannion",
+      "category": "Centre d'épilation laser",
+      "address": "19 Pl. du Général Leclerc",
+      "rating": 5,
+      "reviewCount": 161
+    }
+  ],
+  "description": "In Tenebris fait partie des centres de détatouage laser à Lannion. Avec une note de 4.8/5 sur 425 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lannion.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:49:50.780Z"
+}

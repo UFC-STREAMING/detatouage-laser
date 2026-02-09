@@ -1,0 +1,22 @@
+{
+  "slug": "stains",
+  "cityName": "Stains",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Stains grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Stains.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage laisse des traces ?",
+      "answer": "Le détatouage peut laisser des traces, même s'il est réalisé par des professionnels qualifiés en utilisant des techniques modernes.7 nov. 2023"
+    },
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:21:39.724Z"
+}

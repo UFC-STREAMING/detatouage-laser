@@ -1,0 +1,52 @@
+{
+  "slug": "quimperle",
+  "cityName": "Quimperlé",
+  "businessName": "Black hills sanctuary",
+  "businesses": [
+    {
+      "name": "Black hills sanctuary",
+      "category": "Salon de tatouage et piercing",
+      "address": "P%C3%B4le d%E2%80%99Activité, 2 Kervidanou, 29300 Mellac",
+      "rating": 4.9,
+      "reviewCount": 65
+    },
+    {
+      "name": "Maison Joncourt",
+      "category": "Salon de tatouage et piercing",
+      "address": "31 Rue Savary, 29300 Quimperlé",
+      "rating": 5,
+      "reviewCount": 26
+    },
+    {
+      "name": "Biggiethom body piercingPropose : Tatouages",
+      "category": "Salon de piercing",
+      "address": "7 Rue Brémond d'Ars, 29300 Quimperlé",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Le Repaire du Renard",
+      "category": "Salon de piercing",
+      "address": "15 bis Rue du Bourgneuf, 29300 Quimperlé",
+      "rating": 5,
+      "reviewCount": 181
+    },
+    {
+      "name": "Nawal institutPropose : Tatouage de cils",
+      "category": "Institut de beauté",
+      "address": "105 Rue de Lorient, 29300 Quimperlé",
+      "rating": 4.9,
+      "reviewCount": 42
+    },
+    {
+      "name": "Centre Laser de Cornouaille",
+      "category": "Centre d'épilation laser",
+      "address": "46b Rue Eric Tabarly, 29300 Quimperlé",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Black hills sanctuary fait partie des centres de détatouage laser à Quimperlé. Avec une note de 4.9/5 sur 65 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Quimperlé.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:24:48.440Z"
+}

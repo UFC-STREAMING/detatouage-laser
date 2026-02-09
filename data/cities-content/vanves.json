@@ -1,0 +1,31 @@
+{
+  "slug": "vanves",
+  "cityName": "Vanves",
+  "businessName": "Centre Laser Saint-Rémy Vanves",
+  "businesses": [
+    {
+      "name": "Centre Laser Saint-Rémy Vanves",
+      "category": "Médecin généraliste",
+      "address": "2 Rue de la République, 92170 Vanves",
+      "rating": 4.6,
+      "reviewCount": 10
+    },
+    {
+      "name": "Clinique beauté by Vitoria",
+      "category": "Centre d'épilation laser",
+      "address": "74 Rue Sadi Carnot, 92170 Vanves",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "Centre Laser Saint-Rémy Vanves fait partie des centres de détatouage laser à Vanves. Avec une note de 4.6/5 sur 10 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vanves.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:33:32.007Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "viry-chatillon",
+  "cityName": "Viry-Châtillon",
+  "businessName": "Centre laser dr Alain BURY",
+  "businesses": [
+    {
+      "name": "Centre laser dr Alain BURY",
+      "category": "Centre d'épilation laser",
+      "address": "21 All. du Potager",
+      "rating": 4.9,
+      "reviewCount": 367
+    },
+    {
+      "name": "Centre Laser Dermatologique Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Alexandre Dumas",
+      "rating": 4.6,
+      "reviewCount": 13
+    },
+    {
+      "name": "The hironn tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "43 Av. Pierre Brossolette",
+      "rating": 5,
+      "reviewCount": 210
+    },
+    {
+      "name": "Roman Philippe",
+      "category": "Médecin",
+      "address": "8 Rue Alexandre Dumas",
+      "rating": 4.4,
+      "reviewCount": 188
+    },
+    {
+      "name": "L'atelier Organic",
+      "category": "Salon de tatouage et piercing",
+      "address": "132 Bd Gabriel Péri",
+      "rating": 5,
+      "reviewCount": 55
+    },
+    {
+      "name": "Naë Piercing",
+      "category": "Salon de piercing",
+      "address": "132 Bd Gabriel Péri",
+      "rating": 5,
+      "reviewCount": 85
+    }
+  ],
+  "description": "Centre laser dr Alain BURY fait partie des centres de détatouage laser à Viry-Châtillon. Avec une note de 4.9/5 sur 367 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Viry-Châtillon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:30:46.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "avrille",
+  "cityName": "Avrillé",
+  "businessName": "Centre laser CtrlZ - Angers",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Angers",
+      "category": "Service de détatouage",
+      "address": "36 Rue Montesquieu, 49100 Angers",
+      "rating": 5,
+      "reviewCount": 51
+    },
+    {
+      "name": "Laser Free Addict Angers",
+      "category": "Réflexologue",
+      "address": "19 Rue Emile Zola, 49460 Montreuil-Juigné",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "L’astattoo",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 4
+    }
+  ],
+  "description": "Centre laser CtrlZ - Angers fait partie des centres de détatouage laser à Avrillé. Avec une note de 5/5 sur 51 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Avrillé.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:08:06.141Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "carquefou",
+  "cityName": "Carquefou",
+  "businessName": "Ray studios Nantes - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Nantes - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "39 Bd Gabriel Guist'Hau, 44000 Nantes",
+      "rating": 4.9,
+      "reviewCount": 144
+    },
+    {
+      "name": "OTZI by Easytattoo - Medical Body Art",
+      "category": "Entreprise de cosmétique",
+      "address": "1 Rue des Petites Industries, 44470 Carquefou",
+      "rating": 4.8,
+      "reviewCount": 22
+    },
+    {
+      "name": "Los Santos Customs TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "37 Rue du Nouveau Bêle, 44470 Carquefou",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "My Laser Nantes - Epilation laser & Médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue de Mazagran, 44100 Nantes",
+      "rating": 4.9,
+      "reviewCount": 162
+    },
+    {
+      "name": "Absolu Beauté Carquefou",
+      "category": "Institut de beauté",
+      "address": "6 Rue des Halles, 44470 Carquefou",
+      "rating": 4.8,
+      "reviewCount": 128
+    },
+    {
+      "name": "Nours Tattoo",
+      "category": "Tatoueur",
+      "address": "4 Pl. de la Poste, 44470 Carquefou",
+      "rating": 5,
+      "reviewCount": 144
+    }
+  ],
+  "description": "Ray studios Nantes - centre de détatouage laser fait partie des centres de détatouage laser à Carquefou. Avec une note de 4.9/5 sur 144 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Carquefou.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:47:34.092Z"
+}

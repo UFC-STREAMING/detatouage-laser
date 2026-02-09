@@ -1,0 +1,65 @@
+{
+  "slug": "cognac",
+  "cityName": "Cognac",
+  "businessName": "CENTRE KOEL COGNAC - Epilation Laser - Body Contouring Soin Visage - Drainage Lymphatique",
+  "businesses": [
+    {
+      "name": "CENTRE KOEL COGNAC - Epilation Laser - Body Contouring Soin Visage - Drainage Lymphatique",
+      "category": "Centre d'épilation laser",
+      "address": "23 Av. D Angoulême, 16100 Ch%C3%A2teaubernard",
+      "rating": 4.9,
+      "reviewCount": 173
+    },
+    {
+      "name": "Cognac Laser",
+      "category": "Service de découpe au laser",
+      "address": "Rue du Bois Merrains, 16100 Merpins",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "ABEAUTY",
+      "category": "Institut de beauté",
+      "address": "107 Rue Henri Fichon, 16100 Cognac",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "Adrienm Studio",
+      "category": "Tatoueur",
+      "address": "30 Rue Henri Fichon, 16100 Cognac",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Magnetic Tattoo Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "14 Rue du Canton, 16100 Cognac",
+      "rating": 4.6,
+      "reviewCount": 222
+    },
+    {
+      "name": "noiretrouge.studio",
+      "category": "Tatoueur",
+      "address": "36 Rue Henri Fichon, 16100 Cognac",
+      "rating": 5,
+      "reviewCount": 33
+    }
+  ],
+  "description": "CENTRE KOEL COGNAC - Epilation Laser - Body Contouring Soin Visage - Drainage Lymphatique fait partie des centres de détatouage laser à Cognac. Avec une note de 4.9/5 sur 173 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cognac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage est-il remboursé par la sécurité sociale ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:55:53.763Z"
+}

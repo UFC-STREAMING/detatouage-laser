@@ -1,0 +1,31 @@
+{
+  "slug": "sedan",
+  "cityName": "Sedan",
+  "businessName": "DermoRepair ClinicPropose : Tatouage de cils",
+  "businesses": [
+    {
+      "name": "DermoRepair ClinicPropose : Tatouage de cils",
+      "category": "Institut de beauté",
+      "address": "8 Rue du Ménil, 08200 Sedan",
+      "rating": 5,
+      "reviewCount": 109
+    },
+    {
+      "name": "Full Metal Inker",
+      "category": "Salon de tatouage et piercing",
+      "address": "34 Rue Saint-Michel, 08200 Sedan",
+      "rating": 5,
+      "reviewCount": 34
+    },
+    {
+      "name": "Au Bonheur Du Mal Tattoo Galerie",
+      "category": "Tatoueur",
+      "address": "15 Rue Carnot, 08200 Sedan",
+      "rating": 5,
+      "reviewCount": 24
+    }
+  ],
+  "description": "DermoRepair ClinicPropose : Tatouage de cils fait partie des centres de détatouage laser à Sedan. Avec une note de 5/5 sur 109 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sedan.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:01:47.037Z"
+}

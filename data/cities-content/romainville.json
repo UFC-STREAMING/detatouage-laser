@@ -1,0 +1,65 @@
+{
+  "slug": "romainville",
+  "cityName": "Romainville",
+  "businessName": "✅ Meva Médical Esthétique® - Romainville 93 I Skin Booster I Peeling I Micro-Needling I Epilation laser I Mésothérapie",
+  "businesses": [
+    {
+      "name": "✅ Meva Médical Esthétique® - Romainville 93 I Skin Booster I Peeling I Micro-Needling I Epilation laser I Mésothérapie",
+      "category": "Centre d'épilation laser",
+      "address": "28 Av. Lénine",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Myriam Lamriben Artist Piercer",
+      "category": "Salon de tatouage et piercing",
+      "address": "44 Rue de la République",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "The french riviera studio - Esthétique - Microshading - Piercing - ongles - Romainville",
+      "category": "Institut de beauté",
+      "address": "44 Rue de la République",
+      "rating": 4.4,
+      "reviewCount": 368
+    },
+    {
+      "name": "Paozu Ink",
+      "category": "Tatoueur",
+      "address": "97 Av. de Verdun, 93230 Romainville",
+      "rating": 4.8,
+      "reviewCount": 68
+    },
+    {
+      "name": "L'ATELIER 2",
+      "category": "Salon de coiffure",
+      "address": "10 Av. de Verdun",
+      "rating": 4.3,
+      "reviewCount": 291
+    },
+    {
+      "name": "Henna beauty Paris",
+      "category": "Salon de manucure",
+      "address": "85 Av. du Président Wilson",
+      "rating": 3,
+      "reviewCount": 16
+    }
+  ],
+  "description": "✅ Meva Médical Esthétique® - Romainville 93 I Skin Booster I Peeling I Micro-Needling I Epilation laser I Mésothérapie fait partie des centres de détatouage laser à Romainville. Avec une note de 5/5 sur 2 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Romainville.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:24:14.580Z"
+}

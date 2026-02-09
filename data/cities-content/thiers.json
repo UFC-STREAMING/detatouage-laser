@@ -1,0 +1,31 @@
+{
+  "slug": "thiers",
+  "cityName": "Thiers",
+  "businessName": "Thiersink - tatouage-piercing",
+  "businesses": [
+    {
+      "name": "Thiersink - tatouage-piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "43 Rue des Docteurs Dumas, 63300 Thiers",
+      "rating": 5,
+      "reviewCount": 149
+    },
+    {
+      "name": "Pharaboz tatouages",
+      "category": "Tatoueur",
+      "address": "15 Rue de la Fraternité, 63300 Thiers",
+      "rating": 5,
+      "reviewCount": 46
+    },
+    {
+      "name": "Atelier Dermo Esthétique",
+      "category": "Institut de beauté",
+      "address": "3 Av. de la Gare, 63920 Peschadoires",
+      "rating": 5,
+      "reviewCount": 12
+    }
+  ],
+  "description": "Thiersink - tatouage-piercing fait partie des centres de détatouage laser à Thiers. Avec une note de 5/5 sur 149 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Thiers.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:32:04.932Z"
+}

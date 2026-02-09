@@ -1,0 +1,65 @@
+{
+  "slug": "saint-maur-des-fosses",
+  "cityName": "Saint-Maur-des-Fossés",
+  "businessName": "Dermacare Laser",
+  "businesses": [
+    {
+      "name": "Dermacare Laser",
+      "category": "Centre d'épilation laser",
+      "address": "4 Pass. Dartois Bidot, 94100 Saint-Maur-des-Fossés",
+      "rating": 4.8,
+      "reviewCount": 168
+    },
+    {
+      "name": "Lazeo St Maur - La Varenne",
+      "category": "Centre d'épilation laser",
+      "address": "45 Av. du Bac, 94210 Saint-Maur-des-Fossés",
+      "rating": 4.7,
+      "reviewCount": 468
+    },
+    {
+      "name": "Maelis Centre Laser Saint-Maur-des-Fossés - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "32 Av. Foch, 94100 Saint-Maur-des-Fossés",
+      "rating": 4.9,
+      "reviewCount": 212
+    },
+    {
+      "name": "Saint Maur Ink",
+      "category": "Salon de tatouage et piercing",
+      "address": "13 Bd Maurice Berteaux, 94100 Saint-Maur-des-Fossés",
+      "rating": 4.7,
+      "reviewCount": 188
+    },
+    {
+      "name": "Docteur Delphine Renard - Médecin esthétique",
+      "category": "Médecin",
+      "address": "32 Rue Saint-Hilaire, 94210 Saint-Maur-des-Fossés",
+      "rating": 4.8,
+      "reviewCount": 111
+    },
+    {
+      "name": "JFG CLINIC SAINT-MAURPropose : Épilation laser",
+      "category": "Centre d'amincissement",
+      "address": "4 Rue Saint-Hilaire, 94210 Saint-Maur-des-Fossés",
+      "rating": 4.5,
+      "reviewCount": 78
+    }
+  ],
+  "description": "Dermacare Laser fait partie des centres de détatouage laser à Saint-Maur-des-Fossés. Avec une note de 4.8/5 sur 168 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Maur-des-Fossés.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:08:42.174Z"
+}

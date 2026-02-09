@@ -1,0 +1,31 @@
+{
+  "slug": "wattrelos",
+  "cityName": "Wattrelos",
+  "businessName": "La Clinique du Château - Wattrelos : centre laser et de médecine esthétique",
+  "businesses": [
+    {
+      "name": "La Clinique du Château - Wattrelos : centre laser et de médecine esthétique",
+      "category": "Service de détatouage",
+      "address": "75 Rue Jean Lebas, 59150 Wattrelos",
+      "rating": 4.9,
+      "reviewCount": null
+    },
+    {
+      "name": "La Clinique du Château - Mouscron : centre laser et de médecine esthétique",
+      "category": "Service de détatouage",
+      "address": "Rue du Christ 1, 7700 Mouscron, Belgique",
+      "rating": 4.9,
+      "reviewCount": 308
+    },
+    {
+      "name": "Peau rouge tatoo",
+      "category": "Tatoueur",
+      "address": "219 Rue Carnot, 59150 Wattrelos",
+      "rating": 4.8,
+      "reviewCount": 119
+    }
+  ],
+  "description": "La Clinique du Château - Wattrelos : centre laser et de médecine esthétique fait partie des centres de détatouage laser à Wattrelos. Ce centre affiche une note de 4.9/5 pour ses prestations de détatouage. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Wattrelos.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:22:00.992Z"
+}

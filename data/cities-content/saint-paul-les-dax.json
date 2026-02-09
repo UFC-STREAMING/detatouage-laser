@@ -1,0 +1,65 @@
+{
+  "slug": "saint-paul-les-dax",
+  "cityName": "Saint-Paul-lès-Dax",
+  "businessName": "Centre du lac : Medecine & Laser & Rajeunissement - Dr Berkani -Epilation Laser - Rajeunissemnt & Injections",
+  "businesses": [
+    {
+      "name": "Centre du lac : Medecine & Laser & Rajeunissement - Dr Berkani -Epilation Laser - Rajeunissemnt & Injections",
+      "category": "Médecin",
+      "address": "En face de conforama sur le même, parking de Lidl, 22 Rue Charles Gounod",
+      "rating": 4.9,
+      "reviewCount": 66
+    },
+    {
+      "name": "Dax Epilation Laser - Epilation définitive Dax",
+      "category": "Centre d'épilation laser",
+      "address": "1 Rue du 11 Novembre 1918",
+      "rating": 5,
+      "reviewCount": 30
+    },
+    {
+      "name": "Centre laser CtrlZ - Dax",
+      "category": "Centre d'épilation laser",
+      "address": "Mées",
+      "rating": 5,
+      "reviewCount": 89
+    },
+    {
+      "name": "Institut de Beauté Centre LASER Lumeen - GUINOT",
+      "category": "Institut de beauté",
+      "address": "Coté Lac, Galerie Commerciale Intermarché, 1800 Av. de la Résistance",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Laserball",
+      "category": "Centre de laser game",
+      "address": "1170 Bd Saint-Vincent-de-Paul",
+      "rating": 4.7,
+      "reviewCount": 188
+    },
+    {
+      "name": "Levert d’encre tattoo",
+      "category": "Tatoueur",
+      "address": "5 Pl. du Marché",
+      "rating": 5,
+      "reviewCount": 121
+    }
+  ],
+  "description": "Centre du lac : Medecine & Laser & Rajeunissement - Dr Berkani -Epilation Laser - Rajeunissemnt & Injections fait partie des centres de détatouage laser à Saint-Paul-lès-Dax. Avec une note de 4.9/5 sur 66 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Paul-lès-Dax.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Enlever son tatouage au laser prix ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:12:14.801Z"
+}

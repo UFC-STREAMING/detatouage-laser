@@ -1,0 +1,44 @@
+{
+  "slug": "biarritz",
+  "cityName": "Biarritz",
+  "businessName": "Centre laser CtrlZ - Biarritz",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Biarritz",
+      "category": "Centre d'épilation laser",
+      "address": "117 Rue de Hausquette, 64600 Anglet",
+      "rating": 4.9,
+      "reviewCount": 70
+    },
+    {
+      "name": "BeOMA - Centre d'Épilation Laser, Détatouage et médecine esthétique Biarritz",
+      "category": "Centre d'épilation laser",
+      "address": "Détatouage et médecine esthétique Biarritz, 55 Av. d'Espagne, 64600 Anglet",
+      "rating": 5,
+      "reviewCount": 143
+    },
+    {
+      "name": "Centre Laser de Biarritz",
+      "category": "Centre d'épilation laser",
+      "address": "2 All. des Ormeaux, 64200 Biarritz",
+      "rating": 5,
+      "reviewCount": 30
+    }
+  ],
+  "description": "Centre laser CtrlZ - Biarritz fait partie des centres de détatouage laser à Biarritz. Avec une note de 4.9/5 sur 70 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Biarritz.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:37:13.042Z"
+}

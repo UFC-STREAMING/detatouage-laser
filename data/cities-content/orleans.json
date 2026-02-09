@@ -1,0 +1,44 @@
+{
+  "slug": "orleans",
+  "cityName": "Orléans",
+  "businessName": "TEMPO Laser - Epilation laser et détatouage - Orléans",
+  "businesses": [
+    {
+      "name": "TEMPO Laser - Epilation laser et détatouage - Orléans",
+      "category": "Centre d'épilation laser",
+      "address": "7 Rue René Berthelot, 45100 Orléans",
+      "rating": 5,
+      "reviewCount": 156
+    },
+    {
+      "name": "Centre laser CtrlZ - Orléans",
+      "category": "Centre d'épilation laser",
+      "address": "9 Rue Sainte-Catherine, 45000 Orléans",
+      "rating": 5,
+      "reviewCount": 82
+    },
+    {
+      "name": "Studio Hortense",
+      "category": "Esthéticien",
+      "address": "350 Rte de Saint-Mesmin, 45750 Saint-Pryvé-Saint-Mesmin",
+      "rating": 5,
+      "reviewCount": 27
+    }
+  ],
+  "description": "TEMPO Laser - Epilation laser et détatouage - Orléans fait partie des centres de détatouage laser à Orléans. Avec une note de 5/5 sur 156 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Orléans.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-il possible d'enlever complètement un tatouage ?",
+      "answer": "Qu'est-ce que le détatouage ? Le détatouage est un acte de médecine esthétique qui permet d'éliminer un tatouage de manière définitive. Cette technique vise à détruire le pigment artificiel grâce au laser. Il s'agit d'une intervention qui doit être réalisée par un médecin formé à la machine."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:05:31.118Z"
+}

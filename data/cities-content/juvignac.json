@@ -1,0 +1,61 @@
+{
+  "slug": "juvignac",
+  "cityName": "Juvignac",
+  "businessName": "L'Atelier Tattoo",
+  "businesses": [
+    {
+      "name": "L'Atelier Tattoo",
+      "category": "Tatoueur",
+      "address": "14 Rue des Magnanarelles, 34990 Juvignac",
+      "rating": 4.9,
+      "reviewCount": 26
+    },
+    {
+      "name": "Salon de tatouage « Or’elle Tattoo »",
+      "category": "Tatoueur",
+      "address": "6 Rue des Magnanarelles, 34990 Juvignac",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Détatouage Laser Montpellier, centre Dr Meziane",
+      "category": "Chirurgien esthétique",
+      "address": "centre Dr Meziane, 60 Rue de l'Acropole, 34000 Montpellier",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "DS Studio",
+      "category": "Tatoueur",
+      "address": "21 Rue de la Calade, 34990 Juvignac",
+      "rating": 4.3,
+      "reviewCount": 4
+    },
+    {
+      "name": "LE GRAND CIL",
+      "category": "Institut de beauté",
+      "address": "70 Rte de Saint-Georges d'Orques, 34990 Juvignac",
+      "rating": 4.8,
+      "reviewCount": 345
+    },
+    {
+      "name": "Mademoiselle EyesPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "17 Imp. Pluton, 34990 Juvignac",
+      "rating": 5,
+      "reviewCount": 11
+    }
+  ],
+  "description": "L'Atelier Tattoo fait partie des centres de détatouage laser à Juvignac. Avec une note de 4.9/5 sur 26 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Juvignac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le microblading reste à vie ?",
+      "answer": "La durée de vie du microblading La réponse varie selon plusieurs facteurs, mais en général, la durée de vie moyenne du microblading est entre 12 et 24 mois. Cependant, divers éléments peuvent influencer cette durée. Parmi ces facteurs, on trouve le type de peau de la personne.21 janv. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:15:00.768Z"
+}

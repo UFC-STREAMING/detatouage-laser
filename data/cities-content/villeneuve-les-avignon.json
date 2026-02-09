@@ -1,0 +1,31 @@
+{
+  "slug": "villeneuve-les-avignon",
+  "cityName": "Villeneuve-lès-Avignon",
+  "businessName": "MJ Élégance",
+  "businesses": [
+    {
+      "name": "MJ Élégance",
+      "category": "Institut de beauté",
+      "address": "27 Av. Pierre Semard, 30400 Villeneuve-lès-Avignon",
+      "rating": 4.9,
+      "reviewCount": 36
+    },
+    {
+      "name": "Vegan Tattoo Avignon",
+      "category": "Tatoueur",
+      "address": "32 Av. Gabriel Péri, 30400 Villeneuve-lès-Avignon",
+      "rating": 5,
+      "reviewCount": 102
+    },
+    {
+      "name": "Visceral tattooPropose : Détatouage",
+      "category": "Tatoueur",
+      "address": "Rue de la Justice, 30133 Les Angles",
+      "rating": 5,
+      "reviewCount": 78
+    }
+  ],
+  "description": "MJ Élégance fait partie des centres de détatouage laser à Villeneuve-lès-Avignon. Avec une note de 4.9/5 sur 36 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeneuve-lès-Avignon.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:20:08.205Z"
+}

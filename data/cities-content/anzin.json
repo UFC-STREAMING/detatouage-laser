@@ -1,0 +1,40 @@
+{
+  "slug": "anzin",
+  "cityName": "Anzin",
+  "businessName": "Goth'ink Tattoo enseigne Beauty'ink",
+  "businesses": [
+    {
+      "name": "Goth'ink Tattoo enseigne Beauty'ink",
+      "category": "Tatoueur",
+      "address": "183 Av. Anatole France",
+      "rating": 4.9,
+      "reviewCount": 46
+    },
+    {
+      "name": "Beauty’ink",
+      "category": "Tatoueur",
+      "address": "183 Av. Anatole France",
+      "rating": 4.6,
+      "reviewCount": 9
+    },
+    {
+      "name": "Clinic de Médecine Esthetique du Dr Stéphane Rault",
+      "category": "Centre d'épilation laser",
+      "address": "Valenciennes",
+      "rating": 4.6,
+      "reviewCount": 314
+    }
+  ],
+  "description": "Goth'ink Tattoo enseigne Beauty'ink fait partie des centres de détatouage laser à Anzin. Avec une note de 4.9/5 sur 46 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Anzin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Qui peut détatouer ?",
+      "answer": "Vous savez maintenant que seul un médecin peut pratiquer le détatouage au laser. Bien choisir le lieu où vous allez suivre votre traitement laser est très important. Vous devez réaliser vos séances de détatouage dans un centre médical ou esthétique autorisé à réaliser le détatouage laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:19:51.476Z"
+}

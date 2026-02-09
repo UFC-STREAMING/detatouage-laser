@@ -1,0 +1,65 @@
+{
+  "slug": "carvin",
+  "cityName": "Carvin",
+  "businessName": "Dark Ink Tatoo",
+  "businesses": [
+    {
+      "name": "Dark Ink Tatoo",
+      "category": "Tatoueur",
+      "address": "41 Rue des Fusillés, 62220 Carvin",
+      "rating": 4.9,
+      "reviewCount": 110
+    },
+    {
+      "name": "V.Lord Tattoo",
+      "category": "Tatoueur",
+      "address": "60 Rue Edouard Plachez, 62220 Carvin",
+      "rating": 4.9,
+      "reviewCount": 77
+    },
+    {
+      "name": "M-L'INK TATTOO",
+      "category": "Tatoueur",
+      "address": "1 rue de Narbonne, 62220 Carvin",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Le petit tatoueur tattoo",
+      "category": "Tatoueur",
+      "address": "16 Pl. Gambetta, 62220 Carvin",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Mirabel Tattoo",
+      "category": "Tatoueur",
+      "address": "46 Rue Buqueux, 62220 Carvin",
+      "rating": 4.9,
+      "reviewCount": 60
+    },
+    {
+      "name": "Jugaink Tattoo",
+      "category": "Tatoueur",
+      "address": "98 Rue Thibaut, 62220 Carvin",
+      "rating": 5,
+      "reviewCount": 7
+    }
+  ],
+  "description": "Dark Ink Tatoo fait partie des centres de détatouage laser à Carvin. Avec une note de 4.9/5 sur 110 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Carvin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:57:45.068Z"
+}

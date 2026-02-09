@@ -1,0 +1,22 @@
+{
+  "slug": "sainte-suzanne",
+  "cityName": "Sainte-Suzanne",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Sainte-Suzanne grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sainte-Suzanne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Détatouage meilleur technique ?",
+      "answer": "Le laser Q-Switched est une référence, surtout pour les tatouages plus anciens ou noirs. Aujourd'hui considéré comme le plus efficace pour le détatouage, il agit plus rapidement que les lasers classiques en fragmentant les pigments plus finement, ce qui facilite leur élimination par le corps."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:38:33.698Z"
+}

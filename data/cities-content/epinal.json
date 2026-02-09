@@ -1,0 +1,65 @@
+{
+  "slug": "epinal",
+  "cityName": "Épinal",
+  "businessName": "Centre laser CtrlZ - Epinal",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Epinal",
+      "category": "Service de détatouage",
+      "address": "11 Chem. la Belle au Bois Dormant, 88000 %C3%89pinal",
+      "rating": 5,
+      "reviewCount": 65
+    },
+    {
+      "name": "Centre de Médecine anti-âge NewBorn",
+      "category": "Centre d'épilation laser",
+      "address": "NewBorn Clinic, Rue Emile Zola, 88000 %C3%89pinal",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "Clockwork Needle",
+      "category": "Salon de tatouage et piercing",
+      "address": "29 Rue de la Chipotte, 88000 %C3%89pinal",
+      "rating": 4.8,
+      "reviewCount": 330
+    },
+    {
+      "name": "Dr Olivier BourrelPropose : Détatouage",
+      "category": "Médecin",
+      "address": "33 Rue de la Préfecture, 88000 %C3%89pinal",
+      "rating": 4.2,
+      "reviewCount": 51
+    },
+    {
+      "name": "Rose Pigment-maquillage permanent-dermopigmentation réparatrice",
+      "category": "Clinique de maquillage permanent",
+      "address": "51 Rue de la Pelle, 88000 %C3%89pinal",
+      "rating": 5,
+      "reviewCount": 60
+    },
+    {
+      "name": "Centre stop-tabac laserOstop Épinal",
+      "category": "Clinique",
+      "address": "8 Rue Aubert, 88000 %C3%89pinal",
+      "rating": 4.2,
+      "reviewCount": 19
+    }
+  ],
+  "description": "Centre laser CtrlZ - Epinal fait partie des centres de détatouage laser à Épinal. Avec une note de 5/5 sur 65 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Épinal.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:28:17.014Z"
+}

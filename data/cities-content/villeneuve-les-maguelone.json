@@ -1,0 +1,44 @@
+{
+  "slug": "villeneuve-les-maguelone",
+  "cityName": "Villeneuve-lès-Maguelone",
+  "businessName": "Lumin'Essence | Épilation laser et Soins esthétiques | Villeneuve-lés-Maguelone",
+  "businesses": [
+    {
+      "name": "Lumin'Essence | Épilation laser et Soins esthétiques | Villeneuve-lés-Maguelone",
+      "category": "Centre d'épilation laser",
+      "address": "59 Rue des Fusains, 34750 Villeneuve-lès-Maguelone",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Sublim'Age I Laser & Soins médico-esthétiques I Infirmière I Formations I",
+      "category": "Centre d'épilation laser",
+      "address": "Centre Médical Les Salins, 3 All. du Collège, 34750 Villeneuve-lès-Maguelone",
+      "rating": 4.9,
+      "reviewCount": 92
+    },
+    {
+      "name": "Black Ink Tattoo Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "178 Bd des %C3%89coles, 34750 Villeneuve-lès-Maguelone",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "Lumin'Essence | Épilation laser et Soins esthétiques | Villeneuve-lés-Maguelone fait partie des centres de détatouage laser à Villeneuve-lès-Maguelone. Avec une note de 5/5 sur 16 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeneuve-lès-Maguelone.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour faire retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:39:21.893Z"
+}

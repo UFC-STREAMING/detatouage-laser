@@ -1,0 +1,65 @@
+{
+  "slug": "grenoble",
+  "cityName": "Grenoble",
+  "businessName": "Centre laser CtrlZ - GrenoblePropose : Détatouage",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - GrenoblePropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "32 Cr Jean Jaurès, 38000 Grenoble",
+      "rating": 4.9,
+      "reviewCount": 61
+    },
+    {
+      "name": "CENTRE DERMATOLOGIQUE ESTHETIQUE & LASER DES DOCTEURS GRAL ET PERRILLAT",
+      "category": "Centre d'épilation laser",
+      "address": "26 Rue Colonel Dumont, 38000 Grenoble",
+      "rating": 3.4,
+      "reviewCount": 268
+    },
+    {
+      "name": "Médecin esthétique à Grenoble : épilation laser-injection-radiofréquence-cryolipolyse-detatouage-peeling",
+      "category": "Médecin",
+      "address": "Immeuble Axone Escalier Chartreuse, 75 Av. Gabriel Péri 1er étage, 38400 Saint-Martin-d'Hères",
+      "rating": 3.6,
+      "reviewCount": 471
+    },
+    {
+      "name": "Clinique Visage et Silhouette Grenoble Seyssinet-Pariset",
+      "category": "Centre d'épilation laser",
+      "address": "19 Rue Lamartine, 38170 Seyssinet-Pariset",
+      "rating": 4.9,
+      "reviewCount": 196
+    },
+    {
+      "name": "MY LASER CLINIC",
+      "category": "Centre médical",
+      "address": "1 Rue Alfred de Musset, 38100 Grenoble",
+      "rating": 4.6,
+      "reviewCount": 169
+    },
+    {
+      "name": "Asia Spa",
+      "category": "Clinique de maquillage permanent",
+      "address": "14 Av. Alsace Lorraine, 38000 Grenoble",
+      "rating": 4.2,
+      "reviewCount": 338
+    }
+  ],
+  "description": "Centre laser CtrlZ - GrenoblePropose : Détatouage fait partie des centres de détatouage laser à Grenoble. Avec une note de 4.9/5 sur 61 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Grenoble.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage laser à Grenoble ?",
+      "answer": "< 5 cm2 : 95€ TTC 5 à 15 cm2 : 145€ par séance. 16 à 50 cm2 : 195€ TTC par séance. 51 à 100 cm2 : 245€ TTC par séance. 101 à 250 cm2 : 295€ TTC par séance."
+    },
+    {
+      "question": "Quel est le prix pour faire retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:04:02.442Z"
+}

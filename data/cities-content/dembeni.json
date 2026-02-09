@@ -1,0 +1,44 @@
+{
+  "slug": "dembeni",
+  "cityName": "Dembeni",
+  "businessName": "Flow d’encre - Tatouage Mayotte",
+  "businesses": [
+    {
+      "name": "Flow d’encre - Tatouage Mayotte",
+      "category": "Tatoueur",
+      "address": "M'Tsangamouji, Mayotte",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "Centre Laser Mayotte - Épilation Laser & Médecine Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "Mamoudzou, Mayotte",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Cabinet de sage-femme, consultations et échographies, Dembeni",
+      "category": "Sage-femme",
+      "address": "Dembéni, Mayotte",
+      "rating": 4.6,
+      "reviewCount": 5
+    }
+  ],
+  "description": "Flow d’encre - Tatouage Mayotte fait partie des centres de détatouage laser à Dembeni. Avec une note de 5/5 sur 13 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Dembeni.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le laser le plus puissant pour le détatouage ?",
+      "answer": "Le laser PiQo4 est le laser le plus puissant du marché pour l'élimination des tatouages \\u200b\\u200bde toutes les couleurs, des taches brunes, des taches solaires, des marques de naissance et de la pigmentation du mélasma."
+    },
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:05:41.108Z"
+}

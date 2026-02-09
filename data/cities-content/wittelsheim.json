@@ -1,0 +1,65 @@
+{
+  "slug": "wittelsheim",
+  "cityName": "Wittelsheim",
+  "businessName": "L'Adresse Wellness",
+  "businesses": [
+    {
+      "name": "L'Adresse Wellness",
+      "category": "Centre d'épilation laser",
+      "address": "125 Rue de Mulhouse, 68310 Wittelsheim",
+      "rating": 5,
+      "reviewCount": 59
+    },
+    {
+      "name": "Salon de tatouage INKYOUREYES",
+      "category": "Tatoueur",
+      "address": "15 Rue des Fleurs, 68850 Staffelfelden",
+      "rating": 5,
+      "reviewCount": 134
+    },
+    {
+      "name": "Institut MOMENT ZEN - Wittelsheim",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue de la Hohmatten, 68310 Wittelsheim",
+      "rating": 4.8,
+      "reviewCount": 59
+    },
+    {
+      "name": "Design RegardPropose : Détatouage",
+      "category": "Tatoueur",
+      "address": "7 Rue de l'Industrie, 68360 Soultz-Haut-Rhin",
+      "rating": 4.9,
+      "reviewCount": 18
+    },
+    {
+      "name": "L'encre de Riel- Tatouage",
+      "category": "Tatoueur",
+      "address": "15 Rue des Fleurs, 68850 Staffelfelden",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "MHX TATTOOPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "16 Rue de Reiningue, 68310 Wittelsheim",
+      "rating": 5,
+      "reviewCount": 5
+    }
+  ],
+  "description": "L'Adresse Wellness fait partie des centres de détatouage laser à Wittelsheim. Avec une note de 5/5 sur 59 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Wittelsheim.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Qui peut détatouer ?",
+      "answer": "Vous savez maintenant que seul un médecin peut pratiquer le détatouage au laser. Bien choisir le lieu où vous allez suivre votre traitement laser est très important. Vous devez réaliser vos séances de détatouage dans un centre médical ou esthétique autorisé à réaliser le détatouage laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:41:32.609Z"
+}

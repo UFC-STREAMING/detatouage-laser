@@ -1,0 +1,44 @@
+{
+  "slug": "raismes",
+  "cityName": "Raismes",
+  "businessName": "ARCHIMED MEDECINE ESTHETIQUE",
+  "businesses": [
+    {
+      "name": "ARCHIMED MEDECINE ESTHETIQUE",
+      "category": "Centre d'épilation laser",
+      "address": "Valenciennes",
+      "rating": 5,
+      "reviewCount": 32
+    },
+    {
+      "name": "Mademoiselle Iris",
+      "category": "Tatoueur",
+      "address": "Beuvrages",
+      "rating": 5,
+      "reviewCount": 102
+    },
+    {
+      "name": "Clinic de Médecine Esthetique du Dr Stéphane Rault",
+      "category": "Centre d'épilation laser",
+      "address": "Valenciennes",
+      "rating": 4.6,
+      "reviewCount": 314
+    }
+  ],
+  "description": "ARCHIMED MEDECINE ESTHETIQUE fait partie des centres de détatouage laser à Raismes. Avec une note de 5/5 sur 32 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Raismes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:27:52.056Z"
+}

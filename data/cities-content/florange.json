@@ -1,0 +1,44 @@
+{
+  "slug": "florange",
+  "cityName": "Florange",
+  "businessName": "Dermographe Corporation",
+  "businesses": [
+    {
+      "name": "Dermographe Corporation",
+      "category": "Salon de tatouage et piercing",
+      "address": "37 Bcle du Ferronnier, 57180 Terville",
+      "rating": 4.9,
+      "reviewCount": 245
+    },
+    {
+      "name": "Myl Dermo",
+      "category": "Salon de tatouage et piercing",
+      "address": "35 Rue Saint-Théodore, 57700 Hayange",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "Vinsblackart",
+      "category": "Tatoueur",
+      "address": "22 Rte de Metz, 57190 Florange",
+      "rating": 5,
+      "reviewCount": 47
+    }
+  ],
+  "description": "Dermographe Corporation fait partie des centres de détatouage laser à Florange. Avec une note de 4.9/5 sur 245 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Florange.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:29:29.774Z"
+}

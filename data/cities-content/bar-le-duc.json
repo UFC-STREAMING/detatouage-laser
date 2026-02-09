@@ -1,0 +1,65 @@
+{
+  "slug": "bar-le-duc",
+  "cityName": "Bar-le-Duc",
+  "businessName": "Antipode.",
+  "businesses": [
+    {
+      "name": "Antipode.",
+      "category": "Salon de tatouage et piercing",
+      "address": "20 Rue du Cygne",
+      "rating": 4.9,
+      "reviewCount": 43
+    },
+    {
+      "name": "Old skull tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 bis Bd Raymond Poincaré",
+      "rating": 4.8,
+      "reviewCount": 92
+    },
+    {
+      "name": "L Authentique Esthetique",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue de Couchot",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Lylyrose Tattoo",
+      "category": "Tatoueur",
+      "address": "4 All. Paul Eluard",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Lyli's Ink",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Beaucil'or",
+      "category": "Institut de beauté",
+      "address": "5 Rue du Général de Gaulle",
+      "rating": 5,
+      "reviewCount": 6
+    }
+  ],
+  "description": "Antipode. fait partie des centres de détatouage laser à Bar-le-Duc. Avec une note de 4.9/5 sur 43 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bar-le-Duc.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:11:22.667Z"
+}

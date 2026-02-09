@@ -1,0 +1,52 @@
+{
+  "slug": "le-gosier",
+  "cityName": "Le Gosier",
+  "businessName": "Bodygraphic",
+  "businesses": [
+    {
+      "name": "Bodygraphic",
+      "category": "Tatoueur",
+      "address": "Pointe-à-Pitre, Guadeloupe",
+      "rating": 4.2,
+      "reviewCount": 19
+    },
+    {
+      "name": "Tina Dermo Touch - Spécialiste Sourcils Guadeloupe",
+      "category": "Service de détatouage",
+      "address": "Passage du dauphin-Grand baie",
+      "rating": 4.9,
+      "reviewCount": 181
+    },
+    {
+      "name": "Marina Center, Dr Pierre-Michel HAVET",
+      "category": "Centre d'épilation laser",
+      "address": "6FCH+95X, Le Gosier",
+      "rating": 4.1,
+      "reviewCount": 19
+    },
+    {
+      "name": "Institut de Beauté Epiderme",
+      "category": "Institut de beauté",
+      "address": "résidence Grand Gosier, 10 Rte De Montauban",
+      "rating": 4.9,
+      "reviewCount": 61
+    },
+    {
+      "name": "J'arrête de fumer avec StopLaClope Guadeloupe",
+      "category": "Centre de bien-être",
+      "address": "Centre commercial de Dunoyer, Le Gosier 97190, Guadeloupe",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Epil'derm",
+      "category": "Centre d'épilation laser",
+      "address": "Epil'derm, Pharmacie de pliane, Le Gosier 97190, Guadeloupe",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Bodygraphic fait partie des centres de détatouage laser à Le Gosier. Avec une note de 4.2/5 sur 19 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Gosier.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:34:10.734Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "bischheim",
+  "cityName": "Bischheim",
+  "businessName": "Centre Dermo Laser Strasbourg - Epilation Laser & Définitive - Détatouage - Hydrafacial",
+  "businesses": [
+    {
+      "name": "Centre Dermo Laser Strasbourg - Epilation Laser & Définitive - Détatouage - Hydrafacial",
+      "category": "Service de détatouage",
+      "address": "35 Av. de la Paix, 67000 Strasbourg",
+      "rating": 4.9,
+      "reviewCount": 154
+    },
+    {
+      "name": "LASERMEDICAL67Propose : Laser médical",
+      "category": "Médecin",
+      "address": "46 Rue de la Robertsau, 67800 Bischheim",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Raventattoo",
+      "category": "Tatoueur",
+      "address": "1 Rue de l'%C3%89lectricité, 67800 Bischheim",
+      "rating": 5,
+      "reviewCount": 73
+    }
+  ],
+  "description": "Centre Dermo Laser Strasbourg - Epilation Laser & Définitive - Détatouage - Hydrafacial fait partie des centres de détatouage laser à Bischheim. Avec une note de 4.9/5 sur 154 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bischheim.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:55:38.606Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "aubenas",
+  "cityName": "Aubenas",
+  "businessName": "C ma Clinic",
+  "businesses": [
+    {
+      "name": "C ma Clinic",
+      "category": "Centre d'épilation laser",
+      "address": "7 Rte de Montélimar, 07200 Aubenas",
+      "rating": 4.8,
+      "reviewCount": 86
+    },
+    {
+      "name": "L'Interdit by Amorem",
+      "category": "Tatoueur",
+      "address": "20 Rue de Bernardy, 07200 Aubenas",
+      "rating": 4.9,
+      "reviewCount": 54
+    },
+    {
+      "name": "Laser & Équilibre",
+      "category": "Réflexologue",
+      "address": "5 Av. Victor Hugo, 07200 Aubenas",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "𝘽𝙇𝘼𝘾𝙆 𝙅𝘼𝙂𝙐𝘼𝙍 𝙄𝙉𝙆 𝐴𝑢𝑏𝑒𝑛𝑎𝑠",
+      "category": "Tatoueur",
+      "address": "15 Rue du 4 Septembre, 07200 Aubenas",
+      "rating": 5,
+      "reviewCount": 186
+    },
+    {
+      "name": "Natural Dermo - Jessica Ridouard - Maquillage PermanentPropose : Détatouage sans laser",
+      "category": "Clinique de maquillage permanent",
+      "address": "270 Rte d'Alès, 07200 Saint-%C3%89tienne-de-Fontbellon",
+      "rating": 5,
+      "reviewCount": 51
+    },
+    {
+      "name": "L2.INK PIERCINGPropose : Tatouages, piercings",
+      "category": "Salon de piercing",
+      "address": "15 Rue Jean Jaurès, 07200 Aubenas",
+      "rating": 4.9,
+      "reviewCount": 123
+    }
+  ],
+  "description": "C ma Clinic fait partie des centres de détatouage laser à Aubenas. Avec une note de 4.8/5 sur 86 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aubenas.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:25:11.558Z"
+}

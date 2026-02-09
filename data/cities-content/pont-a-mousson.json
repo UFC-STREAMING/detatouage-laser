@@ -1,0 +1,31 @@
+{
+  "slug": "pont-a-mousson",
+  "cityName": "Pont-à-Mousson",
+  "businessName": "New Skin Institut dermo-esthétique",
+  "businesses": [
+    {
+      "name": "New Skin Institut dermo-esthétique",
+      "category": "Institut de beauté",
+      "address": "6 Rue Xavier Rogé, 54700 Pont-à-Mousson",
+      "rating": 5,
+      "reviewCount": 54
+    },
+    {
+      "name": "Un Point C Too",
+      "category": "Tatoueur",
+      "address": "13 Rue de Montrichard, 54700 Pont-à-Mousson",
+      "rating": 5,
+      "reviewCount": 70
+    },
+    {
+      "name": "JM l'institut",
+      "category": "Institut de beauté",
+      "address": "33 Rue Gambetta, 54700 Pont-à-Mousson",
+      "rating": 4.7,
+      "reviewCount": 19
+    }
+  ],
+  "description": "New Skin Institut dermo-esthétique fait partie des centres de détatouage laser à Pont-à-Mousson. Avec une note de 5/5 sur 54 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pont-à-Mousson.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:13:44.485Z"
+}

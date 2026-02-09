@@ -1,0 +1,52 @@
+{
+  "slug": "landerneau",
+  "cityName": "Landerneau",
+  "businessName": "Black Witch",
+  "businesses": [
+    {
+      "name": "Black Witch",
+      "category": "Tatoueur",
+      "address": "15 Rue Amiral Romain Desfosses, 29800 Landerneau",
+      "rating": 4.7,
+      "reviewCount": 153
+    },
+    {
+      "name": "A Fleur De Peau",
+      "category": "Institut de beauté",
+      "address": "13 Rue des Déportés, 29800 Landerneau",
+      "rating": 4,
+      "reviewCount": 1
+    },
+    {
+      "name": "Studio Esperanza",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 Rue des Déportés, 29800 Landerneau",
+      "rating": 4.8,
+      "reviewCount": 66
+    },
+    {
+      "name": "Plume Noire",
+      "category": "Tatoueur",
+      "address": "6 Rue du Commerce, 29800 Landerneau",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Mana Tattoo",
+      "category": "Tatoueur",
+      "address": "4 Ven. Lafayette, 29800 Landerneau",
+      "rating": 4.7,
+      "reviewCount": 58
+    },
+    {
+      "name": "Le Studio",
+      "category": "Institut de beauté",
+      "address": "7 Bd de la Gare, 29800 Landerneau",
+      "rating": 5,
+      "reviewCount": 25
+    }
+  ],
+  "description": "Black Witch fait partie des centres de détatouage laser à Landerneau. Avec une note de 4.7/5 sur 153 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Landerneau.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:02:59.646Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "rixheim",
+  "cityName": "Rixheim",
+  "businessName": "Centre Stop Tabac laser Althea therapie",
+  "businesses": [
+    {
+      "name": "Centre Stop Tabac laser Althea therapie",
+      "category": "Praticien de médecine alternative",
+      "address": "Centre stop tabac- Laser althea therapie, 27 Grand Rue Pierre Braun",
+      "rating": 5,
+      "reviewCount": 150
+    },
+    {
+      "name": "Arrêter de fumer Riedisheim - Laserotherapie 68",
+      "category": "Clinique spécialisée",
+      "address": "Riedisheim",
+      "rating": 4.9,
+      "reviewCount": 45
+    },
+    {
+      "name": "L'atelier du corps",
+      "category": "Institut de beauté",
+      "address": "124 Rue de l'Île Napoléon",
+      "rating": 4.6,
+      "reviewCount": 116
+    }
+  ],
+  "description": "Centre Stop Tabac laser Althea therapie fait partie des centres de détatouage laser à Rixheim. Avec une note de 5/5 sur 150 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rixheim.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:13:02.973Z"
+}

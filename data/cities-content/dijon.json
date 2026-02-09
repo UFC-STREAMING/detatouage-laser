@@ -1,0 +1,52 @@
+{
+  "slug": "dijon",
+  "cityName": "Dijon",
+  "businessName": "Centre Laser Médical DijonPropose : Détatouage laser",
+  "businesses": [
+    {
+      "name": "Centre Laser Médical DijonPropose : Détatouage laser",
+      "category": "Centre d'épilation laser",
+      "address": "20 Rue de la Liberté, 21000 Dijon",
+      "rating": 4.2,
+      "reviewCount": 71
+    },
+    {
+      "name": "KMBROW institut microshading détatouage brow-lift",
+      "category": "Institut de beauté",
+      "address": "48 Rue Jean Jacques Rousseau, 21000 Dijon",
+      "rating": 4.9,
+      "reviewCount": 50
+    },
+    {
+      "name": "Centre Laser Médical Bourgogne - épilation définitive au laser à Dijon",
+      "category": "Centre d'épilation laser",
+      "address": "32 BIS Bd de l'Université, 21000 Dijon",
+      "rating": 4.8,
+      "reviewCount": 114
+    },
+    {
+      "name": "Clinique des Champs Elysées Dijon - Médecine esthétique",
+      "category": "Spa médical",
+      "address": "76 Rue de la Liberté, 21000 Dijon",
+      "rating": 4.7,
+      "reviewCount": 246
+    },
+    {
+      "name": "Beaujour Dijon",
+      "category": "Centre d'épilation laser",
+      "address": "7 Rue Buffon, 21000 Dijon",
+      "rating": 4.7,
+      "reviewCount": 77
+    },
+    {
+      "name": "Skinhair-ClinicPropose : Formation speed detatouage",
+      "category": "Clinique de maquillage permanent",
+      "address": "48 Rue Berlier, 21000 Dijon",
+      "rating": 4.3,
+      "reviewCount": 65
+    }
+  ],
+  "description": "Centre Laser Médical DijonPropose : Détatouage laser fait partie des centres de détatouage laser à Dijon. Avec une note de 4.2/5 sur 71 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Dijon.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:03:50.157Z"
+}

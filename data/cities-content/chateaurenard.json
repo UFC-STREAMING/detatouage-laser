@@ -1,0 +1,65 @@
+{
+  "slug": "chateaurenard",
+  "cityName": "Châteaurenard",
+  "businessName": "The Room Beauty - Maquillage permanent - Détatouage - Carbon Peel",
+  "businesses": [
+    {
+      "name": "The Room Beauty - Maquillage permanent - Détatouage - Carbon Peel",
+      "category": "Service de détatouage",
+      "address": "2 Anc. Chem. d'Avignon, 13160 Ch%C3%A2teaurenard",
+      "rating": 5,
+      "reviewCount": 34
+    },
+    {
+      "name": "Clem Outback Tattoo « THE TATTOO SHOP »",
+      "category": "Salon de tatouage et piercing",
+      "address": "5 Av. Victor Hugo, 13160 Ch%C3%A2teaurenard",
+      "rating": 4.9,
+      "reviewCount": 73
+    },
+    {
+      "name": "AlexV Tattoo « THE TATTOO SHOP »",
+      "category": "Salon de tatouage et piercing",
+      "address": "5 Av. Victor Hugo, 13160 Ch%C3%A2teaurenard",
+      "rating": 5,
+      "reviewCount": 128
+    },
+    {
+      "name": "Dr Eric Pietri Châteaurenard - Médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "16 Bd Gambetta, 13160 Ch%C3%A2teaurenard",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "A Corps Parfait - Institut de Beauté",
+      "category": "Institut de beauté",
+      "address": "Place Voltaire, 13 Rue Berthelot, 13160 Ch%C3%A2teaurenard",
+      "rating": 4.9,
+      "reviewCount": 48
+    },
+    {
+      "name": "Isabelle Studio Artist",
+      "category": "Institut de beauté",
+      "address": "13160 Ch%C3%A2teaurenard",
+      "rating": 4.8,
+      "reviewCount": 41
+    }
+  ],
+  "description": "The Room Beauty - Maquillage permanent - Détatouage - Carbon Peel fait partie des centres de détatouage laser à Châteaurenard. Avec une note de 5/5 sur 34 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Châteaurenard.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:02:07.497Z"
+}

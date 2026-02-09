@@ -1,0 +1,65 @@
+{
+  "slug": "rumilly",
+  "cityName": "Rumilly",
+  "businessName": "Le Point d’Encrage – Tatoueur à Rumilly",
+  "businesses": [
+    {
+      "name": "Le Point d’Encrage – Tatoueur à Rumilly",
+      "category": "Tatoueur",
+      "address": "9 Rue des Glières, 74150 Rumilly",
+      "rating": 5,
+      "reviewCount": 68
+    },
+    {
+      "name": "L'impertinencre",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Kitty Red Tattoo",
+      "category": "Tatoueur",
+      "address": "9 Rue d'Hauteville, 74150 Rumilly",
+      "rating": 5,
+      "reviewCount": 72
+    },
+    {
+      "name": "Pretty Hole Piercing",
+      "category": "Salon de piercing",
+      "address": "10 12 Rue de Montpelaz, 74150 Rumilly",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "CENTRE VAV",
+      "category": "Centre d'épilation laser",
+      "address": "44 Av. Gantin, 74150 Rumilly",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Ruby Badass Tatouage et Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "Sur la droite, 17 Rue de la Résistance, 74150 Rumilly",
+      "rating": 4.9,
+      "reviewCount": 85
+    }
+  ],
+  "description": "Le Point d’Encrage – Tatoueur à Rumilly fait partie des centres de détatouage laser à Rumilly. Avec une note de 5/5 sur 68 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rumilly.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:02:29.405Z"
+}

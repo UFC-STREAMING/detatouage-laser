@@ -1,0 +1,44 @@
+{
+  "slug": "saint-martin-d-heres",
+  "cityName": "Saint-Martin-d\\'Hères",
+  "businessName": "Médecin esthétique à Grenoble : épilation laser-injection-radiofréquence-cryolipolyse-detatouage-peeling",
+  "businesses": [
+    {
+      "name": "Médecin esthétique à Grenoble : épilation laser-injection-radiofréquence-cryolipolyse-detatouage-peeling",
+      "category": "Médecin",
+      "address": "Immeuble Axone Escalier Chartreuse, 75 Av. Gabriel Péri 1er étage, 38400 Saint-Martin-d'Hères",
+      "rating": 3.6,
+      "reviewCount": 471
+    },
+    {
+      "name": "Iasoderm",
+      "category": "Tatoueur",
+      "address": "1 Rue Rosa Lee Parks, 38400 Saint-Martin-d'Hères",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "ILAM BEAUTY AestheticPropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "12 Rue Emile Combes, 38400 Saint-Martin-d'Hères",
+      "rating": 4.9,
+      "reviewCount": 79
+    }
+  ],
+  "description": "Médecin esthétique à Grenoble : épilation laser-injection-radiofréquence-cryolipolyse-detatouage-peeling fait partie des centres de détatouage laser à Saint-Martin-d\\'Hères. Ce centre affiche une note de 3.6/5 pour ses prestations de détatouage. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Martin-d\\'Hères.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:23:52.137Z"
+}

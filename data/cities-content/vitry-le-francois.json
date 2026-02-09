@@ -1,0 +1,65 @@
+{
+  "slug": "vitry-le-francois",
+  "cityName": "Vitry-le-François",
+  "businessName": "Centre Laser Médical de la Marne",
+  "businesses": [
+    {
+      "name": "Centre Laser Médical de la Marne",
+      "category": "Centre de bien-être",
+      "address": "42 Gd Rue de Vaux",
+      "rating": 4.7,
+      "reviewCount": 3
+    },
+    {
+      "name": "Dermo K | Épilation Laser & Radiofréquence | Vitry le François",
+      "category": "Centre d'épilation laser",
+      "address": "15 Rue des Hauts Pas",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Hémoglob'Ink",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Rue Domyne de Verzet",
+      "rating": 5,
+      "reviewCount": 42
+    },
+    {
+      "name": "Pat Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Bd François 1er",
+      "rating": 4.6,
+      "reviewCount": 36
+    },
+    {
+      "name": "Star Tattoo",
+      "category": "Tatoueur",
+      "address": "15 Pl. de l'Hôtel de ville",
+      "rating": 4.8,
+      "reviewCount": 54
+    },
+    {
+      "name": "L’instant bien-être",
+      "category": "Institut de beauté",
+      "address": "46 Gd Rue de Vaux",
+      "rating": 4.8,
+      "reviewCount": 27
+    }
+  ],
+  "description": "Centre Laser Médical de la Marne fait partie des centres de détatouage laser à Vitry-le-François. Avec une note de 4.7/5 sur 3 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vitry-le-François.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage au laser laisse des traces ?",
+      "answer": "Cicatrices. Le détatouage laser, qui est l'une des méthodes les plus courantes pour enlever un tatouage, peut entraîner des cicatrices.7 nov. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:37:43.443Z"
+}

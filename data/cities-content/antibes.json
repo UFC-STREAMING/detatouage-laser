@@ -1,0 +1,44 @@
+{
+  "slug": "antibes",
+  "cityName": "Antibes",
+  "businessName": "Docteur Essayagh Eric",
+  "businesses": [
+    {
+      "name": "Docteur Essayagh Eric",
+      "category": "Médecin",
+      "address": "18 Av. Saramartel",
+      "rating": 4.8,
+      "reviewCount": 87
+    },
+    {
+      "name": "Dr. Simon Lamquin | Cabinet de médecine esthétique",
+      "category": "Cabinet médical",
+      "address": "Cagnes-sur-Mer",
+      "rating": 4.7,
+      "reviewCount": 114
+    },
+    {
+      "name": "Docteur Aimé Virginie Médecin Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "11 Place Général de Gaulle Le grand hôtel",
+      "rating": 4.7,
+      "reviewCount": 81
+    }
+  ],
+  "description": "Docteur Essayagh Eric fait partie des centres de détatouage laser à Antibes. Avec une note de 4.8/5 sur 87 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Antibes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:08:35.316Z"
+}

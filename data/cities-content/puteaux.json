@@ -1,0 +1,31 @@
+{
+  "slug": "puteaux",
+  "cityName": "Puteaux",
+  "businessName": "Institut Medical de la Peau - IMP CNIT La Défense",
+  "businesses": [
+    {
+      "name": "Institut Medical de la Peau - IMP CNIT La Défense",
+      "category": "Service de détatouage",
+      "address": "Parv. de la Défense, 92800 Puteaux",
+      "rating": 4.1,
+      "reviewCount": 32
+    },
+    {
+      "name": "Les insolents tattoo piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "28 Bd Richard Wallace, 92800 Puteaux",
+      "rating": 4.9,
+      "reviewCount": 112
+    },
+    {
+      "name": "Maelis Centre Laser La Défense / Puteaux - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "28B Rue Godefroy, 92800 Puteaux",
+      "rating": 4.9,
+      "reviewCount": 407
+    }
+  ],
+  "description": "Institut Medical de la Peau - IMP CNIT La Défense fait partie des centres de détatouage laser à Puteaux. Avec une note de 4.1/5 sur 32 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Puteaux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:19:48.501Z"
+}

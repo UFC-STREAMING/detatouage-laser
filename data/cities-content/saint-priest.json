@@ -1,0 +1,44 @@
+{
+  "slug": "saint-priest",
+  "cityName": "Saint-Priest",
+  "businessName": "Docteur Philippe MALET - Médecin Esthétique",
+  "businesses": [
+    {
+      "name": "Docteur Philippe MALET - Médecin Esthétique",
+      "category": "Clinique",
+      "address": "21 Place Jacques Reynaud, (Angle rue Charles Ravat)",
+      "rating": 4.8,
+      "reviewCount": 17
+    },
+    {
+      "name": "HomeTattoo",
+      "category": "Tatoueur",
+      "address": "40 Rue Louis Braille T9",
+      "rating": 5,
+      "reviewCount": 166
+    },
+    {
+      "name": "A_lysbeauty_artist",
+      "category": "Clinique de maquillage permanent",
+      "address": "Beautymilkshake, 46 bis Grande Rue",
+      "rating": 5,
+      "reviewCount": 95
+    }
+  ],
+  "description": "Docteur Philippe MALET - Médecin Esthétique fait partie des centres de détatouage laser à Saint-Priest. Avec une note de 4.8/5 sur 17 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Priest.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour faire retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:16:50.470Z"
+}

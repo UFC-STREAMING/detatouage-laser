@@ -1,0 +1,52 @@
+{
+  "slug": "la-teste-de-buch",
+  "cityName": "La Teste-de-Buch",
+  "businessName": "Dr DICHARRY Pauline - Médecine esthétique & laser médical - Gynécologie médicale & réparatrice. La Teste-de-Buch (Arcachon)",
+  "businesses": [
+    {
+      "name": "Dr DICHARRY Pauline - Médecine esthétique & laser médical - Gynécologie médicale & réparatrice. La Teste-de-Buch (Arcachon)",
+      "category": "Médecin",
+      "address": "112 Av. Charles de Gaulle",
+      "rating": 4.9,
+      "reviewCount": 28
+    },
+    {
+      "name": "Dermo Center LR",
+      "category": "Institut de beauté",
+      "address": "949 Av. du Parc des Expositions",
+      "rating": 5,
+      "reviewCount": 165
+    },
+    {
+      "name": "Silver Coast Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "3 Bis Rue Victor Hugo",
+      "rating": 4.9,
+      "reviewCount": 208
+    },
+    {
+      "name": "Dr Christian Cocchi",
+      "category": "Médecin",
+      "address": "3 C Av. de Binghamton, 33260 La Teste-de-Buch",
+      "rating": 4.8,
+      "reviewCount": 229
+    },
+    {
+      "name": "HB Centre Laser",
+      "category": "Centre d'épilation laser",
+      "address": "Le galys, 3C Av. de Binghamton",
+      "rating": 5,
+      "reviewCount": 115
+    },
+    {
+      "name": "Dina dermo & As de Pique",
+      "category": "Institut de beauté",
+      "address": "47 Av. Saint-Exupéry",
+      "rating": 4.7,
+      "reviewCount": 78
+    }
+  ],
+  "description": "Dr DICHARRY Pauline - Médecine esthétique & laser médical - Gynécologie médicale & réparatrice. La Teste-de-Buch (Arcachon) fait partie des centres de détatouage laser à La Teste-de-Buch. Avec une note de 4.9/5 sur 28 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Teste-de-Buch.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:34:49.483Z"
+}

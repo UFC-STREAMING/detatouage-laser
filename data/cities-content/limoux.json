@@ -1,0 +1,52 @@
+{
+  "slug": "limoux",
+  "cityName": "Limoux",
+  "businessName": "Comalucide tattoo",
+  "businesses": [
+    {
+      "name": "Comalucide tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "18 Rue Jean Jaurès",
+      "rating": 4.9,
+      "reviewCount": 37
+    },
+    {
+      "name": "La Môme Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "18 Rue Jean Jaurès",
+      "rating": 4.9,
+      "reviewCount": 46
+    },
+    {
+      "name": "L'Odyssée | Épilation Laser - Amincissement - Anti-Âge | Limoux",
+      "category": "Centre d'épilation laser",
+      "address": "4 Av. de L'Aiguille",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "De l'encre à l'arcane",
+      "category": "Tatoueur",
+      "address": "37 Rue Jean Jaurès",
+      "rating": 4.5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Le Porc Qui Pique - limoux tatoo",
+      "category": "Tatoueur",
+      "address": "3bis Av. Charles de Gaulle",
+      "rating": 4.9,
+      "reviewCount": 71
+    },
+    {
+      "name": "BEAUTE TANDEM",
+      "category": "Institut de beauté",
+      "address": "59 Rue Jean Jaurès",
+      "rating": 5,
+      "reviewCount": 62
+    }
+  ],
+  "description": "Comalucide tattoo fait partie des centres de détatouage laser à Limoux. Avec une note de 4.9/5 sur 37 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Limoux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:43:06.814Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "audincourt",
+  "cityName": "Audincourt",
+  "businessName": "Piercing By Mel",
+  "businesses": [
+    {
+      "name": "Piercing By Mel",
+      "category": "Salon de tatouage et piercing",
+      "address": "Rue des Cités Humann, 25400 Audincourt",
+      "rating": 4.7,
+      "reviewCount": 30
+    },
+    {
+      "name": "Art Corps Tattoo",
+      "category": "Tatoueur",
+      "address": "12 Rue des Prés, 25400 Audincourt",
+      "rating": 4.9,
+      "reviewCount": 169
+    },
+    {
+      "name": "emy black needlePropose : Tatouages, piercings",
+      "category": "Salon de piercing",
+      "address": "79 Rue d'Audincourt, 25230 Seloncourt",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Beauty Studio",
+      "category": "Institut de beauté",
+      "address": "11 Rue de Seloncourt, 25400 Audincourt",
+      "rating": 4.5,
+      "reviewCount": 66
+    },
+    {
+      "name": "Alfa Center & Camelia",
+      "category": "Centre d'épilation laser",
+      "address": "56 Rue Jacques Foillet Porte B11 - 1er étage, 25200 Montbéliard",
+      "rating": 4.6,
+      "reviewCount": 115
+    },
+    {
+      "name": "L'Atelier Cocoon'Ink",
+      "category": "Tatoueur",
+      "address": "19 Grande Rue, 25310 Meslières",
+      "rating": 4.9,
+      "reviewCount": 16
+    }
+  ],
+  "description": "Piercing By Mel fait partie des centres de détatouage laser à Audincourt. Avec une note de 4.7/5 sur 30 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Audincourt.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:14:28.867Z"
+}

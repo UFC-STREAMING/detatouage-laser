@@ -1,0 +1,65 @@
+{
+  "slug": "bergerac",
+  "cityName": "Bergerac",
+  "businessName": "LaserAddict - Bergerac - Centre anti tabac et bien-être",
+  "businesses": [
+    {
+      "name": "LaserAddict - Bergerac - Centre anti tabac et bien-être",
+      "category": "Centre de bien-être",
+      "address": "67 Rue Clairat",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "Épilation Laser et Électrique Bergerac Sandra CHAUZAT ALTHIERY",
+      "category": "Centre d'épilation laser",
+      "address": "37 Avenue du Professeur Calmette",
+      "rating": 5,
+      "reviewCount": 37
+    },
+    {
+      "name": "EPILATION LASER ET ELECTRIQUE BERGERAC CHAUZAT Sandra",
+      "category": "Boutique de santé et beauté",
+      "address": "37 Bd du Professeur Albert Calmette",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Eterna Skin Pro",
+      "category": "Centre d'épilation laser",
+      "address": "21 Rue Mounet Sully",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Sublime Demencia",
+      "category": "Tatoueur",
+      "address": "34 Rue Jules Michelet",
+      "rating": 4.6,
+      "reviewCount": 173
+    },
+    {
+      "name": "El loco ink Tattoo&piercing",
+      "category": "Tatoueur",
+      "address": "Av. Pasteur",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "LaserAddict - Bergerac - Centre anti tabac et bien-être fait partie des centres de détatouage laser à Bergerac. Avec une note de 5/5 sur 13 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bergerac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:35:16.477Z"
+}

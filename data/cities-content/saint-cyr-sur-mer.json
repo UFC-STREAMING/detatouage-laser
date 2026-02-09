@@ -1,0 +1,52 @@
+{
+  "slug": "saint-cyr-sur-mer",
+  "cityName": "Saint-Cyr-sur-Mer",
+  "businessName": "LASER O POILS",
+  "businesses": [
+    {
+      "name": "LASER O POILS",
+      "category": "Centre d'épilation laser",
+      "address": "18 Impasse Edouard Hostein, 83270 Saint-Cyr-sur-Mer",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Alex piercing 83",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue du Clos Saint-Cyr, 83270 Saint-Cyr-sur-Mer",
+      "rating": 5,
+      "reviewCount": 195
+    },
+    {
+      "name": "Gaga Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "2 Av. des Heures Claires 1er étage, 83270 Saint-Cyr-sur-Mer",
+      "rating": 5,
+      "reviewCount": 121
+    },
+    {
+      "name": "Cris Tattoo 83",
+      "category": "Tatoueur",
+      "address": "ZAC Les Pradeaux, Rue du Clos Saint-Cyr, 83270 Saint-Cyr-sur-Mer",
+      "rating": 4.9,
+      "reviewCount": 179
+    },
+    {
+      "name": "ÔrâmePropose : Auriculothérapies laser",
+      "category": "Centre de bien-être",
+      "address": "19 Rue Victor Hugo, 83270 Saint-Cyr-sur-Mer",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Chez Alex et muriel",
+      "category": "Salon de tatouage et piercing",
+      "address": "122 Rue du Clos Saint-Cyr, 83270 Saint-Cyr-sur-Mer",
+      "rating": 5,
+      "reviewCount": 54
+    }
+  ],
+  "description": "LASER O POILS fait partie des centres de détatouage laser à Saint-Cyr-sur-Mer. Avec une note de 5/5 sur 17 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Cyr-sur-Mer.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:31:40.344Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cormeilles-en-parisis",
+  "cityName": "Cormeilles-en-Parisis",
+  "businessName": "The Ranch Tattoo Shop",
+  "businesses": [
+    {
+      "name": "The Ranch Tattoo Shop",
+      "category": "Service de détatouage",
+      "address": "99 Rue Gabriel Péri, 95240 Cormeilles-en-Parisis",
+      "rating": 5,
+      "reviewCount": 126
+    },
+    {
+      "name": "Le Temple de Vénus - Maquillage Permanent & Pigmentation Correctrice - 95",
+      "category": "Service de détatouage",
+      "address": "1 Rue Georges Méliès, 95240 Cormeilles-en-Parisis",
+      "rating": 4.9,
+      "reviewCount": 144
+    },
+    {
+      "name": "Epilation cire orientale 95 par Deborah & Formation",
+      "category": "Esthéticien",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 33
+    }
+  ],
+  "description": "The Ranch Tattoo Shop fait partie des centres de détatouage laser à Cormeilles-en-Parisis. Avec une note de 5/5 sur 126 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cormeilles-en-Parisis.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:35:09.393Z"
+}

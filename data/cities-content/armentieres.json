@@ -1,0 +1,52 @@
+{
+  "slug": "armentieres",
+  "cityName": "Armentières",
+  "businessName": "L'Atelier Sans Nom",
+  "businesses": [
+    {
+      "name": "L'Atelier Sans Nom",
+      "category": "Salon de tatouage et piercing",
+      "address": "17 Rue Robert Schuman, 59280 Armentières",
+      "rating": 4.9,
+      "reviewCount": 337
+    },
+    {
+      "name": "Steeve H. Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "2 Rue Massenet appt.1, 59280 Armentières",
+      "rating": 4.9,
+      "reviewCount": 66
+    },
+    {
+      "name": "Tattoo studio Les Troubadours",
+      "category": "Tatoueur",
+      "address": "35 Rue de Dunkerque, 59280 Armentières",
+      "rating": 4.9,
+      "reviewCount": 141
+    },
+    {
+      "name": "Madame Maud Tattoo",
+      "category": "Tatoueur",
+      "address": "2 Rue Massenet, 59280 Armentières",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Peter Art Tattoo",
+      "category": "Tatoueur",
+      "address": "47 Rue Jules Lebleu, 59280 Armentières",
+      "rating": 5,
+      "reviewCount": 79
+    },
+    {
+      "name": "Vince tattoo & Le temple du piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 Rue Robert Schuman, 59280 Armentières",
+      "rating": 4.8,
+      "reviewCount": 30
+    }
+  ],
+  "description": "L'Atelier Sans Nom fait partie des centres de détatouage laser à Armentières. Avec une note de 4.9/5 sur 337 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Armentières.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:35:31.072Z"
+}

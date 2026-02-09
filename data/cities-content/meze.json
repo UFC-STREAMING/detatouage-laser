@@ -1,0 +1,61 @@
+{
+  "slug": "meze",
+  "cityName": "Mèze",
+  "businessName": "ENTRE LES LIGNES",
+  "businesses": [
+    {
+      "name": "ENTRE LES LIGNES",
+      "category": "Tatoueur",
+      "address": "4 bis Av. de Pézenas, 34140 Mèze",
+      "rating": 5,
+      "reviewCount": 218
+    },
+    {
+      "name": "Sud Coast Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "17 Rue Pierre et Auguste Massaloup, 34140 Mèze",
+      "rating": 5,
+      "reviewCount": 147
+    },
+    {
+      "name": "Studio99.9",
+      "category": "Salon de tatouage et piercing",
+      "address": "Av. de Montpellier, 34140 Mèze",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "My Skintech | Épilation définitive au laser et institut de soins esthétiques | Mèze",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Adrien Bernard, 34140 Mèze",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "kainart tattoo",
+      "category": "Tatoueur",
+      "address": "21 Rue Marius Laurez, 34140 Mèze",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Institut Mademoiselle",
+      "category": "Institut de beauté",
+      "address": "18 Rue Garibaldi, 34140 Mèze",
+      "rating": 5,
+      "reviewCount": 26
+    }
+  ],
+  "description": "ENTRE LES LIGNES fait partie des centres de détatouage laser à Mèze. Avec une note de 5/5 sur 218 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mèze.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Le détatouage laser est-il efficace ?",
+      "answer": "Le laser de détatouage fonctionne en effet pleinement lorsque la couleur du tatouage est bien visible et que la couleur de l'encre contraste avec celle de la peau. Si vous avez des croûtes ou que votre peau est rouge, abîmée, le laser ne sera pas en mesure de repérer les pigments et de les faire éclater."
+    },
+    {
+      "question": "Détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:23:19.977Z"
+}

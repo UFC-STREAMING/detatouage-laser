@@ -1,0 +1,44 @@
+{
+  "slug": "villeneuve-la-garenne",
+  "cityName": "Villeneuve-la-Garenne",
+  "businessName": "Cabinet de médecine esthétique et de laser des hauts de seine - Dr ARBAB",
+  "businesses": [
+    {
+      "name": "Cabinet de médecine esthétique et de laser des hauts de seine - Dr ARBAB",
+      "category": "Médecin",
+      "address": "212 Bis Bd Gallieni",
+      "rating": 4.2,
+      "reviewCount": 215
+    },
+    {
+      "name": "Laser Skin Epinay-sur-Seine",
+      "category": "Centre d'épilation laser",
+      "address": "Épinay-sur-Seine",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "My Laser Center Saint-Denis - Epilation laser & Médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "Saint-Denis",
+      "rating": 4.8,
+      "reviewCount": null
+    }
+  ],
+  "description": "Cabinet de médecine esthétique et de laser des hauts de seine - Dr ARBAB fait partie des centres de détatouage laser à Villeneuve-la-Garenne. Avec une note de 4.2/5 sur 215 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeneuve-la-Garenne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:37:35.267Z"
+}

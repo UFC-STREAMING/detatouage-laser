@@ -1,0 +1,65 @@
+{
+  "slug": "saint-orens-de-gameville",
+  "cityName": "Saint-Orens-de-Gameville",
+  "businessName": "DERMA SUD Saint-OrensPropose : Épilation laser",
+  "businesses": [
+    {
+      "name": "DERMA SUD Saint-OrensPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "9 Av. de Gameville, 31650 Saint-Orens-de-Gameville",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "South Side Tattoo",
+      "category": "Tatoueur",
+      "address": "45 Av. de Toulouse, 31650 Saint-Orens-de-Gameville",
+      "rating": 4.9,
+      "reviewCount": 48
+    },
+    {
+      "name": "SZTUKA TATTOO",
+      "category": "Tatoueur",
+      "address": "1 Av. de Gameville, 31650 Saint-Orens-de-Gameville",
+      "rating": 4.9,
+      "reviewCount": 80
+    },
+    {
+      "name": "Eden Clinic - Médecine Esthétique - Injections - Esthétique Du RegardPropose : Épilation laser",
+      "category": "Spa médical",
+      "address": "55 L'Occitane, 31670 Labège",
+      "rating": 5,
+      "reviewCount": 44
+    },
+    {
+      "name": "Institut Fleur de PeauPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "3 Rue des Lauriers, 31650 Saint-Orens-de-Gameville",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "Tricopigmentation Toulouse",
+      "category": "Tatoueur",
+      "address": "8 Rue des Vignes, 31650 Saint-Orens-de-Gameville",
+      "rating": 4.9,
+      "reviewCount": 278
+    }
+  ],
+  "description": "DERMA SUD Saint-OrensPropose : Épilation laser fait partie des centres de détatouage laser à Saint-Orens-de-Gameville. Avec une note de 5/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Orens-de-Gameville.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    },
+    {
+      "question": "Quel est le prix d'une séance de détatouage à Toulouse ?",
+      "answer": "TARIFS LASER DÉTATOUGE TOULOUSEVisage ou zone sur le corpsLa séancePetite zone40>60 €Moyenne zone90>120€Grande zone à multiplesSur devis"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:11:08.532Z"
+}

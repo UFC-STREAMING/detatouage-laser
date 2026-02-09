@@ -1,0 +1,52 @@
+{
+  "slug": "fontenay-le-comte",
+  "cityName": "Fontenay-le-Comte",
+  "businessName": "Mostik Tattoo",
+  "businesses": [
+    {
+      "name": "Mostik Tattoo",
+      "category": "Tatoueur",
+      "address": "1 Bis Rue de l'Ancien H%C3%B4pital, 85200 Fontenay-le-Comte",
+      "rating": 5,
+      "reviewCount": 62
+    },
+    {
+      "name": "Meka Pop studio tattoo piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "47bis Rue de la République, 85200 Fontenay-le-Comte",
+      "rating": 4.5,
+      "reviewCount": 92
+    },
+    {
+      "name": "Odd Tattoo Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "Pass. du Commerce, 85200 Fontenay-le-Comte",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "Maléfique TattooPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "1 Rue des Loges, 85200 Fontenay-le-Comte",
+      "rating": 4.7,
+      "reviewCount": 55
+    },
+    {
+      "name": "Sweet ink Tattoo shopPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "9 Pl. Belliard, 85200 Fontenay-le-Comte",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Tricopigmentation VendéePropose : Soins après tatouage",
+      "category": "Tatoueur",
+      "address": "9 Pl. du Héraut, 85200 Mervent",
+      "rating": 5,
+      "reviewCount": 4
+    }
+  ],
+  "description": "Mostik Tattoo fait partie des centres de détatouage laser à Fontenay-le-Comte. Avec une note de 5/5 sur 62 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fontenay-le-Comte.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:14:56.233Z"
+}

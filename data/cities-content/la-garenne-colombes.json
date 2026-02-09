@@ -1,0 +1,65 @@
+{
+  "slug": "la-garenne-colombes",
+  "cityName": "La Garenne-Colombes",
+  "businessName": "Médecine Esthétique - Epilation Laser La Garenne Colombes",
+  "businesses": [
+    {
+      "name": "Médecine Esthétique - Epilation Laser La Garenne Colombes",
+      "category": "Centre d'épilation laser",
+      "address": "32 Rue Voltaire, 92250 La Garenne-Colombes",
+      "rating": 4.9,
+      "reviewCount": 44
+    },
+    {
+      "name": "Maelis Centre Laser La Garenne-Colombes / Courbevoie - Épilation laser / définitive",
+      "category": "Centre d'épilation laser",
+      "address": "23 bis Rue Pasteur, 92250 La Garenne-Colombes",
+      "rating": 4.9,
+      "reviewCount": 382
+    },
+    {
+      "name": "Centre Medical de l'Arche - Epilation Laser à Courbevoie - La Défense - La Garenne-Colombes | Injection Acide Hyaluronique",
+      "category": "Centre d'épilation laser",
+      "address": "57 Rue Gaultier, 92400 Courbevoie",
+      "rating": 4.9,
+      "reviewCount": 176
+    },
+    {
+      "name": "Noci PiercingPropose : Tatouages, piercings",
+      "category": "Salon de piercing",
+      "address": "83 Rue Médéric, 92250 La Garenne-Colombes",
+      "rating": 4.9,
+      "reviewCount": 489
+    },
+    {
+      "name": "Nassimed / Colombes",
+      "category": "Médecin",
+      "address": "48 Rue Felix Faure, 92700 Colombes",
+      "rating": 4.8,
+      "reviewCount": 88
+    },
+    {
+      "name": "Laser World La Défense",
+      "category": "Centre de laser game",
+      "address": "11 Av. de Verdun 1916, 92250 La Garenne-Colombes",
+      "rating": 4.7,
+      "reviewCount": 595
+    }
+  ],
+  "description": "Médecine Esthétique - Epilation Laser La Garenne Colombes fait partie des centres de détatouage laser à La Garenne-Colombes. Avec une note de 4.9/5 sur 44 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Garenne-Colombes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "Le détatouage au laser est donc devenu une méthode sûre et efficace pour éliminer complètement ou partiellement les tatouages, sans causer de douleur ni de cicatrices visibles à la fin du protocole.27 déc. 2023"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:31:27.506Z"
+}

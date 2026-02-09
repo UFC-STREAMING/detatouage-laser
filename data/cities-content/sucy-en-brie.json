@@ -1,0 +1,65 @@
+{
+  "slug": "sucy-en-brie",
+  "cityName": "Sucy-en-Brie",
+  "businessName": "Stranger Ink Tatouage",
+  "businesses": [
+    {
+      "name": "Stranger Ink Tatouage",
+      "category": "Tatoueur",
+      "address": "30 Rue du Moutier, 94370 Sucy-en-Brie",
+      "rating": 4.9,
+      "reviewCount": 74
+    },
+    {
+      "name": "Cilea beauty Extension de cil",
+      "category": "Institut de beauté",
+      "address": "Rue Villebois Mareuil, 94370 Sucy-en-Brie",
+      "rating": 5,
+      "reviewCount": 63
+    },
+    {
+      "name": "Institut Kalithéa | Institut de beauté et laser Sucy-en-brie (94) | Soins visage et corps",
+      "category": "Centre d'épilation laser",
+      "address": "3 Rue Jean Moulin, 94370 Sucy-en-Brie",
+      "rating": 4.7,
+      "reviewCount": 89
+    },
+    {
+      "name": "Be perfect",
+      "category": "Bar à sourcils",
+      "address": "6 Rue de la Prte, 94370 Sucy-en-Brie",
+      "rating": 4.9,
+      "reviewCount": 59
+    },
+    {
+      "name": "L’ Atelier Herika Loureiro • Sourcils & Esthétique",
+      "category": "Bar à sourcils",
+      "address": "4 Rue de la Cité Verte, 94370 Sucy-en-Brie",
+      "rating": 4.9,
+      "reviewCount": 72
+    },
+    {
+      "name": "Institut de beauté Sucy-en-Brie Bodyminute",
+      "category": "Institut de beauté",
+      "address": "4 Av. de la Gare, 94370 Sucy-en-Brie",
+      "rating": 4.3,
+      "reviewCount": 140
+    }
+  ],
+  "description": "Stranger Ink Tatouage fait partie des centres de détatouage laser à Sucy-en-Brie. Avec une note de 4.9/5 sur 74 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sucy-en-Brie.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:34:04.411Z"
+}

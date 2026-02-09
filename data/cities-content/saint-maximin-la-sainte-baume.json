@@ -1,0 +1,65 @@
+{
+  "slug": "saint-maximin-la-sainte-baume",
+  "cityName": "Saint-Maximin-la-Sainte-Baume",
+  "businessName": "Villa Latta - Centre Laser Médical et Esthétique",
+  "businesses": [
+    {
+      "name": "Villa Latta - Centre Laser Médical et Esthétique",
+      "category": "Médecin",
+      "address": "636 Av. du Huit Mai 1945",
+      "rating": 4.8,
+      "reviewCount": 68
+    },
+    {
+      "name": "Laser 26 - Saint-Maximin-la-Sainte-Baume I Epilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "9 Av. Albert 1er",
+      "rating": 5,
+      "reviewCount": 64
+    },
+    {
+      "name": "L’Atelier du Corps",
+      "category": "Centre d'épilation laser",
+      "address": "Imp. le Jas du Rigaou Numéro 115",
+      "rating": 5,
+      "reviewCount": 60
+    },
+    {
+      "name": "Mtech - Centre minceur et anti âge, épilation définitive au laser",
+      "category": "Centre d'épilation laser",
+      "address": "310 Chemin du chevalier, Chem. de Bonneval Quartier de",
+      "rating": 5,
+      "reviewCount": 35
+    },
+    {
+      "name": "Pro Dermo",
+      "category": "Institut de beauté",
+      "address": "391 Avenue du Maréchal Foch, Espace médical de la Tour",
+      "rating": 5,
+      "reviewCount": 32
+    },
+    {
+      "name": "BIOTECH ESTHETIC",
+      "category": "Institut de beauté",
+      "address": "10 Rue Général de Gaulle",
+      "rating": 4.8,
+      "reviewCount": 27
+    }
+  ],
+  "description": "Villa Latta - Centre Laser Médical et Esthétique fait partie des centres de détatouage laser à Saint-Maximin-la-Sainte-Baume. Avec une note de 4.8/5 sur 68 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Maximin-la-Sainte-Baume.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "0:17Villa Latta｜Centre Laser Médical & Esthétique | Saint ...Facebook  ·  Villa Latta｜Centre Laser Médical & Esthétique"
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "0:32Dites adieu à vos tatouages indésirables grâce à notre ...Instagram  ·  My Laser Center"
+    },
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "0:17Metz on Instagram: \\\" Tattoo cover et détatouage laser : une ...Instagram  ·  Médecine esthétique • Luxembourg | Metz"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:57:52.770Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "villers-les-nancy",
+  "cityName": "Villers-lès-Nancy",
+  "businessName": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg",
+  "businesses": [
+    {
+      "name": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg",
+      "category": "Service de détatouage",
+      "address": "160a Rue Saint-Dizier, 54000 Nancy",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Calliopé Médecine Esthétique |Injection d'acide hyaluronique |Greffe Capillaire | Laser | Détatouage | Épilation | HIFU",
+      "category": "Service de détatouage",
+      "address": "160a Rue Saint-Dizier, 54000 Nancy",
+      "rating": 4.9,
+      "reviewCount": 91
+    },
+    {
+      "name": "Centre laser CtrlZ - Nancy",
+      "category": "Service de détatouage",
+      "address": "9 Rue des Carmes, 54000 Nancy",
+      "rating": 4.8,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Centre DETATOU Nancy - Détatouage Laser Médical | Lorraine | Metz | Thionville | Luxembourg fait partie des centres de détatouage laser à Villers-lès-Nancy. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villers-lès-Nancy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un Detatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:11:04.431Z"
+}

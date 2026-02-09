@@ -1,0 +1,44 @@
+{
+  "slug": "saint-pierre-des-corps",
+  "cityName": "Saint-Pierre-des-Corps",
+  "businessName": "Atelier du Az Art - Tatouage",
+  "businesses": [
+    {
+      "name": "Atelier du Az Art - Tatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "23 Rue de la Morinerie",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Anae Tattoo",
+      "category": "Tatoueur",
+      "address": "115 bis Av. Jean Bonnin",
+      "rating": 5,
+      "reviewCount": 96
+    },
+    {
+      "name": "Le labo barber shop",
+      "category": "Salon de coiffure",
+      "address": "23 Rue Jean Jaurès",
+      "rating": 4.6,
+      "reviewCount": 41
+    }
+  ],
+  "description": "Atelier du Az Art - Tatouage fait partie des centres de détatouage laser à Saint-Pierre-des-Corps. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Pierre-des-Corps.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:05:31.682Z"
+}

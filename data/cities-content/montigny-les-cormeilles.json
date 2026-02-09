@@ -1,0 +1,44 @@
+{
+  "slug": "montigny-les-cormeilles",
+  "cityName": "Montigny-lès-Cormeilles",
+  "businessName": "Serpent Tendre",
+  "businesses": [
+    {
+      "name": "Serpent Tendre",
+      "category": "Salon de tatouage et piercing",
+      "address": "8 Rés de la Gare",
+      "rating": 5,
+      "reviewCount": 56
+    },
+    {
+      "name": "Dermographe Val d'Oise, Dermopigmentation, Tatouage artistique, STUDIO V",
+      "category": "Clinique de maquillage permanent",
+      "address": "Beauchamp",
+      "rating": 5,
+      "reviewCount": 124
+    },
+    {
+      "name": "Fidjinha , soins du visage et de la peau microneedling , hydra-Fi, Plasmalift et peeling",
+      "category": "Institut de soins du visage",
+      "address": "107 Rue d'Argenteuil",
+      "rating": 5,
+      "reviewCount": 159
+    }
+  ],
+  "description": "Serpent Tendre fait partie des centres de détatouage laser à Montigny-lès-Cormeilles. Avec une note de 5/5 sur 56 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montigny-lès-Cormeilles.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:43:25.454Z"
+}

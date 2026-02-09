@@ -1,0 +1,65 @@
+{
+  "slug": "orthez",
+  "cityName": "Orthez",
+  "businessName": "Enulimé Piercing",
+  "businesses": [
+    {
+      "name": "Enulimé Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "15 Rue Aristide Briand",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "LARGE / ART ET TATOUAGE",
+      "category": "Tatoueur",
+      "address": "23 Pl. Brossers",
+      "rating": 5,
+      "reviewCount": 272
+    },
+    {
+      "name": "Skull InKrow Tattoo",
+      "category": "Tatoueur",
+      "address": "35 Rue Guanille",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Nino Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "15 Rue Aristide Briand",
+      "rating": 4.8,
+      "reviewCount": 62
+    },
+    {
+      "name": "MAX ROS ART",
+      "category": "Tatoueur",
+      "address": "9 Imp. de l'Ecorcherie, 64300 Orthez",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Marianne Beauty Esthétique",
+      "category": "Institut de beauté",
+      "address": "74 Rue Saint-Pierre",
+      "rating": 5,
+      "reviewCount": 18
+    }
+  ],
+  "description": "Enulimé Piercing fait partie des centres de détatouage laser à Orthez. Avec une note de 5/5 sur 28 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Orthez.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:39:02.552Z"
+}

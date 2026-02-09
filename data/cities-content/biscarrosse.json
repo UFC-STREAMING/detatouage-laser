@@ -1,0 +1,65 @@
+{
+  "slug": "biscarrosse",
+  "cityName": "Biscarrosse",
+  "businessName": "L'Art Du Regard BiscarrossePropose : Eclaircissement de tatouages",
+  "businesses": [
+    {
+      "name": "L'Art Du Regard BiscarrossePropose : Eclaircissement de tatouages",
+      "category": "Institut de beauté",
+      "address": "24 Rue de la Poste, 40600 Biscarrosse",
+      "rating": 4.9,
+      "reviewCount": 55
+    },
+    {
+      "name": "BERNET ELISE - OCTARINE TATTOO",
+      "category": "Tatoueur",
+      "address": "51 Rue du Commerce, 40600 Biscarrosse",
+      "rating": 4.8,
+      "reviewCount": 153
+    },
+    {
+      "name": "Heretic'Art Tattoo",
+      "category": "Tatoueur",
+      "address": "93 Av. de la République, 40600 Biscarrosse",
+      "rating": 5,
+      "reviewCount": 66
+    },
+    {
+      "name": "ANARTINK TATTOO BISCARROSSE PLAGE ️",
+      "category": "Tatoueur",
+      "address": "40 Rue des Tamaris, 40600 Biscarrosse",
+      "rating": 4.9,
+      "reviewCount": 556
+    },
+    {
+      "name": "Centre Laser MFC Anti Addictions Fabienne Lasérothérapie",
+      "category": "Praticien de médecine alternative",
+      "address": "21 Av. du Stade, 40460 Sanguinet",
+      "rating": 4.9,
+      "reviewCount": 122
+    },
+    {
+      "name": "MANA TAHITI TATAU BISCARROSSE PLAGE",
+      "category": "Tatoueur",
+      "address": "862 Bd d'Arcachon, 40600 Biscarrosse",
+      "rating": 4.5,
+      "reviewCount": 145
+    }
+  ],
+  "description": "L'Art Du Regard BiscarrossePropose : Eclaircissement de tatouages fait partie des centres de détatouage laser à Biscarrosse. Avec une note de 4.9/5 sur 55 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Biscarrosse.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:05:46.135Z"
+}

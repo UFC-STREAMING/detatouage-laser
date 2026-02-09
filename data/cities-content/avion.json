@@ -1,0 +1,44 @@
+{
+  "slug": "avion",
+  "cityName": "Avion",
+  "businessName": "Laserostop Lens",
+  "businesses": [
+    {
+      "name": "Laserostop Lens",
+      "category": "Praticien de médecine alternative",
+      "address": "58 Rue du 14 Juillet, 62300 Lens",
+      "rating": 4.8,
+      "reviewCount": 117
+    },
+    {
+      "name": "Rose tattoo",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "FreeAddict Lasérothérapie Lens – Arrêt du tabac & Addictions",
+      "category": "Praticien de médecine alternative",
+      "address": "5 Rue Jean Letienne, 62300 Lens",
+      "rating": 4.7,
+      "reviewCount": 42
+    }
+  ],
+  "description": "Laserostop Lens fait partie des centres de détatouage laser à Avion. Avec une note de 4.8/5 sur 117 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Avion.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que je peux prendre l'avion après un tatouage ?",
+      "answer": "Si vous partez faire un tatouage à l'étranger, prenez des billets un jour avant et un jour après votre tatouage, afin d'être en pleine forme. Prendre l'avion le jour même de votre tatouage n'est certainement pas une bonne idée...23 oct. 2017"
+    },
+    {
+      "question": "Les compagnies aériennes vérifient-elles les tatouages  ?",
+      "answer": "Dans certains cas, les compagnies aériennes peuvent refuser catégoriquement d'embaucher des hôtesses et stewards ayant des tatouages \\u200b\\u200bvisibles. En effet, lors des entretiens d'embauche ou des journées d'évaluation, les recruteurs vérifient souvent la présence de tatouages . Les nouvelles hôtesses et stewards doivent respecter des normes strictes en matière de présentation et porter l'uniforme dès leur prise de fonction.29 oct. 2025"
+    },
+    {
+      "question": "Est-ce acceptable de prendre l'avion après s'être fait tatouer ?",
+      "answer": "En résumé : oui, il est généralement possible de prendre l’avion avec un tatouage récent sans problème . Cependant, certaines précautions essentielles sont à prendre pour votre confort et votre sécurité, et pour éviter toute complication à l’atterrissage.27 oct. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:59:34.856Z"
+}

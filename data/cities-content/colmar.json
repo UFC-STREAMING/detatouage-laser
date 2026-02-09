@@ -1,0 +1,52 @@
+{
+  "slug": "colmar",
+  "cityName": "Colmar",
+  "businessName": "Centre Laser du Rempart",
+  "businesses": [
+    {
+      "name": "Centre Laser du Rempart",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rue du Rempart, 68000 Colmar",
+      "rating": 4.3,
+      "reviewCount": 52
+    },
+    {
+      "name": "Centre laser Dreyfus",
+      "category": "Centre d'épilation laser",
+      "address": "10 Pl. du Capitaine Dreyfus, 68000 Colmar",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Centre de Médecine Esthétique Alfa Laser Colmar - Epilation Laser & Acide Hyaluronique",
+      "category": "Service de détatouage",
+      "address": "2 Rue de B%C3%A2le, 68180 Horbourg-Wihr",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Arrêter de fumer Colmar - Laserotherapie 68",
+      "category": "Clinique spécialisée",
+      "address": "142 Rte de B%C3%A2le, 68000 Colmar",
+      "rating": 5,
+      "reviewCount": 36
+    },
+    {
+      "name": "Centre Rejudermie Colmar",
+      "category": "Centre d'épilation laser",
+      "address": "78 Rue de la Cavalerie, 68000 Colmar",
+      "rating": 5,
+      "reviewCount": 12
+    },
+    {
+      "name": "Lazeo Colmar",
+      "category": "Centre d'épilation laser",
+      "address": "7 Rue de Ribeauvillé, 68000 Colmar",
+      "rating": 4.7,
+      "reviewCount": 151
+    }
+  ],
+  "description": "Centre Laser du Rempart fait partie des centres de détatouage laser à Colmar. Avec une note de 4.3/5 sur 52 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Colmar.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:10:27.012Z"
+}

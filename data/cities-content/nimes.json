@@ -1,0 +1,65 @@
+{
+  "slug": "nimes",
+  "cityName": "Nîmes",
+  "businessName": "Centre laser CtrlZ - Nîmes",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Nîmes",
+      "category": "Service de détatouage",
+      "address": "226 All. de Séville, 30000 N%C3%AEmes",
+      "rating": 5,
+      "reviewCount": 152
+    },
+    {
+      "name": "Centre Médecine esthétique et Laser",
+      "category": "Centre d'épilation laser",
+      "address": "300 Av. Saint-André de Codols, 30900 N%C3%AEmes",
+      "rating": 3.7,
+      "reviewCount": 65
+    },
+    {
+      "name": "Clinique Pietra",
+      "category": "Centre d'épilation laser",
+      "address": "49 Av. Jean Jaurès, 30900 N%C3%AEmes",
+      "rating": 5,
+      "reviewCount": 99
+    },
+    {
+      "name": "Dr Benoit Henault - Chirurgie esthétique NîmesPropose : Laser détatouage",
+      "category": "Chirurgien esthétique",
+      "address": "C%C3%B4té périphérique, 55 All. de l'Argentine, 30900 N%C3%AEmes",
+      "rating": 4.9,
+      "reviewCount": 171
+    },
+    {
+      "name": "CLINIQUE LASER Nîmes - Dr PORTE Rachelle",
+      "category": "Centre d'épilation laser",
+      "address": "Dr PORTE Rachelle, Clinique Valdegour, Chem. de Valdegour 772, 30900 N%C3%AEmes",
+      "rating": 4.9,
+      "reviewCount": 18
+    },
+    {
+      "name": "Lazeo Nimes",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Moliere, 30000 N%C3%AEmes",
+      "rating": 4.8,
+      "reviewCount": 261
+    }
+  ],
+  "description": "Centre laser CtrlZ - Nîmes fait partie des centres de détatouage laser à Nîmes. Avec une note de 5/5 sur 152 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Nîmes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:04:10.634Z"
+}

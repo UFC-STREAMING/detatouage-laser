@@ -1,0 +1,44 @@
+{
+  "slug": "ferney-voltaire",
+  "cityName": "Ferney-Voltaire",
+  "businessName": "Blacksacred Tattoo Lounge",
+  "businesses": [
+    {
+      "name": "Blacksacred Tattoo Lounge",
+      "category": "Tatoueur",
+      "address": "30 Rue de Genève, 01210 Ferney-Voltaire",
+      "rating": 5,
+      "reviewCount": 146
+    },
+    {
+      "name": "L' Atelier de la Baronne",
+      "category": "Tatoueur",
+      "address": "19 Chem. de Collex, 01210 Ferney-Voltaire",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Smart Duck Ferney Voltaire",
+      "category": "Centre d'épilation laser",
+      "address": "37 Av. Voltaire, 01210 Ferney-Voltaire",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Blacksacred Tattoo Lounge fait partie des centres de détatouage laser à Ferney-Voltaire. Avec une note de 5/5 sur 146 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ferney-Voltaire.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:28:24.506Z"
+}

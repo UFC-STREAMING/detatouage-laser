@@ -1,0 +1,52 @@
+{
+  "slug": "sainte-rose",
+  "cityName": "Sainte-Rose",
+  "businessName": "La Clinique DC",
+  "businesses": [
+    {
+      "name": "La Clinique DC",
+      "category": "Service de détatouage",
+      "address": "205 Bd Curé-Labelle, Laval, Quebec H7L 2Z9, Canada",
+      "rating": 5,
+      "reviewCount": 529
+    },
+    {
+      "name": "Clinique MG Phibrows Meriem",
+      "category": "Service de détatouage",
+      "address": "4337 A. des Laurentides, Laval, QC H7L 6C4, Canada",
+      "rating": 4.9,
+      "reviewCount": 166
+    },
+    {
+      "name": "Dermatologue Privé Laval",
+      "category": "Dermatologue",
+      "address": "Laval, QC, Canada",
+      "rating": 4.5,
+      "reviewCount": 139
+    },
+    {
+      "name": "Détatouage Renaissance",
+      "category": "Service de détatouage",
+      "address": "277 Bd Curé-Labelle, Rosemère, QC J7A 2H3, Canada",
+      "rating": 4.6,
+      "reviewCount": 18
+    },
+    {
+      "name": "Esthétiquement M | Service d'épilation à LavalPropose : Épilation laser",
+      "category": "Salon d'épilation",
+      "address": "132 Bd Sainte-Rose Entrée derrière, Laval, QC H7L 1K4, Canada",
+      "rating": 5,
+      "reviewCount": 30
+    },
+    {
+      "name": "Clinique Esthétique et Laser Marie-Josée Morin",
+      "category": "Institut de beauté",
+      "address": "241 Bd Marc-Aurèle-Fortin, Laval, QC H7L 1Z8, Canada",
+      "rating": 5,
+      "reviewCount": 53
+    }
+  ],
+  "description": "La Clinique DC fait partie des centres de détatouage laser à Sainte-Rose. Avec une note de 5/5 sur 529 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sainte-Rose.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:58:55.124Z"
+}

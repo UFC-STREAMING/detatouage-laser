@@ -1,0 +1,52 @@
+{
+  "slug": "arcachon",
+  "cityName": "Arcachon",
+  "businessName": "DR AMOUR Rémy , Medecine esthetique, epilation laser, injection acide hyaluronique, laser medicauxPropose : Detatouage au laser",
+  "businesses": [
+    {
+      "name": "DR AMOUR Rémy , Medecine esthetique, epilation laser, injection acide hyaluronique, laser medicauxPropose : Detatouage au laser",
+      "category": "Centre d'épilation laser",
+      "address": "Medecine esthetique, epilation laser, injection acide hyaluronique, laser medicaux, 76 Bd de la Plage, 33120 Arcachon",
+      "rating": 4.8,
+      "reviewCount": 27
+    },
+    {
+      "name": "Dr Fanny Gelli - Médecine esthétique et anti-âge - Epilation laser - Injections - Gujan Mestras",
+      "category": "Service de détatouage",
+      "address": "Résidence Villa Marine, 64 Cr de Verdun Appt 4, 33470 Gujan-Mestras",
+      "rating": 4.8,
+      "reviewCount": 26
+    },
+    {
+      "name": "Dermo Center LR",
+      "category": "Institut de beauté",
+      "address": "949 Av. du Parc des Expositions, 33260 La Teste-de-Buch",
+      "rating": 5,
+      "reviewCount": 165
+    },
+    {
+      "name": "HB Centre Laser",
+      "category": "Centre d'épilation laser",
+      "address": "Le galys, 3C Av. de Binghamton, 33260 La Teste-de-Buch",
+      "rating": 5,
+      "reviewCount": 115
+    },
+    {
+      "name": "Dr Christian Cocchi",
+      "category": "Médecin",
+      "address": "3 C Av. de Binghamton, 33260 La Teste-de-Buch",
+      "rating": 4.8,
+      "reviewCount": 229
+    },
+    {
+      "name": "Dina dermo & As de Pique",
+      "category": "Institut de beauté",
+      "address": "47 Av. Saint-Exupéry, 33260 La Teste-de-Buch",
+      "rating": 4.7,
+      "reviewCount": 78
+    }
+  ],
+  "description": "DR AMOUR Rémy , Medecine esthetique, epilation laser, injection acide hyaluronique, laser medicauxPropose : Detatouage au laser fait partie des centres de détatouage laser à Arcachon. Avec une note de 4.8/5 sur 27 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Arcachon.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:36:53.584Z"
+}

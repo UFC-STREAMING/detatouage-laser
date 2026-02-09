@@ -1,0 +1,31 @@
+{
+  "slug": "persan",
+  "cityName": "Persan",
+  "businessName": "RVR Aesthetic World",
+  "businesses": [
+    {
+      "name": "RVR Aesthetic World",
+      "category": "Institut de beauté",
+      "address": "129 Av. Jacques Vogt",
+      "rating": 4,
+      "reviewCount": 88
+    },
+    {
+      "name": "Nordik Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "Chambly",
+      "rating": 5,
+      "reviewCount": 271
+    },
+    {
+      "name": "CENTRE CLEA médecine esthétique, injections, épilation laser, cryolipolyse à L'Isle Adam",
+      "category": "Centre d'épilation laser",
+      "address": "L'Isle-Adam",
+      "rating": 4.3,
+      "reviewCount": 55
+    }
+  ],
+  "description": "RVR Aesthetic World fait partie des centres de détatouage laser à Persan. Avec une note de 4/5 sur 88 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Persan.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:13:09.393Z"
+}

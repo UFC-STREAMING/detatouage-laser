@@ -1,0 +1,65 @@
+{
+  "slug": "saint-jacques-de-la-lande",
+  "cityName": "Saint-Jacques-de-la-Lande",
+  "businessName": "Valentine tattoo",
+  "businesses": [
+    {
+      "name": "Valentine tattoo",
+      "category": "Tatoueur",
+      "address": "10 Av. de Bellevue",
+      "rating": 4.8,
+      "reviewCount": 56
+    },
+    {
+      "name": "Louve tattoo",
+      "category": "Tatoueur",
+      "address": "10 Av. de Bellevue",
+      "rating": 5,
+      "reviewCount": 106
+    },
+    {
+      "name": "SKIN LASER & CO",
+      "category": "Centre d'épilation laser",
+      "address": "Rennes",
+      "rating": 5,
+      "reviewCount": 31
+    },
+    {
+      "name": "Beauty Officine | Clinique Médecine esthétique - Rennes",
+      "category": "Centre d'épilation laser",
+      "address": "Rennes",
+      "rating": 5,
+      "reviewCount": 112
+    },
+    {
+      "name": "LUMA | Clinique de Médecine Esthétique Rennaise",
+      "category": "Médecin",
+      "address": "Saint-Grégoire",
+      "rating": 4.9,
+      "reviewCount": 609
+    },
+    {
+      "name": "Fabrique Laser",
+      "category": "Boutique de cadeaux",
+      "address": "Mail Léon Blum",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Valentine tattoo fait partie des centres de détatouage laser à Saint-Jacques-de-la-Lande. Avec une note de 4.8/5 sur 56 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Jacques-de-la-Lande.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:16:32.213Z"
+}

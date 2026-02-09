@@ -1,0 +1,65 @@
+{
+  "slug": "angers",
+  "cityName": "Angers",
+  "businessName": "Dr MAURICE William - Médecine EsthétiquePropose : Détatouage",
+  "businesses": [
+    {
+      "name": "Dr MAURICE William - Médecine EsthétiquePropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "13 Bd du Maréchal Joffre, 49100 Angers",
+      "rating": 4.9,
+      "reviewCount": 176
+    },
+    {
+      "name": "CLEMA aesthetics (DR Grandin Nathalie)",
+      "category": "Centre d'épilation laser",
+      "address": "16 Rue Fran%C3%A7ois Cevert, 49000 Angers",
+      "rating": 4.8,
+      "reviewCount": 215
+    },
+    {
+      "name": "Dr Didier DUBOIS - médecin esthétique, détatouage, acide hyaluronique, couronne perlée, grains de Fordyce, pénoplastie",
+      "category": "Centre d'épilation laser",
+      "address": "détatouage, acide hyaluronique, couronne perlée, grains de Fordyce, pénoplastie, 2 Sq. Lafayette, 49000 Angers",
+      "rating": 4.1,
+      "reviewCount": 70
+    },
+    {
+      "name": "Centre laser CtrlZ - AngersPropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "36 Rue Montesquieu, 49100 Angers",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "Centre Molière - Epilation laser à Angers - Docteur Margaux Dupé & Docteur Héléna Donabédian",
+      "category": "Médecin",
+      "address": "23 Pl. Molière, 49100 Angers",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Docteur Morgane Guerin-Moreau - dermatologie générale, lasers médicaux et médecine esthétiquePropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "lasers médicaux et médecine esthétique, 139 Rue des Ponts de Ce, 49000 Angers",
+      "rating": 4.5,
+      "reviewCount": 30
+    }
+  ],
+  "description": "Dr MAURICE William - Médecine EsthétiquePropose : Détatouage fait partie des centres de détatouage laser à Angers. Avec une note de 4.9/5 sur 176 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Angers.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte l'enlever un tatouage à Angers ?",
+      "answer": "Le coût du traitement de détatouage à Angers varie en fonction de la taille du tatouage et du nombre de séances nécessaires. En moyenne, les patients peuvent s'attendre à payer entre 90 et 290 euros par séance. Cependant, le coût peut être plus élevé pour les tatouages plus grands et plus complexes."
+    },
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:03:55.108Z"
+}

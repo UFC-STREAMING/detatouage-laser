@@ -1,0 +1,44 @@
+{
+  "slug": "coueron",
+  "cityName": "Couëron",
+  "businessName": "NEOTATTOO",
+  "businesses": [
+    {
+      "name": "NEOTATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "4 Rue de la Paix, 44220 Cou%C3%ABron",
+      "rating": 4.9,
+      "reviewCount": 192
+    },
+    {
+      "name": "Lokho ink",
+      "category": "Tatoueur",
+      "address": "6 Rue Jules Ferry, 44220 Cou%C3%ABron",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Ray studios Nantes - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "39 Bd Gabriel Guist'Hau, 44000 Nantes",
+      "rating": 4.9,
+      "reviewCount": 144
+    }
+  ],
+  "description": "NEOTATTOO fait partie des centres de détatouage laser à Couëron. Avec une note de 4.9/5 sur 192 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Couëron.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le type de tatouage le plus difficile à enlever ?",
+      "answer": "Le détatouage au laser fonctionne lorsque la couleur de l'encre absorbe l'énergie du laser. Les différentes couleurs d'encre absorbent l'énergie différemment. Plus précisément, les couleurs claires comme le blanc, le jaune, le bleu clair et le rose sont les plus difficiles à éliminer, de même que le vert, le rouge et les couleurs fluo.19 déc. 2017"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:40:21.954Z"
+}

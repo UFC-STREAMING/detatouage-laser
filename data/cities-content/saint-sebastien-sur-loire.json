@@ -1,0 +1,52 @@
+{
+  "slug": "saint-sebastien-sur-loire",
+  "cityName": "Saint-Sébastien-sur-Loire",
+  "businessName": "ART&RIDE tatouage - piercing",
+  "businesses": [
+    {
+      "name": "ART&RIDE tatouage - piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "33 Ter Rue Jean Baptiste Robert",
+      "rating": 4.9,
+      "reviewCount": 124
+    },
+    {
+      "name": "LDN44 Centre",
+      "category": "Médecin",
+      "address": "395 Rte de Clisson",
+      "rating": 3.3,
+      "reviewCount": 3
+    },
+    {
+      "name": "Laserostop Nantes Sud - Centre de sevrage tabagique laser stop tabac",
+      "category": "Praticien de médecine alternative",
+      "address": "205 Rte de Clisson",
+      "rating": 4.8,
+      "reviewCount": 74
+    },
+    {
+      "name": "Ray studios Nantes - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Nantes",
+      "rating": 4.9,
+      "reviewCount": 144
+    },
+    {
+      "name": "Cindy.piercing uniquement sur RDV",
+      "category": "Salon de piercing",
+      "address": "12 Pl. de la Croix des Landes",
+      "rating": 5,
+      "reviewCount": 85
+    },
+    {
+      "name": "My Laser Nantes - Epilation laser & Médecine esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "Nantes",
+      "rating": 4.9,
+      "reviewCount": 162
+    }
+  ],
+  "description": "ART&RIDE tatouage - piercing fait partie des centres de détatouage laser à Saint-Sébastien-sur-Loire. Avec une note de 4.9/5 sur 124 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Sébastien-sur-Loire.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:33:36.444Z"
+}

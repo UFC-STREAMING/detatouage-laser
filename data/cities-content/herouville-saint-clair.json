@@ -1,0 +1,44 @@
+{
+  "slug": "herouville-saint-clair",
+  "cityName": "Hérouville-Saint-Clair",
+  "businessName": "Laser Addiction Zéro CAEN",
+  "businesses": [
+    {
+      "name": "Laser Addiction Zéro CAEN",
+      "category": "Praticien de médecine alternative",
+      "address": "3 Av. de Berlin",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "LaserOstop Caen",
+      "category": "Praticien de médecine alternative",
+      "address": "4 Rue Mazarin",
+      "rating": 4.7,
+      "reviewCount": 160
+    },
+    {
+      "name": "Athéna Laser ✨ Epilation Laser & Médecine Esthétique à Caen",
+      "category": "Centre d'épilation laser",
+      "address": "Saint-Contest",
+      "rating": 4.9,
+      "reviewCount": 192
+    }
+  ],
+  "description": "Laser Addiction Zéro CAEN fait partie des centres de détatouage laser à Hérouville-Saint-Clair. Avec une note de 5/5 sur 10 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Hérouville-Saint-Clair.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:41:27.297Z"
+}

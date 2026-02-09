@@ -1,0 +1,31 @@
+{
+  "slug": "montfermeil",
+  "cityName": "Montfermeil",
+  "businessName": "Happiness Terra'py",
+  "businesses": [
+    {
+      "name": "Happiness Terra'py",
+      "category": "Centre d'épilation laser",
+      "address": "17 Place de, Rue Notre Dame des Anges, 93370 Montfermeil",
+      "rating": 4.8,
+      "reviewCount": 198
+    },
+    {
+      "name": "Regard de Lou - maquillage permanent",
+      "category": "Institut de beauté",
+      "address": "27 All. de la Dhuys, 93220 Gagny",
+      "rating": 5,
+      "reviewCount": 120
+    },
+    {
+      "name": "Centre Laselis Le Raincy - Médecine esthétique - Epilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "56 Av. de la Résistance, 93340 Le Raincy",
+      "rating": 5,
+      "reviewCount": 111
+    }
+  ],
+  "description": "Happiness Terra'py fait partie des centres de détatouage laser à Montfermeil. Avec une note de 4.8/5 sur 198 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montfermeil.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:33:27.454Z"
+}

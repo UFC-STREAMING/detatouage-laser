@@ -1,0 +1,52 @@
+{
+  "slug": "aubagne",
+  "cityName": "Aubagne",
+  "businessName": "Gemelia - Centre de médecine esthétique et d’épilation laser",
+  "businesses": [
+    {
+      "name": "Gemelia - Centre de médecine esthétique et d’épilation laser",
+      "category": "Service de détatouage",
+      "address": "365 Chem. du Camp de Sarlier B%C3%A2timent B, 2ème étage, 13400 Aubagne",
+      "rating": 4.9,
+      "reviewCount": 183
+    },
+    {
+      "name": "Derma Laser By Floriane - Épilation laser, Cryolipolyse, Radiofréquence, Soins visages Hydraskin à Aubagne",
+      "category": "Centre d'épilation laser",
+      "address": "Cryolipolyse, Radiofréquence, Soins visages Hydraskin à Aubagne, Chem. de Riquet, 13400 Aubagne",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Tattoo Element",
+      "category": "Service de détatouage",
+      "address": "3 RN 396, 13400 Aubagne",
+      "rating": 5,
+      "reviewCount": 861
+    },
+    {
+      "name": "Inkoff",
+      "category": "Service de détatouage",
+      "address": "18 Rue Negresko, 13008 Marseille",
+      "rating": 4.6,
+      "reviewCount": 117
+    },
+    {
+      "name": "cristal piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "22 Av. de Verdun, 13400 Aubagne",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "LaserAddict Aubagne - Centre anti-tabac et bien-être au laser",
+      "category": "Centre de bien-être",
+      "address": "251 Av. des Paluds, 13400 Aubagne",
+      "rating": 4.9,
+      "reviewCount": 48
+    }
+  ],
+  "description": "Gemelia - Centre de médecine esthétique et d’épilation laser fait partie des centres de détatouage laser à Aubagne. Avec une note de 4.9/5 sur 183 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aubagne.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:17:09.807Z"
+}

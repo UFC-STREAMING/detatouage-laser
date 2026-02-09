@@ -1,0 +1,65 @@
+{
+  "slug": "balma",
+  "cityName": "Balma",
+  "businessName": "Centre Esthétique et Laser Gramont",
+  "businesses": [
+    {
+      "name": "Centre Esthétique et Laser Gramont",
+      "category": "Service de détatouage",
+      "address": "1 Rue Théron de Montaugé, 31200 Toulouse",
+      "rating": 3.9,
+      "reviewCount": 121
+    },
+    {
+      "name": "Centre Epilation Laser Gramont - Spécialiste Femme & Homme",
+      "category": "Centre d'épilation laser",
+      "address": "Porte du Comminges dans le centre ophtalmologique et médical, Centre commercial Auchan, 2 Chem. de Gabardie, 31200 Toulouse",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Derma Excellence",
+      "category": "Clinique de maquillage permanent",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Memento Tattoo",
+      "category": "Tatoueur",
+      "address": "13 Pl. de France, 31130 Balma",
+      "rating": 4.9,
+      "reviewCount": 133
+    },
+    {
+      "name": "Ray studios Toulouse - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue du Fourbastard, 31000 Toulouse",
+      "rating": 4.9,
+      "reviewCount": 95
+    },
+    {
+      "name": "Angélique Fournial - Maquillage Permanent - MicrobladingPropose : Épilation laser",
+      "category": "Clinique de maquillage permanent",
+      "address": "45 Rés des Pyrénées, 31130 Balma",
+      "rating": 5,
+      "reviewCount": 347
+    }
+  ],
+  "description": "Centre Esthétique et Laser Gramont fait partie des centres de détatouage laser à Balma. Ce centre affiche une note de 3.9/5 pour ses prestations de détatouage. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Balma.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:58:42.977Z"
+}

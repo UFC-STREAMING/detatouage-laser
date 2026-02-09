@@ -1,0 +1,31 @@
+{
+  "slug": "gujan-mestras",
+  "cityName": "Gujan-Mestras",
+  "businessName": "Dr Fanny Gelli - Médecine esthétique et anti-âge - Epilation laser - Injections - Gujan Mestras",
+  "businesses": [
+    {
+      "name": "Dr Fanny Gelli - Médecine esthétique et anti-âge - Epilation laser - Injections - Gujan Mestras",
+      "category": "Centre d'épilation laser",
+      "address": "Résidence Villa Marine, 64 Cr de Verdun Appt 4",
+      "rating": 4.8,
+      "reviewCount": 26
+    },
+    {
+      "name": "Laser Game du Bassin",
+      "category": "Centre de laser game",
+      "address": "20 Av. des Loisirs",
+      "rating": 4.5,
+      "reviewCount": 338
+    },
+    {
+      "name": "DERMEA",
+      "category": "Institut de beauté",
+      "address": "84 Cr de la République",
+      "rating": 4.7,
+      "reviewCount": 53
+    }
+  ],
+  "description": "Dr Fanny Gelli - Médecine esthétique et anti-âge - Epilation laser - Injections - Gujan Mestras fait partie des centres de détatouage laser à Gujan-Mestras. Avec une note de 4.8/5 sur 26 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gujan-Mestras.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:44:21.619Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "charleville-mezieres",
+  "cityName": "Charleville-Mézières",
+  "businessName": "MOWER DERMO CENTER",
+  "businesses": [
+    {
+      "name": "MOWER DERMO CENTER",
+      "category": "Service de détatouage",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "laserOstop Charleville-Mézières",
+      "category": "Centre de bien-être",
+      "address": "11 Rue Michelet",
+      "rating": 5,
+      "reviewCount": 107
+    },
+    {
+      "name": "SWEETY (DINKY DOLL TATOUAGE)",
+      "category": "Tatoueur",
+      "address": "14 Av. du Maréchal Leclerc",
+      "rating": 5,
+      "reviewCount": 33
+    },
+    {
+      "name": "Pimp your body",
+      "category": "Salon de tatouage et piercing",
+      "address": "5 Bis rue du 3e regiment du génie, 08000 Charleville-Mézières",
+      "rating": 5,
+      "reviewCount": 46
+    },
+    {
+      "name": "Second Life",
+      "category": "Tatoueur",
+      "address": "23 Cr Briand",
+      "rating": 4.3,
+      "reviewCount": 160
+    },
+    {
+      "name": "1000K",
+      "category": "Tatoueur",
+      "address": "7 Rue de l'Arquebuse",
+      "rating": 4.8,
+      "reviewCount": 275
+    }
+  ],
+  "description": "MOWER DERMO CENTER fait partie des centres de détatouage laser à Charleville-Mézières. Avec une note de 5/5 sur 29 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Charleville-Mézières.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:18:57.052Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "pantin",
+  "cityName": "Pantin",
+  "businessName": "Cabinet Médical Esthétique et Laser - Epilation Laser Pantin - Greffe de cheveux",
+  "businesses": [
+    {
+      "name": "Cabinet Médical Esthétique et Laser - Epilation Laser Pantin - Greffe de cheveux",
+      "category": "Centre d'épilation laser",
+      "address": "11 Rue Etienne Marcel",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Body industry Porte des Lilas - Epilation Laser / Definitive - Cryolipolyse",
+      "category": "Centre d'épilation laser",
+      "address": "9 Rue Michelet",
+      "rating": 4.8,
+      "reviewCount": 519
+    },
+    {
+      "name": "ELHA Beauty",
+      "category": "Institut de beauté",
+      "address": "2 Rue de Palestro",
+      "rating": 4.9,
+      "reviewCount": 58
+    },
+    {
+      "name": "Studio Eren - Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "99 Av. Jean Lolive",
+      "rating": 5,
+      "reviewCount": 48
+    },
+    {
+      "name": "LaserOstop Paris - Porte de Pantin",
+      "category": "Praticien de médecine alternative",
+      "address": "65 Rue Charles Nodier",
+      "rating": 4.4,
+      "reviewCount": 56
+    },
+    {
+      "name": "Ray studios Paris Opéra - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Paris",
+      "rating": 4.7,
+      "reviewCount": 583
+    }
+  ],
+  "description": "Cabinet Médical Esthétique et Laser - Epilation Laser Pantin - Greffe de cheveux fait partie des centres de détatouage laser à Pantin. Avec une note de 5/5 sur 1 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pantin.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:12:01.857Z"
+}

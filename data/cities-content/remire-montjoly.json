@@ -1,0 +1,31 @@
+{
+  "slug": "remire-montjoly",
+  "cityName": "Remire-Montjoly",
+  "businessName": "Epil House Guyane",
+  "businesses": [
+    {
+      "name": "Epil House Guyane",
+      "category": "Centre d'épilation laser",
+      "address": "Remire-Montjoly, Guyane française",
+      "rating": 4.4,
+      "reviewCount": 73
+    },
+    {
+      "name": "The Beauty Room by KAZ A BROWSPropose : Lettrage de tatouage personnalisé",
+      "category": "Institut de beauté",
+      "address": "Cayenne, Guyane française",
+      "rating": 4.9,
+      "reviewCount": 15
+    },
+    {
+      "name": "Klinik tattoo studio",
+      "category": "Tatoueur",
+      "address": "Remire-Montjoly, Guyane française",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "Epil House Guyane fait partie des centres de détatouage laser à Remire-Montjoly. Avec une note de 4.4/5 sur 73 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Remire-Montjoly.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:34:22.019Z"
+}

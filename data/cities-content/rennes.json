@@ -1,0 +1,52 @@
+{
+  "slug": "rennes",
+  "cityName": "Rennes",
+  "businessName": "Centre Laser Médical de Rennes",
+  "businesses": [
+    {
+      "name": "Centre Laser Médical de Rennes",
+      "category": "Centre d'épilation laser",
+      "address": "20 Rue Victor Hugo, 35000 Rennes",
+      "rating": 4.1,
+      "reviewCount": 106
+    },
+    {
+      "name": "Elegant Center (Piercing, Strass Dentaire, détatouage)",
+      "category": "Salon de piercing",
+      "address": "Strass Dentaire, détatouage), 13 Bd René Laennec, 35000 Rennes",
+      "rating": 4.9,
+      "reviewCount": 564
+    },
+    {
+      "name": "Beauty Officine | Clinique Médecine esthétique - Rennes",
+      "category": "Centre d'épilation laser",
+      "address": "5 Pl. Saint-Michel, 35000 Rennes",
+      "rating": 5,
+      "reviewCount": 112
+    },
+    {
+      "name": "L'atelier de GabriellePropose : Detatouage",
+      "category": "Institut de beauté",
+      "address": "25 Quai Chateaubriand, 35000 Rennes",
+      "rating": 4.7,
+      "reviewCount": 18
+    },
+    {
+      "name": "LUMA | Clinique de Médecine Esthétique Rennaise",
+      "category": "Médecin",
+      "address": "6 Bd de la Boutière, 35760 Saint-Grégoire",
+      "rating": 4.9,
+      "reviewCount": 609
+    },
+    {
+      "name": "Clinique des Champs Elysées Rennes - Médecine esthétiquePropose : Épilation laser",
+      "category": "Spa médical",
+      "address": "11 Rue de la Monnaie, 35000 Rennes",
+      "rating": 4.6,
+      "reviewCount": 253
+    }
+  ],
+  "description": "Centre Laser Médical de Rennes fait partie des centres de détatouage laser à Rennes. Avec une note de 4.1/5 sur 106 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rennes.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:03:25.244Z"
+}

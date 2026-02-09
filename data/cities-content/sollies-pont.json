@@ -1,0 +1,65 @@
+{
+  "slug": "sollies-pont",
+  "cityName": "Solliès-Pont",
+  "businessName": "Microblading Dermopigmentation Maquillage Permanent Act'Derm Var",
+  "businesses": [
+    {
+      "name": "Microblading Dermopigmentation Maquillage Permanent Act'Derm Var",
+      "category": "Service de détatouage",
+      "address": "8 Av. du Lion, 83210 Solliès-Pont",
+      "rating": 5,
+      "reviewCount": 132
+    },
+    {
+      "name": "Hygeia Institut | Épilation laser et soins esthétiques | Solliès-Pont",
+      "category": "Centre d'épilation laser",
+      "address": "Salon Excel Coiffure, ZC Intermarché - ZAC La Poulasse, 83210 Solliès-Pont",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "ufk tattoo shop ( salon de tatouage )",
+      "category": "Salon de tatouage et piercing",
+      "address": "2 Rue de la République, 83210 Solliès-Pont",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "Sphinx body art",
+      "category": "Salon de tatouage et piercing",
+      "address": "4 Rue Gabriel Péri, 83210 Solliès-Pont",
+      "rating": 4.6,
+      "reviewCount": 39
+    },
+    {
+      "name": "Family Inked",
+      "category": "Tatoueur",
+      "address": "Face à la boucherie O-Bovins et Au bec fin, 1 Rue Georges Cisson, 83210 Solliès-Pont",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "ATHÉNA AESTHÉ - Centre de Médecine Esthétique - Centre Laser - Dr MOLIMARD Catherine",
+      "category": "Médecin",
+      "address": "Le P%C3%B4le, 755 Av. Léon Amic Bat D, 83390 Cuers",
+      "rating": 5,
+      "reviewCount": 231
+    }
+  ],
+  "description": "Microblading Dermopigmentation Maquillage Permanent Act'Derm Var fait partie des centres de détatouage laser à Solliès-Pont. Avec une note de 5/5 sur 132 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Solliès-Pont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:24:17.714Z"
+}

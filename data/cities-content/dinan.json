@@ -1,0 +1,65 @@
+{
+  "slug": "dinan",
+  "cityName": "Dinan",
+  "businessName": "epilation definitive laser dermatologue Dinan/Quévert",
+  "businesses": [
+    {
+      "name": "epilation definitive laser dermatologue Dinan/Quévert",
+      "category": "Centre d'épilation laser",
+      "address": "21 Av. de l'Aublette, 22100 Quévert",
+      "rating": 3.7,
+      "reviewCount": 6
+    },
+    {
+      "name": "MADAME. - Dermopigmentation Capillaire et faciale (maquillage semi-permanent)Propose : Tatouage de sourcils",
+      "category": "Institut de beauté",
+      "address": "42bis Rue de Brest, 22100 Dinan",
+      "rating": 4.9,
+      "reviewCount": 73
+    },
+    {
+      "name": "NEW AGE",
+      "category": "Centre de bien-être",
+      "address": "8 Rue Sainte-Anne, 22100 Quévert",
+      "rating": 4.6,
+      "reviewCount": 46
+    },
+    {
+      "name": "Celt'Ink",
+      "category": "Tatoueur",
+      "address": "Pass. de la Tour, 22100 Dinan",
+      "rating": 4.9,
+      "reviewCount": 195
+    },
+    {
+      "name": "Les Dames de Pique",
+      "category": "Salon de tatouage et piercing",
+      "address": "27 bis Rue de Brest, 22100 Dinan",
+      "rating": 4.8,
+      "reviewCount": 109
+    },
+    {
+      "name": "Lechatpierce",
+      "category": "Salon de tatouage et piercing",
+      "address": "45 Rue de Brest, 22100 Dinan",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "epilation definitive laser dermatologue Dinan/Quévert fait partie des centres de détatouage laser à Dinan. Ce centre affiche une note de 3.7/5 pour ses prestations de détatouage. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Dinan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:10:39.281Z"
+}

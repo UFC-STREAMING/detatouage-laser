@@ -1,0 +1,52 @@
+{
+  "slug": "saint-avold",
+  "cityName": "Saint-Avold",
+  "businessName": "Dépiléo clinic Laser St Avold",
+  "businesses": [
+    {
+      "name": "Dépiléo clinic Laser St Avold",
+      "category": "Centre d'épilation laser",
+      "address": "15 Rue du Général Hirschauer",
+      "rating": 4,
+      "reviewCount": 6
+    },
+    {
+      "name": "SVELTEO CLINIC MINCEUR SAINT-AVOLD",
+      "category": "Centre d'amincissement",
+      "address": "15 Rue du Général Hirschauer",
+      "rating": 4.8,
+      "reviewCount": 52
+    },
+    {
+      "name": "A Fleur de Peau",
+      "category": "Esthéticien",
+      "address": "40 Rue du Général Mangin",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Institut Bodyline",
+      "category": "Institut de beauté",
+      "address": "32 Av. Georges Clemenceau",
+      "rating": 5,
+      "reviewCount": 54
+    },
+    {
+      "name": "Tatérapi Laser FOLSCHVILLER | Réflexologie auriculaire | Arrêt Tabac - Perte de poids - Stress - Douleurs",
+      "category": "Centre de bien-être",
+      "address": "Folschviller",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Ozlem Beauty",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "56 Rue du Maréchal Foch",
+      "rating": 4.8,
+      "reviewCount": 26
+    }
+  ],
+  "description": "Dépiléo clinic Laser St Avold fait partie des centres de détatouage laser à Saint-Avold. Avec une note de 4/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Avold.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:10:45.851Z"
+}

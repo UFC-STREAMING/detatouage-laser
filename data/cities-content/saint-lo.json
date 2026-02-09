@@ -1,0 +1,65 @@
+{
+  "slug": "saint-lo",
+  "cityName": "Saint-Lô",
+  "businessName": "Institut Tattoo Piercing",
+  "businesses": [
+    {
+      "name": "Institut Tattoo Piercing",
+      "category": "Tatoueur",
+      "address": "59 Rue Torteron",
+      "rating": 4.6,
+      "reviewCount": 188
+    },
+    {
+      "name": "LDC beauté",
+      "category": "Centre d'épilation laser",
+      "address": "18 Rue de Neufbourg",
+      "rating": 4.8,
+      "reviewCount": 45
+    },
+    {
+      "name": "La Forge - Tattoo & Piercing (Studio Privé - Uniquement sur RDV)",
+      "category": "Salon de tatouage et piercing",
+      "address": "Hôtel Cauvin, 432 Rue de Saint-Jean",
+      "rating": 4.9,
+      "reviewCount": 165
+    },
+    {
+      "name": "Studio 154",
+      "category": "Tatoueur",
+      "address": "32 Rue Saint-Thomas",
+      "rating": 4.5,
+      "reviewCount": 119
+    },
+    {
+      "name": "Shop Tattoo",
+      "category": "Tatoueur",
+      "address": "37 Rue Maréchal Leclerc, 50000 Saint-L%C3%B4",
+      "rating": 4.8,
+      "reviewCount": 47
+    },
+    {
+      "name": "Laurie Néel Saint Lo",
+      "category": "Salon d'épilation",
+      "address": "30 Rue de Neufbourg",
+      "rating": 5,
+      "reviewCount": 54
+    }
+  ],
+  "description": "Institut Tattoo Piercing fait partie des centres de détatouage laser à Saint-Lô. Avec une note de 4.6/5 sur 188 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Lô.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:52:24.319Z"
+}

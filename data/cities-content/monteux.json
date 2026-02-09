@@ -1,0 +1,65 @@
+{
+  "slug": "monteux",
+  "cityName": "Monteux",
+  "businessName": "Rosée de Lumière",
+  "businesses": [
+    {
+      "name": "Rosée de Lumière",
+      "category": "Centre d'épilation laser",
+      "address": "Centre d'activités médicales paramédicales bien-être et tertiaire, 28 Bd Trewey",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Institut Dalida sahmout",
+      "category": "Institut de beauté",
+      "address": "14 Imp. des Romarins",
+      "rating": 5,
+      "reviewCount": 131
+    },
+    {
+      "name": "Docteur Darina Qose - Médecine esthétique et laser",
+      "category": "Centre d'épilation laser",
+      "address": "105 All. de Breynat",
+      "rating": 4.5,
+      "reviewCount": 70
+    },
+    {
+      "name": "LEELOU TATTOO",
+      "category": "Tatoueur",
+      "address": "25 Bd Belle-Croix",
+      "rating": 4.6,
+      "reviewCount": 39
+    },
+    {
+      "name": "Sylvie Bang Bang * Artiste peintre * Tatoueuse",
+      "category": "Tatoueur",
+      "address": "25 Bd Belle-Croix",
+      "rating": 4.1,
+      "reviewCount": 85
+    },
+    {
+      "name": "New Derma",
+      "category": "Centre d'épilation laser",
+      "address": "Carpentras",
+      "rating": 5,
+      "reviewCount": 9
+    }
+  ],
+  "description": "Rosée de Lumière fait partie des centres de détatouage laser à Monteux. Avec une note de 5/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Monteux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:19:03.274Z"
+}

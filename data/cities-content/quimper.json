@@ -1,0 +1,65 @@
+{
+  "slug": "quimper",
+  "cityName": "Quimper",
+  "businessName": "Centre laser CtrlZ - Quimper",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Quimper",
+      "category": "Service de détatouage",
+      "address": "31 Bd Amiral de Kerguélen, 29000 Quimper",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "Cabinet du Docteur MALO Jean-Philippe - Médecin Esthétique & Épilation laser - Quimper",
+      "category": "Service de détatouage",
+      "address": "2 Rue Felix le Dantec, 29000 Quimper",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "Clinilux",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue Pitre-Chevalier, 29000 Quimper",
+      "rating": 4.6,
+      "reviewCount": 83
+    },
+    {
+      "name": "SANDIE GIACOMELLI - BEAUTY STUDIO & ACADEMY (BEAUTYCIL BY S)Propose : Detatouage SANS LASER PHIREMOVAL",
+      "category": "Institut de beauté",
+      "address": "110 Bd de Créac'h Gwen, 29000 Quimper",
+      "rating": 4.9,
+      "reviewCount": 54
+    },
+    {
+      "name": "Lazeo Quimper",
+      "category": "Centre d'épilation laser",
+      "address": "15 Rue Aristide Briand, 29000 Quimper",
+      "rating": 4.9,
+      "reviewCount": 194
+    },
+    {
+      "name": "Cabinet de dermographie correctrice réparatrice",
+      "category": "Clinique de maquillage permanent",
+      "address": "2 Rue Pitre-Chevalier, 29000 Quimper",
+      "rating": 5,
+      "reviewCount": 23
+    }
+  ],
+  "description": "Centre laser CtrlZ - Quimper fait partie des centres de détatouage laser à Quimper. Avec une note de 5/5 sur 74 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Quimper.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:10:58.277Z"
+}

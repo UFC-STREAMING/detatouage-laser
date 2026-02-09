@@ -1,0 +1,31 @@
+{
+  "slug": "riom",
+  "cityName": "Riom",
+  "businessName": "Carbone TatouagesPropose : Lettrage de tatouage personnalisé",
+  "businesses": [
+    {
+      "name": "Carbone TatouagesPropose : Lettrage de tatouage personnalisé",
+      "category": "Tatoueur",
+      "address": "5 Rue du Commerce, 63200 Riom",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Laser 26 - Saint-Bonnet-près-Riom",
+      "category": "Centre d'épilation laser",
+      "address": "4 Lotissement du Roucombatoux, 63200 Saint-Bonnet-près-Riom",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Contrast'inK",
+      "category": "Tatoueur",
+      "address": "20 Bd de la Liberté, 63200 Riom",
+      "rating": 5,
+      "reviewCount": 33
+    }
+  ],
+  "description": "Carbone TatouagesPropose : Lettrage de tatouage personnalisé fait partie des centres de détatouage laser à Riom. Avec une note de 5/5 sur 43 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Riom.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:53:28.084Z"
+}

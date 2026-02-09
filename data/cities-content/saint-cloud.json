@@ -1,0 +1,52 @@
+{
+  "slug": "saint-cloud",
+  "cityName": "Saint-Cloud",
+  "businessName": "Skinclinik - Médecine esthétique & Épilation laser (depuis 2007)",
+  "businesses": [
+    {
+      "name": "Skinclinik - Médecine esthétique & Épilation laser (depuis 2007)",
+      "category": "Centre d'épilation laser",
+      "address": "18 Rue de l'%C3%89glise, 92210 Saint-Cloud",
+      "rating": 4.7,
+      "reviewCount": null
+    },
+    {
+      "name": "Dr Pascale ROUSSEAU - Médecin esthétique, morphologue et anti-âge",
+      "category": "Médecin",
+      "address": "morphologue et anti-%C3%A2ge, 15 Rue d'Orléans, 92210 Saint-Cloud",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Centre Médecine Esthetique et Traitements Laser",
+      "category": "Service de détatouage",
+      "address": "55 Bd Jean Jaurès, 92100 Boulogne-Billancourt",
+      "rating": 4.8,
+      "reviewCount": 570
+    },
+    {
+      "name": "Centre laser CtrlZ - Boulogne-Billancourt",
+      "category": "Centre d'épilation laser",
+      "address": "69 Rue du Point du Jour, 92100 Boulogne-Billancourt",
+      "rating": 4.9,
+      "reviewCount": 37
+    },
+    {
+      "name": "Dr Anne-Sophie Sellier",
+      "category": "Centre d'épilation laser",
+      "address": "152 Bd du Général de Gaulle, 92380 Garches",
+      "rating": 4.5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Institut de beauté Saint-Cloud BodyminutePropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "64 Bd de la République, 92210 Saint-Cloud",
+      "rating": 4,
+      "reviewCount": 173
+    }
+  ],
+  "description": "Skinclinik - Médecine esthétique & Épilation laser (depuis 2007) fait partie des centres de détatouage laser à Saint-Cloud. Ce centre affiche une note de 4.7/5 pour ses prestations de détatouage. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Cloud.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:32:16.631Z"
+}

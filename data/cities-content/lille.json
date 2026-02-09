@@ -1,0 +1,37 @@
+{
+  "slug": "lille",
+  "cityName": "Lille",
+  "businessName": "Clinique GantoisPropose : Détatouage LASER PICO & NANO",
+  "businesses": [
+    {
+      "name": "Clinique GantoisPropose : Détatouage LASER PICO & NANO",
+      "category": "Clinique spécialisée",
+      "address": "150 Rue Pierre Mauroy, 59800 Lille",
+      "rating": 4.9,
+      "reviewCount": 406
+    },
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    }
+  ],
+  "description": "Clinique GantoisPropose : Détatouage LASER PICO & NANO fait partie des centres de détatouage laser à Lille. Avec une note de 4.9/5 sur 406 avis, les patients confirment la qualité des traitements proposés. 2 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lille.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "0:45⚡️ Combien faut-il de séances de laser pour effacer ...Instagram  ·  Ray studios - Centres 100% dédiés au détatouage laser ⚡️"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "1:36Combien coûte la médecine esthétique ? 💶 Le Dr Chérot ...Facebook  ·  Clinique Gantois - Médecine esthétique"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "0:24\\\"Erase me\\\"… souhait exaucé. Ce tatouage noir, situé à l'avant ...Instagram  ·  Ray studios - Centres 100% dédiés au détatouage laser ⚡️"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:03:21.150Z"
+}

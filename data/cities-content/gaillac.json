@@ -1,0 +1,65 @@
+{
+  "slug": "gaillac",
+  "cityName": "Gaillac",
+  "businessName": "Bellus stigma tatouage piercing",
+  "businesses": [
+    {
+      "name": "Bellus stigma tatouage piercing",
+      "category": "Tatoueur",
+      "address": "36 Rue Jean Jaurès",
+      "rating": 4.8,
+      "reviewCount": 168
+    },
+    {
+      "name": "ALENA beauty",
+      "category": "Institut de beauté",
+      "address": "6 Rue de La Croix du S",
+      "rating": 4.8,
+      "reviewCount": 29
+    },
+    {
+      "name": "La Crypte Tattoo",
+      "category": "Tatoueur",
+      "address": "2 Rue André",
+      "rating": 4.9,
+      "reviewCount": 68
+    },
+    {
+      "name": "Laucaraa Esthetic",
+      "category": "Centre d'amincissement",
+      "address": "23 Rue Joseph Rigal",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "The Freak Connection",
+      "category": "Tatoueur",
+      "address": "Pl. d'Hautpoul, 81600 Gaillac",
+      "rating": 4.8,
+      "reviewCount": 32
+    },
+    {
+      "name": "L'Atelier Beauté de Désirée",
+      "category": "Institut de beauté",
+      "address": "38 Rue Joseph Rigal",
+      "rating": 4.9,
+      "reviewCount": 60
+    }
+  ],
+  "description": "Bellus stigma tatouage piercing fait partie des centres de détatouage laser à Gaillac. Avec une note de 4.8/5 sur 168 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Gaillac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:03:48.783Z"
+}

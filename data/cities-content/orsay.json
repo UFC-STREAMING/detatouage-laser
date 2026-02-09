@@ -1,0 +1,31 @@
+{
+  "slug": "orsay",
+  "cityName": "Orsay",
+  "businessName": "Astra Creative Studio",
+  "businesses": [
+    {
+      "name": "Astra Creative Studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "9 Rue de Paris, 91400 Orsay",
+      "rating": 5,
+      "reviewCount": 146
+    },
+    {
+      "name": "Skill Ink TattooPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "2 Rue du Val d'Orsay, 91400 Orsay",
+      "rating": 4.7,
+      "reviewCount": 188
+    },
+    {
+      "name": "NEXT TATTOO LOGISTIQUEPropose : Détatouage",
+      "category": "Tatoueur",
+      "address": "centre commercial les boutiques, Av. de Bourgogne, 91940 Les Ulis",
+      "rating": 4,
+      "reviewCount": 161
+    }
+  ],
+  "description": "Astra Creative Studio fait partie des centres de détatouage laser à Orsay. Avec une note de 5/5 sur 146 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Orsay.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:02:21.451Z"
+}

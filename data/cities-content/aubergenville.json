@@ -1,0 +1,44 @@
+{
+  "slug": "aubergenville",
+  "cityName": "Aubergenville",
+  "businessName": "Seb Tattoo",
+  "businesses": [
+    {
+      "name": "Seb Tattoo",
+      "category": "Tatoueur",
+      "address": "6 Av. de la Division Leclerc",
+      "rating": 4.9,
+      "reviewCount": 128
+    },
+    {
+      "name": "L.A. DERMA",
+      "category": "Institut de beauté",
+      "address": "29 bis Av. Charles de Gaulle, 78410 Aubergenville",
+      "rating": 5,
+      "reviewCount": 125
+    },
+    {
+      "name": "Laser Games Action",
+      "category": "Centre de laser game",
+      "address": "Flins-sur-Seine",
+      "rating": 4.9,
+      "reviewCount": 266
+    }
+  ],
+  "description": "Seb Tattoo fait partie des centres de détatouage laser à Aubergenville. Avec une note de 4.9/5 sur 128 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aubergenville.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Est-ce que le détatouage au laser laisse des traces ?",
+      "answer": "Cicatrices. Le détatouage laser, qui est l'une des méthodes les plus courantes pour enlever un tatouage, peut entraîner des cicatrices.7 nov. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:22:51.953Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "saint-gilles",
+  "cityName": "Saint-Gilles",
+  "businessName": "Black Diamond Tatouage",
+  "businesses": [
+    {
+      "name": "Black Diamond Tatouage",
+      "category": "Tatoueur",
+      "address": "Salon de Coiffure EXCELSIOR, 26 Rue de la République, 30800 Saint-Gilles",
+      "rating": 5,
+      "reviewCount": 78
+    },
+    {
+      "name": "E N C O R P S | Studio Privé - Uniquement sur rdv",
+      "category": "Salon de tatouage et piercing",
+      "address": "29 B Rue du Pays d'%C3%94c, 30800 Saint-Gilles",
+      "rating": 5,
+      "reviewCount": 45
+    },
+    {
+      "name": "DG Laser - Découpe Laser",
+      "category": "Service de découpe au laser",
+      "address": "280 Rue du Falcon ZAC MITRA 30800, Saint-Gilles",
+      "rating": 4.3,
+      "reviewCount": 15
+    }
+  ],
+  "description": "Black Diamond Tatouage fait partie des centres de détatouage laser à Saint-Gilles. Avec une note de 5/5 sur 78 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Gilles.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:10:55.884Z"
+}

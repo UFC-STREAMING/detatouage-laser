@@ -1,0 +1,22 @@
+{
+  "slug": "bordeaux",
+  "cityName": "Bordeaux",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Bordeaux grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bordeaux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Quel est le prix d'une séance de détatouage à Bordeaux ?",
+      "answer": "Détatouage à Bordeaux : Tarifs1 séanceTarifs TTC*Tatouage 16-50 cm2199€Tatouage 51-100 cm2249€Tatouage 101-250 cm2299€Tatouage 251-500 cm2399€2 autres lignes"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage couleur  ?",
+      "answer": "Le coût d'une séance de détatouage au laser aux États-Unis varie généralement entre 200 et 500 dollars , en fonction de la taille, de l'ancienneté, de l'emplacement et des couleurs d'encre du tatouage. Un prix unique pour un résultat optimal."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:03:16.944Z"
+}

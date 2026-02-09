@@ -1,0 +1,31 @@
+{
+  "slug": "lambersart",
+  "cityName": "Lambersart",
+  "businessName": "Docteur Delaoustre - Médecin Esthétique - Epilation Laser Injection Cryolipolyse - Lille",
+  "businesses": [
+    {
+      "name": "Docteur Delaoustre - Médecin Esthétique - Epilation Laser Injection Cryolipolyse - Lille",
+      "category": "Service de détatouage",
+      "address": "8 bis Av. Henri Delecaux, 59130 Lambersart",
+      "rating": 4.8,
+      "reviewCount": 206
+    },
+    {
+      "name": "Ray studios Lille - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue Jean Sans Peur, 59800 Lille",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "L'Espace de médecine esthétique L'Eme",
+      "category": "Centre médical",
+      "address": "52 Rue Auguste Bonte, 59130 Lambersart",
+      "rating": 5,
+      "reviewCount": 3
+    }
+  ],
+  "description": "Docteur Delaoustre - Médecin Esthétique - Epilation Laser Injection Cryolipolyse - Lille fait partie des centres de détatouage laser à Lambersart. Avec une note de 4.8/5 sur 206 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lambersart.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:35:26.341Z"
+}

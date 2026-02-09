@@ -1,0 +1,65 @@
+{
+  "slug": "tournon-sur-rhone",
+  "cityName": "Tournon-sur-Rhône",
+  "businessName": "AMME D'ENCRE",
+  "businesses": [
+    {
+      "name": "AMME D'ENCRE",
+      "category": "Tatoueur",
+      "address": "70 Rue Saint-Antoine",
+      "rating": 5,
+      "reviewCount": 58
+    },
+    {
+      "name": "Sacrist'Ink",
+      "category": "Tatoueur",
+      "address": "13 Gd Rue",
+      "rating": 4.8,
+      "reviewCount": 100
+    },
+    {
+      "name": "L'institut du sourcil",
+      "category": "Institut de beauté",
+      "address": "5 Gd Rue",
+      "rating": 4.8,
+      "reviewCount": 132
+    },
+    {
+      "name": "Akumakat",
+      "category": "Salon de piercing",
+      "address": "10 Rue Thiers",
+      "rating": 5,
+      "reviewCount": 76
+    },
+    {
+      "name": "Close Tattoo",
+      "category": "Tatoueur",
+      "address": "70 Rue Saint-Antoine",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "papillonart tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "70 Rue Saint-Antoine",
+      "rating": 4.7,
+      "reviewCount": 31
+    }
+  ],
+  "description": "AMME D'ENCRE fait partie des centres de détatouage laser à Tournon-sur-Rhône. Avec une note de 5/5 sur 58 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tournon-sur-Rhône.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:35:31.862Z"
+}

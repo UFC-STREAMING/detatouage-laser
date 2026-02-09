@@ -1,0 +1,44 @@
+{
+  "slug": "grigny",
+  "cityName": "Grigny",
+  "businessName": "DARKSEID STUDIO TATTOO",
+  "businesses": [
+    {
+      "name": "DARKSEID STUDIO TATTOO",
+      "category": "Tatoueur",
+      "address": "83 Rte de Grigny, 91130 Ris-Orangis",
+      "rating": 4.9,
+      "reviewCount": 202
+    },
+    {
+      "name": "Centre Laser Dermatologique Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "6 Rue Alexandre Dumas, 91170 Viry-Ch%C3%A2tillon",
+      "rating": 4.6,
+      "reviewCount": 13
+    },
+    {
+      "name": "Centre laser dr Alain BURY",
+      "category": "Centre d'épilation laser",
+      "address": "21 All. du Potager, 91170 Viry-Ch%C3%A2tillon",
+      "rating": 4.9,
+      "reviewCount": 367
+    }
+  ],
+  "description": "DARKSEID STUDIO TATTOO fait partie des centres de détatouage laser à Grigny. Avec une note de 4.9/5 sur 202 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Grigny.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:36:07.594Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "eaubonne",
+  "cityName": "Eaubonne",
+  "businessName": "Centre Laser Clinique Claude Bernard",
+  "businesses": [
+    {
+      "name": "Centre Laser Clinique Claude Bernard",
+      "category": "Service de détatouage",
+      "address": "9 Av. Louis Armand, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 207
+    },
+    {
+      "name": "Trilogy Eaubonne",
+      "category": "Tatoueur",
+      "address": "1bis Av. Albert 1er, 95600 Eaubonne",
+      "rating": 4.9,
+      "reviewCount": null
+    },
+    {
+      "name": "Beauty Skin ResolutionPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "12 Rue Alphonse Ricard, 95600 Eaubonne",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "Centre Laser Clinique Claude Bernard fait partie des centres de détatouage laser à Eaubonne. Avec une note de 4.6/5 sur 207 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Eaubonne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:37:08.502Z"
+}

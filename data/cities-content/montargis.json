@@ -1,0 +1,65 @@
+{
+  "slug": "montargis",
+  "cityName": "Montargis",
+  "businessName": "BlueBox",
+  "businesses": [
+    {
+      "name": "BlueBox",
+      "category": "Centre d'épilation laser",
+      "address": "8 Rue Jean Jaurès, 45200 Montargis",
+      "rating": 4.7,
+      "reviewCount": 138
+    },
+    {
+      "name": "Hello Beauty by Mounira HelloPropose : Tatouage de sourcils",
+      "category": "Institut de beauté",
+      "address": "27 Rue du Loing, 45200 Montargis",
+      "rating": 5,
+      "reviewCount": 136
+    },
+    {
+      "name": "Cryotera Pôle de Cryothérapie Montargis",
+      "category": "Centre de bien-être",
+      "address": "658 Rue des Bourgoins, 45200 Amilly",
+      "rating": 5,
+      "reviewCount": 76
+    },
+    {
+      "name": "Body Ink Tattoos",
+      "category": "Tatoueur",
+      "address": "10 Av. Gaillardin, 45200 Montargis",
+      "rating": 4.3,
+      "reviewCount": 49
+    },
+    {
+      "name": "L.S Tattoo",
+      "category": "Tatoueur",
+      "address": "8 Rue Girodet, 45200 Montargis",
+      "rating": 4.9,
+      "reviewCount": 47
+    },
+    {
+      "name": "Evasion Spa",
+      "category": "Spa",
+      "address": "87 Rue des Déportés et Internés de la Résistance, 45200 Montargis",
+      "rating": 4.8,
+      "reviewCount": 237
+    }
+  ],
+  "description": "BlueBox fait partie des centres de détatouage laser à Montargis. Avec une note de 4.7/5 sur 138 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montargis.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:10:10.165Z"
+}

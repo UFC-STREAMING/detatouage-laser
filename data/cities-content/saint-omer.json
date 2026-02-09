@@ -1,0 +1,65 @@
+{
+  "slug": "saint-omer",
+  "cityName": "Saint-Omer",
+  "businessName": "L' AIGUILLE TORDUE - Piercing Tatouage",
+  "businesses": [
+    {
+      "name": "L' AIGUILLE TORDUE - Piercing Tatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "52 Rue d'Arras",
+      "rating": 5,
+      "reviewCount": 460
+    },
+    {
+      "name": "Elite Sourcils",
+      "category": "Institut de beauté",
+      "address": "16 Rue du Huitième de Ligne",
+      "rating": 5,
+      "reviewCount": 179
+    },
+    {
+      "name": "Stop.zen.laser",
+      "category": "Centre de bien-être",
+      "address": "142 Rue de Dunkerque",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Piercing By Madiana",
+      "category": "Salon de piercing",
+      "address": "6 Imp. du Chevalier au Cygne",
+      "rating": 4.9,
+      "reviewCount": 165
+    },
+    {
+      "name": "Profane Tattoo",
+      "category": "Tatoueur",
+      "address": "83 Rue de Calais, 62500 Saint-Omer",
+      "rating": 5,
+      "reviewCount": 75
+    },
+    {
+      "name": "LA MACHINE INFERNALE TATTOO SAINT OMER",
+      "category": "Tatoueur",
+      "address": "84 Rue de Dunkerque",
+      "rating": 4.9,
+      "reviewCount": 69
+    }
+  ],
+  "description": "L' AIGUILLE TORDUE - Piercing Tatouage fait partie des centres de détatouage laser à Saint-Omer. Avec une note de 5/5 sur 460 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Omer.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:12:55.624Z"
+}

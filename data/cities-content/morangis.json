@@ -1,0 +1,44 @@
+{
+  "slug": "morangis",
+  "cityName": "Morangis",
+  "businessName": "My Beauty ink",
+  "businesses": [
+    {
+      "name": "My Beauty ink",
+      "category": "Service de détatouage",
+      "address": "2 bis Rue de la Terrasse, 91160 Longjumeau",
+      "rating": 5,
+      "reviewCount": 188
+    },
+    {
+      "name": "Docteur Jekyll Office",
+      "category": "Tatoueur",
+      "address": "71 Rue de Gravigny, 91380 Chilly-Mazarin",
+      "rating": 5,
+      "reviewCount": 431
+    },
+    {
+      "name": "Moon Child Tattoo 91",
+      "category": "Tatoueur",
+      "address": "ZAC Les gatines, 19 Av. du Garigliano, 91600 Savigny-sur-Orge",
+      "rating": 4.9,
+      "reviewCount": 59
+    }
+  ],
+  "description": "My Beauty ink fait partie des centres de détatouage laser à Morangis. Avec une note de 5/5 sur 188 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Morangis.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:14:02.560Z"
+}

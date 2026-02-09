@@ -1,0 +1,31 @@
+{
+  "slug": "palaiseau",
+  "cityName": "Palaiseau",
+  "businessName": "Centre Médical Laser Esthétique Palaiseau",
+  "businesses": [
+    {
+      "name": "Centre Médical Laser Esthétique Palaiseau",
+      "category": "Médecin",
+      "address": "49 ter Rue de Paris, 91120 Palaiseau",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "Docteur Diala HAYKAL - Centre Médical Laser Esthétique Palaiseau",
+      "category": "Centre d'épilation laser",
+      "address": "49ter Rue de Paris, 91120 Palaiseau",
+      "rating": 4.6,
+      "reviewCount": 571
+    },
+    {
+      "name": "BroWild DermopigmentationPropose : Détatouage lumière pulsée",
+      "category": "Clinique de maquillage permanent",
+      "address": "8 D Rés du Val Palaiseau, 91120 Palaiseau",
+      "rating": 5,
+      "reviewCount": 41
+    }
+  ],
+  "description": "Centre Médical Laser Esthétique Palaiseau fait partie des centres de détatouage laser à Palaiseau. Avec une note de 5/5 sur 28 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Palaiseau.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:24:11.233Z"
+}

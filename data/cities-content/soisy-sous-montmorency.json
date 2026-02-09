@@ -1,0 +1,44 @@
+{
+  "slug": "soisy-sous-montmorency",
+  "cityName": "Soisy-sous-Montmorency",
+  "businessName": "CRYOLASER",
+  "businesses": [
+    {
+      "name": "CRYOLASER",
+      "category": "Centre d'épilation laser",
+      "address": "25 Rue du Clos Ma%C3%AEtre, 95230 Soisy-sous-Montmorency",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "LASER GAME EVOLUTION ANDILLY ( à 5min d'Eaubonne ! )",
+      "category": "Centre de laser game",
+      "address": "2 Av. des Cures, 95580 Andilly",
+      "rating": 4.9,
+      "reviewCount": 484
+    },
+    {
+      "name": "Dr Laser | Centre médecine esthétique | Epilation laser | Cryolipolyse | Soin du visage",
+      "category": "Centre d'épilation laser",
+      "address": "11 Rue de l'Arrivée, 95880 Enghien-les-Bains",
+      "rating": 4.9,
+      "reviewCount": 115
+    }
+  ],
+  "description": "CRYOLASER fait partie des centres de détatouage laser à Soisy-sous-Montmorency. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Soisy-sous-Montmorency.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage au laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:57:23.442Z"
+}

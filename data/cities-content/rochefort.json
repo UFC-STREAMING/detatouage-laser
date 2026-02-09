@@ -1,0 +1,44 @@
+{
+  "slug": "rochefort",
+  "cityName": "Rochefort",
+  "businessName": "Dems Tattoo",
+  "businesses": [
+    {
+      "name": "Dems Tattoo",
+      "category": "Tatoueur",
+      "address": "Rochefort, Belgique",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Mlle S.Tattoo",
+      "category": "Tatoueur",
+      "address": "Rue de la Renaissance 14, 6900 Marche-en-Famenne, Belgique",
+      "rating": 5,
+      "reviewCount": 93
+    },
+    {
+      "name": "Sunris'Ink Tattoo Studio",
+      "category": "Tatoueur",
+      "address": "Rochefort, Belgique",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "Dems Tattoo fait partie des centres de détatouage laser à Rochefort. Avec une note de 5/5 sur 7 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rochefort.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €. Le Laser ND-Yag : Ce laser convient à tous les types de peau. Il est utilisé pour effacer divers tatouages et corriger certaines imperfections cutanées, sans endommager la peau ni laisser beaucoup de cicatrices."
+    },
+    {
+      "question": "Combien coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:41:30.885Z"
+}

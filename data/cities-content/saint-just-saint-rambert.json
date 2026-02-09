@@ -1,0 +1,31 @@
+{
+  "slug": "saint-just-saint-rambert",
+  "cityName": "Saint-Just-Saint-Rambert",
+  "businessName": "Ombellia - Centre Dermo Esthétique",
+  "businesses": [
+    {
+      "name": "Ombellia - Centre Dermo Esthétique",
+      "category": "Institut de beauté",
+      "address": "Le Cinépole, 182 Av. du Stade BAT B, 42170 Saint-Just-Saint-Rambert",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Old Guns Tattoo",
+      "category": "Tatoueur",
+      "address": "35 Rue Joannes Beaulieu, 42170 Saint-Just-Saint-Rambert",
+      "rating": 5,
+      "reviewCount": 33
+    },
+    {
+      "name": "ESTHESKIN",
+      "category": "Centre d'épilation laser",
+      "address": "18 Rue Jayol, 42170 Saint-Just-Saint-Rambert",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Ombellia - Centre Dermo Esthétique fait partie des centres de détatouage laser à Saint-Just-Saint-Rambert. Avec une note de 5/5 sur 7 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Just-Saint-Rambert.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:06:25.410Z"
+}

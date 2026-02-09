@@ -1,0 +1,65 @@
+{
+  "slug": "vidauban",
+  "cityName": "Vidauban",
+  "businessName": "Le Dernier Shop Avant La Fin Du Monde",
+  "businesses": [
+    {
+      "name": "Le Dernier Shop Avant La Fin Du Monde",
+      "category": "Tatoueur",
+      "address": "Pl. Marcel Giordano, 83550 Vidauban",
+      "rating": 4.9,
+      "reviewCount": 78
+    },
+    {
+      "name": "PM BEAUTY",
+      "category": "Institut de beauté",
+      "address": "Lot. les Peupliers, 83550 Vidauban",
+      "rating": 4.9,
+      "reviewCount": 62
+    },
+    {
+      "name": "JOKERINKTATTOO",
+      "category": "Tatoueur",
+      "address": "Chem. des Mimosas, 83550 Vidauban",
+      "rating": 4.9,
+      "reviewCount": 80
+    },
+    {
+      "name": "Mystic Tattoo",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 4.9,
+      "reviewCount": 40
+    },
+    {
+      "name": "Institut de Beauté",
+      "category": "Institut de beauté",
+      "address": "22 bis Av. du Président Wilson, 83550 Vidauban",
+      "rating": 4.8,
+      "reviewCount": 77
+    },
+    {
+      "name": "Lyne Melis",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 10
+    }
+  ],
+  "description": "Le Dernier Shop Avant La Fin Du Monde fait partie des centres de détatouage laser à Vidauban. Avec une note de 4.9/5 sur 78 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vidauban.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:23:54.592Z"
+}

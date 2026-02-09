@@ -1,0 +1,44 @@
+{
+  "slug": "le-kremlin-bicetre",
+  "cityName": "Le Kremlin-Bicêtre",
+  "businessName": "Kremlin Piercing",
+  "businesses": [
+    {
+      "name": "Kremlin Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "Le FR, 6 Rue du 14 Juillet, 94270 Le Kremlin-Bicêtre",
+      "rating": 3.9,
+      "reviewCount": 215
+    },
+    {
+      "name": "CO Creative Factory",
+      "category": "Salon de tatouage et piercing",
+      "address": "17 Rue Esquirol, 75013 Paris",
+      "rating": 4.9,
+      "reviewCount": 444
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "Kremlin Piercing fait partie des centres de détatouage laser à Le Kremlin-Bicêtre. Ce centre affiche une note de 3.9/5 pour ses prestations de détatouage. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Kremlin-Bicêtre.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:40:10.192Z"
+}

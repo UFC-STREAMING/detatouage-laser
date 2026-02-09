@@ -1,0 +1,31 @@
+{
+  "slug": "le-pontet",
+  "cityName": "Le Pontet",
+  "businessName": "Hair Dermo – Tricopigmentation & Micropigmentation Capillaire à Avignon",
+  "businesses": [
+    {
+      "name": "Hair Dermo – Tricopigmentation & Micropigmentation Capillaire à Avignon",
+      "category": "Service de remplacement capillaire",
+      "address": "1946 Rte de Sorgues, 84130 Le Pontet",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "Par Amour Piercing et Strass Dentaire",
+      "category": "Institut de beauté",
+      "address": "",
+      "rating": 4.8,
+      "reviewCount": 4
+    },
+    {
+      "name": "KLR tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "209 Rte de la Garance, 84310 Morières-lès-Avignon",
+      "rating": 4.9,
+      "reviewCount": 27
+    }
+  ],
+  "description": "Hair Dermo – Tricopigmentation & Micropigmentation Capillaire à Avignon fait partie des centres de détatouage laser à Le Pontet. Avec une note de 5/5 sur 28 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Pontet.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:56:28.674Z"
+}

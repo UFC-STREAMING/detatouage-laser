@@ -1,0 +1,44 @@
+{
+  "slug": "ormesson-sur-marne",
+  "cityName": "Ormesson-sur-Marne",
+  "businessName": "L’ATELIER PRIVÉ CHLOÉ INK TATTOO BY L'ART DANS LA PEAU",
+  "businesses": [
+    {
+      "name": "L’ATELIER PRIVÉ CHLOÉ INK TATTOO BY L'ART DANS LA PEAU",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 bis Rue Anatole France",
+      "rating": 4.5,
+      "reviewCount": 122
+    },
+    {
+      "name": "Institut du Laser - Chennevières-sur-Marne",
+      "category": "Centre d'épilation laser",
+      "address": "Chennevières-sur-Marne",
+      "rating": 5,
+      "reviewCount": 196
+    },
+    {
+      "name": "JZ ink Tatouage Piercing",
+      "category": "Tatoueur",
+      "address": "Chennevières-sur-Marne",
+      "rating": 4.9,
+      "reviewCount": 342
+    }
+  ],
+  "description": "L’ATELIER PRIVÉ CHLOÉ INK TATTOO BY L'ART DANS LA PEAU fait partie des centres de détatouage laser à Ormesson-sur-Marne. Avec une note de 4.5/5 sur 122 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ormesson-sur-Marne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le prix d'une séance de détatouage laser médical ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:37:56.011Z"
+}

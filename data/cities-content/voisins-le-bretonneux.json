@@ -1,0 +1,31 @@
+{
+  "slug": "voisins-le-bretonneux",
+  "cityName": "Voisins-le-Bretonneux",
+  "businessName": "La Casa Verde Tattoo Shop",
+  "businesses": [
+    {
+      "name": "La Casa Verde Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "1b Rue aux Fleurs, 78960 Voisins-le-Bretonneux",
+      "rating": 4.7,
+      "reviewCount": 78
+    },
+    {
+      "name": "ESTHEC",
+      "category": "Centre d'épilation laser",
+      "address": "2 Rue de la Poste, 78960 Voisins-le-Bretonneux",
+      "rating": 4.6,
+      "reviewCount": 57
+    },
+    {
+      "name": "Muse beauty",
+      "category": "Service de détatouage",
+      "address": "35 Rue aux Fleurs, 78960 Voisins-le-Bretonneux",
+      "rating": 5,
+      "reviewCount": 8
+    }
+  ],
+  "description": "La Casa Verde Tattoo Shop fait partie des centres de détatouage laser à Voisins-le-Bretonneux. Avec une note de 4.7/5 sur 78 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Voisins-le-Bretonneux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:41:45.584Z"
+}

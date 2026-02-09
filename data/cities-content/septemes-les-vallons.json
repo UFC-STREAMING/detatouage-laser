@@ -1,0 +1,36 @@
+{
+  "slug": "septemes-les-vallons",
+  "cityName": "Septèmes-les-Vallons",
+  "businessName": "Tattoo Ubella inkPropose : Finition de tatouage",
+  "businesses": [
+    {
+      "name": "Tattoo Ubella inkPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "132 Av. du 8 Mai 1945, 13240 Septèmes-les-Vallons",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Inkoff - Detatouage, Médecine Esthétique & Bien-être",
+      "category": "Service de détatouage",
+      "address": "Médecine Esthétique %26 Bien-être, 57 Rue d'Italie, 13100 Aix-en-Provence",
+      "rating": 5,
+      "reviewCount": 17
+    },
+    {
+      "name": "Sibelle by Ange Dermo - Skin - Scalp",
+      "category": "Service de détatouage",
+      "address": "94b Av. du 8 Mai 1945, 13240 Septèmes-les-Vallons",
+      "rating": 5,
+      "reviewCount": 5
+    }
+  ],
+  "description": "Tattoo Ubella inkPropose : Finition de tatouage fait partie des centres de détatouage laser à Septèmes-les-Vallons. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Septèmes-les-Vallons.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Impossible de mettre à jour votre positionEn savoir plus"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:29:48.854Z"
+}

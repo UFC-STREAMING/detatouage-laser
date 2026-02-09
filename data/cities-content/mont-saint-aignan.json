@@ -1,0 +1,52 @@
+{
+  "slug": "mont-saint-aignan",
+  "cityName": "Mont-Saint-Aignan",
+  "businessName": "Dr DARBET ANDRIEU-Dermatologue - Médical, chirurgie, Esthétique, lasers, injections, cryolipolyse, chirurgie cancérologie",
+  "businesses": [
+    {
+      "name": "Dr DARBET ANDRIEU-Dermatologue - Médical, chirurgie, Esthétique, lasers, injections, cryolipolyse, chirurgie cancérologie",
+      "category": "Clinique dermatologique",
+      "address": "La Clinique, 3 Rue Jacques Monod",
+      "rating": 3.9,
+      "reviewCount": 57
+    },
+    {
+      "name": "NY Center – Médecine esthétique à Rouen",
+      "category": "Service de détatouage",
+      "address": "Rouen",
+      "rating": 5,
+      "reviewCount": 105
+    },
+    {
+      "name": "La Clinique - Drs Al Saif, Darbet Andrieu, Vinez - Esthétique, Dermatologie, Chirurgie",
+      "category": "Dermatologue",
+      "address": "3 Rue Jacques Monod",
+      "rating": 3.6,
+      "reviewCount": 36
+    },
+    {
+      "name": "Docteur Charlotte VINEZ - Dermatologie - Esthétique - Laser épilatoire - Détatouage- Cryolipolyse - Greffe De Cheveux",
+      "category": "Dermatologue",
+      "address": "La Clinique, 3 Rue Jacques Monod",
+      "rating": 4.4,
+      "reviewCount": 92
+    },
+    {
+      "name": "20 / Dixième Centre laser vision - Opération laser des yeux à Rouen, myopie, hypermétropie, astigmatisme, presbytie.",
+      "category": "Clinique ophtalmologique",
+      "address": "45 Rue Raymond Aron",
+      "rating": 5,
+      "reviewCount": 318
+    },
+    {
+      "name": "Dr Maria PELLERIN I Centre de laser et médecine esthétique.",
+      "category": "Médecin",
+      "address": "Rouen",
+      "rating": 4.9,
+      "reviewCount": 32
+    }
+  ],
+  "description": "Dr DARBET ANDRIEU-Dermatologue - Médical, chirurgie, Esthétique, lasers, injections, cryolipolyse, chirurgie cancérologie fait partie des centres de détatouage laser à Mont-Saint-Aignan. Ce centre affiche une note de 3.9/5 pour ses prestations de détatouage. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mont-Saint-Aignan.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:50:16.592Z"
+}

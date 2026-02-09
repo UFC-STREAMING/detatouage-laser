@@ -1,0 +1,44 @@
+{
+  "slug": "chassieu",
+  "cityName": "Chassieu",
+  "businessName": "Ray studios Lyon - centre de détatouage laser",
+  "businesses": [
+    {
+      "name": "Ray studios Lyon - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "104 Boulevard des Belges, 69006 Lyon",
+      "rating": 4.7,
+      "reviewCount": 123
+    },
+    {
+      "name": "Détatouage By Tani",
+      "category": "Service de détatouage",
+      "address": "90 Rue Boileau, 69006 Lyon",
+      "rating": 4.8,
+      "reviewCount": 6
+    },
+    {
+      "name": "Centre Dermo Laser Lyon - Epilation Laser & Définitive - Détatouage",
+      "category": "Service de détatouage",
+      "address": "95 Av. Maréchal de Saxe, 69003 Lyon",
+      "rating": 4.9,
+      "reviewCount": 314
+    }
+  ],
+  "description": "Ray studios Lyon - centre de détatouage laser fait partie des centres de détatouage laser à Chassieu. Avec une note de 4.7/5 sur 123 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chassieu.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "Le détatouage au laser est donc devenu une méthode sûre et efficace pour éliminer complètement ou partiellement les tatouages, sans causer de douleur ni de cicatrices visibles à la fin du protocole.27 déc. 2023"
+    },
+    {
+      "question": "Quel est le prix d'une séance de détatouage des sourcils ?",
+      "answer": "Une séance de détatouage laser pour les sourcils coûte entre 120 et 150 euros, en fonction du centre et de l'équipement utilisé. En moyenne, deux à 8 séances sont nécessaires pour obtenir un résultat satisfaisant, le centre propose des forfaits 3 séances souscrites + 1 séance offerte.15 nov. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:36:14.133Z"
+}

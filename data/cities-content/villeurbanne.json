@@ -1,0 +1,65 @@
+{
+  "slug": "villeurbanne",
+  "cityName": "Villeurbanne",
+  "businessName": "Melticolor | Institut de beauté à Villeurbanne",
+  "businesses": [
+    {
+      "name": "Melticolor | Institut de beauté à Villeurbanne",
+      "category": "Institut de beauté",
+      "address": "32 Av. Henri Barbusse 1er %C3%89tage, 69100 Villeurbanne",
+      "rating": 4.5,
+      "reviewCount": 218
+    },
+    {
+      "name": "MBA - My Body Art | Salon de tatouage et piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "180 Cr %C3%89mile-Zola, 69100 Villeurbanne",
+      "rating": 4.7,
+      "reviewCount": 573
+    },
+    {
+      "name": "Centre Esthétique Lyon Est CELEST - Centre Esthétique et Chirurgie Dermatologique",
+      "category": "Service de détatouage",
+      "address": "171 Rue Léon Blum, 69100 Villeurbanne",
+      "rating": 4.6,
+      "reviewCount": 131
+    },
+    {
+      "name": "Beaujour Villeurbanne",
+      "category": "Centre d'épilation laser",
+      "address": "229 Cr %C3%89mile-Zola, 69100 Villeurbanne",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Epilation Laser Médical - Lyon Villeurbanne",
+      "category": "Centre d'épilation laser",
+      "address": "Métro république, 104 Cr %C3%89mile-Zola Face sortie, 69100 Villeurbanne",
+      "rating": 4.4,
+      "reviewCount": 57
+    },
+    {
+      "name": "Ray studios Lyon - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "104 Boulevard des Belges, 69006 Lyon",
+      "rating": 4.7,
+      "reviewCount": 123
+    }
+  ],
+  "description": "Melticolor | Institut de beauté à Villeurbanne fait partie des centres de détatouage laser à Villeurbanne. Avec une note de 4.5/5 sur 218 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeurbanne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Quel est le tarif d'un détatouage laser à Lyon ?",
+      "answer": "Les tarifs de détatouage laser pratiqués à Lyon sont relativement similaires à ceux pratiqués dans le reste de la France. Le coût du traitement varie notamment en fonction de la zone ciblée, et du temps passé par le praticien sur la zone. Il faut compter au minimum 120 euros pour une séance de détatouage laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:03:45.729Z"
+}

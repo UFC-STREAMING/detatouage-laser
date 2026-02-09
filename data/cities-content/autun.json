@@ -1,0 +1,44 @@
+{
+  "slug": "autun",
+  "cityName": "Autun",
+  "businessName": "Little Freak Shop",
+  "businesses": [
+    {
+      "name": "Little Freak Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "35 Rue aux Cordiers, 71400 Autun",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Mart'ink tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "34 Av. de la République, 71400 Autun",
+      "rating": 4.5,
+      "reviewCount": 43
+    },
+    {
+      "name": "May Beauty",
+      "category": "Institut de beauté",
+      "address": "3 Rue Mazagran, 71400 Autun",
+      "rating": 4.9,
+      "reviewCount": 55
+    }
+  ],
+  "description": "Little Freak Shop fait partie des centres de détatouage laser à Autun. Avec une note de 5/5 sur 7 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Autun.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:19:56.575Z"
+}

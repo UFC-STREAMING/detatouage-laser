@@ -1,0 +1,65 @@
+{
+  "slug": "chatellerault",
+  "cityName": "Châtellerault",
+  "businessName": "Cleopatra Tattoo Shop",
+  "businesses": [
+    {
+      "name": "Cleopatra Tattoo Shop",
+      "category": "Institut de beauté",
+      "address": "12 Rue de la Vieille Poissonnerie, 86100 Ch%C3%A2tellerault",
+      "rating": 4.8,
+      "reviewCount": 134
+    },
+    {
+      "name": "Hello Tattoo - Salon de Tatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "118 Bd d'Estrées, 86100 Ch%C3%A2tellerault",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Médusa Tattoo",
+      "category": "Tatoueur",
+      "address": "14 Av. Georges Clemenceau, 86100 Ch%C3%A2tellerault",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "OPTI-M tatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "72 Rue des Trois Pigeons, 86100 Ch%C3%A2tellerault",
+      "rating": 4.3,
+      "reviewCount": 51
+    },
+    {
+      "name": "Clinique esthétique et laser Skinela",
+      "category": "Clinique spécialisée",
+      "address": "1 Pl. de la Croix Rouge, 86100 Ch%C3%A2tellerault",
+      "rating": 4.2,
+      "reviewCount": 5
+    },
+    {
+      "name": "Dermatologie & Dermatochirurgie & Lasers Châtellerault Dr JELIASKOFF & Dr DIMOVA",
+      "category": "Dermatologue",
+      "address": "30 Bd Aristide Briand, 86100 Ch%C3%A2tellerault",
+      "rating": 3.8,
+      "reviewCount": 44
+    }
+  ],
+  "description": "Cleopatra Tattoo Shop fait partie des centres de détatouage laser à Châtellerault. Avec une note de 4.8/5 sur 134 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Châtellerault.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:30:32.587Z"
+}

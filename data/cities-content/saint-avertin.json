@@ -1,0 +1,44 @@
+{
+  "slug": "saint-avertin",
+  "cityName": "Saint-Avertin",
+  "businessName": "Passion Regard By Solenne",
+  "businesses": [
+    {
+      "name": "Passion Regard By Solenne",
+      "category": "Institut de beauté",
+      "address": "centre commercial les grands champs, 23 Av. du Général de Gaulle, 37550 Saint-Avertin",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "MAD PILGRIM TATTOO",
+      "category": "Tatoueur",
+      "address": "18 bis Av. des Fontaines, 37550 Saint-Avertin",
+      "rating": 4.7,
+      "reviewCount": 22
+    },
+    {
+      "name": "LILOV - Institut de Beauté Saint Avertin",
+      "category": "Institut de beauté",
+      "address": "17 Rue de Cormery, 37550 Saint-Avertin",
+      "rating": 4.9,
+      "reviewCount": 34
+    }
+  ],
+  "description": "Passion Regard By Solenne fait partie des centres de détatouage laser à Saint-Avertin. Avec une note de 5/5 sur 50 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Avertin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte le retrait d'un tatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:09:39.556Z"
+}

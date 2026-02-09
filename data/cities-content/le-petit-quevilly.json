@@ -1,0 +1,65 @@
+{
+  "slug": "le-petit-quevilly",
+  "cityName": "Le Petit-Quevilly",
+  "businessName": "Baba Yaga",
+  "businesses": [
+    {
+      "name": "Baba Yaga",
+      "category": "Tatoueur",
+      "address": "59A Av. Jean Jaurès, 76140 Le Petit-Quevilly",
+      "rating": 5,
+      "reviewCount": 160
+    },
+    {
+      "name": "Top Regard Institut",
+      "category": "Institut de beauté",
+      "address": "224 Av. des Alliés",
+      "rating": 4.8,
+      "reviewCount": 82
+    },
+    {
+      "name": "Evidence Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "Le Grand-Quevilly",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Clinic By Sassou Sun",
+      "category": "Centre d'épilation laser",
+      "address": "13B Bd Stanislas Girardin",
+      "rating": 4.7,
+      "reviewCount": 42
+    },
+    {
+      "name": "Hairpigma tricopigmentation Rouen",
+      "category": "Service de remplacement capillaire",
+      "address": "134 Rue Gustave Flaubert",
+      "rating": 5,
+      "reviewCount": 32
+    },
+    {
+      "name": "Laurie.K esthétique",
+      "category": "Institut de beauté",
+      "address": "5 Rue François Mitterrand",
+      "rating": 4.9,
+      "reviewCount": 102
+    }
+  ],
+  "description": "Baba Yaga fait partie des centres de détatouage laser à Le Petit-Quevilly. Avec une note de 5/5 sur 160 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Petit-Quevilly.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:44:02.546Z"
+}

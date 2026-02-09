@@ -1,0 +1,44 @@
+{
+  "slug": "cayenne",
+  "cityName": "Cayenne",
+  "businessName": "City Clinic by Eximia",
+  "businesses": [
+    {
+      "name": "City Clinic by Eximia",
+      "category": "Clinique spécialisée",
+      "address": "13 Rue du Cne Bernard",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Microderm.guyane",
+      "category": "Institut de beauté",
+      "address": "01 rue Sophocle",
+      "rating": 4.9,
+      "reviewCount": 50
+    },
+    {
+      "name": "Private Body Art",
+      "category": "Salon de tatouage et piercing",
+      "address": "19 Rue Louis Blanc",
+      "rating": 4.5,
+      "reviewCount": 26
+    }
+  ],
+  "description": "City Clinic by Eximia fait partie des centres de détatouage laser à Cayenne. Avec une note de 5/5 sur 7 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cayenne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:11:43.342Z"
+}

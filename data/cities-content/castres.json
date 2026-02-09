@@ -1,0 +1,65 @@
+{
+  "slug": "castres",
+  "cityName": "Castres",
+  "businessName": "Tigroo Tattoo Piercing",
+  "businesses": [
+    {
+      "name": "Tigroo Tattoo Piercing",
+      "category": "Service de détatouage",
+      "address": "5 Rue de la Libération, 81100 Castres",
+      "rating": 5,
+      "reviewCount": 804
+    },
+    {
+      "name": "No Remorse Tattoo Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "3 Rue Sabaterie, 81100 Castres",
+      "rating": 4.8,
+      "reviewCount": 220
+    },
+    {
+      "name": "Le Bazar des Rêves ✷ Maguy Piercing & Cléature Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "13 Rue Jacques Limouzy, 81100 Castres",
+      "rating": 5,
+      "reviewCount": 202
+    },
+    {
+      "name": "Tech Esthétique | Épilation laser et Soins esthétiques | Castres",
+      "category": "Centre d'épilation laser",
+      "address": "35 Rue Olympe de Gouges, 81100 Castres",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Maison J Derma | Épilation laser & Soins esthétiques | Castres",
+      "category": "Centre d'épilation laser",
+      "address": "28 Rue du Commerce, 81100 Castres",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "By Cristal ✨ Maquillage Permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "1 Bis Chem. de Tubens Haut, 81710 Sa%C3%AFx",
+      "rating": 5,
+      "reviewCount": 102
+    }
+  ],
+  "description": "Tigroo Tattoo Piercing fait partie des centres de détatouage laser à Castres. Avec une note de 5/5 sur 804 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Castres.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:20:50.383Z"
+}

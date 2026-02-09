@@ -1,0 +1,65 @@
+{
+  "slug": "chateauroux",
+  "cityName": "Châteauroux",
+  "businessName": "Laser anti addiction ( Tabac, Alcool et drogues ) Méthode MFC",
+  "businesses": [
+    {
+      "name": "Laser anti addiction ( Tabac, Alcool et drogues ) Méthode MFC",
+      "category": "Centre de bien-être",
+      "address": "Alcool et drogues ) Méthode MFC, 96 Rue Grande, 36000 Ch%C3%A2teauroux",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "Atelier D",
+      "category": "Salon de tatouage et piercing",
+      "address": "70 Rue Grande, 36000 Ch%C3%A2teauroux",
+      "rating": 4.7,
+      "reviewCount": 167
+    },
+    {
+      "name": "Le Chat Ferré",
+      "category": "Tatoueur",
+      "address": "Pl. Napoléon, 36000 Ch%C3%A2teauroux",
+      "rating": 5,
+      "reviewCount": 149
+    },
+    {
+      "name": "Hakatiki Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "62 Rue Grande, 36000 Ch%C3%A2teauroux",
+      "rating": 4.6,
+      "reviewCount": 12
+    },
+    {
+      "name": "Gaëlle Passion Dermo",
+      "category": "Clinique de maquillage permanent",
+      "address": "15 Av. des Marins, 36000 Ch%C3%A2teauroux",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "Blood Line",
+      "category": "Tatoueur",
+      "address": "10 Rue Ledru Rollin, 36000 Ch%C3%A2teauroux",
+      "rating": 4.7,
+      "reviewCount": 180
+    }
+  ],
+  "description": "Laser anti addiction ( Tabac, Alcool et drogues ) Méthode MFC fait partie des centres de détatouage laser à Châteauroux. Avec une note de 5/5 sur 29 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Châteauroux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte un détatouage sourcil ?",
+      "answer": "Une séance de détatouage laser pour les sourcils coûte entre 120 et 150 euros, en fonction du centre et de l'équipement utilisé. En moyenne, deux à 8 séances sont nécessaires pour obtenir un résultat satisfaisant, le centre propose des forfaits 3 séances souscrites + 1 séance offerte.15 nov. 2024"
+    },
+    {
+      "question": "Détatouer un maquillage permanent ?",
+      "answer": "La plus répandue des solutions et la plus efficace, est le détatouage au laser du maquillage permanent, qui permet en quelques séances de rectifier ou d'effacer un trait et de retrouver un regard ou un visage naturels sans trop de risques. Les ondes du laser vont fragmenter les pigments du tatouage sans abîmer la peau."
+    },
+    {
+      "question": "Enlever maquillage Semi-permanent ?",
+      "answer": "Le laser est la méthode la plus efficace pour se débarrasser du maquillage semi-permanent. L'énergie du laser pénètre la partie externe de la peau pour éclater et réduire en fine poudre le pigment emprisonné dans le derme."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:20:31.800Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "tergnier",
+  "cityName": "Tergnier",
+  "businessName": "L' Atelier Equinox",
+  "businesses": [
+    {
+      "name": "L' Atelier Equinox",
+      "category": "Tatoueur",
+      "address": "37 Bd Gustave Grégoire, 02700 Tergnier",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Lasertop-picardie",
+      "category": "Centre d'épilation laser",
+      "address": "21 Bd de la Liberté, 02700 Tergnier",
+      "rating": 3,
+      "reviewCount": 4
+    },
+    {
+      "name": "Le CoCon By G (centre de soins technico esthetiques : carbon peel detatouage microneedling&centre de formation",
+      "category": "Institut de beauté",
+      "address": "2 Rue du Chaufour, 02700 Frières-Faillou%C3%ABl",
+      "rating": 5,
+      "reviewCount": 23
+    }
+  ],
+  "description": "L' Atelier Equinox fait partie des centres de détatouage laser à Tergnier. Avec une note de 5/5 sur 9 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tergnier.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Prix d'un détatouage au laser ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:20:33.078Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "la-roche-sur-yon",
+  "cityName": "La Roche-sur-Yon",
+  "businessName": "Dr Katia SALOMON - Médecine Esthétique, Épilation Laser, Injections, Varicosité, Centre Laser - La Roche-sur-Yon - Vendée",
+  "businesses": [
+    {
+      "name": "Dr Katia SALOMON - Médecine Esthétique, Épilation Laser, Injections, Varicosité, Centre Laser - La Roche-sur-Yon - Vendée",
+      "category": "Centre d'épilation laser",
+      "address": "Maison Médicale Medyx, 80 Bd Léon Martin 1er étage, Porte 102",
+      "rating": 4.5,
+      "reviewCount": 51
+    },
+    {
+      "name": "Dr Rafstedt Philippe et Dr Katia Salomon - Centre médecine esthétique et épilation laser",
+      "category": "Clinique",
+      "address": "80 Bd Léon Martin",
+      "rating": 3.6,
+      "reviewCount": 17
+    },
+    {
+      "name": "Lazeo La Roche sur Yon",
+      "category": "Centre d'épilation laser",
+      "address": "3 Rue Georges Clemenceau",
+      "rating": 5,
+      "reviewCount": 44
+    }
+  ],
+  "description": "Dr Katia SALOMON - Médecine Esthétique, Épilation Laser, Injections, Varicosité, Centre Laser - La Roche-sur-Yon - Vendée fait partie des centres de détatouage laser à La Roche-sur-Yon. Avec une note de 4.5/5 sur 51 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Roche-sur-Yon.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:14:29.630Z"
+}

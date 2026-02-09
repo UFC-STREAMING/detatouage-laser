@@ -1,0 +1,65 @@
+{
+  "slug": "narbonne",
+  "cityName": "Narbonne",
+  "businessName": "Centre laser CtrlZ - Narbonne",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Narbonne",
+      "category": "Centre d'épilation laser",
+      "address": "34 Bd Marcel Sembat, 11100 Narbonne",
+      "rating": 5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Ink beauty studio",
+      "category": "Tatoueur",
+      "address": "3 Rue de l'Ancienne Prte Neuve, 11100 Narbonne",
+      "rating": 5,
+      "reviewCount": 25
+    },
+    {
+      "name": "Centre Laser Narbonne",
+      "category": "Centre d'épilation laser",
+      "address": "3, rue du Professeur Christiaan Barnard, 11100 Montredon-des-Corbières",
+      "rating": 4.4,
+      "reviewCount": 7
+    },
+    {
+      "name": "JULIE STUDIO DERMO",
+      "category": "Clinique de maquillage permanent",
+      "address": "71 Av. %C3%89lie Sermet, 11100 Narbonne",
+      "rating": 5,
+      "reviewCount": 92
+    },
+    {
+      "name": "LASEROSTOP Narbonne - Centre Anti tabac",
+      "category": "Centre médical",
+      "address": "9 Rue Ernest Cognacq, 11100 Narbonne",
+      "rating": 4.8,
+      "reviewCount": 34
+    },
+    {
+      "name": "Institut Médical de la Peau - IMP Narbonne",
+      "category": "Institut de soins du visage",
+      "address": "3 Rue Christiaan Barnard, 11100 Montredon-des-Corbières",
+      "rating": 4.6,
+      "reviewCount": 68
+    }
+  ],
+  "description": "Centre laser CtrlZ - Narbonne fait partie des centres de détatouage laser à Narbonne. Avec une note de 5/5 sur 38 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Narbonne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:12:59.992Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "creteil",
+  "cityName": "Créteil",
+  "businessName": "JM ESTETIC Centre Médical Esthétique Et LaserPropose : Détatouage",
+  "businesses": [
+    {
+      "name": "JM ESTETIC Centre Médical Esthétique Et LaserPropose : Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "53 Rue du Général Leclerc, 94000 Créteil",
+      "rating": 4.7,
+      "reviewCount": 99
+    },
+    {
+      "name": "Epilation Laser Créteil , centre laser , de cryolipolyse et de médecine esthétique du Dr Cohen Stéphane",
+      "category": "Centre d'épilation laser",
+      "address": "centre laser , de cryolipolyse et de médecine esthétique du Dr Cohen Stéphane, 62 Av. Fran%C3%A7ois Mitterrand, 94000 Créteil",
+      "rating": 4.8,
+      "reviewCount": 173
+    },
+    {
+      "name": "L'Empreinte Tattoo/Piercing/Beauty",
+      "category": "Salon de tatouage et piercing",
+      "address": "54 Av. du Général Pierre Billotte, 94000 Créteil",
+      "rating": 5,
+      "reviewCount": 267
+    },
+    {
+      "name": "Lazeo Créteil",
+      "category": "Centre d'épilation laser",
+      "address": "28 Av. de Verdun, 94000 Créteil",
+      "rating": 4.8,
+      "reviewCount": 356
+    },
+    {
+      "name": "Dr Cohen Stephane. médecine esthétique et laser à Créteil",
+      "category": "Médecin",
+      "address": "62 Av. Fran%C3%A7ois Mitterrand, 94000 Créteil",
+      "rating": 4.2,
+      "reviewCount": 73
+    },
+    {
+      "name": "L’ Atelier de l’EFT",
+      "category": "Salon de tatouage et piercing",
+      "address": "19 Rue Falkirk, 94000 Créteil",
+      "rating": 5,
+      "reviewCount": 15
+    }
+  ],
+  "description": "JM ESTETIC Centre Médical Esthétique Et LaserPropose : Détatouage fait partie des centres de détatouage laser à Créteil. Avec une note de 4.7/5 sur 99 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Créteil.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:06:54.618Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "hericourt",
+  "cityName": "Héricourt",
+  "businessName": "La Dame de Pique, salon de Tatouage",
+  "businesses": [
+    {
+      "name": "La Dame de Pique, salon de Tatouage",
+      "category": "Tatoueur",
+      "address": "10 Rue de l'Hôtel de ville",
+      "rating": 4.7,
+      "reviewCount": 111
+    },
+    {
+      "name": "studio70",
+      "category": "Tatoueur",
+      "address": "37 Rue du Général de Gaulle",
+      "rating": 4.8,
+      "reviewCount": 178
+    },
+    {
+      "name": "Laser Evolution",
+      "category": "Service de découpe au laser",
+      "address": "Z.I de 69 Grande Rue Z.I de, 70400 Héricourt",
+      "rating": 5,
+      "reviewCount": 3
+    }
+  ],
+  "description": "La Dame de Pique, salon de Tatouage fait partie des centres de détatouage laser à Héricourt. Avec une note de 4.7/5 sur 111 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Héricourt.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:41:54.216Z"
+}

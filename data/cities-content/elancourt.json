@@ -1,0 +1,44 @@
+{
+  "slug": "elancourt",
+  "cityName": "Élancourt",
+  "businessName": "Beauté Santé institut- Les soins beauté de Faty",
+  "businesses": [
+    {
+      "name": "Beauté Santé institut- Les soins beauté de Faty",
+      "category": "Centre d'épilation laser",
+      "address": "4 Rue de Lisbonne Cabinet Paramédical, 78990 %C3%89lancourt",
+      "rating": 4.9,
+      "reviewCount": 34
+    },
+    {
+      "name": "Pascal Tattoo 78 (studio privé - pas de piercing)",
+      "category": "Tatoueur",
+      "address": "80 Av. des Tulipes, 78990 %C3%89lancourt",
+      "rating": 4.5,
+      "reviewCount": 52
+    },
+    {
+      "name": "Angel Beauty",
+      "category": "Institut de beauté",
+      "address": "2 Rés de l'Espace, 78990 %C3%89lancourt",
+      "rating": 5,
+      "reviewCount": 65
+    }
+  ],
+  "description": "Beauté Santé institut- Les soins beauté de Faty fait partie des centres de détatouage laser à Élancourt. Avec une note de 4.9/5 sur 34 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Élancourt.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-il réellement possible de se faire enlever complètement un tatouage  ?",
+      "answer": "En général, les encres noires et foncées peuvent être complètement éliminées à l'aide de lasers Q-switched , tandis que les couleurs claires, comme le jaune et le vert, sont très difficiles à enlever. Le succès de l'opération dépend de nombreux facteurs, notamment la couleur de la peau, la couleur de l'encre et la profondeur d'application."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:36:43.756Z"
+}

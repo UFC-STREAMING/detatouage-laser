@@ -1,0 +1,31 @@
+{
+  "slug": "castelginest",
+  "cityName": "Castelginest",
+  "businessName": "Wisteria Tattoo",
+  "businesses": [
+    {
+      "name": "Wisteria Tattoo",
+      "category": "Tatoueur",
+      "address": "1 Rue du Pont Vieil, 31780 Castelginest",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Stef Berdot - Memoriam Tattoo -",
+      "category": "Tatoueur",
+      "address": "6 Rue Saint-Charles, 31780 Castelginest",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "Coachella",
+      "category": "Bar à sourcils",
+      "address": "6 Rue Magressolles, 31780 Castelginest",
+      "rating": 5,
+      "reviewCount": 18
+    }
+  ],
+  "description": "Wisteria Tattoo fait partie des centres de détatouage laser à Castelginest. Avec une note de 5/5 sur 15 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Castelginest.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:35:39.053Z"
+}

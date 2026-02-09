@@ -1,0 +1,44 @@
+{
+  "slug": "mougins",
+  "cityName": "Mougins",
+  "businessName": "Centre de médecine Esthétique Alfa Laser Mougins",
+  "businesses": [
+    {
+      "name": "Centre de médecine Esthétique Alfa Laser Mougins",
+      "category": "Clinique spécialisée",
+      "address": "775 Chem. de la Plaine",
+      "rating": 4.8,
+      "reviewCount": 46
+    },
+    {
+      "name": "Centre Esthétique Cannes Mougins - Cabinet Dr Tarik Ihrai",
+      "category": "Centre d'épilation laser",
+      "address": "Sophia antipolis FR, 80 All. des Ormes",
+      "rating": 4.9,
+      "reviewCount": 161
+    },
+    {
+      "name": "Dermatys Mougins",
+      "category": "Médecin",
+      "address": "Marco Polo, 790 Av. Maurice Donat Bâtiment B2",
+      "rating": 4.5,
+      "reviewCount": 20
+    }
+  ],
+  "description": "Centre de médecine Esthétique Alfa Laser Mougins fait partie des centres de détatouage laser à Mougins. Avec une note de 4.8/5 sur 46 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mougins.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:51:32.951Z"
+}

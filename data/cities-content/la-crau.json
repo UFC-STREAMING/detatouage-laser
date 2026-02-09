@@ -1,0 +1,65 @@
+{
+  "slug": "la-crau",
+  "cityName": "La Crau",
+  "businessName": "laserOstop La Crau",
+  "businesses": [
+    {
+      "name": "laserOstop La Crau",
+      "category": "Clinique",
+      "address": "12 Pl. Jean Jaurès",
+      "rating": 4.9,
+      "reviewCount": 141
+    },
+    {
+      "name": "Mix Tattoo Shop. Tatoueur La Crau, Hyères, La Garde",
+      "category": "Tatoueur",
+      "address": "13 Av. du Général de Gaulle",
+      "rating": 4.6,
+      "reviewCount": 39
+    },
+    {
+      "name": "Hibiscus Beauté",
+      "category": "Institut de beauté",
+      "address": "409 Chem. des Goys Fourniers",
+      "rating": 4.9,
+      "reviewCount": 49
+    },
+    {
+      "name": "Dermo Jaéva - Microblading Formation - Toulon",
+      "category": "Clinique de maquillage permanent",
+      "address": "2746 Chem. Long",
+      "rating": 5,
+      "reviewCount": 22
+    },
+    {
+      "name": "La Casita Tattoo - La Crau",
+      "category": "Tatoueur",
+      "address": "La Casita Tattoo, 85 Av. 1Ère D.F.L",
+      "rating": 5,
+      "reviewCount": 19
+    },
+    {
+      "name": "SkinStudio Origin",
+      "category": "Institut de beauté",
+      "address": "2746 Chem. Long",
+      "rating": 4.9,
+      "reviewCount": 33
+    }
+  ],
+  "description": "laserOstop La Crau fait partie des centres de détatouage laser à La Crau. Avec une note de 4.9/5 sur 141 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Crau.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:51:56.361Z"
+}

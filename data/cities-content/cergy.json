@@ -1,0 +1,65 @@
+{
+  "slug": "cergy",
+  "cityName": "Cergy",
+  "businessName": "CENTRE LASERAZZ CERGY",
+  "businesses": [
+    {
+      "name": "CENTRE LASERAZZ CERGY",
+      "category": "Centre d'épilation laser",
+      "address": "2 Chem. Dupuis Brun, 95000 Cergy",
+      "rating": 5,
+      "reviewCount": 41
+    },
+    {
+      "name": "Institut du Laser - Cergy",
+      "category": "Centre d'épilation laser",
+      "address": "12 Rue des Chauffours, 95000 Cergy",
+      "rating": 4.7,
+      "reviewCount": 266
+    },
+    {
+      "name": "Perfect skin and smile",
+      "category": "Institut de soins du visage",
+      "address": "Espace vidichri, 18 Bd de la Paix Batiment 10, 95000 Cergy",
+      "rating": 5,
+      "reviewCount": 321
+    },
+    {
+      "name": "Dermo by Sam",
+      "category": "Clinique de maquillage permanent",
+      "address": "le haut FR, 30 Bd de l'%C3%89vasion, 95800 Cergy",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "Harmonie Et Beaute",
+      "category": "Centre d'épilation laser",
+      "address": "12 Rue des Chauffours B%C3%A2timent Ordinal, 95000 Cergy",
+      "rating": 4.7,
+      "reviewCount": 163
+    },
+    {
+      "name": "Cabinet de dermatologie et de laser dermatologique du Dr Diane MANTEL (Jourdain)",
+      "category": "Dermatologue",
+      "address": "16 Rue du Chemin Dupuis Vert, 95000 Cergy",
+      "rating": 3.4,
+      "reviewCount": 83
+    }
+  ],
+  "description": "CENTRE LASERAZZ CERGY fait partie des centres de détatouage laser à Cergy. Avec une note de 5/5 sur 41 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cergy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:09:49.085Z"
+}

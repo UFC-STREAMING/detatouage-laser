@@ -1,0 +1,65 @@
+{
+  "slug": "blagnac",
+  "cityName": "Blagnac",
+  "businessName": "Atelier MOJA - sur RDV",
+  "businesses": [
+    {
+      "name": "Atelier MOJA - sur RDV",
+      "category": "Institut de beauté",
+      "address": "22 Av. de Purpan, 31700 Blagnac",
+      "rating": 5,
+      "reviewCount": 26
+    },
+    {
+      "name": "Ray studios Toulouse - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "7 Rue du Fourbastard, 31000 Toulouse",
+      "rating": 4.9,
+      "reviewCount": 95
+    },
+    {
+      "name": "Alliance Laser Toulouse – Aide au Sevrage tabac, alcool, sucre, cannabis",
+      "category": "Praticien de médecine alternative",
+      "address": "alcool, sucre, cannabis, 34 Rue Pasteur B%C3%A2timent D- 1er étage, 31700 Blagnac",
+      "rating": 4.8,
+      "reviewCount": 202
+    },
+    {
+      "name": "Centre Laser Pro",
+      "category": "Centre d'épilation laser",
+      "address": "24 Av. Georges Brassens, 31700 Blagnac",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "ma.dermo",
+      "category": "Institut de beauté",
+      "address": "22 Av. de Purpan, 31700 Blagnac",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "NARH Piercing - Blagnac",
+      "category": "Salon de piercing",
+      "address": "2 All. Emile Zola, 31700 Blagnac",
+      "rating": 4.9,
+      "reviewCount": 22
+    }
+  ],
+  "description": "Atelier MOJA - sur RDV fait partie des centres de détatouage laser à Blagnac. Avec une note de 5/5 sur 26 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Blagnac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage à Toulouse ?",
+      "answer": "TARIFS LASER DÉTATOUGE TOULOUSEVisage ou zone sur le corpsLa séancePetite zone40>60 €Moyenne zone90>120€Grande zone à multiplesSur devis"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:34:40.040Z"
+}

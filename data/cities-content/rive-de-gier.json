@@ -1,0 +1,31 @@
+{
+  "slug": "rive-de-gier",
+  "cityName": "Rive-de-Gier",
+  "businessName": "JiWi Shop",
+  "businesses": [
+    {
+      "name": "JiWi Shop",
+      "category": "Salon de tatouage et piercing",
+      "address": "81 Rue Jean Jaurès",
+      "rating": 5,
+      "reviewCount": 53
+    },
+    {
+      "name": "Perfect Look",
+      "category": "Institut de beauté",
+      "address": "49 Rue de la République",
+      "rating": 5,
+      "reviewCount": 164
+    },
+    {
+      "name": "Craz'ink Tattoo By Jo",
+      "category": "Tatoueur",
+      "address": "18 Rue Jean Jaurès",
+      "rating": 4.5,
+      "reviewCount": 20
+    }
+  ],
+  "description": "JiWi Shop fait partie des centres de détatouage laser à Rive-de-Gier. Avec une note de 5/5 sur 53 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rive-de-Gier.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:08:09.991Z"
+}

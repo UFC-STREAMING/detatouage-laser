@@ -1,0 +1,65 @@
+{
+  "slug": "lisieux",
+  "cityName": "Lisieux",
+  "businessName": "Dermographic",
+  "businesses": [
+    {
+      "name": "Dermographic",
+      "category": "Tatoueur",
+      "address": "24 Rue au Char, 14100 Lisieux",
+      "rating": 4.9,
+      "reviewCount": 68
+    },
+    {
+      "name": "L'Art D Corps",
+      "category": "Tatoueur",
+      "address": "51 Rue du Capitaine Vie, 14100 Lisieux",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Inked chapter tattoo studio",
+      "category": "Tatoueur",
+      "address": "5 Rue Henry Chéron, 14100 Lisieux",
+      "rating": 4.9,
+      "reviewCount": 74
+    },
+    {
+      "name": "Yellowstone Tattoo Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "37 Av. Victor Hugo, 14100 Lisieux",
+      "rating": 4.9,
+      "reviewCount": 32
+    },
+    {
+      "name": "L'art du soin - Maison du bien-être",
+      "category": "Centre de bien-être",
+      "address": "15 route de Fervaques La Corne Carrefour D103, D511, 14100 Saint-Pierre-des-Ifs",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "North Ink",
+      "category": "Salon de tatouage et piercing",
+      "address": "Le miloir, 14100 Saint-Désir",
+      "rating": 4.9,
+      "reviewCount": 48
+    }
+  ],
+  "description": "Dermographic fait partie des centres de détatouage laser à Lisieux. Avec une note de 4.9/5 sur 68 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lisieux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:51:43.848Z"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "fos-sur-mer",
+  "cityName": "Fos-sur-Mer",
+  "businessName": "Spirit Of Skin Tattoo MorganePropose : Tatouage",
+  "businesses": [
+    {
+      "name": "Spirit Of Skin Tattoo MorganePropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "Centre d'affaires les vallins, Av. des Vallins, 13270 Fos-sur-Mer",
+      "rating": 4.9,
+      "reviewCount": 89
+    },
+    {
+      "name": "Divin'Addict - Institut de beauté & Formation Esthétique - Massage Fos sur Mer",
+      "category": "Centre d'épilation laser",
+      "address": "55 All. de lou Calen, 13270 Fos-sur-Mer",
+      "rating": 5,
+      "reviewCount": 79
+    },
+    {
+      "name": "Le Studio Fos Tatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "30 allée andré marie ampere zac lavalduc, 13270 Fos-sur-Mer",
+      "rating": 5,
+      "reviewCount": 7
+    }
+  ],
+  "description": "Spirit Of Skin Tattoo MorganePropose : Tatouage fait partie des centres de détatouage laser à Fos-sur-Mer. Avec une note de 4.9/5 sur 89 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fos-sur-Mer.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:05:36.318Z"
+}

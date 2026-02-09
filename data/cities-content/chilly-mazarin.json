@@ -1,0 +1,52 @@
+{
+  "slug": "chilly-mazarin",
+  "cityName": "Chilly-Mazarin",
+  "businessName": "Docteur Jekyll Office",
+  "businesses": [
+    {
+      "name": "Docteur Jekyll Office",
+      "category": "Tatoueur",
+      "address": "71 Rue de Gravigny, 91380 Chilly-Mazarin",
+      "rating": 5,
+      "reviewCount": 431
+    },
+    {
+      "name": "Tatérapi Laser CHILLY-MAZARIN | Réflexologie auriculaire | Arrêt Tabac - Perte de poids - Stress - Douleurs",
+      "category": "Centre de bien-être",
+      "address": "18 Rue Jean Mermoz, 91380 Chilly-Mazarin",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "NC Clinic",
+      "category": "Centre d'épilation laser",
+      "address": "11 Av. Pierre Brossolette 11 bis, 91380 Chilly-Mazarin",
+      "rating": 5,
+      "reviewCount": 16
+    },
+    {
+      "name": "Bonnie Studio",
+      "category": "Clinique de maquillage permanent",
+      "address": "45 Rue Pierre Mendès France, 91380 Chilly-Mazarin",
+      "rating": 4.9,
+      "reviewCount": 19
+    },
+    {
+      "name": "My Beauty inkPropose : Détatouage",
+      "category": "Clinique de maquillage permanent",
+      "address": "2 bis Rue de la Terrasse, 91160 Longjumeau",
+      "rating": 5,
+      "reviewCount": 188
+    },
+    {
+      "name": "Épilation définitive au laser Essonne 91 - My lazershot",
+      "category": "Centre d'épilation laser",
+      "address": "50 Rue Victor Baloche, 91320 Wissous",
+      "rating": 5,
+      "reviewCount": 19
+    }
+  ],
+  "description": "Docteur Jekyll Office fait partie des centres de détatouage laser à Chilly-Mazarin. Avec une note de 5/5 sur 431 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chilly-Mazarin.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:49:41.093Z"
+}

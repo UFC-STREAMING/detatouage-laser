@@ -1,0 +1,52 @@
+{
+  "slug": "vierzon",
+  "cityName": "Vierzon",
+  "businessName": "Bahlis Samir",
+  "businesses": [
+    {
+      "name": "Bahlis Samir",
+      "category": "Service de détatouage",
+      "address": "12 Rue du Bas de Grange",
+      "rating": 4.7,
+      "reviewCount": 92
+    },
+    {
+      "name": "Zone 47 tattoo vierzon",
+      "category": "Tatoueur",
+      "address": "49 Rue Etienne Marcel",
+      "rating": 5,
+      "reviewCount": 85
+    },
+    {
+      "name": "Maquillage permanent et Institut de beauté Derm'Ô Beauty Vierzon",
+      "category": "Institut de beauté",
+      "address": "6 Pass. Lévêque",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "Un autre regard",
+      "category": "Institut de beauté",
+      "address": "47 Rue du 11 Novembre 1918",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Ticase tattoo",
+      "category": "Tatoueur",
+      "address": "12 Pl. Aristide Briand",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Douarus Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "3 Rue André Gide",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "Bahlis Samir fait partie des centres de détatouage laser à Vierzon. Avec une note de 4.7/5 sur 92 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vierzon.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:39:15.035Z"
+}

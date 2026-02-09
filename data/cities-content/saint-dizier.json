@@ -1,0 +1,61 @@
+{
+  "slug": "saint-dizier",
+  "cityName": "Saint-Dizier",
+  "businessName": "Essentiel Beauté - Epilation LASER CANDELA - HEADSPA - Massages - Relaxation- - Anti - Age - Soins visage - Ongles",
+  "businesses": [
+    {
+      "name": "Essentiel Beauté - Epilation LASER CANDELA - HEADSPA - Massages - Relaxation- - Anti - Age - Soins visage - Ongles",
+      "category": "Centre d'épilation laser",
+      "address": "22 Av. de Verdun, 52100 Saint-Dizier",
+      "rating": 4.7,
+      "reviewCount": 25
+    },
+    {
+      "name": "Bulle de beauté",
+      "category": "Centre d'épilation laser",
+      "address": "4 Rue Lucien Fezandelle, 52100 Saint-Dizier",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "L'atelier K.Propose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "20 Rue du Dr Mougeot, 52100 Saint-Dizier",
+      "rating": 4.4,
+      "reviewCount": 119
+    },
+    {
+      "name": "D'sign Tattoo",
+      "category": "Tatoueur",
+      "address": "31 Rue du Dr Mougeot, 52100 Saint-Dizier",
+      "rating": 4.7,
+      "reviewCount": 58
+    },
+    {
+      "name": "Juraki Tattoo",
+      "category": "Tatoueur",
+      "address": "13 Av. Marius Cartier, 52100 Saint-Dizier",
+      "rating": 5,
+      "reviewCount": 111
+    },
+    {
+      "name": "Perfect PiercingPropose : Tatouages, piercings",
+      "category": "Salon de piercing",
+      "address": "15 Rue Mozart, 52100 Saint-Dizier",
+      "rating": 4.9,
+      "reviewCount": 51
+    }
+  ],
+  "description": "Essentiel Beauté - Epilation LASER CANDELA - HEADSPA - Massages - Relaxation- - Anti - Age - Soins visage - Ongles fait partie des centres de détatouage laser à Saint-Dizier. Avec une note de 4.7/5 sur 25 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Dizier.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage avant-après ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Quels sont les avis sur Passage Bleu Saint-Dizier ?",
+      "answer": "Avis sur la spa urbain Passage Bleu à Saint-DizierMarhoefer sarah - 26/10/22 - Détente et relaxation. 5/5 Excellent. On se sent très bien dans ce salon. ... Lu Ames - 08/02/19 - Détente et relaxation. 5/5 Excellent. Toujours très contente du résultat ! ... MARTIN - 25/02/17 - Détente et relaxation. 2,4/5 Moyen."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:42:35.904Z"
+}

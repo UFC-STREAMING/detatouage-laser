@@ -1,0 +1,52 @@
+{
+  "slug": "la-chapelle-sur-erdre",
+  "cityName": "La Chapelle-sur-Erdre",
+  "businessName": "L' Apothicaire Tattoo Shop",
+  "businesses": [
+    {
+      "name": "L' Apothicaire Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "3 Rue de l'Erdre",
+      "rating": 4.9,
+      "reviewCount": 81
+    },
+    {
+      "name": "Neopsis Dermographie | Dermopigmentation Réparatrice, Esthétique, Tricopigmentation, Tatouage & Piercing.",
+      "category": "Clinique",
+      "address": "27 Rue de la Vrière",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "un regard parfait",
+      "category": "Clinique de maquillage permanent",
+      "address": "Centre Paramédical « Le Jardin des Pins », 31 Rue Hervé le Guyader",
+      "rating": 5,
+      "reviewCount": 273
+    },
+    {
+      "name": "Ray studios Nantes - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "Nantes",
+      "rating": 4.9,
+      "reviewCount": 144
+    },
+    {
+      "name": "Krystale Esthétique - Head spa & soins bien- être",
+      "category": "Institut de beauté",
+      "address": "La, 4 Rue de Leinster",
+      "rating": 4.9,
+      "reviewCount": 180
+    },
+    {
+      "name": "L'instant regard",
+      "category": "Clinique de maquillage permanent",
+      "address": "1 Rue de la Vrière",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "L' Apothicaire Tattoo Shop fait partie des centres de détatouage laser à La Chapelle-sur-Erdre. Avec une note de 4.9/5 sur 81 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Chapelle-sur-Erdre.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:48:26.383Z"
+}

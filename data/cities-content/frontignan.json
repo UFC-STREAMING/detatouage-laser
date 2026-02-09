@@ -1,0 +1,65 @@
+{
+  "slug": "frontignan",
+  "cityName": "Frontignan",
+  "businessName": "Fine Line tattoo",
+  "businesses": [
+    {
+      "name": "Fine Line tattoo",
+      "category": "Tatoueur",
+      "address": "21 Pl. du Marché",
+      "rating": 5,
+      "reviewCount": 59
+    },
+    {
+      "name": "Black Shadow",
+      "category": "Tatoueur",
+      "address": "62 Bd Victor Hugo",
+      "rating": 5,
+      "reviewCount": 126
+    },
+    {
+      "name": "Vida Loca",
+      "category": "Tatoueur",
+      "address": "22 Pl. du Marché",
+      "rating": 4.6,
+      "reviewCount": 9
+    },
+    {
+      "name": "Anges & Démons",
+      "category": "Magasin",
+      "address": "7 Bd Gambetta",
+      "rating": 4.8,
+      "reviewCount": 86
+    },
+    {
+      "name": "Popp’ink",
+      "category": "Tatoueur",
+      "address": "6 Rue du Port",
+      "rating": 4.9,
+      "reviewCount": 60
+    },
+    {
+      "name": "L' Appart institut, Sarah Pégurié",
+      "category": "Institut de beauté",
+      "address": "3 rue Alberto Giacometti",
+      "rating": 4.7,
+      "reviewCount": 19
+    }
+  ],
+  "description": "Fine Line tattoo fait partie des centres de détatouage laser à Frontignan. Avec une note de 5/5 sur 59 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Frontignan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:40:03.416Z"
+}

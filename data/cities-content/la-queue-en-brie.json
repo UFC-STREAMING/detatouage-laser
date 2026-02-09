@@ -1,0 +1,44 @@
+{
+  "slug": "la-queue-en-brie",
+  "cityName": "La Queue-en-Brie",
+  "businessName": "Bee Tattoo",
+  "businesses": [
+    {
+      "name": "Bee Tattoo",
+      "category": "Tatoueur",
+      "address": "3 Rue des Frères Lumière",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "The West InkDies tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "12 Av. du Maréchal Mortier",
+      "rating": 4.3,
+      "reviewCount": 6
+    },
+    {
+      "name": "LaserOstop Pontault-Combault",
+      "category": "Praticien de médecine alternative",
+      "address": "Pontault-Combault",
+      "rating": 4.8,
+      "reviewCount": 156
+    }
+  ],
+  "description": "Bee Tattoo fait partie des centres de détatouage laser à La Queue-en-Brie. Avec une note de 5/5 sur 1 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Queue-en-Brie.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:27:38.661Z"
+}

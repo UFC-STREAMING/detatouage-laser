@@ -1,9 +1,10 @@
 interface FAQSchemaProps {
   cityName?: string;
   departmentName?: string;
+  customQuestions?: { question: string; answer: string }[];
 }
 
-export function FAQSchema({ cityName, departmentName }: FAQSchemaProps = {}) {
+export function FAQSchema({ cityName, departmentName, customQuestions }: FAQSchemaProps = {}) {
   const location = cityName || "en France";
   const locationPrefix = cityName ? `à ${cityName}` : "en France";
 
@@ -93,7 +94,21 @@ export function FAQSchema({ cityName, departmentName }: FAQSchemaProps = {}) {
     }
   ] : [];
 
-  const questions = cityName ? cityQuestions : genericQuestions;
+  // Merge custom questions (from CrazySERP) with generated ones
+  const customFormatted = (customQuestions || [])
+    .filter((q) => q.question && q.answer && !q.answer.startsWith("0:"))
+    .map((q) => ({
+      "@type": "Question" as const,
+      "name": q.question,
+      "acceptedAnswer": {
+        "@type": "Answer" as const,
+        "text": q.answer,
+      },
+    }));
+
+  const questions = cityName
+    ? [...customFormatted, ...cityQuestions]
+    : genericQuestions;
 
   const faqData = {
     "@context": "https://schema.org",

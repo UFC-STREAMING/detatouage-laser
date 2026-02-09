@@ -1,0 +1,52 @@
+{
+  "slug": "saint-medard-en-jalles",
+  "cityName": "Saint-Médard-en-Jalles",
+  "businessName": "Dr Minvielle Mélina - Médecin Esthétique",
+  "businesses": [
+    {
+      "name": "Dr Minvielle Mélina - Médecin Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "81 Av. Montaigne",
+      "rating": 5,
+      "reviewCount": 79
+    },
+    {
+      "name": "Médecine régénérative et réparatrice. Laser esthétique et médical. Dr COUVET Sophie.",
+      "category": "Médecin",
+      "address": "26 Rue Claude Bernard",
+      "rating": 4.9,
+      "reviewCount": 146
+    },
+    {
+      "name": "Pepi'tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "36 Av. Montaigne",
+      "rating": 4.9,
+      "reviewCount": 206
+    },
+    {
+      "name": "JFG CLINIC ST MEDARD EN JALLES",
+      "category": "Boutique de santé et beauté",
+      "address": "36Bis Av. Montaigne",
+      "rating": 5,
+      "reviewCount": 32
+    },
+    {
+      "name": "NATACHA DERMO EXPERT",
+      "category": "Clinique de maquillage permanent",
+      "address": "99 Av. Montesquieu",
+      "rating": 5,
+      "reviewCount": 33
+    },
+    {
+      "name": "les piercings de lylo",
+      "category": "Salon de piercing",
+      "address": "36 Av. Montaigne",
+      "rating": 5,
+      "reviewCount": 285
+    }
+  ],
+  "description": "Dr Minvielle Mélina - Médecin Esthétique fait partie des centres de détatouage laser à Saint-Médard-en-Jalles. Avec une note de 5/5 sur 79 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Médard-en-Jalles.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:27:46.034Z"
+}

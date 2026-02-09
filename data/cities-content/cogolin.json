@@ -1,0 +1,40 @@
+{
+  "slug": "cogolin",
+  "cityName": "Cogolin",
+  "businessName": "Guilty Innocent tatouage piercing",
+  "businesses": [
+    {
+      "name": "Guilty Innocent tatouage piercing",
+      "category": "Tatoueur",
+      "address": "41 Rue Carnot, 83310 Cogolin",
+      "rating": 4.9,
+      "reviewCount": 117
+    },
+    {
+      "name": "O ABYSSES Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "3 Av. Sigismond Coulet, 83310 Cogolin",
+      "rating": 5,
+      "reviewCount": 45
+    },
+    {
+      "name": "L'atelier de Dermo Esthétique",
+      "category": "Institut de beauté",
+      "address": "ste ang, quai de la galiote, marines de cogolin, 83310 Cogolin",
+      "rating": 4.8,
+      "reviewCount": 12
+    }
+  ],
+  "description": "Guilty Innocent tatouage piercing fait partie des centres de détatouage laser à Cogolin. Avec une note de 4.9/5 sur 117 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Cogolin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:26:03.082Z"
+}

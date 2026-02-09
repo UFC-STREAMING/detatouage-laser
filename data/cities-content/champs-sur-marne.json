@@ -1,0 +1,44 @@
+{
+  "slug": "champs-sur-marne",
+  "cityName": "Champs-sur-Marne",
+  "businessName": "HDS ESTHÉTIQUE",
+  "businesses": [
+    {
+      "name": "HDS ESTHÉTIQUE",
+      "category": "Institut de beauté",
+      "address": "24 Rue de Paris, 77420 Champs-sur-Marne",
+      "rating": 4.5,
+      "reviewCount": 86
+    },
+    {
+      "name": "Centre d'Esthétique",
+      "category": "Institut de beauté",
+      "address": "4 Rue de Chelles, 77420 Champs-sur-Marne",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Cabinet CMA épilation haute fréquence",
+      "category": "Service d'épilation à l'électrolyse",
+      "address": "12 Rue des Bleuets, 77420 Champs-sur-Marne",
+      "rating": 5,
+      "reviewCount": 15
+    }
+  ],
+  "description": "HDS ESTHÉTIQUE fait partie des centres de détatouage laser à Champs-sur-Marne. Avec une note de 4.5/5 sur 86 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Champs-sur-Marne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Qui est autorisé à réaliser un détatouage ?",
+      "answer": "Vous savez maintenant que seul un médecin peut pratiquer le détatouage au laser. Bien choisir le lieu où vous allez suivre votre traitement laser est très important. Vous devez réaliser vos séances de détatouage dans un centre médical ou esthétique autorisé à réaliser le détatouage laser."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:34:57.421Z"
+}

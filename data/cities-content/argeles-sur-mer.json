@@ -1,0 +1,65 @@
+{
+  "slug": "argeles-sur-mer",
+  "cityName": "Argelès-sur-Mer",
+  "businessName": "à l'étage tattoo",
+  "businesses": [
+    {
+      "name": "à l'étage tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "42 All. Jules Aroles, 66700 Argelès-sur-Mer",
+      "rating": 4.7,
+      "reviewCount": 308
+    },
+    {
+      "name": "Crazy tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "10 All. Jules Aroles, 66700 Argelès-sur-Mer",
+      "rating": 3.3,
+      "reviewCount": 598
+    },
+    {
+      "name": "Artisencre.tattoo",
+      "category": "Tatoueur",
+      "address": "20 Rte Nationale, 66700 Argelès-sur-Mer",
+      "rating": 5,
+      "reviewCount": 114
+    },
+    {
+      "name": "Centre Maderma | Épilation Laser & Soins Esthétiques | Argelès-sur-mer",
+      "category": "Centre d'épilation laser",
+      "address": "3 Rue des Roitelets, 66700 Argelès-sur-Mer",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "Le point d encrage de Graalatelier",
+      "category": "Tatoueur",
+      "address": "Place Du Nouveau Monde, 66700 Argelès-sur-Mer",
+      "rating": 5,
+      "reviewCount": 35
+    },
+    {
+      "name": "Art therapyPropose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "57 Chem. de Palau, 66700 Argelès-sur-Mer",
+      "rating": 5,
+      "reviewCount": 47
+    }
+  ],
+  "description": "à l'étage tattoo fait partie des centres de détatouage laser à Argelès-sur-Mer. Avec une note de 4.7/5 sur 308 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Argelès-sur-Mer.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:42:04.225Z"
+}

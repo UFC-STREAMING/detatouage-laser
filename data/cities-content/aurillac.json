@@ -1,0 +1,44 @@
+{
+  "slug": "aurillac",
+  "cityName": "Aurillac",
+  "businessName": "LaserOstop Aurillac",
+  "businesses": [
+    {
+      "name": "LaserOstop Aurillac",
+      "category": "Clinique spécialisée",
+      "address": "11 Rue Marie Maurel, 15000 Aurillac",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "Institut Flaubert",
+      "category": "Centre d'épilation laser",
+      "address": "Centre Flaubert, 83 bis Av. Charles de Gaulle, 15000 Aurillac",
+      "rating": 4.9,
+      "reviewCount": 8
+    },
+    {
+      "name": "Centre Lasers Dermatologique de Haute Auvergne",
+      "category": "Dermatologue",
+      "address": "22 Cr Monthyon, 15000 Aurillac",
+      "rating": 2.2,
+      "reviewCount": 9
+    }
+  ],
+  "description": "LaserOstop Aurillac fait partie des centres de détatouage laser à Aurillac. Avec une note de 5/5 sur 40 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Aurillac.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le tarif d'une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage :Moins de 5 cm2 : 100 euros.5 à 15 cm2 : 150 euros.16 à 50 cm2 : 200 euros.51 à 100 cm2 : 250 euros.101 à 250 cm2 : 300 euros.251 à 500 cm2 : 400 euros."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:37:01.942Z"
+}

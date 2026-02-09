@@ -1,0 +1,31 @@
+{
+  "slug": "bondy",
+  "cityName": "Bondy",
+  "businessName": "CENTRE DE SOIN DERMO COSMETIQUE",
+  "businesses": [
+    {
+      "name": "CENTRE DE SOIN DERMO COSMETIQUE",
+      "category": "Institut de beauté",
+      "address": "3 Rue Marcel Paul, 93140 Bondy",
+      "rating": 4.3,
+      "reviewCount": 29
+    },
+    {
+      "name": "LABEL CLINIC - MEDECINE ESTHETIQUE & LASER",
+      "category": "Centre d'épilation laser",
+      "address": "4 Av. Henri Varagnat, 93140 Bondy",
+      "rating": 5,
+      "reviewCount": 29
+    },
+    {
+      "name": "Docteur Perrod Aurélien - Injection acide hyaluronique Fils tenseur & greffe capillaire",
+      "category": "Service de détatouage",
+      "address": "21 bis Av. Paul Langevin, 93600 Aulnay-sous-Bois",
+      "rating": 4.8,
+      "reviewCount": 151
+    }
+  ],
+  "description": "CENTRE DE SOIN DERMO COSMETIQUE fait partie des centres de détatouage laser à Bondy. Avec une note de 4.3/5 sur 29 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Bondy.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:16:28.218Z"
+}

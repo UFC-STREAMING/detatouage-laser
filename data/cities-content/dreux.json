@@ -1,0 +1,44 @@
+{
+  "slug": "dreux",
+  "cityName": "Dreux",
+  "businessName": "Même pas mal studio",
+  "businesses": [
+    {
+      "name": "Même pas mal studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "41 Gd Rue Maurice Viollette",
+      "rating": 4.7,
+      "reviewCount": 476
+    },
+    {
+      "name": "Cabinet Médiskin",
+      "category": "Centre d'épilation laser",
+      "address": "12 Esp. Flandres-Dunkerque",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Point Laser Anti Tabac",
+      "category": "Réflexologue",
+      "address": "2 Rue de Châteaudun",
+      "rating": 5,
+      "reviewCount": 18
+    }
+  ],
+  "description": "Même pas mal studio fait partie des centres de détatouage laser à Dreux. Avec une note de 4.7/5 sur 476 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Dreux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:29:15.646Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "villeneuve-loubet",
+  "cityName": "Villeneuve-Loubet",
+  "businessName": "Holist’ink tattoo therapie",
+  "businesses": [
+    {
+      "name": "Holist’ink tattoo therapie",
+      "category": "Tatoueur",
+      "address": "7 Av. de la Liberté, 06270 Villeneuve-Loubet",
+      "rating": 5,
+      "reviewCount": 24
+    },
+    {
+      "name": "Face Control",
+      "category": "Clinique de maquillage permanent",
+      "address": "2732 RN 7, 06270 Villeneuve-Loubet",
+      "rating": 4.9,
+      "reviewCount": 76
+    },
+    {
+      "name": "OcéaniCor - Studio Tatouage Privé",
+      "category": "Tatoueur",
+      "address": "1301 Av. de la Batterie, 06270 Villeneuve-Loubet",
+      "rating": 5,
+      "reviewCount": 418
+    }
+  ],
+  "description": "Holist’ink tattoo therapie fait partie des centres de détatouage laser à Villeneuve-Loubet. Avec une note de 5/5 sur 24 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeneuve-Loubet.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte un détatouage sourcil ?",
+      "answer": "Une séance de détatouage laser pour les sourcils coûte entre 120 et 150 euros, en fonction du centre et de l'équipement utilisé. En moyenne, deux à 8 séances sont nécessaires pour obtenir un résultat satisfaisant, le centre propose des forfaits 3 séances souscrites + 1 séance offerte.15 nov. 2024"
+    },
+    {
+      "question": "Combien de temps dure la Dermopigmentation ?",
+      "answer": "La dermopigmentation est un maquillage semi-permanent. Il a une durée d'environ 3 à 4 ans . Il est toutefois possible de faire des retouches aux années afin de le faire durer plus longtemps."
+    },
+    {
+      "question": "Est-ce bien de se faire tatouer les sourcils ?",
+      "answer": "Est-ce une bonne idée de se faire tatouer les sourcils ? Le tatouage des sourcils peut être une excellente solution pour ceux qui souhaitent améliorer l'apparence de leurs sourcils de manière semi-permanente. Il offre une solution à long terme pour corriger les sourcils clairsemés, déséquilibrés ou peu définis.2 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:59:12.163Z"
+}

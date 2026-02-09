@@ -1,0 +1,65 @@
+{
+  "slug": "sainte-genevieve-des-bois",
+  "cityName": "Sainte-Geneviève-des-Bois",
+  "businessName": "Centre d'épilation laser et de cryolipolyse 91 - Glow Body Prestige",
+  "businesses": [
+    {
+      "name": "Centre d'épilation laser et de cryolipolyse 91 - Glow Body Prestige",
+      "category": "Centre d'épilation laser",
+      "address": "133 Av. Gabriel Péri, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 4.8,
+      "reviewCount": 40
+    },
+    {
+      "name": "Shop 221 Tattoo Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "221-223 Av. Gabriel Péri, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 4.4,
+      "reviewCount": 194
+    },
+    {
+      "name": "Dyfadermo - Maquillage Permanent & Semi Permanent - Epilation définitive - 91 EssonnePropose : Détatouage",
+      "category": "Institut de beauté",
+      "address": "83 Av. Gabriel Péri, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 4.9,
+      "reviewCount": 170
+    },
+    {
+      "name": "Cabinet de Tricopigmentation Paris & Essonne - Perfection PigmentPropose : Tatouage capillaire",
+      "category": "Service de remplacement capillaire",
+      "address": "Rue Simone Signoret, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 5,
+      "reviewCount": 99
+    },
+    {
+      "name": "Reck Line Tatoo",
+      "category": "Tatoueur",
+      "address": "199 Av. du Président Salvador Allende, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 4.8,
+      "reviewCount": 83
+    },
+    {
+      "name": "Eden&SensPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "197 Av. du Président Salvador Allende, 91700 Sainte-Geneviève-des-Bois",
+      "rating": 5,
+      "reviewCount": 63
+    }
+  ],
+  "description": "Centre d'épilation laser et de cryolipolyse 91 - Glow Body Prestige fait partie des centres de détatouage laser à Sainte-Geneviève-des-Bois. Avec une note de 4.8/5 sur 40 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sainte-Geneviève-des-Bois.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Qui peut retirer un tatouage ?",
+      "answer": "En résumé, le détatouage est un acte médical qui doit être réalisé par un professionnel qualifié. Les médecins qui pratiquent le détatouage doivent avoir suivi une formation spécialisée en dermatologie ou en médecine esthétique.13 févr. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:25:58.608Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "allauch",
+  "cityName": "Allauch",
+  "businessName": "L’instant laser",
+  "businesses": [
+    {
+      "name": "L’instant laser",
+      "category": "Centre d'épilation laser",
+      "address": "355 Av. du Canton Vert, 13190 Allauch",
+      "rating": 5,
+      "reviewCount": 32
+    },
+    {
+      "name": "Infinyskin",
+      "category": "Centre d'épilation laser",
+      "address": "12 Lot. les Hauts des Gonagues Lotissement 2, 13190 Allauch",
+      "rating": 5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Stefy Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Rue Fernand Rambert, 13190 Allauch",
+      "rating": 5,
+      "reviewCount": 54
+    },
+    {
+      "name": "Théa Derma",
+      "category": "Centre d'épilation laser",
+      "address": "32 Av. Paul Sirvent, 13380 Plan-de-Cuques",
+      "rating": 5,
+      "reviewCount": 61
+    },
+    {
+      "name": "Majin Blade PiercingPropose : Tatouages, piercings",
+      "category": "Salon de piercing",
+      "address": "7 Rue Fernand Rambert, 13190 Allauch",
+      "rating": 5,
+      "reviewCount": 98
+    },
+    {
+      "name": "L'instant Sourcils by CatherinePropose : Détatouage sourcils et lèvres",
+      "category": "Institut de beauté",
+      "address": "7 Rue des Moulins, 13190 Allauch",
+      "rating": 4.9,
+      "reviewCount": 128
+    }
+  ],
+  "description": "L’instant laser fait partie des centres de détatouage laser à Allauch. Avec une note de 5/5 sur 32 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Allauch.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    },
+    {
+      "question": "Quel est le tarif d'un détatouage à Marseille ?",
+      "answer": "Détatouage Marseille Le coût d'un traitement de détatouage à Marseille dépend de plusieurs facteurs, tels que la taille et la complexité du tatouage. En général, le coût d'un traitement de détatouage peut varier de 90€ à plus de 290€ par séance.19 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:46:16.746Z"
+}

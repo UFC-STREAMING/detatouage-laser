@@ -1,0 +1,31 @@
+{
+  "slug": "toul",
+  "cityName": "Toul",
+  "businessName": "Nouveau Chapitre",
+  "businesses": [
+    {
+      "name": "Nouveau Chapitre",
+      "category": "Centre d'épilation laser",
+      "address": "12 Pl. du Marché aux Poissons, 54200 Toul",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "EmMa Studio / Epilation laser, minceur et soins anti-âge visage et corps / Toul",
+      "category": "Centre d'épilation laser",
+      "address": "minceur et soins anti-%C3%A2ge visage et corps %2F Toul, 4 Rue Béranger, 54200 Toul",
+      "rating": 5,
+      "reviewCount": 7
+    },
+    {
+      "name": "Institut de beauté Toul | Dermo'Line EsthétiquePropose : Détatouage sans laser",
+      "category": "Institut de beauté",
+      "address": "31 Rue Jeanne d'Arc, 54200 Toul",
+      "rating": 5,
+      "reviewCount": 39
+    }
+  ],
+  "description": "Nouveau Chapitre fait partie des centres de détatouage laser à Toul. Avec une note de 5/5 sur 39 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Toul.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:06:15.186Z"
+}

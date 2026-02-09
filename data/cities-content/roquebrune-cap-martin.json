@@ -1,0 +1,44 @@
+{
+  "slug": "roquebrune-cap-martin",
+  "cityName": "Roquebrune-Cap-Martin",
+  "businessName": "A l'encre de Virginie",
+  "businesses": [
+    {
+      "name": "A l'encre de Virginie",
+      "category": "Service de détatouage",
+      "address": "220 Av. Aristide Briand",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "L'ATELI3R TATTOO • PIERCING • COOKIES • CAFE",
+      "category": "Salon de tatouage et piercing",
+      "address": "224 Av. Aristide Briand",
+      "rating": 5,
+      "reviewCount": 396
+    },
+    {
+      "name": "Beauty By Stef",
+      "category": "Institut de beauté",
+      "address": "210 Av. Pasteur",
+      "rating": 5,
+      "reviewCount": 101
+    }
+  ],
+  "description": "A l'encre de Virginie fait partie des centres de détatouage laser à Roquebrune-Cap-Martin. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Roquebrune-Cap-Martin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:29:25.084Z"
+}

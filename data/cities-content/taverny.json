@@ -1,0 +1,52 @@
+{
+  "slug": "taverny",
+  "cityName": "Taverny",
+  "businessName": "Dermographe Val d'Oise, Dermopigmentation, Tatouage artistique, STUDIO V",
+  "businesses": [
+    {
+      "name": "Dermographe Val d'Oise, Dermopigmentation, Tatouage artistique, STUDIO V",
+      "category": "Clinique de maquillage permanent",
+      "address": "Dermopigmentation, Tatouage artistique, STUDIO V, 28 Av. du Général Leclerc, 95250 Beauchamp",
+      "rating": 5,
+      "reviewCount": 124
+    },
+    {
+      "name": "LM DERMO maquillage permanent, détatouage sans laser, beauté du regard, dermopigmentation corrective",
+      "category": "Institut de beauté",
+      "address": "détatouage sans laser, beauté du regard, dermopigmentation corrective, 33 Grande Rue, 95550 Bessancourt",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "L'atelier d'Elie",
+      "category": "Institut de beauté",
+      "address": "4 Pl. de la Gare, 95150 Taverny",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Aime Corbeau ︎- Salon de tatouage sur rendez-vous (projet perso, recouvrement, doigt, etc.)",
+      "category": "Salon de tatouage et piercing",
+      "address": "recouvrement, doigt, etc.), 1 Bis Chem. de l'%C3%89caille, 95740 Frépillon",
+      "rating": 5,
+      "reviewCount": 84
+    },
+    {
+      "name": "Centre Laser Clinique Claude Bernard",
+      "category": "Centre d'épilation laser",
+      "address": "9 Av. Louis Armand, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 207
+    },
+    {
+      "name": "En un Clin d'Oeil 95",
+      "category": "Institut de beauté",
+      "address": "201 Rue d'Herblay, 95150 Taverny",
+      "rating": 5,
+      "reviewCount": 123
+    }
+  ],
+  "description": "Dermographe Val d'Oise, Dermopigmentation, Tatouage artistique, STUDIO V fait partie des centres de détatouage laser à Taverny. Avec une note de 5/5 sur 124 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Taverny.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:34:44.314Z"
+}

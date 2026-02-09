@@ -1,0 +1,65 @@
+{
+  "slug": "saint-herblain",
+  "cityName": "Saint-Herblain",
+  "businessName": "Art’cad tatouage & piercing",
+  "businesses": [
+    {
+      "name": "Art’cad tatouage & piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Pl. de la Paix, 44800 Saint-Herblain",
+      "rating": 5,
+      "reviewCount": 247
+    },
+    {
+      "name": "Lazeo Saint Herblain",
+      "category": "Centre d'épilation laser",
+      "address": "37 Bd Charles-Gautier, 44800 Saint-Herblain",
+      "rating": 4.3,
+      "reviewCount": 136
+    },
+    {
+      "name": "Laser Care Saint-herblain",
+      "category": "Centre d'épilation laser",
+      "address": "225 Bd du Massacre, 44100 Nantes",
+      "rating": 5,
+      "reviewCount": 39
+    },
+    {
+      "name": "Ray studios Nantes - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "39 Bd Gabriel Guist'Hau, 44000 Nantes",
+      "rating": 4.9,
+      "reviewCount": 144
+    },
+    {
+      "name": "RADICAL EPIL Saint Herblain - Épilation laser Nantes",
+      "category": "Centre d'épilation laser",
+      "address": "45 Bd Fran%C3%A7ois Mitterrand, 44800 Saint-Herblain",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "institut de beaute Esthetique de l'Atlantique",
+      "category": "Centre d'épilation laser",
+      "address": "Av. Claude Bernard Polyclinique de l'Atlantique, 44819 Saint-Herblain",
+      "rating": 3.3,
+      "reviewCount": 4
+    }
+  ],
+  "description": "Art’cad tatouage & piercing fait partie des centres de détatouage laser à Saint-Herblain. Avec une note de 5/5 sur 247 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Herblain.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Quel est le coût moyen d'un détatouage ?",
+      "answer": "Le coût moyen national* d'un détatouage est de 353 $, mais peut varier entre 272 $ et 659 $. Ce coût peut varier en fonction de plusieurs facteurs, notamment : la taille du tatouage et la profondeur de l'encre."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:16:17.889Z"
+}

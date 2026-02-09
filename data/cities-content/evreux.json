@@ -1,0 +1,52 @@
+{
+  "slug": "evreux",
+  "cityName": "Évreux",
+  "businessName": "Dr Fraissinet Béatrice dermatologue, médecine esthétique et laser",
+  "businesses": [
+    {
+      "name": "Dr Fraissinet Béatrice dermatologue, médecine esthétique et laser",
+      "category": "Centre d'épilation laser",
+      "address": "médecine esthétique et laser, 425 Rue Clément Ader B%C3%A2timent C, 27000 %C3%89vreux",
+      "rating": 4.4,
+      "reviewCount": 271
+    },
+    {
+      "name": "Spectral Body Art",
+      "category": "Salon de tatouage et piercing",
+      "address": "58 Rue Victor Hugo, 27000 %C3%89vreux",
+      "rating": 4.9,
+      "reviewCount": 269
+    },
+    {
+      "name": "Lazeo Evreux",
+      "category": "Centre d'épilation laser",
+      "address": "53 Rue Victor Hugo, 27000 %C3%89vreux",
+      "rating": 4.8,
+      "reviewCount": 483
+    },
+    {
+      "name": "LJ Dermographie",
+      "category": "Clinique de maquillage permanent",
+      "address": "19 Rue du Dr Roux, 27000 %C3%89vreux",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Eckyl And Jeckyl",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue Saint-Pierre, 27000 %C3%89vreux",
+      "rating": 4.8,
+      "reviewCount": 344
+    },
+    {
+      "name": "ELINOR INK",
+      "category": "Tatoueur",
+      "address": "passage de la harpe, 45 Rue de la Harpe, 27000 %C3%89vreux",
+      "rating": 4.9,
+      "reviewCount": 65
+    }
+  ],
+  "description": "Dr Fraissinet Béatrice dermatologue, médecine esthétique et laser fait partie des centres de détatouage laser à Évreux. Avec une note de 4.4/5 sur 271 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Évreux.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:16:45.889Z"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "saint-barthelemy",
+  "cityName": "Saint-Barthélemy",
+  "businessName": "Carma esthetic",
+  "businesses": [
+    {
+      "name": "Carma esthetic",
+      "category": "Centre d'épilation laser",
+      "address": "97133, Saint-Barthélemy",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Dermka Clinik JoliettePropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "83 Rue St Barthélémy S, Joliette, QC J6E 5N6, Canada",
+      "rating": 4.8,
+      "reviewCount": 38
+    }
+  ],
+  "description": "Carma esthetic fait partie des centres de détatouage laser à Saint-Barthélemy. Avec une note de 5/5 sur 1 avis, les patients confirment la qualité des traitements proposés. 2 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Barthélemy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Combien coûte une séance de détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:41:27.755Z"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "orange",
+  "cityName": "Orange",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Orange grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Orange.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment enlever un tatouage orange ?",
+      "answer": "Lasers Nd:YAG : Ces lasers sont particulièrement efficaces pour l’élimination des tatouages \\u200b\\u200brouges et orangés. Ils fonctionnent à différentes longueurs d’onde afin de cibler divers pigments. Lasers rubis : Idéaux pour l’élimination des tatouages \\u200b\\u200bverts et bleus, les lasers rubis utilisent une longueur d’onde spécifique bien absorbée par ces couleurs."
+    },
+    {
+      "question": "Est-il possible de détatouer des sourcils orange ?",
+      "answer": "Lors d'un détatouage d'un sourcil contenant des pigments de couleur rouge, orange ou jaune, il peut apparaitre un virage pigmentaire. C'est à dire que le tatouage rouge, orange ou jaune vire au noir/gris. Il s'agit d'une réduction de l'oxyde de fer contenue dans les pigments."
+    },
+    {
+      "question": "Pourquoi mon tatouage devient-il orange ?",
+      "answer": "Plusieurs facteurs peuvent influencer l'intensité du changement de couleur d'un tatouage lors de l'oxydation. La concentration d'oxyde de fer dans l'encre, la profondeur d'implantation du pigment dans la peau et le type de peau de la personne jouent tous un rôle dans l'intensité de la teinte orangée."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:32:33.846Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "rodez",
+  "cityName": "Rodez",
+  "businessName": "DEPIL EVER RODEZ l Epilation Laser et détatouage",
+  "businesses": [
+    {
+      "name": "DEPIL EVER RODEZ l Epilation Laser et détatouage",
+      "category": "Service de détatouage",
+      "address": "Res. Acropolis, 3 Av. de Bourran, 12000 Rodez",
+      "rating": 4.7,
+      "reviewCount": 104
+    },
+    {
+      "name": "Centre Laser Médical ( épilation définitive laser , vasculaire)",
+      "category": "Centre d'épilation laser",
+      "address": "vasculaire), 3 Rue Combarel, 12000 Rodez",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Centre laser anti tabac RODEZ (12) - LaserOstop : Arrêtez de fumer laser",
+      "category": "Centre médical",
+      "address": "3 Pl. Clemenceau, 12000 Rodez",
+      "rating": 4.8,
+      "reviewCount": 58
+    },
+    {
+      "name": "Centre Expertise Esthétique by Messalyne",
+      "category": "Institut de beauté",
+      "address": "47 Rue de Bonald, 12000 Rodez",
+      "rating": 4.7,
+      "reviewCount": 39
+    },
+    {
+      "name": "Maison Laser",
+      "category": "Centre d'épilation laser",
+      "address": "11 Av. Jean Monnet, 12000 Rodez",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "Studio Esthétique LaurencePropose : Tatouage cheveux",
+      "category": "Institut de beauté",
+      "address": "72 Rue du 11 Novembre, 12000 Rodez",
+      "rating": 5,
+      "reviewCount": 39
+    }
+  ],
+  "description": "DEPIL EVER RODEZ l Epilation Laser et détatouage fait partie des centres de détatouage laser à Rodez. Avec une note de 4.7/5 sur 104 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rodez.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:40:47.776Z"
+}

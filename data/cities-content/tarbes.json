@@ -1,0 +1,65 @@
+{
+  "slug": "tarbes",
+  "cityName": "Tarbes",
+  "businessName": "Centre laser CtrlZ - Tarbes",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Tarbes",
+      "category": "Service de détatouage",
+      "address": "1 Bd du 8 Mai 1945, 65000 Tarbes",
+      "rating": 5,
+      "reviewCount": 93
+    },
+    {
+      "name": "Lazeo Tarbes",
+      "category": "Centre d'épilation laser",
+      "address": "60 Rue Maréchal Foch, 65000 Tarbes",
+      "rating": 4.9,
+      "reviewCount": 160
+    },
+    {
+      "name": "L'Élite - Épilation Laser - Maquillage semi-permanent - Détatouage - Hydrofacial - Institut privé à Tarbes",
+      "category": "Service de détatouage",
+      "address": "5 Rue Ramond, 65000 Tarbes",
+      "rating": 5,
+      "reviewCount": 58
+    },
+    {
+      "name": "Pôle esthétique des Pyrénées Pep's",
+      "category": "Centre d'épilation laser",
+      "address": "18b Bd du Général de Lattre de Tassigny, 65000 Tarbes",
+      "rating": 4.8,
+      "reviewCount": 8
+    },
+    {
+      "name": "DermOphelie infirmière spécialisée en maquillage permanent",
+      "category": "Clinique de maquillage permanent",
+      "address": "4 Imp. Ducos, 65000 Tarbes",
+      "rating": 5,
+      "reviewCount": 110
+    },
+    {
+      "name": "SKINTECH Tarbes Épilation définitive I Électrolyse I Peeling I Anti-âge I Presso I Minceur RadiofréquencePropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "108 Rue du Magasin aux Tabacs 3 ème étage, 65000 Tarbes",
+      "rating": 4.7,
+      "reviewCount": 129
+    }
+  ],
+  "description": "Centre laser CtrlZ - Tarbes fait partie des centres de détatouage laser à Tarbes. Avec une note de 5/5 sur 93 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Tarbes.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage est efficace ?",
+      "answer": "La réponse est OUI, le détatouage au laser est une méthode reconnue pour éliminer les tatouages de manière sûre et efficace.27 déc. 2023"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:19:33.415Z"
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "lunel",
+  "cityName": "Lunel",
+  "businessName": "Mad Needles Tatouages/piercing",
+  "businesses": [
+    {
+      "name": "Mad Needles Tatouages/piercing",
+      "category": "Tatoueur",
+      "address": "45 Bd de Strasbourg, 34400 Lunel",
+      "rating": 4.9,
+      "reviewCount": 115
+    },
+    {
+      "name": "Le Studio de Pauline - Institut de beauté Massage & Soin visage - Lunel",
+      "category": "Institut de beauté",
+      "address": "110 Bd Lafayette, 34400 Lunel",
+      "rating": 5,
+      "reviewCount": 58
+    },
+    {
+      "name": "Derma Pigment",
+      "category": "Service de remplacement capillaire",
+      "address": "339 Av. du Roucagnier, 34400 Lunel-Viel",
+      "rating": 4.9,
+      "reviewCount": 56
+    },
+    {
+      "name": "L'Atelier de Caro",
+      "category": "Institut de beauté",
+      "address": "107 Rue Olivier de Serres, 34400 Lunel",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "L'eclat Des Sens",
+      "category": "Institut de beauté",
+      "address": "26 Rue Marceau, 34400 Lunel",
+      "rating": 5,
+      "reviewCount": 105
+    },
+    {
+      "name": "Voodoo by Natura Esthétique",
+      "category": "Institut de beauté",
+      "address": "132 Pl. de la République, 34400 Lunel",
+      "rating": 4.5,
+      "reviewCount": 43
+    }
+  ],
+  "description": "Mad Needles Tatouages/piercing fait partie des centres de détatouage laser à Lunel. Avec une note de 4.9/5 sur 115 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Lunel.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:36:35.952Z"
+}

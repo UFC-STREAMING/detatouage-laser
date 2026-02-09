@@ -1,0 +1,31 @@
+{
+  "slug": "dzaoudzi",
+  "cityName": "Dzaoudzi",
+  "businessName": "Balou Jungle Art’s Tattoo",
+  "businesses": [
+    {
+      "name": "Balou Jungle Art’s Tattoo",
+      "category": "Tatoueur",
+      "address": "10 Rue Mouzdalifa, Labattoir 97615, Mayotte",
+      "rating": 5,
+      "reviewCount": 6
+    },
+    {
+      "name": "Acrinternationallinearttattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "Mayotte",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Centre Laser Mayotte - Épilation Laser & Médecine Esthétique",
+      "category": "Centre d'épilation laser",
+      "address": "Mamoudzou, Mayotte",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Balou Jungle Art’s Tattoo fait partie des centres de détatouage laser à Dzaoudzi. Avec une note de 5/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Dzaoudzi.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:58:28.986Z"
+}

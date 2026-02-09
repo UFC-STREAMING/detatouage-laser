@@ -1,0 +1,52 @@
+{
+  "slug": "sorgues",
+  "cityName": "Sorgues",
+  "businessName": "cabinet esthétique et laser Chrysalide",
+  "businesses": [
+    {
+      "name": "cabinet esthétique et laser Chrysalide",
+      "category": "Médecin",
+      "address": "125 Rue de la Coquille, 84700 Sorgues",
+      "rating": 5,
+      "reviewCount": 2
+    },
+    {
+      "name": "Elie TattooPropose : Soins après tatouage",
+      "category": "Tatoueur",
+      "address": "84700 Sorgues",
+      "rating": 5,
+      "reviewCount": 288
+    },
+    {
+      "name": "Divine Noirceur Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "Av. d'Avignon, 84700 Sorgues",
+      "rating": 5,
+      "reviewCount": 58
+    },
+    {
+      "name": "DERMETICALPropose : Épilation laser",
+      "category": "Spa médical",
+      "address": "Saphir - Batiment B, 477 Av. Jules Verne Immeuble le, 84700 Sorgues",
+      "rating": 4.6,
+      "reviewCount": 7
+    },
+    {
+      "name": "BlackSky Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "Av. d'Avignon, 84700 Sorgues",
+      "rating": 5,
+      "reviewCount": 37
+    },
+    {
+      "name": "JM Piercing",
+      "category": "Salon de piercing",
+      "address": "92 Rue des Remparts, 84700 Sorgues",
+      "rating": 4.9,
+      "reviewCount": 485
+    }
+  ],
+  "description": "cabinet esthétique et laser Chrysalide fait partie des centres de détatouage laser à Sorgues. Avec une note de 5/5 sur 2 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sorgues.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:53:09.711Z"
+}

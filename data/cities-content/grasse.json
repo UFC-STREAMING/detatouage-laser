@@ -1,0 +1,65 @@
+{
+  "slug": "grasse",
+  "cityName": "Grasse",
+  "businessName": "Dermélys - Grasse",
+  "businesses": [
+    {
+      "name": "Dermélys - Grasse",
+      "category": "Centre d'épilation laser",
+      "address": "15 Bd du Jeu de Ballon, 06130 Grasse",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Maquillage permanent - Audrey Verrando - Grasse",
+      "category": "Clinique de maquillage permanent",
+      "address": "67 Av. de la Libération, 06130 Grasse",
+      "rating": 5,
+      "reviewCount": 38
+    },
+    {
+      "name": "Squad Tattoo Family",
+      "category": "Salon de tatouage et piercing",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 471
+    },
+    {
+      "name": "PerfectSkin - Skin Expert",
+      "category": "Esthéticien",
+      "address": "67 Av. de la Libération, 06130 Grasse",
+      "rating": 4.8,
+      "reviewCount": 129
+    },
+    {
+      "name": "13 By HC - Crème Naturelle Post Tatouage",
+      "category": "Entreprise de cosmétique",
+      "address": "4 Trav. Dupont, 06130 Grasse",
+      "rating": 5,
+      "reviewCount": 50
+    },
+    {
+      "name": "Harley Tattoo 06(Jenn'ink)Propose : Finition de tatouage",
+      "category": "Tatoueur",
+      "address": "98 Rte de Pégomas Espace Perdigon, 06130 Grasse",
+      "rating": 5,
+      "reviewCount": 119
+    }
+  ],
+  "description": "Dermélys - Grasse fait partie des centres de détatouage laser à Grasse. Avec une note de 5/5 sur 1 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Grasse.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix d'une séance de détatouage chez ML Esthetics varie selon la taille du tatouage : Moins de 5 cm2 : 100 euros. 5 à 15 cm2 : 150 euros. 16 à 50 cm2 : 200 euros."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:16:22.480Z"
+}

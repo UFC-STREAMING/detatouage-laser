@@ -1,0 +1,40 @@
+{
+  "slug": "saint-maurice",
+  "cityName": "Saint-Maurice",
+  "businessName": "Studio Luxae",
+  "businesses": [
+    {
+      "name": "Studio Luxae",
+      "category": "Service de détatouage",
+      "address": "Trois-Rivières, QC, Canada",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "Esthétique et laser SL",
+      "category": "Institut de beauté",
+      "address": "Trois-Rivières, QC, Canada",
+      "rating": 5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Studio Noctis Tattoo",
+      "category": "Tatoueur",
+      "address": "Shawinigan, QC, Canada",
+      "rating": 5,
+      "reviewCount": 17
+    }
+  ],
+  "description": "Studio Luxae fait partie des centres de détatouage laser à Saint-Maurice. Avec une note de 5/5 sur 27 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Maurice.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Combien coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:12:06.309Z"
+}

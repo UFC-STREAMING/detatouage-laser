@@ -1,0 +1,31 @@
+{
+  "slug": "la-valette-du-var",
+  "cityName": "La Valette-du-Var",
+  "businessName": "Laser 26 - La Valette-du-var I Epilation laser",
+  "businesses": [
+    {
+      "name": "Laser 26 - La Valette-du-var I Epilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "40 Av. Jacqueline Auriol, 83160 La Valette-du-Var",
+      "rating": 5,
+      "reviewCount": 46
+    },
+    {
+      "name": "Maman va râler - Art, Tatouage",
+      "category": "Tatoueur",
+      "address": "Tatouage, 31 Av. Doct Tremolières, 83160 La Valette-du-Var",
+      "rating": 4.7,
+      "reviewCount": 138
+    },
+    {
+      "name": "Inkoff - détatouage laser picoseconde Toulon",
+      "category": "Service de détatouage",
+      "address": "42 Rue Paul Lendrin, 83000 Toulon",
+      "rating": 4.9,
+      "reviewCount": 90
+    }
+  ],
+  "description": "Laser 26 - La Valette-du-var I Epilation laser fait partie des centres de détatouage laser à La Valette-du-Var. Avec une note de 5/5 sur 46 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à La Valette-du-Var.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:41:09.221Z"
+}

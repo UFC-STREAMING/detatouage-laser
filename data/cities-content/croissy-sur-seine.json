@@ -1,0 +1,44 @@
+{
+  "slug": "croissy-sur-seine",
+  "cityName": "Croissy-sur-Seine",
+  "businessName": "Rituels Beauté by C L'Atelier",
+  "businesses": [
+    {
+      "name": "Rituels Beauté by C L'Atelier",
+      "category": "Institut de beauté",
+      "address": "35 Bd Fernand Hostachy",
+      "rating": 4.8,
+      "reviewCount": 23
+    },
+    {
+      "name": "Kelly esthétique à domicile - Esthéticienne à domicile autour de Rueil-Malmaison",
+      "category": "Institut de beauté",
+      "address": "21 Rue Eugène Labiche",
+      "rating": 4.1,
+      "reviewCount": 47
+    },
+    {
+      "name": "Cabinet Dentaire Claude Monet | Drs Pauline & Florence Nguyen Van Duong, Dr Engelvin, Dr Hautefeuille",
+      "category": "Dentiste",
+      "address": "23 Rue Ernest Gouin",
+      "rating": 4.8,
+      "reviewCount": 185
+    }
+  ],
+  "description": "Rituels Beauté by C L'Atelier fait partie des centres de détatouage laser à Croissy-sur-Seine. Avec une note de 4.8/5 sur 23 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Croissy-sur-Seine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:37:20.510Z"
+}

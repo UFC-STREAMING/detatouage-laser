@@ -1,0 +1,65 @@
+{
+  "slug": "sin-le-noble",
+  "cityName": "Sin-le-Noble",
+  "businessName": "KZ Tattoo Photo - Kenza Zawoda",
+  "businesses": [
+    {
+      "name": "KZ Tattoo Photo - Kenza Zawoda",
+      "category": "Salon de tatouage et piercing",
+      "address": "97 Av. des Fusillés, 59450 Sin-le-Noble",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Dav'ink Tattoo",
+      "category": "Tatoueur",
+      "address": "11 Pl. Jean Jaurès, 59450 Sin-le-Noble",
+      "rating": 4.7,
+      "reviewCount": 35
+    },
+    {
+      "name": "West coast tatoo shop",
+      "category": "Tatoueur",
+      "address": "288 Av. Roger Salengro, 59450 Sin-le-Noble",
+      "rating": 5,
+      "reviewCount": 28
+    },
+    {
+      "name": "Pierc-ink Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "494 Rue Arthur Lamendin, 59450 Sin-le-Noble",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Nels Tattoo/Trans Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "84 Rue de la Cuve d'Or, 59500 Douai",
+      "rating": 4.7,
+      "reviewCount": 230
+    },
+    {
+      "name": "Inkskull Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "65 Rue Waldeck Rousseau, 59187 Dechy",
+      "rating": 5,
+      "reviewCount": 8
+    }
+  ],
+  "description": "KZ Tattoo Photo - Kenza Zawoda fait partie des centres de détatouage laser à Sin-le-Noble. Avec une note de 5/5 sur 3 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sin-le-Noble.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Que faut-il éviter après un détatouage  ?",
+      "answer": "Évitez tout contact avec des produits irritants, tels que les savons agressifs, les lotions médicamenteuses, les gommages, les huiles, les anesthésiants ou les crèmes antibactériennes. Évitez l'exposition directe au soleil et les cabines de bronzage. Appliquez une crème solaire avec un indice de protection de 30 ou plus et portez des vêtements protecteurs ou un pansement adhésif respirant sur le tatouage."
+    },
+    {
+      "question": "Comment enlever naturellement l'encre des tatouages ​​de la peau ?",
+      "answer": "Il est possible d'atténuer un tatouage naturellement, mais le résultat n'est pas garanti. Des méthodes comme l'exfoliation, le jus de citron, l'aloe vera et les gommages au sel peuvent contribuer à estomper l'encre au fil du temps. Les résultats varient et certaines techniques comportent des risques ; il convient donc d'être prudent et d'avoir des attentes réalistes."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:04:21.418Z"
+}

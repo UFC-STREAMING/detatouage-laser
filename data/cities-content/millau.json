@@ -1,0 +1,65 @@
+{
+  "slug": "millau",
+  "cityName": "Millau",
+  "businessName": "Lyméa Millau (Maquillage permanent, Tatouage, Piercing)",
+  "businesses": [
+    {
+      "name": "Lyméa Millau (Maquillage permanent, Tatouage, Piercing)",
+      "category": "Salon de tatouage et piercing",
+      "address": "Tatouage, Piercing), 11 Rue du Mandarous, 12100 Millau",
+      "rating": 5,
+      "reviewCount": 45
+    },
+    {
+      "name": "Millau Laser",
+      "category": "Centre d'épilation laser",
+      "address": "Maison de santé de la Capelle, 4 Pl. Francis Laborde Mitterrand, 12100 Millau",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Tatoueur Millau La Tatouagerie",
+      "category": "Tatoueur",
+      "address": "25 Bd de l'Ayrolle, 12100 Millau",
+      "rating": 4.9,
+      "reviewCount": 177
+    },
+    {
+      "name": "Marta art tattoo # Piercing #détatouages",
+      "category": "Tatoueur",
+      "address": "2 Rue Ferrer, 12100 Millau",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "Body Laz",
+      "category": "Centre d'épilation laser",
+      "address": "13 Bd de l'Ayrolle, 12100 Millau",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Tâches d’Encre",
+      "category": "Tatoueur",
+      "address": "43 Av. Jean Jaurès, 12100 Millau",
+      "rating": 5,
+      "reviewCount": 1
+    }
+  ],
+  "description": "Lyméa Millau (Maquillage permanent, Tatouage, Piercing) fait partie des centres de détatouage laser à Millau. Avec une note de 5/5 sur 45 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Millau.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'une séance de détatouage ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:44:29.261Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "paris",
+  "cityName": "Paris",
+  "businessName": "DocteurTatoo",
+  "businesses": [
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    },
+    {
+      "name": "Ray studios Paris Opéra - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "41 Rue de Provence, 75009 Paris",
+      "rating": 4.7,
+      "reviewCount": 583
+    },
+    {
+      "name": "Ray studios Paris Marais - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "38 Rue au Maire, 75003 Paris",
+      "rating": 5,
+      "reviewCount": 103
+    },
+    {
+      "name": "Centre Laser Détatouage et Esthétique Le Marais",
+      "category": "Service de détatouage",
+      "address": "20 R. du Renard, 75004 Paris",
+      "rating": 4.4,
+      "reviewCount": 51
+    },
+    {
+      "name": "Doctor and Co - Médecine esthétique - Greffe de cheveux - Épilation laser - Détatouage laser Pico",
+      "category": "Clinique de transplantation de cheveux",
+      "address": "56 Rue Michel Ange, 75016 Paris",
+      "rating": 4.9,
+      "reviewCount": 257
+    },
+    {
+      "name": "CSHP Paris",
+      "category": "Clinique de chirurgie plastique",
+      "address": "12 Rue de Ponthieu, 75008 Paris",
+      "rating": 4.7,
+      "reviewCount": null
+    }
+  ],
+  "description": "DocteurTatoo fait partie des centres de détatouage laser à Paris. Avec une note de 4.9/5 sur 297 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Paris.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage à Paris ?",
+      "answer": "0:14Laser haut de gamme + médecins = détatouage efficace. Ray ...Facebook  ·  Ray studios - Centres dédiés au détatouage laser"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "0:04#detatouagelaser #detatouagesanslaser #detatouageparis ...Instagram  ·  Yuliya Bosii Trainer VIP Maquillage Permanent 🇫🇷"
+    },
+    {
+      "question": "Quels sont les avis sur le centre de détatouage laser Ray Studios Paris ?",
+      "answer": "0:27Dites adieu à vos anciens tatouages ! Effacement rapide et ...Facebook  ·  Ray studios - Centres dédiés au détatouage laser"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:01:59.961Z"
+}

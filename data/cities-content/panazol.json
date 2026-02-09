@@ -1,0 +1,31 @@
+{
+  "slug": "panazol",
+  "cityName": "Panazol",
+  "businessName": "L'Or institut PANAZOL",
+  "businesses": [
+    {
+      "name": "L'Or institut PANAZOL",
+      "category": "Institut de beauté",
+      "address": "27 Rue Charles Baudelaire, 87350 Panazol",
+      "rating": 4.7,
+      "reviewCount": 82
+    },
+    {
+      "name": "Cm Beauty Lashes",
+      "category": "Service de détatouage",
+      "address": "35 Rue des Tanneries, 87000 Limoges",
+      "rating": 4.9,
+      "reviewCount": 38
+    },
+    {
+      "name": "ALIZÉ Le souffle de votre beauté",
+      "category": "Institut de beauté",
+      "address": "17 All. de la Rue Haute, 87350 Panazol",
+      "rating": 4.9,
+      "reviewCount": 68
+    }
+  ],
+  "description": "L'Or institut PANAZOL fait partie des centres de détatouage laser à Panazol. Avec une note de 4.7/5 sur 82 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Panazol.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:35:09.840Z"
+}

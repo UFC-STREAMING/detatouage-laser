@@ -1,0 +1,52 @@
+{
+  "slug": "roanne",
+  "cityName": "Roanne",
+  "businessName": "Laser Skins",
+  "businesses": [
+    {
+      "name": "Laser Skins",
+      "category": "Service de détatouage",
+      "address": "538 Rue Joanny Auge, 42153 Riorges",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Institut JOALI",
+      "category": "Centre d'épilation laser",
+      "address": "927C Le Pont de Rhins O, 42120 Perreux",
+      "rating": 4.7,
+      "reviewCount": 129
+    },
+    {
+      "name": "Cabinet Smooth Skin | Épilation Laser - Amincissement - Anti-âge | ROANNE",
+      "category": "Centre d'épilation laser",
+      "address": "14 Rue Roger Salengro, 42300 Roanne",
+      "rating": 5,
+      "reviewCount": 52
+    },
+    {
+      "name": "Renata Modenese - RoannePropose : Détatouage",
+      "category": "Tatoueur",
+      "address": "7 Av. Carnot, 42300 Roanne",
+      "rating": 5,
+      "reviewCount": 4
+    },
+    {
+      "name": "Cabinet AC Laser - Épilation Laser - Électrolyse - Roanne",
+      "category": "Centre d'épilation laser",
+      "address": "852 Rue Maréchal Foch, 42153 Riorges",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "LaserOstop Roanne",
+      "category": "Praticien de médecine alternative",
+      "address": "21 Rue Brison, 42300 Roanne",
+      "rating": 4.8,
+      "reviewCount": 95
+    }
+  ],
+  "description": "Laser Skins fait partie des centres de détatouage laser à Roanne. Avec une note de 5/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Roanne.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:26:01.999Z"
+}

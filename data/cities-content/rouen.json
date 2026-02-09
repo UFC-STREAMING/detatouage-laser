@@ -1,0 +1,65 @@
+{
+  "slug": "rouen",
+  "cityName": "Rouen",
+  "businessName": "NY Center – Médecine esthétique à Rouen",
+  "businesses": [
+    {
+      "name": "NY Center – Médecine esthétique à Rouen",
+      "category": "Médecin",
+      "address": "6 Pl. de la République",
+      "rating": 5,
+      "reviewCount": 105
+    },
+    {
+      "name": "Dr Maria PELLERIN I Centre de laser et médecine esthétique.",
+      "category": "Médecin",
+      "address": "43 Rue Verte",
+      "rating": 4.9,
+      "reviewCount": 32
+    },
+    {
+      "name": "Dr Marie Valin - Médecin esthétique à Rouen - Médecine anti âge. Lasers. Greffe Capillaire. Injections, Peelings",
+      "category": "Médecin",
+      "address": "51 Rue Jeanne d'Arc",
+      "rating": 5,
+      "reviewCount": 91
+    },
+    {
+      "name": "Docteur Emilie CHARTAUX | Dermatologue | Esthétique | Épilation Laser | Injections | Détatouage | Peeling |",
+      "category": "Dermatologue",
+      "address": "Clinique Mathilde 3, 19 Rue de Lessard",
+      "rating": 4.1,
+      "reviewCount": 40
+    },
+    {
+      "name": "Dr Meriem AYED - Médecin Esthétique Rouen - La Maison Didon (Acide Hyaluronique, Lasers, Cryolipolyse, Etc.)",
+      "category": "Médecin",
+      "address": "87 Bd des Belges 2é étage",
+      "rating": 4.9,
+      "reviewCount": 89
+    },
+    {
+      "name": "Maison Rouennaise deMédecine esthétique- Dr Valin & Dr Pichot. Lasers, épilation, cryolipolyse, peeling, soins anti-âge.",
+      "category": "Médecin",
+      "address": "51 Rue Jeanne d'Arc",
+      "rating": 5,
+      "reviewCount": 19
+    }
+  ],
+  "description": "NY Center – Médecine esthétique à Rouen fait partie des centres de détatouage laser à Rouen. Avec une note de 5/5 sur 105 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Rouen.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour faire retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:05:25.808Z"
+}

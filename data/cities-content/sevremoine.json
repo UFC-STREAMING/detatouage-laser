@@ -1,0 +1,44 @@
+{
+  "slug": "sevremoine",
+  "cityName": "Sèvremoine",
+  "businessName": "Alonback Tattoo",
+  "businesses": [
+    {
+      "name": "Alonback Tattoo",
+      "category": "Tatoueur",
+      "address": "72 Rue de la Vendée, 49450 Sèvremoine",
+      "rating": 5,
+      "reviewCount": 27
+    },
+    {
+      "name": "Peau d'âne tattoo shop",
+      "category": "Tatoueur",
+      "address": "49450 Sèvremoine",
+      "rating": 5,
+      "reviewCount": 115
+    },
+    {
+      "name": "Atelier Sowilo - Artiste Tatoueuse",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue du Dr Boutin, 44190 Clisson",
+      "rating": 5,
+      "reviewCount": 65
+    }
+  ],
+  "description": "Alonback Tattoo fait partie des centres de détatouage laser à Sèvremoine. Avec une note de 5/5 sur 27 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sèvremoine.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Les crèmes pour enlever les tatouages ​​sont-elles vraiment efficaces ?",
+      "answer": "Non, les crèmes d'effacement de tatouages \\u200b\\u200bsont inefficaces et peuvent même endommager gravement la peau. Ces crèmes prétendent estomper les tatouages, mais elles ne peuvent pas atteindre la couche de peau où l'encre est fixée. De plus, beaucoup contiennent des acides agressifs ou des allergènes susceptibles de provoquer des éruptions cutanées, des brûlures chimiques, des cicatrices permanentes ou un éclaircissement de la peau."
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage ?",
+      "answer": "Une séance dure généralement environ dix à vingt minutes. Le nombre de séances à prévoir dépend de chaque tatouage. Il faut compter en moyenne 6 à 8 séances espacées de 6 semaines pour obtenir un bon résultat.il y a 6 jours"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:37:53.292Z"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "talant",
+  "cityName": "Talant",
+  "businessName": "Centre Laser Médical Dijon",
+  "businesses": [
+    {
+      "name": "Centre Laser Médical Dijon",
+      "category": "Centre d'épilation laser",
+      "address": "20 Rue de la Liberté, 21000 Dijon",
+      "rating": 4.2,
+      "reviewCount": 71
+    },
+    {
+      "name": "KMBROW institut microshading détatouage brow-lift",
+      "category": "Institut de beauté",
+      "address": "48 Rue Jean Jacques Rousseau, 21000 Dijon",
+      "rating": 4.9,
+      "reviewCount": 50
+    },
+    {
+      "name": "Ava Dermopigmentation - dermopigmentation Dijon - tatouage aréoles - camouflage cicatrices",
+      "category": "Institut de beauté",
+      "address": "Passage Indigo, 9 Bd Rembrandt 3 ème étage, 21000 Dijon",
+      "rating": 5,
+      "reviewCount": 57
+    }
+  ],
+  "description": "Centre Laser Médical Dijon fait partie des centres de détatouage laser à Talant. Avec une note de 4.2/5 sur 71 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Talant.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel prix pour retirer un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Que faut-il éviter après un détatouage  ?",
+      "answer": "Évitez tout contact avec des produits irritants, tels que les savons agressifs, les lotions médicamenteuses, les gommages, les huiles, les anesthésiants ou les crèmes antibactériennes. Évitez l'exposition directe au soleil et les cabines de bronzage. Appliquez une crème solaire avec un indice de protection de 30 ou plus et portez des vêtements protecteurs ou un pansement adhésif respirant sur le tatouage."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:30:53.818Z"
+}

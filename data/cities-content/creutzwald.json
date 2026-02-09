@@ -1,0 +1,31 @@
+{
+  "slug": "creutzwald",
+  "cityName": "Creutzwald",
+  "businessName": "Tinkerbell.ink",
+  "businesses": [
+    {
+      "name": "Tinkerbell.ink",
+      "category": "Salon de tatouage et piercing",
+      "address": "23 Rue de la Houve, 57150 Creutzwald",
+      "rating": 4.8,
+      "reviewCount": 19
+    },
+    {
+      "name": "Dalilés institut",
+      "category": "Institut de beauté",
+      "address": "21 Rue Louis Pasteur, 57150 Creutzwald",
+      "rating": 5,
+      "reviewCount": 55
+    },
+    {
+      "name": "Arno B ink",
+      "category": "Tatoueur",
+      "address": "12 Rue Christine de Pisan, 57150 Creutzwald",
+      "rating": 5,
+      "reviewCount": 30
+    }
+  ],
+  "description": "Tinkerbell.ink fait partie des centres de détatouage laser à Creutzwald. Avec une note de 4.8/5 sur 19 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Creutzwald.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:27:24.401Z"
+}

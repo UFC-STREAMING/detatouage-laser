@@ -1,0 +1,65 @@
+{
+  "slug": "voiron",
+  "cityName": "Voiron",
+  "businessName": "Centre Laser et Esthétique",
+  "businesses": [
+    {
+      "name": "Centre Laser et Esthétique",
+      "category": "Chirurgien plasticien",
+      "address": "6 Av. Léon et Joanny Tardy",
+      "rating": 4.2,
+      "reviewCount": 40
+    },
+    {
+      "name": "Clinique Visage et Silhouette Voiron",
+      "category": "Centre d'épilation laser",
+      "address": "13 D Av. Jacques Chirac, 38500 Voiron",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "L’institut de Marine – Épilation laser & soins du visage à Voiron",
+      "category": "Centre d'épilation laser",
+      "address": "13 Rue Genevoise",
+      "rating": 5,
+      "reviewCount": 48
+    },
+    {
+      "name": "Un Nouveau Regard - Camille / Spécialiste Sourcils & Cils à Voiron Aquazen",
+      "category": "Institut de beauté",
+      "address": "Coublevie",
+      "rating": 4.9,
+      "reviewCount": 39
+    },
+    {
+      "name": "Crâne De Piaf",
+      "category": "Salon de tatouage et piercing",
+      "address": "50 Rue Sermorens",
+      "rating": 4.8,
+      "reviewCount": 127
+    },
+    {
+      "name": "Maison Esthēte - Épilation Laser, Centre Esthétique et Anti-Âge à Voiron",
+      "category": "Institut de beauté",
+      "address": "4 Rue Montgolfier 2ème étage",
+      "rating": 3.9,
+      "reviewCount": 43
+    }
+  ],
+  "description": "Centre Laser et Esthétique fait partie des centres de détatouage laser à Voiron. Avec une note de 4.2/5 sur 40 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Voiron.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:45:07.859Z"
+}

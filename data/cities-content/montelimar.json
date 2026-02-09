@@ -1,0 +1,52 @@
+{
+  "slug": "montelimar",
+  "cityName": "Montélimar",
+  "businessName": "Centre laser CtrlZ - Montélimar",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Montélimar",
+      "category": "Centre d'épilation laser",
+      "address": "157 Rte de Marseille, 26200 Montélimar",
+      "rating": 4.9,
+      "reviewCount": 73
+    },
+    {
+      "name": "Dr Jacques CHANDEZON - Médecin Esthétique",
+      "category": "Médecin",
+      "address": "59 Rte d'Allan, 26200 Montélimar",
+      "rating": 4.7,
+      "reviewCount": 44
+    },
+    {
+      "name": "Laser 26 - Montélimar",
+      "category": "Centre d'épilation laser",
+      "address": "9 Av. Jean Jaurès, 26200 Montélimar",
+      "rating": 5,
+      "reviewCount": 21
+    },
+    {
+      "name": "DERMO STUDIO by PaulinePropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "65 Av. du Teil, 26200 Montélimar",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Sublim Dermo",
+      "category": "Clinique de maquillage permanent",
+      "address": "Centre Esthéage, 43 Av. d'Espoulette, 26200 Montélimar",
+      "rating": 4.9,
+      "reviewCount": 136
+    },
+    {
+      "name": "Dr Gaelle Bieco - Centre Esthéage",
+      "category": "Médecin",
+      "address": "43 Av. d'Espoulette, 26200 Montélimar",
+      "rating": 4.3,
+      "reviewCount": 27
+    }
+  ],
+  "description": "Centre laser CtrlZ - Montélimar fait partie des centres de détatouage laser à Montélimar. Avec une note de 4.9/5 sur 73 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montélimar.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:22:16.702Z"
+}

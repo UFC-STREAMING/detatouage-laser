@@ -1,0 +1,44 @@
+{
+  "slug": "igny",
+  "cityName": "Igny",
+  "businessName": "LE CAMÉLIA BEAUTY, Microblading Détatouage Candylips Browlift Maquillage permanent",
+  "businesses": [
+    {
+      "name": "LE CAMÉLIA BEAUTY, Microblading Détatouage Candylips Browlift Maquillage permanent",
+      "category": "Service de détatouage",
+      "address": "Microblading Détatouage Candylips Browlift Maquillage permanent, 11 Av. du President Kennedy, 91300 Massy",
+      "rating": 5,
+      "reviewCount": 168
+    },
+    {
+      "name": "My Beauty ink",
+      "category": "Service de détatouage",
+      "address": "2 bis Rue de la Terrasse, 91160 Longjumeau",
+      "rating": 5,
+      "reviewCount": 188
+    },
+    {
+      "name": "DocteurTatoo",
+      "category": "Service de détatouage",
+      "address": "23 Av. Victor Hugo, 75116 Paris",
+      "rating": 4.9,
+      "reviewCount": 297
+    }
+  ],
+  "description": "LE CAMÉLIA BEAUTY, Microblading Détatouage Candylips Browlift Maquillage permanent fait partie des centres de détatouage laser à Igny. Avec une note de 5/5 sur 168 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Igny.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "À titre indicatif, sachez que le coût d'une séance oscille entre 60 € à 400 €. Il faut y ajouter le montant de la consultation préalable, non remboursée en principe. Pour retirer un tatouage, même de très petite taille, il vous en coûtera donc au minimum 180 € (3 x 60 €). Bien plus que le prix du tatouage en lui-même.2 mars 2021"
+    },
+    {
+      "question": "Quelle est la méthode de détatouage la plus efficace ?",
+      "answer": "Le laser PiQo4 est le laser le plus puissant du marché pour l'élimination des tatouages \\u200b\\u200bde toutes les couleurs, des taches brunes, des taches solaires, des marques de naissance et de la pigmentation du mélasma."
+    },
+    {
+      "question": "Que faut-il éviter après un détatouage  ?",
+      "answer": "Évitez tout contact avec des produits irritants, tels que les savons agressifs, les lotions médicamenteuses, les gommages, les huiles, les anesthésiants ou les crèmes antibactériennes. Évitez l'exposition directe au soleil et les cabines de bronzage. Appliquez une crème solaire avec un indice de protection de 30 ou plus et portez des vêtements protecteurs ou un pansement adhésif respirant sur le tatouage."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:39:46.085Z"
+}

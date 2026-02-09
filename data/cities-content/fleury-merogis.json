@@ -1,0 +1,31 @@
+{
+  "slug": "fleury-merogis",
+  "cityName": "Fleury-Mérogis",
+  "businessName": "Cabinet de Tricopigmentation Paris & Essonne - Perfection Pigment",
+  "businesses": [
+    {
+      "name": "Cabinet de Tricopigmentation Paris & Essonne - Perfection Pigment",
+      "category": "Service de remplacement capillaire",
+      "address": "Sainte-Geneviève-des-Bois",
+      "rating": 5,
+      "reviewCount": 99
+    },
+    {
+      "name": "LASER SERVICE - Maintenance de lasers médicaux dans toute la France",
+      "category": "Service de détatouage",
+      "address": "Sainte-Geneviève-des-Bois",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Centre d'épilation laser et de cryolipolyse 91 - Glow Body Prestige",
+      "category": "Centre d'épilation laser",
+      "address": "Sainte-Geneviève-des-Bois",
+      "rating": 4.8,
+      "reviewCount": 41
+    }
+  ],
+  "description": "Cabinet de Tricopigmentation Paris & Essonne - Perfection Pigment fait partie des centres de détatouage laser à Fleury-Mérogis. Avec une note de 5/5 sur 99 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Fleury-Mérogis.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:16:54.293Z"
+}

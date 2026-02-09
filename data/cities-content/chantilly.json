@@ -1,0 +1,37 @@
+{
+  "slug": "chantilly",
+  "cityName": "Chantilly",
+  "businessName": "Zapatat Herndon",
+  "businesses": [
+    {
+      "name": "Zapatat Herndon",
+      "category": "Service de détatouage",
+      "address": "452 Elden St, Herndon, VA 20170, %C3%89tats-Unis",
+      "rating": 4.9,
+      "reviewCount": 58
+    },
+    {
+      "name": "Ramirez Body Art",
+      "category": "Tatoueur",
+      "address": "",
+      "rating": 5,
+      "reviewCount": 29
+    }
+  ],
+  "description": "Zapatat Herndon fait partie des centres de détatouage laser à Chantilly. Avec une note de 4.9/5 sur 58 avis, les patients confirment la qualité des traitements proposés. 2 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chantilly.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quelle crème mettre sur un détatouage ?",
+      "answer": "Quelle crème appliquer après le détatouage ? Les médecins prescrivent généralement un traitement à base chlorhexidine (antiseptique) ou de dexpanthénol (comme Bépanthen Med Plus). L'application d'une crème cicatrisante permet à la peau de se remettre plus rapidement entre les séances."
+    },
+    {
+      "question": "Existe-t-il une crème pour enlever les tatouages  ?",
+      "answer": "Non, les crèmes d'effacement de tatouages \\u200b\\u200bsont inefficaces et peuvent même endommager gravement la peau. Ces crèmes prétendent estomper les tatouages, mais elles ne peuvent pas atteindre la couche de peau où l'encre est fixée. De plus, beaucoup contiennent des acides agressifs ou des allergènes susceptibles de provoquer des éruptions cutanées, des brûlures chimiques, des cicatrices permanentes ou un éclaircissement de la peau."
+    },
+    {
+      "question": "Combien de temps faut-il pour enlever un tatouage avec une crème ?",
+      "answer": "Vous pouvez utiliser des crèmes de détatouage à domicile en appliquant la crème sur la zone tatouée. La plupart de ces crèmes contiennent des acides susceptibles d'irriter ou d'endommager votre peau. Leur action étant lente, il faudra peut-être plusieurs mois d'utilisation régulière avant de constater des résultats.9 déc. 2022"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:42:20.942Z"
+}

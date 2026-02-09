@@ -1,0 +1,44 @@
+{
+  "slug": "mios",
+  "cityName": "Mios",
+  "businessName": "L'atelier qui pique",
+  "businesses": [
+    {
+      "name": "L'atelier qui pique",
+      "category": "Salon de tatouage et piercing",
+      "address": "15 b place du 8 mai 1945, 33380 Mios",
+      "rating": 4.3,
+      "reviewCount": 6
+    },
+    {
+      "name": "Jmy Freestyle",
+      "category": "Tatoueur",
+      "address": "2C Av. de la République, 33380 Mios",
+      "rating": 5,
+      "reviewCount": 131
+    },
+    {
+      "name": "Lune verte",
+      "category": "Salon de piercing",
+      "address": "15 Pl. du 8 Mai 1945, 33380 Mios",
+      "rating": 5,
+      "reviewCount": 21
+    }
+  ],
+  "description": "L'atelier qui pique fait partie des centres de détatouage laser à Mios. Avec une note de 4.3/5 sur 6 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Mios.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût moyen d'un détatouage ?",
+      "answer": "Le coût moyen national* d'un détatouage est de 353 $, mais peut varier entre 272 $ et 659 $. Ce coût peut varier en fonction de plusieurs facteurs, notamment : la taille du tatouage et la profondeur de l'encre."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:29:03.781Z"
+}

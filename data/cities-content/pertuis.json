@@ -1,0 +1,65 @@
+{
+  "slug": "pertuis",
+  "cityName": "Pertuis",
+  "businessName": "Dermomac, tatouage des sourcils et des lèvres, maquillage permanent.",
+  "businesses": [
+    {
+      "name": "Dermomac, tatouage des sourcils et des lèvres, maquillage permanent.",
+      "category": "Clinique de maquillage permanent",
+      "address": "tatouage des sourcils et des lèvres, maquillage permanent., 434 Rue Saint-Martin, 84120 Pertuis",
+      "rating": 5,
+      "reviewCount": 187
+    },
+    {
+      "name": "A - DERM Maquillage Permanent spécialiste - PERTUISPropose : Détatouage sans laser",
+      "category": "Clinique de maquillage permanent",
+      "address": "27 Rue Henri Silvy, 84120 Pertuis",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "L'atelier Bien-Aimée",
+      "category": "Salon de tatouage et piercing",
+      "address": "108 Rue de la Tour, 84120 Pertuis",
+      "rating": 5,
+      "reviewCount": 49
+    },
+    {
+      "name": "Body Derma’Zen – Centre dermo-esthétique & bien-être à Pertuis - GuinotPropose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "27 Rue Henri Silvy, 84120 Pertuis",
+      "rating": 5,
+      "reviewCount": 73
+    },
+    {
+      "name": "David Tattoo La Villa Grisélidis",
+      "category": "Tatoueur",
+      "address": "228 Cr de la République, 84120 Pertuis",
+      "rating": 4.8,
+      "reviewCount": 248
+    },
+    {
+      "name": "Crazy Skin",
+      "category": "Salon de tatouage et piercing",
+      "address": "Tattoo truck itinerant, 84240 Sannes",
+      "rating": 5,
+      "reviewCount": 2
+    }
+  ],
+  "description": "Dermomac, tatouage des sourcils et des lèvres, maquillage permanent. fait partie des centres de détatouage laser à Pertuis. Avec une note de 5/5 sur 187 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pertuis.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:52:00.253Z"
+}

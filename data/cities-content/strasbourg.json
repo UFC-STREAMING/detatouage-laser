@@ -1,0 +1,22 @@
+{
+  "slug": "strasbourg",
+  "cityName": "Strasbourg",
+  "businessName": null,
+  "businesses": [],
+  "description": "Le détatouage laser est accessible à Strasbourg grâce à des professionnels qualifiés. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Strasbourg.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour enlever un tatouage ?",
+      "answer": "Pour retirer un tatouage de taille moyenne et de couleur noire, comptez en moyenne 200 € la séance. Le laser Q-Switched : Ce laser est souvent utilisé pour éliminer notamment les pigments du tatouage de couleurs foncées (encres noire, verte et bleue) ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage à Strasbourg ?",
+      "answer": "Le prix de chaque séance est fonction directe de la surface et peut varier de 70 € à 200 € TTC, voire plus en cas de très grand tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:03:11.480Z"
+}

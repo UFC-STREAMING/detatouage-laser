@@ -1,0 +1,65 @@
+{
+  "slug": "andernos-les-bains",
+  "cityName": "Andernos-les-Bains",
+  "businessName": "FAB Tatouages",
+  "businesses": [
+    {
+      "name": "FAB Tatouages",
+      "category": "Tatoueur",
+      "address": "155 Av. de Bordeaux",
+      "rating": 4.6,
+      "reviewCount": 76
+    },
+    {
+      "name": "Nashiro Tattoo",
+      "category": "Tatoueur",
+      "address": "11 Av. du Général de Gaulle",
+      "rating": 4.8,
+      "reviewCount": 98
+    },
+    {
+      "name": "francktattoo",
+      "category": "Tatoueur",
+      "address": "Zone Artisanal, 15 Av. Gustave Eiffel",
+      "rating": 4.8,
+      "reviewCount": 47
+    },
+    {
+      "name": "MANA'ORA | Épilation laser & radiofréquence INDIBA | Andernos-les-Bains",
+      "category": "Centre d'épilation laser",
+      "address": "18 Av. des Frères Montgolfier",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Mademoiselle Belle",
+      "category": "Institut de beauté",
+      "address": "15 Rue Panhard-Levassor",
+      "rating": 5,
+      "reviewCount": 127
+    },
+    {
+      "name": "SPIDER LASER",
+      "category": "Centre de laser game",
+      "address": "8 Rue Bernard Palissy",
+      "rating": 5,
+      "reviewCount": 6
+    }
+  ],
+  "description": "FAB Tatouages fait partie des centres de détatouage laser à Andernos-les-Bains. Avec une note de 4.6/5 sur 76 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Andernos-les-Bains.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:23:01.049Z"
+}

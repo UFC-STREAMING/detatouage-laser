@@ -1,0 +1,65 @@
+{
+  "slug": "briancon",
+  "cityName": "Briançon",
+  "businessName": "Draw Ink Tattoo by Géraldine",
+  "businesses": [
+    {
+      "name": "Draw Ink Tattoo by Géraldine",
+      "category": "Salon de tatouage et piercing",
+      "address": "2 Rue Centrale, 05100 Brian%C3%A7on",
+      "rating": 4.8,
+      "reviewCount": 48
+    },
+    {
+      "name": "Ciam Tattoo / Ania_ink",
+      "category": "Tatoueur",
+      "address": "Rue du Moulin, 05100 Brian%C3%A7on",
+      "rating": 4.8,
+      "reviewCount": 17
+    },
+    {
+      "name": "Esthetic Repair",
+      "category": "Institut de beauté",
+      "address": "6 Av. René Froger, 05100 Brian%C3%A7on",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Le chat fou tattoo & piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "Rte du Pont Levis, 05330 Saint-Chaffrey",
+      "rating": 5,
+      "reviewCount": 13
+    },
+    {
+      "name": "Bio Détente Esthétique",
+      "category": "Institut de beauté",
+      "address": "8 Av. Maurice Petsche, 05100 Brian%C3%A7on",
+      "rating": 4.9,
+      "reviewCount": 49
+    },
+    {
+      "name": "Valérie esthéticienne",
+      "category": "Institut de beauté",
+      "address": "11 bis Rte d'Italie, 05100 Brian%C3%A7on",
+      "rating": 5,
+      "reviewCount": 24
+    }
+  ],
+  "description": "Draw Ink Tattoo by Géraldine fait partie des centres de détatouage laser à Briançon. Avec une note de 4.8/5 sur 48 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Briançon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:34:54.942Z"
+}

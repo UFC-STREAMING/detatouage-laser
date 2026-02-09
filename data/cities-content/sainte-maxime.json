@@ -1,0 +1,52 @@
+{
+  "slug": "sainte-maxime",
+  "cityName": "Sainte-Maxime",
+  "businessName": "Dermazura - Épilation Laser médical",
+  "businesses": [
+    {
+      "name": "Dermazura - Épilation Laser médical",
+      "category": "Centre d'épilation laser",
+      "address": "18 Pl. Jean Mermoz, 83120 Sainte-Maxime",
+      "rating": 5,
+      "reviewCount": 42
+    },
+    {
+      "name": "First tattoo Piercing",
+      "category": "Tatoueur",
+      "address": "12 Av. Georges Clemenceau, 83120 Sainte-Maxime",
+      "rating": 4.7,
+      "reviewCount": 117
+    },
+    {
+      "name": "JOLIES NANAS - Extensions de cils, Maquillage Permanent & Détatouage - Certifié PHIBROWS",
+      "category": "Service de détatouage",
+      "address": "Maquillage Permanent %26 Détatouage - Certifié PHIBROWS, Rés le Palais de la Mer, 16 Av. du Général Leclerc, 83120 Sainte-Maxime",
+      "rating": 4.9,
+      "reviewCount": 45
+    },
+    {
+      "name": "Le boudoir by Alexia - Maquillage Permanent, Dermo réparatrice & Tatoueuse Sainte MaximePropose : Lettrage de tatouage personnalisé",
+      "category": "Institut de beauté",
+      "address": "Dermo réparatrice %26 Tatoueuse Sainte Maxime, Résidence Casa Del Mar, 37 Av. Jean Jaurès, 83120 Sainte-Maxime",
+      "rating": 4.4,
+      "reviewCount": 111
+    },
+    {
+      "name": "Clinic Body Contouring Sainte Maxime",
+      "category": "Centre d'amincissement",
+      "address": "24 Av. de Lattre de Tassigny, 83120 Sainte-Maxime",
+      "rating": 5,
+      "reviewCount": 35
+    },
+    {
+      "name": "Enigma Tattoo Shop",
+      "category": "Tatoueur",
+      "address": "Galerie Ambre marine, Rue de Verdun, 83120 Sainte-Maxime",
+      "rating": 4.5,
+      "reviewCount": 58
+    }
+  ],
+  "description": "Dermazura - Épilation Laser médical fait partie des centres de détatouage laser à Sainte-Maxime. Avec une note de 5/5 sur 42 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Sainte-Maxime.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:14:13.123Z"
+}

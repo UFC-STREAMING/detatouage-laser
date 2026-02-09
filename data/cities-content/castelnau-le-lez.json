@@ -1,0 +1,65 @@
+{
+  "slug": "castelnau-le-lez",
+  "cityName": "Castelnau-le-Lez",
+  "businessName": "Dr Rauzy Anne / Clinique MEL 610 - Médecin Esthétique et Lasers Médicaux à Montpellier / Jacou",
+  "businesses": [
+    {
+      "name": "Dr Rauzy Anne / Clinique MEL 610 - Médecin Esthétique et Lasers Médicaux à Montpellier / Jacou",
+      "category": "Centre d'épilation laser",
+      "address": "Clinique MEL 610, 8 Rue Louis Breguet B%C3%A2t B 1er étage, 34830 Jacou",
+      "rating": 4.6,
+      "reviewCount": 106
+    },
+    {
+      "name": "Lazeo Castelnau",
+      "category": "Centre d'épilation laser",
+      "address": "740 Rte de N%C3%AEmes, 34170 Castelnau-le-Lez",
+      "rating": 4.7,
+      "reviewCount": 173
+    },
+    {
+      "name": "Claire DELAVIE Centre médical de Soins Esthétiques de la peau",
+      "category": "Centre médical",
+      "address": "Clinique du Parc, 50 Rue Emile Combes Montpellier, 50 Rue Emile Combes, 34170 Castelnau-le-Lez",
+      "rating": 4.8,
+      "reviewCount": 66
+    },
+    {
+      "name": "Détatouage Laser Montpellier, centre Dr Meziane",
+      "category": "Chirurgien esthétique",
+      "address": "centre Dr Meziane, 60 Rue de l'Acropole, 34000 Montpellier",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "Centre Dermo Laser Montpellier - Epilation Laser & Définitive - Détatouage",
+      "category": "Centre d'épilation laser",
+      "address": "470 Rue Léon Blum, 34000 Montpellier",
+      "rating": 4.8,
+      "reviewCount": 217
+    },
+    {
+      "name": "laserOstop Montpellier centre Anti-tabac",
+      "category": "Praticien de médecine alternative",
+      "address": "Centre Medic Global, 651 Rue du Mas de Verchant, 34170 Castelnau-le-Lez",
+      "rating": 4.5,
+      "reviewCount": 97
+    }
+  ],
+  "description": "Dr Rauzy Anne / Clinique MEL 610 - Médecin Esthétique et Lasers Médicaux à Montpellier / Jacou fait partie des centres de détatouage laser à Castelnau-le-Lez. Avec une note de 4.6/5 sur 106 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Castelnau-le-Lez.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix pour se faire retirer un tatouage ?",
+      "answer": "En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:37:27.481Z"
+}

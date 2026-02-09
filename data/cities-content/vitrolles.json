@@ -1,0 +1,44 @@
+{
+  "slug": "vitrolles",
+  "cityName": "Vitrolles",
+  "businessName": "Infamous Tattoo & Piercing",
+  "businesses": [
+    {
+      "name": "Infamous Tattoo & Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "5 Av. des Arénas, 13127 Vitrolles",
+      "rating": 4.9,
+      "reviewCount": 470
+    },
+    {
+      "name": "J'arrête de fumer avec StopLaClope VitrollesPropose : Arrêter de fumer au laser",
+      "category": "Centre de bien-être",
+      "address": "Z.A l'agavon, 1 bis Av. Emile Zola, 13170 Les Pennes-Mirabeau",
+      "rating": 4.7,
+      "reviewCount": 15
+    },
+    {
+      "name": "Laser 26 - Vitrolles I Epilation laser",
+      "category": "Centre d'épilation laser",
+      "address": "P%C3%B4le Santé Les Tourelles, 3 Allee de la Tourelle, 13127 Vitrolles",
+      "rating": 5,
+      "reviewCount": 51
+    }
+  ],
+  "description": "Infamous Tattoo & Piercing fait partie des centres de détatouage laser à Vitrolles. Avec une note de 4.9/5 sur 470 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Vitrolles.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:24:39.473Z"
+}

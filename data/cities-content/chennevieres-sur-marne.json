@@ -1,0 +1,44 @@
+{
+  "slug": "chennevieres-sur-marne",
+  "cityName": "Chennevières-sur-Marne",
+  "businessName": "JZ ink Tatouage Piercing",
+  "businesses": [
+    {
+      "name": "JZ ink Tatouage Piercing",
+      "category": "Tatoueur",
+      "address": "34 Rte de la Libération, 94430 Chennevières-sur-Marne",
+      "rating": 4.9,
+      "reviewCount": 342
+    },
+    {
+      "name": "Institut du Laser - Chennevières-sur-Marne",
+      "category": "Centre d'épilation laser",
+      "address": "46 Bis Rue du Général de Gaulle, 94430 Chennevières-sur-Marne",
+      "rating": 5,
+      "reviewCount": 196
+    },
+    {
+      "name": "L’ATELIER PRIVÉ CHLOÉ INK TATTOO BY L'ART DANS LA PEAU",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 bis Rue Anatole France, 94490 Ormesson-sur-Marne",
+      "rating": 4.5,
+      "reviewCount": 122
+    }
+  ],
+  "description": "JZ ink Tatouage Piercing fait partie des centres de détatouage laser à Chennevières-sur-Marne. Avec une note de 4.9/5 sur 342 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chennevières-sur-Marne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Quels sont les avis sur l'Institut du laser ?",
+      "answer": "Accueil chaleureux, personnel professionnel et résultats visibles rapidement. Je recommande sans hésiter 😊 » Madame De Oliveira Ton confort, ton bien-être et des résultats visibles dès la première séance : c'est notre promesse chez l'Institut du Laser 🤍 Prête à franchir le pas et dire adieu aux poils ?"
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:55:01.564Z"
+}

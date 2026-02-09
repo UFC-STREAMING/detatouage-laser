@@ -1,0 +1,31 @@
+{
+  "slug": "saint-benoit",
+  "cityName": "Saint-Benoît",
+  "businessName": "Maison ENEA (Jadelys Beauty)Propose : Épilation laser",
+  "businesses": [
+    {
+      "name": "Maison ENEA (Jadelys Beauty)Propose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "Parking RunWash, 1 Rue des Dahlias, Saint-Beno%C3%AEt 97470, La Réunion",
+      "rating": 5,
+      "reviewCount": 20
+    },
+    {
+      "name": "Yana Esthetik",
+      "category": "Esthéticien",
+      "address": "Saint-Benoît, La Réunion",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "QUINTESENS",
+      "category": "Institut de beauté",
+      "address": "178 Route nationale 2 Bourbier les Bas, 97470, La Réunion",
+      "rating": 4.9,
+      "reviewCount": 18
+    }
+  ],
+  "description": "Maison ENEA (Jadelys Beauty)Propose : Épilation laser fait partie des centres de détatouage laser à Saint-Benoît. Avec une note de 5/5 sur 20 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Saint-Benoît.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:23:06.407Z"
+}

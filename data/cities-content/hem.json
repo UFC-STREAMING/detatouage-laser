@@ -1,0 +1,37 @@
+{
+  "slug": "hem",
+  "cityName": "Hem",
+  "businessName": "DermoKliniK",
+  "businesses": [
+    {
+      "name": "DermoKliniK",
+      "category": "Clinique de maquillage permanent",
+      "address": "Hem",
+      "rating": 5,
+      "reviewCount": 11
+    },
+    {
+      "name": "Centre Laser DermoKliniK",
+      "category": "Centre d'épilation laser",
+      "address": "Hem",
+      "rating": 5,
+      "reviewCount": 4
+    }
+  ],
+  "description": "DermoKliniK fait partie des centres de détatouage laser à Hem. Avec une note de 5/5 sur 11 avis, les patients confirment la qualité des traitements proposés. 2 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Hem.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:55:32.717Z"
+}

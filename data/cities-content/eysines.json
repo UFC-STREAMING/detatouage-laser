@@ -1,0 +1,65 @@
+{
+  "slug": "eysines",
+  "cityName": "Eysines",
+  "businessName": "Docteur Richard MARTIN CHICO",
+  "businesses": [
+    {
+      "name": "Docteur Richard MARTIN CHICO",
+      "category": "Médecin",
+      "address": "P%C3%B4le santé Lescombes, 222 Av. du Taillan, 33320 Eysines",
+      "rating": 4.9,
+      "reviewCount": 100
+    },
+    {
+      "name": "Ray studios Bordeaux - centre de détatouage laser",
+      "category": "Service de détatouage",
+      "address": "23 Rue de la Course, 33000 Bordeaux",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Maison Lijam - Épilation laser, Cryolipolyse et Soins anti âges",
+      "category": "Centre d'épilation laser",
+      "address": "Cryolipolyse et Soins anti %C3%A2ges, 16a Rue Guynemer, 33320 Eysines",
+      "rating": 5,
+      "reviewCount": 41
+    },
+    {
+      "name": "Centre laser CtrlZ - Mérignac",
+      "category": "Centre d'épilation laser",
+      "address": "365 Av. d'Arès, 33200 Bordeaux",
+      "rating": 5,
+      "reviewCount": 147
+    },
+    {
+      "name": "Peauésie - Détatouage & épilation laser Mérignac",
+      "category": "Centre d'épilation laser",
+      "address": "9 Rue Pablo Picasso, 33700 Mérignac",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Jérémy Tattoo",
+      "category": "Tatoueur",
+      "address": "78 Rue du Moulin %C3%80 Vent, 33320 Eysines",
+      "rating": 4.7,
+      "reviewCount": 42
+    }
+  ],
+  "description": "Docteur Richard MARTIN CHICO fait partie des centres de détatouage laser à Eysines. Avec une note de 4.9/5 sur 100 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Eysines.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quels sont les inconvénients du détatouage au laser  ?",
+      "answer": "Le détatouage au laser peut laisser une peau plus claire que la peau environnante. Parmi les autres risques, on note la possibilité de cicatrices, d'infections, de petits saignements, de rougeurs ou de douleurs , qui sont généralement temporaires.3 août 2023"
+    },
+    {
+      "question": "Est-il possible de retatouer sur un détatouage ?",
+      "answer": "Une question qui revient souvent : peut-on tatouer sur un détatouage ? Oui, mais il faut patienter quelques mois après la dernière séance pour laisser la peau se régénérer complètement. Un tatouage fait sur une peau encore en cours de cicatrisation risque d'avoir un rendu moins net."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:39:25.673Z"
+}

@@ -1,0 +1,1160 @@
+[
+  {
+    "slug": "nantes",
+    "city": "Nantes",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:03:01.642Z"
+  },
+  {
+    "slug": "strasbourg",
+    "city": "Strasbourg",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:03:11.480Z"
+  },
+  {
+    "slug": "bordeaux",
+    "city": "Bordeaux",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:03:16.944Z"
+  },
+  {
+    "slug": "toulon",
+    "city": "Toulon",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:03:28.940Z"
+  },
+  {
+    "slug": "annecy",
+    "city": "Annecy",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:04:54.902Z"
+  },
+  {
+    "slug": "limoges",
+    "city": "Limoges",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:05:01.046Z"
+  },
+  {
+    "slug": "metz",
+    "city": "Metz",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:05:05.036Z"
+  },
+  {
+    "slug": "caen",
+    "city": "Caen",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:05:43.440Z"
+  },
+  {
+    "slug": "mulhouse",
+    "city": "Mulhouse",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:06:12.722Z"
+  },
+  {
+    "slug": "avignon",
+    "city": "Avignon",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:06:59.616Z"
+  },
+  {
+    "slug": "poitiers",
+    "city": "Poitiers",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:07:15.120Z"
+  },
+  {
+    "slug": "dunkerque",
+    "city": "Dunkerque",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Dunkerque, France\"}",
+    "at": "2026-02-09T10:07:32.692Z"
+  },
+  {
+    "slug": "le-tampon",
+    "city": "Le Tampon",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Tampon, France\"}",
+    "at": "2026-02-09T10:08:04.990Z"
+  },
+  {
+    "slug": "la-rochelle",
+    "city": "La Rochelle",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:08:20.213Z"
+  },
+  {
+    "slug": "cherbourg-en-cotentin",
+    "city": "Cherbourg-en-Cotentin",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Cherbourg-en-Cotentin, France\"}",
+    "at": "2026-02-09T10:08:22.286Z"
+  },
+  {
+    "slug": "ajaccio",
+    "city": "Ajaccio",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:08:47.041Z"
+  },
+  {
+    "slug": "calais",
+    "city": "Calais",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:10:15.208Z"
+  },
+  {
+    "slug": "pessac",
+    "city": "Pessac",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:10:22.325Z"
+  },
+  {
+    "slug": "evry-courcouronnes",
+    "city": "Évry-Courcouronnes",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Évry-Courcouronnes, France\"}",
+    "at": "2026-02-09T10:10:29.079Z"
+  },
+  {
+    "slug": "ivry-sur-seine",
+    "city": "Ivry-sur-Seine",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:10:43.461Z"
+  },
+  {
+    "slug": "montauban",
+    "city": "Montauban",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:11:29.551Z"
+  },
+  {
+    "slug": "saint-andre",
+    "city": "Saint-André",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:12:47.370Z"
+  },
+  {
+    "slug": "lorient",
+    "city": "Lorient",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:12:56.530Z"
+  },
+  {
+    "slug": "bobigny",
+    "city": "Bobigny",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:13:04.709Z"
+  },
+  {
+    "slug": "saint-laurent-du-maroni",
+    "city": "Saint-Laurent-du-Maroni",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Laurent-du-Maroni, France\"}",
+    "at": "2026-02-09T10:14:44.981Z"
+  },
+  {
+    "slug": "bayonne",
+    "city": "Bayonne",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:14:54.795Z"
+  },
+  {
+    "slug": "saint-quentin",
+    "city": "Saint-Quentin",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:15:37.603Z"
+  },
+  {
+    "slug": "albi",
+    "city": "Albi",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:16:06.433Z"
+  },
+  {
+    "slug": "les-abymes",
+    "city": "Les Abymes",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Les Abymes, France\"}",
+    "at": "2026-02-09T10:16:08.507Z"
+  },
+  {
+    "slug": "suresnes",
+    "city": "Suresnes",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:16:54.871Z"
+  },
+  {
+    "slug": "ales",
+    "city": "Alès",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:18:22.872Z"
+  },
+  {
+    "slug": "choisy-le-roi",
+    "city": "Choisy-le-Roi",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:18:39.152Z"
+  },
+  {
+    "slug": "valenciennes",
+    "city": "Valenciennes",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:20:10.108Z"
+  },
+  {
+    "slug": "bagnolet",
+    "city": "Bagnolet",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:20:20.173Z"
+  },
+  {
+    "slug": "bron",
+    "city": "Bron",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:20:24.636Z"
+  },
+  {
+    "slug": "stains",
+    "city": "Stains",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:21:39.724Z"
+  },
+  {
+    "slug": "marcq-en-baroeul",
+    "city": "Marcq-en-Barœul",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Marcq-en-Barœul, France\"}",
+    "at": "2026-02-09T10:22:29.097Z"
+  },
+  {
+    "slug": "oullins-pierre-benite",
+    "city": "Oullins-Pierre-Bénite",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Oullins-Pierre-Bénite, France\"}",
+    "at": "2026-02-09T10:23:37.095Z"
+  },
+  {
+    "slug": "chatillon",
+    "city": "Châtillon",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:24:44.352Z"
+  },
+  {
+    "slug": "la-possession",
+    "city": "La Possession",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"La Possession, France\"}",
+    "at": "2026-02-09T10:25:01.374Z"
+  },
+  {
+    "slug": "matoury",
+    "city": "Matoury",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Matoury, France\"}",
+    "at": "2026-02-09T10:25:03.497Z"
+  },
+  {
+    "slug": "saint-chamond",
+    "city": "Saint-Chamond",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Chamond, France\"}",
+    "at": "2026-02-09T10:25:49.715Z"
+  },
+  {
+    "slug": "dumbea",
+    "city": "Dumbéa",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Dumbéa, France\"}",
+    "at": "2026-02-09T10:26:24.852Z"
+  },
+  {
+    "slug": "le-port",
+    "city": "Le Port",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:26:53.997Z"
+  },
+  {
+    "slug": "villiers-sur-marne",
+    "city": "Villiers-sur-Marne",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:27:11.995Z"
+  },
+  {
+    "slug": "saint-laurent-du-var",
+    "city": "Saint-Laurent-du-Var",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Laurent-du-Var, France\"}",
+    "at": "2026-02-09T10:28:19.095Z"
+  },
+  {
+    "slug": "koungou",
+    "city": "Koungou",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Koungou, France\"}",
+    "at": "2026-02-09T10:28:21.163Z"
+  },
+  {
+    "slug": "rillieux-la-pape",
+    "city": "Rillieux-la-Pape",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:29:26.907Z"
+  },
+  {
+    "slug": "saint-martin",
+    "city": "Saint-Martin",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:30:04.993Z"
+  },
+  {
+    "slug": "cachan",
+    "city": "Cachan",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:30:26.226Z"
+  },
+  {
+    "slug": "le-chesnay-rocquencourt",
+    "city": "Le Chesnay-Rocquencourt",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Chesnay-Rocquencourt, France\"}",
+    "at": "2026-02-09T10:30:48.159Z"
+  },
+  {
+    "slug": "chatou",
+    "city": "Chatou",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:31:12.545Z"
+  },
+  {
+    "slug": "malakoff",
+    "city": "Malakoff",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:31:20.807Z"
+  },
+  {
+    "slug": "vandoeuvre-les-nancy",
+    "city": "Vandœuvre-lès-Nancy",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Vandœuvre-lès-Nancy, France\"}",
+    "at": "2026-02-09T10:31:52.912Z"
+  },
+  {
+    "slug": "faaa",
+    "city": "Faaa",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Faaa, France\"}",
+    "at": "2026-02-09T10:32:18.702Z"
+  },
+  {
+    "slug": "orange",
+    "city": "Orange",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:32:33.846Z"
+  },
+  {
+    "slug": "bois-colombes",
+    "city": "Bois-Colombes",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:33:08.987Z"
+  },
+  {
+    "slug": "punaauia",
+    "city": "Punaauia",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Punaauia, France\"}",
+    "at": "2026-02-09T10:33:19.985Z"
+  },
+  {
+    "slug": "paita",
+    "city": "Païta",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:34:36.437Z"
+  },
+  {
+    "slug": "les-ulis",
+    "city": "Les Ulis",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:37:46.943Z"
+  },
+  {
+    "slug": "les-pavillons-sous-bois",
+    "city": "Les Pavillons-sous-Bois",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Les Pavillons-sous-Bois, France\"}",
+    "at": "2026-02-09T10:37:49.003Z"
+  },
+  {
+    "slug": "sainte-suzanne",
+    "city": "Sainte-Suzanne",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:38:33.698Z"
+  },
+  {
+    "slug": "le-mont-dore",
+    "city": "Le Mont-Dore",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Mont-Dore, France\"}",
+    "at": "2026-02-09T10:38:50.624Z"
+  },
+  {
+    "slug": "bethune",
+    "city": "Béthune",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:39:02.568Z"
+  },
+  {
+    "slug": "le-bouscat",
+    "city": "Le Bouscat",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Bouscat, France\"}",
+    "at": "2026-02-09T10:39:09.252Z"
+  },
+  {
+    "slug": "orly",
+    "city": "Orly",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:39:48.620Z"
+  },
+  {
+    "slug": "fontenay-aux-roses",
+    "city": "Fontenay-aux-Roses",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:40:30.942Z"
+  },
+  {
+    "slug": "sainte-anne",
+    "city": "Sainte-Anne",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:40:53.644Z"
+  },
+  {
+    "slug": "olivet",
+    "city": "Olivet",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:41:22.653Z"
+  },
+  {
+    "slug": "le-moule",
+    "city": "Le Moule",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Moule, France\"}",
+    "at": "2026-02-09T10:42:14.343Z"
+  },
+  {
+    "slug": "abbeville",
+    "city": "Abbeville",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:43:34.461Z"
+  },
+  {
+    "slug": "montereau-fault-yonne",
+    "city": "Montereau-Fault-Yonne",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Montereau-Fault-Yonne, France\"}",
+    "at": "2026-02-09T10:43:50.072Z"
+  },
+  {
+    "slug": "fontaine",
+    "city": "Fontaine",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:44:37.244Z"
+  },
+  {
+    "slug": "chemille-en-anjou",
+    "city": "Chemillé-en-Anjou",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Chemillé-en-Anjou, France\"}",
+    "at": "2026-02-09T10:44:39.311Z"
+  },
+  {
+    "slug": "saint-michel-sur-orge",
+    "city": "Saint-Michel-sur-Orge",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:45:27.916Z"
+  },
+  {
+    "slug": "montmorency",
+    "city": "Montmorency",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:45:34.701Z"
+  },
+  {
+    "slug": "mandelieu-la-napoule",
+    "city": "Mandelieu-la-Napoule",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Mandelieu-la-Napoule, France\"}",
+    "at": "2026-02-09T10:45:55.304Z"
+  },
+  {
+    "slug": "le-robert",
+    "city": "Le Robert",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Robert, France\"}",
+    "at": "2026-02-09T10:46:06.105Z"
+  },
+  {
+    "slug": "saint-genis-laval",
+    "city": "Saint-Genis-Laval",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Genis-Laval, France\"}",
+    "at": "2026-02-09T10:46:48.250Z"
+  },
+  {
+    "slug": "le-plessis-trevise",
+    "city": "Le Plessis-Trévise",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:47:00.628Z"
+  },
+  {
+    "slug": "mons-en-baroeul",
+    "city": "Mons-en-Barœul",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Mons-en-Barœul, France\"}",
+    "at": "2026-02-09T10:47:02.693Z"
+  },
+  {
+    "slug": "villeneuve-le-roi",
+    "city": "Villeneuve-le-Roi",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:47:29.316Z"
+  },
+  {
+    "slug": "chaville",
+    "city": "Chaville",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:48:52.025Z"
+  },
+  {
+    "slug": "croix",
+    "city": "Croix",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:48:59.473Z"
+  },
+  {
+    "slug": "bouguenais",
+    "city": "Bouguenais",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:49:06.495Z"
+  },
+  {
+    "slug": "l-isle-sur-la-sorgue",
+    "city": "L\\'Isle-sur-la-Sorgue",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:50:02.081Z"
+  },
+  {
+    "slug": "bourg-les-valence",
+    "city": "Bourg-lès-Valence",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Bourg-lès-Valence, France\"}",
+    "at": "2026-02-09T10:50:41.226Z"
+  },
+  {
+    "slug": "albertville",
+    "city": "Albertville",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:50:50.596Z"
+  },
+  {
+    "slug": "macouria",
+    "city": "Macouria",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Macouria, France\"}",
+    "at": "2026-02-09T10:51:23.465Z"
+  },
+  {
+    "slug": "chevilly-larue",
+    "city": "Chevilly-Larue",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Chevilly-Larue, France\"}",
+    "at": "2026-02-09T10:51:25.535Z"
+  },
+  {
+    "slug": "ronchin",
+    "city": "Ronchin",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Ronchin, France\"}",
+    "at": "2026-02-09T10:51:27.606Z"
+  },
+  {
+    "slug": "le-mee-sur-seine",
+    "city": "Le Mée-sur-Seine",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:52:06.634Z"
+  },
+  {
+    "slug": "schoelcher",
+    "city": "Schœlcher",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Schœlcher, France\"}",
+    "at": "2026-02-09T10:52:08.708Z"
+  },
+  {
+    "slug": "juvisy-sur-orge",
+    "city": "Juvisy-sur-Orge",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Juvisy-sur-Orge, France\"}",
+    "at": "2026-02-09T10:52:45.410Z"
+  },
+  {
+    "slug": "brie-comte-robert",
+    "city": "Brie-Comte-Robert",
+    "error": "No locations in results",
+    "at": "2026-02-09T10:53:14.422Z"
+  },
+  {
+    "slug": "cesson-sevigne",
+    "city": "Cesson-Sévigné",
+    "error": "fetch failed",
+    "at": "2026-02-09T10:54:46.116Z"
+  },
+  {
+    "slug": "mauges-sur-loire",
+    "city": "Mauges-sur-Loire",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Mauges-sur-Loire, France\"}",
+    "at": "2026-02-09T10:55:08.196Z"
+  },
+  {
+    "slug": "lamentin",
+    "city": "Lamentin",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Lamentin, France\"}",
+    "at": "2026-02-09T10:55:10.295Z"
+  },
+  {
+    "slug": "le-puy-en-velay",
+    "city": "Le Puy-en-Velay",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Puy-en-Velay, France\"}",
+    "at": "2026-02-09T10:55:40.701Z"
+  },
+  {
+    "slug": "moorea-maiao",
+    "city": "Moorea-Maiao",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Moorea-Maiao, France\"}",
+    "at": "2026-02-09T10:56:57.536Z"
+  },
+  {
+    "slug": "ducos",
+    "city": "Ducos",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Ducos, France\"}",
+    "at": "2026-02-09T10:57:03.946Z"
+  },
+  {
+    "slug": "digne-les-bains",
+    "city": "Digne-les-Bains",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Digne-les-Bains, France\"}",
+    "at": "2026-02-09T10:57:32.284Z"
+  },
+  {
+    "slug": "capesterre-belle-eau",
+    "city": "Capesterre-Belle-Eau",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Capesterre-Belle-Eau, France\"}",
+    "at": "2026-02-09T10:58:57.221Z"
+  },
+  {
+    "slug": "segre-en-anjou-bleu",
+    "city": "Segré-en-Anjou Bleu",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Segré-en-Anjou Bleu, France\"}",
+    "at": "2026-02-09T10:58:59.326Z"
+  },
+  {
+    "slug": "vire-normandie",
+    "city": "Vire Normandie",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Vire Normandie, France\"}",
+    "at": "2026-02-09T10:59:29.561Z"
+  },
+  {
+    "slug": "saran",
+    "city": "Saran",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:00:16.529Z"
+  },
+  {
+    "slug": "oree-d-anjou",
+    "city": "Orée d\\'Anjou",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Orée d\\\\'Anjou, France\"}",
+    "at": "2026-02-09T11:00:40.913Z"
+  },
+  {
+    "slug": "le-pre-saint-gervais",
+    "city": "Le Pré-Saint-Gervais",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Pré-Saint-Gervais, France\"}",
+    "at": "2026-02-09T11:01:00.891Z"
+  },
+  {
+    "slug": "verdun",
+    "city": "Verdun",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:01:12.352Z"
+  },
+  {
+    "slug": "valserhone",
+    "city": "Valserhône",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Valserhône, France\"}",
+    "at": "2026-02-09T11:01:43.174Z"
+  },
+  {
+    "slug": "bois-d-arcy",
+    "city": "Bois-d\\'Arcy",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Bois-d\\\\'Arcy, France\"}",
+    "at": "2026-02-09T11:01:58.748Z"
+  },
+  {
+    "slug": "chateau-gontier-sur-mayenne",
+    "city": "Château-Gontier-sur-Mayenne",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Château-Gontier-sur-Mayenne, France\"}",
+    "at": "2026-02-09T11:02:00.843Z"
+  },
+  {
+    "slug": "morne-a-l-eau",
+    "city": "Morne-à-l\\'Eau",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Morne-à-l\\\\'Eau, France\"}",
+    "at": "2026-02-09T11:03:26.751Z"
+  },
+  {
+    "slug": "le-bourget",
+    "city": "Le Bourget",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:05:08.808Z"
+  },
+  {
+    "slug": "luce",
+    "city": "Lucé",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:05:12.960Z"
+  },
+  {
+    "slug": "port-de-bouc",
+    "city": "Port-de-Bouc",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:06:07.275Z"
+  },
+  {
+    "slug": "le-francois",
+    "city": "Le François",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le François, France\"}",
+    "at": "2026-02-09T11:06:09.373Z"
+  },
+  {
+    "slug": "montrevault-sur-evre",
+    "city": "Montrevault-sur-Èvre",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Montrevault-sur-Èvre, France\"}",
+    "at": "2026-02-09T11:06:33.692Z"
+  },
+  {
+    "slug": "arnouville",
+    "city": "Arnouville",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Arnouville, France\"}",
+    "at": "2026-02-09T11:09:33.744Z"
+  },
+  {
+    "slug": "romilly-sur-seine",
+    "city": "Romilly-sur-Seine",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:09:51.008Z"
+  },
+  {
+    "slug": "mahina",
+    "city": "Mahina",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Mahina, France\"}",
+    "at": "2026-02-09T11:11:18.715Z"
+  },
+  {
+    "slug": "l-etang-sale",
+    "city": "L\\'Étang-Salé",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"L\\\\'Étang-Salé, France\"}",
+    "at": "2026-02-09T11:12:16.902Z"
+  },
+  {
+    "slug": "pirae",
+    "city": "Pirae",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:14:41.393Z"
+  },
+  {
+    "slug": "belleville-en-beaujolais",
+    "city": "Belleville-en-Beaujolais",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Belleville-en-Beaujolais, France\"}",
+    "at": "2026-02-09T11:15:31.168Z"
+  },
+  {
+    "slug": "bandraboua",
+    "city": "Bandraboua",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Bandraboua, France\"}",
+    "at": "2026-02-09T11:15:33.290Z"
+  },
+  {
+    "slug": "tsingoni",
+    "city": "Tsingoni",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Tsingoni, France\"}",
+    "at": "2026-02-09T11:15:45.734Z"
+  },
+  {
+    "slug": "mions",
+    "city": "Mions",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Mions, France\"}",
+    "at": "2026-02-09T11:16:05.450Z"
+  },
+  {
+    "slug": "berre-l-etang",
+    "city": "Berre-l\\'Étang",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:16:22.202Z"
+  },
+  {
+    "slug": "carros",
+    "city": "Carros",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:16:26.604Z"
+  },
+  {
+    "slug": "pierrelatte",
+    "city": "Pierrelatte",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:16:48.883Z"
+  },
+  {
+    "slug": "avon",
+    "city": "Avon",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:17:06.132Z"
+  },
+  {
+    "slug": "taiarapu-est",
+    "city": "Taiarapu-Est",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:17:27.793Z"
+  },
+  {
+    "slug": "amilly",
+    "city": "Amilly",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:17:33.268Z"
+  },
+  {
+    "slug": "outreau",
+    "city": "Outreau",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Outreau, France\"}",
+    "at": "2026-02-09T11:20:10.301Z"
+  },
+  {
+    "slug": "petite-ile",
+    "city": "Petite-Île",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Petite-Île, France\"}",
+    "at": "2026-02-09T11:20:26.085Z"
+  },
+  {
+    "slug": "bras-panon",
+    "city": "Bras-Panon",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Bras-Panon, France\"}",
+    "at": "2026-02-09T11:20:45.793Z"
+  },
+  {
+    "slug": "betton",
+    "city": "Betton",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:20:56.871Z"
+  },
+  {
+    "slug": "moret-loing-et-orvanne",
+    "city": "Moret-Loing-et-Orvanne",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Moret-Loing-et-Orvanne, France\"}",
+    "at": "2026-02-09T11:22:04.348Z"
+  },
+  {
+    "slug": "paea",
+    "city": "Paea",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Paea, France\"}",
+    "at": "2026-02-09T11:22:34.855Z"
+  },
+  {
+    "slug": "chalette-sur-loing",
+    "city": "Châlette-sur-Loing",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Châlette-sur-Loing, France\"}",
+    "at": "2026-02-09T11:23:03.145Z"
+  },
+  {
+    "slug": "la-chapelle-saint-luc",
+    "city": "La Chapelle-Saint-Luc",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"La Chapelle-Saint-Luc, France\"}",
+    "at": "2026-02-09T11:23:32.340Z"
+  },
+  {
+    "slug": "louvres",
+    "city": "Louvres",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:24:09.256Z"
+  },
+  {
+    "slug": "villetaneuse",
+    "city": "Villetaneuse",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Villetaneuse, France\"}",
+    "at": "2026-02-09T11:24:11.353Z"
+  },
+  {
+    "slug": "vernouillet",
+    "city": "Vernouillet",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:25:57.568Z"
+  },
+  {
+    "slug": "chateaubriant",
+    "city": "Châteaubriant",
+    "error": "fetch failed",
+    "at": "2026-02-09T11:27:15.180Z"
+  },
+  {
+    "slug": "harnes",
+    "city": "Harnes",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:27:29.389Z"
+  },
+  {
+    "slug": "riedisheim",
+    "city": "Riedisheim",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Riedisheim, France\"}",
+    "at": "2026-02-09T11:27:47.702Z"
+  },
+  {
+    "slug": "bully-les-mines",
+    "city": "Bully-les-Mines",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:28:10.842Z"
+  },
+  {
+    "slug": "saint-cyprien",
+    "city": "Saint-Cyprien",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:28:46.149Z"
+  },
+  {
+    "slug": "beausoleil",
+    "city": "Beausoleil",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Beausoleil, France\"}",
+    "at": "2026-02-09T11:30:33.771Z"
+  },
+  {
+    "slug": "dammartin-en-goele",
+    "city": "Dammartin-en-Goële",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:30:45.190Z"
+  },
+  {
+    "slug": "riviere-salee",
+    "city": "Rivière-Salée",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Rivière-Salée, France\"}",
+    "at": "2026-02-09T11:30:55.888Z"
+  },
+  {
+    "slug": "papara",
+    "city": "Papara",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Papara, France\"}",
+    "at": "2026-02-09T11:31:03.297Z"
+  },
+  {
+    "slug": "hoenheim",
+    "city": "Hœnheim",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Hœnheim, France\"}",
+    "at": "2026-02-09T11:31:05.369Z"
+  },
+  {
+    "slug": "pace",
+    "city": "Pacé",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:31:17.940Z"
+  },
+  {
+    "slug": "bruay-sur-l-escaut",
+    "city": "Bruay-sur-l\\'Escaut",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Bruay-sur-l\\\\'Escaut, France\"}",
+    "at": "2026-02-09T11:31:59.269Z"
+  },
+  {
+    "slug": "saint-esteve",
+    "city": "Saint-Estève",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Estève, France\"}",
+    "at": "2026-02-09T11:32:24.701Z"
+  },
+  {
+    "slug": "saint-germain-les-arpajon",
+    "city": "Saint-Germain-lès-Arpajon",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Germain-lès-Arpajon, France\"}",
+    "at": "2026-02-09T11:32:26.771Z"
+  },
+  {
+    "slug": "pia",
+    "city": "Pia",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:32:35.895Z"
+  },
+  {
+    "slug": "riviere-pilote",
+    "city": "Rivière-Pilote",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Rivière-Pilote, France\"}",
+    "at": "2026-02-09T11:32:46.676Z"
+  },
+  {
+    "slug": "ancenis-saint-gereon",
+    "city": "Ancenis-Saint-Géréon",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Ancenis-Saint-Géréon, France\"}",
+    "at": "2026-02-09T11:32:48.744Z"
+  },
+  {
+    "slug": "noeux-les-mines",
+    "city": "Nœux-les-Mines",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Nœux-les-Mines, France\"}",
+    "at": "2026-02-09T11:32:55.930Z"
+  },
+  {
+    "slug": "les-avirons",
+    "city": "Les Avirons",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Les Avirons, France\"}",
+    "at": "2026-02-09T11:33:13.609Z"
+  },
+  {
+    "slug": "ploufragan",
+    "city": "Ploufragan",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Ploufragan, France\"}",
+    "at": "2026-02-09T11:33:15.688Z"
+  },
+  {
+    "slug": "la-hague",
+    "city": "La Hague",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"La Hague, France\"}",
+    "at": "2026-02-09T11:33:17.789Z"
+  },
+  {
+    "slug": "fourmies",
+    "city": "Fourmies",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:33:57.889Z"
+  },
+  {
+    "slug": "pamandzi",
+    "city": "Pamandzi",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Pamandzi, France\"}",
+    "at": "2026-02-09T11:33:59.957Z"
+  },
+  {
+    "slug": "dourdan",
+    "city": "Dourdan",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:34:48.196Z"
+  },
+  {
+    "slug": "sada",
+    "city": "Sada",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:36:34.791Z"
+  },
+  {
+    "slug": "riorges",
+    "city": "Riorges",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:36:44.826Z"
+  },
+  {
+    "slug": "ville-d-avray",
+    "city": "Ville-d\\'Avray",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:36:57.208Z"
+  },
+  {
+    "slug": "le-taillan-medoc",
+    "city": "Le Taillan-Médoc",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Taillan-Médoc, France\"}",
+    "at": "2026-02-09T11:37:03.358Z"
+  },
+  {
+    "slug": "doue-en-anjou",
+    "city": "Doué-en-Anjou",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Doué-en-Anjou, France\"}",
+    "at": "2026-02-09T11:37:10.145Z"
+  },
+  {
+    "slug": "la-chapelle-saint-mesmin",
+    "city": "La Chapelle-Saint-Mesmin",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"La Chapelle-Saint-Mesmin, France\"}",
+    "at": "2026-02-09T11:37:12.215Z"
+  },
+  {
+    "slug": "maromme",
+    "city": "Maromme",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Maromme, France\"}",
+    "at": "2026-02-09T11:38:12.928Z"
+  },
+  {
+    "slug": "mana",
+    "city": "Mana",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:38:17.057Z"
+  },
+  {
+    "slug": "le-pont-de-claix",
+    "city": "Le Pont-de-Claix",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Le Pont-de-Claix, France\"}",
+    "at": "2026-02-09T11:38:19.179Z"
+  },
+  {
+    "slug": "stiring-wendel",
+    "city": "Stiring-Wendel",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Stiring-Wendel, France\"}",
+    "at": "2026-02-09T11:38:21.279Z"
+  },
+  {
+    "slug": "saint-saulve",
+    "city": "Saint-Saulve",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Saulve, France\"}",
+    "at": "2026-02-09T11:38:37.124Z"
+  },
+  {
+    "slug": "saint-martin-boulogne",
+    "city": "Saint-Martin-Boulogne",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Saint-Martin-Boulogne, France\"}",
+    "at": "2026-02-09T11:38:54.232Z"
+  },
+  {
+    "slug": "brissac-loire-aubance",
+    "city": "Brissac Loire Aubance",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Brissac Loire Aubance, France\"}",
+    "at": "2026-02-09T11:39:04.618Z"
+  },
+  {
+    "slug": "chanteloup-les-vignes",
+    "city": "Chanteloup-les-Vignes",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Chanteloup-les-Vignes, France\"}",
+    "at": "2026-02-09T11:39:24.057Z"
+  },
+  {
+    "slug": "passy",
+    "city": "Passy",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:39:27.967Z"
+  },
+  {
+    "slug": "annoeullin",
+    "city": "Annœullin",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Annœullin, France\"}",
+    "at": "2026-02-09T11:39:30.034Z"
+  },
+  {
+    "slug": "teva-i-uta",
+    "city": "Teva I Uta",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Teva I Uta, France\"}",
+    "at": "2026-02-09T11:39:41.073Z"
+  },
+  {
+    "slug": "tinqueux",
+    "city": "Tinqueux",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Tinqueux, France\"}",
+    "at": "2026-02-09T11:40:07.330Z"
+  },
+  {
+    "slug": "boulazac-isle-manoire",
+    "city": "Boulazac Isle Manoire",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Boulazac Isle Manoire, France\"}",
+    "at": "2026-02-09T11:40:15.326Z"
+  },
+  {
+    "slug": "bora-bora",
+    "city": "Bora-Bora",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:40:19.367Z"
+  },
+  {
+    "slug": "beaumont",
+    "city": "Beaumont",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:40:33.779Z"
+  },
+  {
+    "slug": "etaples",
+    "city": "Étaples",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:40:47.716Z"
+  },
+  {
+    "slug": "port-jerome-sur-seine",
+    "city": "Port-Jérôme-sur-Seine",
+    "error": "Search API 400: {\"error\":\"Invalid location\",\"message\":\"Incorrect location. Please use English names only.\",\"provided_location\":\"Port-Jérôme-sur-Seine, France\"}",
+    "at": "2026-02-09T11:42:00.181Z"
+  },
+  {
+    "slug": "fosses",
+    "city": "Fosses",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:42:31.904Z"
+  },
+  {
+    "slug": "clermont",
+    "city": "Clermont",
+    "error": "No locations in results",
+    "at": "2026-02-09T11:42:39.764Z"
+  }
+]

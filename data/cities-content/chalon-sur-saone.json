@@ -1,0 +1,65 @@
+{
+  "slug": "chalon-sur-saone",
+  "cityName": "Chalon-sur-Saône",
+  "businessName": "Centre Laser Médical du Chalonnais",
+  "businesses": [
+    {
+      "name": "Centre Laser Médical du Chalonnais",
+      "category": "Centre d'épilation laser",
+      "address": "49 Av. de Paris, 71100 Chalon-sur-Sa%C3%B4ne",
+      "rating": 4.8,
+      "reviewCount": 56
+    },
+    {
+      "name": "Centre laser CtrlZ - Chalon sur Saône",
+      "category": "Centre d'épilation laser",
+      "address": "4 Rue Général Leclerc, 71100 Chalon-sur-Sa%C3%B4ne",
+      "rating": 5,
+      "reviewCount": 62
+    },
+    {
+      "name": "E-Magine Clinic Esthetic",
+      "category": "Centre d'épilation laser",
+      "address": "7 Rue de la Banque, 71100 Chalon-sur-Sa%C3%B4ne",
+      "rating": 5,
+      "reviewCount": 18
+    },
+    {
+      "name": "Centre stop tabac Chalon-sur-Saône - Sevrage laserOstop",
+      "category": "Naturopathe",
+      "address": "5 Rue Capitaine Drillien, 71100 Chalon-sur-Sa%C3%B4ne",
+      "rating": 4.8,
+      "reviewCount": 172
+    },
+    {
+      "name": "Dessenne Renaud",
+      "category": "Salon de piercing",
+      "address": "11 Rue Saint-Georges, 71100 Chalon-sur-Sa%C3%B4ne",
+      "rating": 4.8,
+      "reviewCount": 131
+    },
+    {
+      "name": "Cosmic Tattoo by Johanna Monti",
+      "category": "Tatoueur",
+      "address": "52 Rue Saint-Georges, 71100 Chalon-sur-Sa%C3%B4ne",
+      "rating": 4.9,
+      "reviewCount": 93
+    }
+  ],
+  "description": "Centre Laser Médical du Chalonnais fait partie des centres de détatouage laser à Chalon-sur-Saône. Avec une note de 4.8/5 sur 56 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Chalon-sur-Saône.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Le prix indicatif pour le détatouage est à partir de 90 euros par séance. Le prix dépend de la dimension du tatouage, sa complexité et son remplissage."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Le détatouage Est-il remboursé ?",
+      "answer": "Le tatouage étant considéré comme un acte esthétique, les séances de laser pour détatouage ne sont pas prises en charge par l'Assurance Maladie. Informez-vous auprès du dermatologue sur le nombre de séances nécessaires et leur coût avant de vous engager dans un processus de détatouage.26 févr. 2025"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:19:24.983Z"
+}

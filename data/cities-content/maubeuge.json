@@ -1,0 +1,52 @@
+{
+  "slug": "maubeuge",
+  "cityName": "Maubeuge",
+  "businessName": "Laserostop à Maubeuge",
+  "businesses": [
+    {
+      "name": "Laserostop à Maubeuge",
+      "category": "Programme de bien-être",
+      "address": "126 Av. de Ferrière, 59131 Rousies",
+      "rating": 4.8,
+      "reviewCount": 58
+    },
+    {
+      "name": "Vision Laser Hauts-de-France",
+      "category": "Clinique ophtalmologique",
+      "address": "Centre Hospitalier de Sambre Avesnois, Rue Simone Veil, 59600 Maubeuge",
+      "rating": 4.9,
+      "reviewCount": 95
+    },
+    {
+      "name": "Bellissime Clinique | Centre paramédical de cryolipolyse radiofréquence et épilation définitivePropose : Épilation laser",
+      "category": "Centre de bien-être",
+      "address": "9 rue du, Rue du 145ème RIF, 59600 Maubeuge",
+      "rating": 4.9,
+      "reviewCount": 46
+    },
+    {
+      "name": "ADDICT PIERCING TATTOO",
+      "category": "Salon de tatouage et piercing",
+      "address": "95 Av. de France, 59600 Maubeuge",
+      "rating": 4.6,
+      "reviewCount": 195
+    },
+    {
+      "name": "Nanakipik",
+      "category": "Salon de tatouage et piercing",
+      "address": "7 Av. Albert 1er, 59600 Maubeuge",
+      "rating": 4.8,
+      "reviewCount": 315
+    },
+    {
+      "name": "DE LA VEGA TATTOO",
+      "category": "Tatoueur",
+      "address": "Maison verte à c%C3%B4té de FORD, 46 Rte de Valenciennes, 59600 Maubeuge",
+      "rating": 4.9,
+      "reviewCount": 83
+    }
+  ],
+  "description": "Laserostop à Maubeuge fait partie des centres de détatouage laser à Maubeuge. Avec une note de 4.8/5 sur 58 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Maubeuge.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:33:23.822Z"
+}

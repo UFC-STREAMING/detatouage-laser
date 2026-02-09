@@ -1,0 +1,52 @@
+{
+  "slug": "baie-mahault",
+  "cityName": "Baie-Mahault",
+  "businessName": "Dr Sophie GUERLOT : Epilation Laser, Médecine Esthétique, Cryolipolyse, Epilation Définitive",
+  "businesses": [
+    {
+      "name": "Dr Sophie GUERLOT : Epilation Laser, Médecine Esthétique, Cryolipolyse, Epilation Définitive",
+      "category": "Centre d'épilation laser",
+      "address": "Baie-Mahault, Guadeloupe",
+      "rating": 4,
+      "reviewCount": 17
+    },
+    {
+      "name": "Centre Laser Esthétis Dr Riahi et Duchemin",
+      "category": "Centre d'épilation laser",
+      "address": "Baie-Mahault, Guadeloupe",
+      "rating": 4.2,
+      "reviewCount": 6
+    },
+    {
+      "name": "CENTRE LASER ESTHETIQUE DR KADJI",
+      "category": "Médecin",
+      "address": "Baie-Mahault, Guadeloupe",
+      "rating": 2.5,
+      "reviewCount": 8
+    },
+    {
+      "name": "Mediskin - Dr Sophie Guerlot - Epilation Laser Guadeloupe",
+      "category": "Centre d'épilation laser",
+      "address": "Baie-Mahault, Guadeloupe",
+      "rating": null,
+      "reviewCount": null
+    },
+    {
+      "name": "HAMALEYA - La Maison de Beauté par EPILPURE",
+      "category": "Centre d'épilation laser",
+      "address": "Baie-Mahault, Guadeloupe",
+      "rating": 4.9,
+      "reviewCount": 71
+    },
+    {
+      "name": "Centre Médecine Esthétique Guadeloupe",
+      "category": "Centre d'épilation laser",
+      "address": "Impasse Guy Cornely, au fond, Zac de Houelbourg - Jarry, Résidence Caducée, Baie-Mahault 97122, Guadeloupe",
+      "rating": 3.7,
+      "reviewCount": 3
+    }
+  ],
+  "description": "Dr Sophie GUERLOT : Epilation Laser, Médecine Esthétique, Cryolipolyse, Epilation Définitive fait partie des centres de détatouage laser à Baie-Mahault. Avec une note de 4/5 sur 17 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Baie-Mahault.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:30:37.939Z"
+}

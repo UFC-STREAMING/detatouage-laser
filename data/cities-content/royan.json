@@ -1,0 +1,65 @@
+{
+  "slug": "royan",
+  "cityName": "Royan",
+  "businessName": "Pôle Laser et Médical Royan Atlantique",
+  "businesses": [
+    {
+      "name": "Pôle Laser et Médical Royan Atlantique",
+      "category": "Centre médical",
+      "address": "Saint-Georges-de-Didonne",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "Maquillage Permanent Royan - Lymar Anastasiia",
+      "category": "Clinique de maquillage permanent",
+      "address": "Saint-Georges-de-Didonne",
+      "rating": 5,
+      "reviewCount": 116
+    },
+    {
+      "name": "DÉCLIC LASER",
+      "category": "Praticien de médecine alternative",
+      "address": "2 Rue du Ctre",
+      "rating": 4.8,
+      "reviewCount": 101
+    },
+    {
+      "name": "Dr Sandrine Doucet, Médecine Esthétique",
+      "category": "Médecin",
+      "address": "3 Bis Rue des Cerisiers",
+      "rating": 4.4,
+      "reviewCount": 38
+    },
+    {
+      "name": "LP.TECH AND CARE - Soins esthétiques avancés",
+      "category": "Centre d'épilation laser",
+      "address": "55 Bd du Colonel Robert Baillet",
+      "rating": 4.9,
+      "reviewCount": 42
+    },
+    {
+      "name": "Dr Philippine Rabaud-Carrié, Médecine Esthétique et Nutrition",
+      "category": "Médecin",
+      "address": "3-5 Rue Claude Bernard",
+      "rating": 5,
+      "reviewCount": 45
+    }
+  ],
+  "description": "Pôle Laser et Médical Royan Atlantique fait partie des centres de détatouage laser à Royan. Avec une note de 5/5 sur 1 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Royan.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Prix d'un détatouage laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Combien de séance laser détatouage ?",
+      "answer": "Prévoyez 3 à 5 séances seulement pour enlever un tatouage amateur, contre 4 à 12 pour effacer un tatouage professionnel. Notez que les tatouages exposés fréquemment au soleil sans protection, même s'ils sont plus clairs, risquent de s'effacer légèrement."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:52:35.535Z"
+}

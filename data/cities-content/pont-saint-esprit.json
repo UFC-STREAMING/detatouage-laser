@@ -1,0 +1,52 @@
+{
+  "slug": "pont-saint-esprit",
+  "cityName": "Pont-Saint-Esprit",
+  "businessName": "Casa de la Piel",
+  "businesses": [
+    {
+      "name": "Casa de la Piel",
+      "category": "Centre d'épilation laser",
+      "address": "13 Boul. Gambetta, 30130 Pont-Saint-Esprit",
+      "rating": 5,
+      "reviewCount": 14
+    },
+    {
+      "name": "Maison Rose Beauté (by Sarah)Propose : Épilation laser",
+      "category": "Institut de beauté",
+      "address": "13 Boul. Gambetta, 30130 Pont-Saint-Esprit",
+      "rating": 4.6,
+      "reviewCount": 85
+    },
+    {
+      "name": "Audrey L'artishow tatouages et illustrations",
+      "category": "Tatoueur",
+      "address": "4 Rue Pierre Taillant, 30130 Pont-Saint-Esprit",
+      "rating": 4.9,
+      "reviewCount": 22
+    },
+    {
+      "name": "La BaronnePropose : Lettrage de tatouage personnalisé",
+      "category": "Institut de beauté",
+      "address": "1 Bd Carnot, 30130 Pont-Saint-Esprit",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Institut Osmose Bien Être Massages",
+      "category": "Institut de beauté",
+      "address": "Cazerne Pépin, Boul. Gambetta, 30130 Pont-Saint-Esprit",
+      "rating": 4.9,
+      "reviewCount": 130
+    },
+    {
+      "name": "Le Manoir Baroca",
+      "category": "Salon de tatouage et piercing",
+      "address": "1 Bd Carnot, 30130 Pont-Saint-Esprit",
+      "rating": null,
+      "reviewCount": null
+    }
+  ],
+  "description": "Casa de la Piel fait partie des centres de détatouage laser à Pont-Saint-Esprit. Avec une note de 5/5 sur 14 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pont-Saint-Esprit.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:38:10.857Z"
+}

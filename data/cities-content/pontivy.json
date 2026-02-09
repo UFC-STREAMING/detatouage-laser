@@ -1,0 +1,65 @@
+{
+  "slug": "pontivy",
+  "cityName": "Pontivy",
+  "businessName": "Lyneskin Tattoo",
+  "businesses": [
+    {
+      "name": "Lyneskin Tattoo",
+      "category": "Tatoueur",
+      "address": "6 Rue Lorois, 56300 Pontivy",
+      "rating": 5,
+      "reviewCount": 37
+    },
+    {
+      "name": "Tattoo shop Np Da viken",
+      "category": "Salon de tatouage et piercing",
+      "address": "30 Rue Kroez-Person, 56920 Noyal-Pontivy",
+      "rating": 4.8,
+      "reviewCount": 72
+    },
+    {
+      "name": "Color Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "91 Rue du Général de Gaulle, 56300 Pontivy",
+      "rating": 4.1,
+      "reviewCount": 124
+    },
+    {
+      "name": "Aly tattoo",
+      "category": "Tatoueur",
+      "address": "6 Rue Lorois, 56300 Pontivy",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "PERCEA perçage corporel & bijouterie fine (Old Skull Shop)",
+      "category": "Salon de piercing",
+      "address": "10 Rue Leperdit, 56300 Pontivy",
+      "rating": 4.9,
+      "reviewCount": 180
+    },
+    {
+      "name": "Talwin tatoo",
+      "category": "Tatoueur",
+      "address": "3 Rue des Moulins, 56300 Pontivy",
+      "rating": 5,
+      "reviewCount": 4
+    }
+  ],
+  "description": "Lyneskin Tattoo fait partie des centres de détatouage laser à Pontivy. Avec une note de 5/5 sur 37 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pontivy.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Combien coûte le retrait d'un tatouage  ?",
+      "answer": "Le coût d'une séance de détatouage au laser se situe généralement entre 1 500 et 5 000 roupies . Ce prix dépend de la taille, de la couleur et des détails du tatouage. Pour éliminer complètement la plupart des tatouages, il faut compter entre 5 et 8 séances. C'est un investissement judicieux pour un résultat durable.11 août 2025"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:11:16.618Z"
+}

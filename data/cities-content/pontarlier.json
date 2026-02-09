@@ -1,0 +1,65 @@
+{
+  "slug": "pontarlier",
+  "cityName": "Pontarlier",
+  "businessName": "New Derma Center",
+  "businesses": [
+    {
+      "name": "New Derma Center",
+      "category": "Centre d'épilation laser",
+      "address": "38 Rue de Besan%C3%A7on, 25300 Pontarlier",
+      "rating": 4.7,
+      "reviewCount": 26
+    },
+    {
+      "name": "One Life No Complex",
+      "category": "Salon de tatouage et piercing",
+      "address": "6 Rue Jean Jaurès, 25300 Pontarlier",
+      "rating": 4.6,
+      "reviewCount": 132
+    },
+    {
+      "name": "D-Mo Studio",
+      "category": "Service de détatouage",
+      "address": "55 Grande Rue, 25560 Frasne",
+      "rating": 5,
+      "reviewCount": 1
+    },
+    {
+      "name": "CarlitattooPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "5 Fbg Saint-Etienne, 25300 Pontarlier",
+      "rating": 5,
+      "reviewCount": 22
+    },
+    {
+      "name": "Dany tattoo studio",
+      "category": "Tatoueur",
+      "address": "16 Rue Emile Magnin, 25300 Pontarlier",
+      "rating": 5,
+      "reviewCount": 109
+    },
+    {
+      "name": "Powerderm Ink",
+      "category": "Tatoueur",
+      "address": "4 Rue de la République, 25300 Pontarlier",
+      "rating": 4.7,
+      "reviewCount": 75
+    }
+  ],
+  "description": "New Derma Center fait partie des centres de détatouage laser à Pontarlier. Avec une note de 4.7/5 sur 26 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pontarlier.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:57:17.812Z"
+}

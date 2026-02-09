@@ -1,0 +1,65 @@
+{
+  "slug": "montlucon",
+  "cityName": "Montluçon",
+  "businessName": "Centre laser CtrlZ - Montluçon",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Montluçon",
+      "category": "Service de détatouage",
+      "address": "10 Bd de Courtais, 03100 Montlu%C3%A7on",
+      "rating": 5,
+      "reviewCount": 67
+    },
+    {
+      "name": "Esoter'ink",
+      "category": "Salon de tatouage et piercing",
+      "address": "22 Bd de Courtais, 03100 Montlu%C3%A7on",
+      "rating": 4.9,
+      "reviewCount": 18
+    },
+    {
+      "name": "Mtatouages",
+      "category": "Tatoueur",
+      "address": "7 Rue Barathon, 03100 Montlu%C3%A7on",
+      "rating": 4.8,
+      "reviewCount": 87
+    },
+    {
+      "name": "LASEROSTOP Montluçon",
+      "category": "Cabinet médical",
+      "address": "3 Quai Louis Blanc, 03100 Montlu%C3%A7on",
+      "rating": 4.9,
+      "reviewCount": 63
+    },
+    {
+      "name": "Rite Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "40 Rue Barathon, 03100 Montlu%C3%A7on",
+      "rating": 5,
+      "reviewCount": 40
+    },
+    {
+      "name": "JFG Clinic Montluçon",
+      "category": "Centre d'amincissement",
+      "address": "50 bis Bd de Courtais, 03100 Montlu%C3%A7on",
+      "rating": 4.9,
+      "reviewCount": 64
+    }
+  ],
+  "description": "Centre laser CtrlZ - Montluçon fait partie des centres de détatouage laser à Montluçon. Avec une note de 5/5 sur 67 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montluçon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:27:16.179Z"
+}

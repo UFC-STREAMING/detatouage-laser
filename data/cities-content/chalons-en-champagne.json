@@ -1,0 +1,65 @@
+{
+  "slug": "chalons-en-champagne",
+  "cityName": "Châlons-en-Champagne",
+  "businessName": "Le sale quart d'heure",
+  "businesses": [
+    {
+      "name": "Le sale quart d'heure",
+      "category": "Tatoueur",
+      "address": "29 Pl. de la République",
+      "rating": 4.8,
+      "reviewCount": 82
+    },
+    {
+      "name": "RESET LASER Châlons-en-Champagne – Arrêt tabac au laser",
+      "category": "Praticien de médecine alternative",
+      "address": "16 bis Rue des Martyrs de la Résistance, 51000 Ch%C3%A2lons-en-Champagne",
+      "rating": 5,
+      "reviewCount": 9
+    },
+    {
+      "name": "Dermo K'line",
+      "category": "Institut de beauté",
+      "address": "86 Av. de Sainte-Menehould",
+      "rating": 5,
+      "reviewCount": 60
+    },
+    {
+      "name": "LaserOstop Chalons-en-Champagne",
+      "category": "Programme de bien-être",
+      "address": "Fagnières",
+      "rating": 4.9,
+      "reviewCount": 63
+    },
+    {
+      "name": "SALON DE TATOUAGE COEUR D'ENCRE",
+      "category": "Tatoueur",
+      "address": "10 Rue de Fagnières",
+      "rating": 4.9,
+      "reviewCount": 287
+    },
+    {
+      "name": "Rockin' Needles Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "Saint-Memmie",
+      "rating": 4.9,
+      "reviewCount": 34
+    }
+  ],
+  "description": "Le sale quart d'heure fait partie des centres de détatouage laser à Châlons-en-Champagne. Avec une note de 4.8/5 sur 82 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Châlons-en-Champagne.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Quel est le prix pour enlever un tatouage au laser ?",
+      "answer": "Les coûts pour enlever les tatouages au laser varient en fonction de la taille, de la couleur, de la profondeur du tatouage et du nombre de séances nécessaires. En moyenne, les prix par séance peuvent aller de 100€ à 500€ ou plus, selon la complexité de la procédure et l'emplacement du tatouage."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:20:28.267Z"
+}

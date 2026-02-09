@@ -1,0 +1,52 @@
+{
+  "slug": "osny",
+  "cityName": "Osny",
+  "businessName": "Medesthétique Osny",
+  "businesses": [
+    {
+      "name": "Medesthétique Osny",
+      "category": "Spa médical",
+      "address": "1 Rue Christian Barnard, 95520 Osny",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis",
+      "category": "Cabinet médical",
+      "address": "alcool, sucre, cannabis, Espace Carnot, 10 Rue Carnot, 95300 Pontoise",
+      "rating": 5,
+      "reviewCount": 337
+    },
+    {
+      "name": "Institut du Laser - Cergy",
+      "category": "Centre d'épilation laser",
+      "address": "12 Rue des Chauffours, 95000 Cergy",
+      "rating": 4.7,
+      "reviewCount": 266
+    },
+    {
+      "name": "La passion du regard",
+      "category": "Esthéticien",
+      "address": "16 Rue Ampère, 95300 Pontoise",
+      "rating": 5,
+      "reviewCount": 69
+    },
+    {
+      "name": "Docteur Michaël SFEZ",
+      "category": "Centre d'épilation laser",
+      "address": "1 Rue Christian Barnard, 95520 Osny",
+      "rating": 3.3,
+      "reviewCount": 4
+    },
+    {
+      "name": "Dermo by SamPropose : Tatouage de sourcils",
+      "category": "Clinique de maquillage permanent",
+      "address": "le haut FR, 30 Bd de l'%C3%89vasion, 95800 Cergy",
+      "rating": 5,
+      "reviewCount": 39
+    }
+  ],
+  "description": "Medesthétique Osny fait partie des centres de détatouage laser à Osny. Avec une note de 5/5 sur 5 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Osny.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T10:57:36.452Z"
+}

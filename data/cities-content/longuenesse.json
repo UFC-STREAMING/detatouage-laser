@@ -1,0 +1,52 @@
+{
+  "slug": "longuenesse",
+  "cityName": "Longuenesse",
+  "businessName": "L' AIGUILLE TORDUE - Piercing Tatouage",
+  "businesses": [
+    {
+      "name": "L' AIGUILLE TORDUE - Piercing Tatouage",
+      "category": "Salon de tatouage et piercing",
+      "address": "52 Rue d'Arras, 62500 Saint-Omer",
+      "rating": 5,
+      "reviewCount": 460
+    },
+    {
+      "name": "Sublim Allure",
+      "category": "Service de détatouage",
+      "address": "6 Rue Maryse Bastié, 62219 Longuenesse",
+      "rating": 5,
+      "reviewCount": 3
+    },
+    {
+      "name": "Elite Sourcils",
+      "category": "Institut de beauté",
+      "address": "16 Rue du Huitième de Ligne, 62500 Saint-Omer",
+      "rating": 5,
+      "reviewCount": 179
+    },
+    {
+      "name": "Piercing By Madiana",
+      "category": "Salon de piercing",
+      "address": "6 Imp. du Chevalier au Cygne, 62500 Saint-Omer",
+      "rating": 4.9,
+      "reviewCount": 165
+    },
+    {
+      "name": "Ode à la beauté",
+      "category": "Institut de beauté",
+      "address": "16 Rue du Président Allende, 62219 Longuenesse",
+      "rating": 5,
+      "reviewCount": 43
+    },
+    {
+      "name": "Espace Santé Hippocrate",
+      "category": "Dermatologue",
+      "address": "103 Av. Clémenceau, 62219 Longuenesse",
+      "rating": 2.5,
+      "reviewCount": 13
+    }
+  ],
+  "description": "L' AIGUILLE TORDUE - Piercing Tatouage fait partie des centres de détatouage laser à Longuenesse. Avec une note de 5/5 sur 460 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Longuenesse.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:42:44.297Z"
+}

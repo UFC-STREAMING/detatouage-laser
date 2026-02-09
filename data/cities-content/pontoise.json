@@ -1,0 +1,65 @@
+{
+  "slug": "pontoise",
+  "cityName": "Pontoise",
+  "businessName": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis",
+  "businesses": [
+    {
+      "name": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis",
+      "category": "Cabinet médical",
+      "address": "alcool, sucre, cannabis, Espace Carnot, 10 Rue Carnot, 95300 Pontoise",
+      "rating": 5,
+      "reviewCount": 337
+    },
+    {
+      "name": "Medesthetik - Médecine Esthetique",
+      "category": "Centre de bien-être",
+      "address": "10 Rue Carnot, 95300 Pontoise",
+      "rating": 5,
+      "reviewCount": 26
+    },
+    {
+      "name": "Dermazia I Épilation au Laser - Soins Visage - Minceur & Nutrition",
+      "category": "Centre d'épilation laser",
+      "address": "14 Rue Carnot, 95300 Pontoise",
+      "rating": 4.9,
+      "reviewCount": 33
+    },
+    {
+      "name": "Lazeo Pontoise",
+      "category": "Centre d'épilation laser",
+      "address": "8 Pl. de l'H%C3%B4tel de ville, 95300 Pontoise",
+      "rating": 4.6,
+      "reviewCount": 262
+    },
+    {
+      "name": "Etern'Elle Skin [Microneedling, Plasmalift, HydraF, Peeling]",
+      "category": "Institut de beauté",
+      "address": "Plasmalift, HydraF, Peeling%5D, 12 bis Rue Charles Daubigny, 95300 Pontoise",
+      "rating": 5,
+      "reviewCount": 133
+    },
+    {
+      "name": "Dr Mateo Delamarre Maryse | Médecin esthétiquePropose : Épilation laser",
+      "category": "Médecin",
+      "address": "29 Bis Rue Alexandre Prachay, 95300 Pontoise",
+      "rating": 4.1,
+      "reviewCount": 125
+    }
+  ],
+  "description": "Alliance Laser Pontoise – Aide au Sevrage tabac, alcool, sucre, cannabis fait partie des centres de détatouage laser à Pontoise. Avec une note de 5/5 sur 337 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Pontoise.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:28:32.666Z"
+}

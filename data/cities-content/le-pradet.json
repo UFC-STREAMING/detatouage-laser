@@ -1,0 +1,31 @@
+{
+  "slug": "le-pradet",
+  "cityName": "Le Pradet",
+  "businessName": "Centre Dermo Esthétique & Formations - Nathalie RIQUET, Vice-Championne d’Europe de Maquillage Permanent - Le Pradet",
+  "businesses": [
+    {
+      "name": "Centre Dermo Esthétique & Formations - Nathalie RIQUET, Vice-Championne d’Europe de Maquillage Permanent - Le Pradet",
+      "category": "Centre d'épilation laser",
+      "address": "Vice-Championne d%E2%80%99Europe de Maquillage Permanent - Le Pradet, 155 Av. de la Première Dfl, 83220 Le Pradet",
+      "rating": 5,
+      "reviewCount": 52
+    },
+    {
+      "name": "Inkoff - détatouage laser picoseconde Toulon",
+      "category": "Service de détatouage",
+      "address": "42 Rue Paul Lendrin, 83000 Toulon",
+      "rating": 4.9,
+      "reviewCount": 90
+    },
+    {
+      "name": "Idyllik Tattoo",
+      "category": "Tatoueur",
+      "address": "Résidence le Monaco, Rue Claude Debussy, 83220 Le Pradet",
+      "rating": 4.6,
+      "reviewCount": 22
+    }
+  ],
+  "description": "Centre Dermo Esthétique & Formations - Nathalie RIQUET, Vice-Championne d’Europe de Maquillage Permanent - Le Pradet fait partie des centres de détatouage laser à Le Pradet. Avec une note de 5/5 sur 52 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Le Pradet.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:38:45.729Z"
+}

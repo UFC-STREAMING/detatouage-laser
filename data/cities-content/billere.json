@@ -1,0 +1,40 @@
+{
+  "slug": "billere",
+  "cityName": "Billère",
+  "businessName": "Épines noires studio",
+  "businesses": [
+    {
+      "name": "Épines noires studio",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 Chem. Latéral, 64140 Billère",
+      "rating": 5,
+      "reviewCount": 44
+    },
+    {
+      "name": "LuxDerm Academy",
+      "category": "Institut de beauté",
+      "address": "Espace de la Linière1, 15 Rue Faraday, 64140 Billère",
+      "rating": 4.9,
+      "reviewCount": 72
+    },
+    {
+      "name": "Eden Expert & co",
+      "category": "Centre d'épilation laser",
+      "address": "86 Rte de Bayonne, 64140 Billère",
+      "rating": 4.8,
+      "reviewCount": 122
+    }
+  ],
+  "description": "Épines noires studio fait partie des centres de détatouage laser à Billère. Avec une note de 5/5 sur 44 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Billère.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix d'un détatouage ?",
+      "answer": "Le prix de la séance varie de 300 € à 600 €."
+    },
+    {
+      "question": "Prix tatouage tache de rousseur ?",
+      "answer": "Combien coûtent les tatouages de taches de rousseur? Chez nous, les prix varient entre 140 et 220 euros et dépendent généralement du nombre de tâches de rousseur que vous souhaitez injecter dans vos joues et votre nez.3 mai 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:12:51.508Z"
+}

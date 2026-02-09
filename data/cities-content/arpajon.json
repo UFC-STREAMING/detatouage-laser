@@ -1,0 +1,65 @@
+{
+  "slug": "arpajon",
+  "cityName": "Arpajon",
+  "businessName": "Rituel Tattoo",
+  "businesses": [
+    {
+      "name": "Rituel Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "14 Rue des Processions, 91290 Arpajon",
+      "rating": 4.7,
+      "reviewCount": 290
+    },
+    {
+      "name": "Karma",
+      "category": "Centre d'épilation laser",
+      "address": "12 Bd Pierre Brossolette, 91290 Arpajon",
+      "rating": 5,
+      "reviewCount": 15
+    },
+    {
+      "name": "What’s up Tattoo collectif",
+      "category": "Tatoueur",
+      "address": "10 Rue Gambetta, 91290 Arpajon",
+      "rating": 4.7,
+      "reviewCount": 127
+    },
+    {
+      "name": "FEE DU REGARD , Essonne, microblading microshading candylips eye-liner blanchiment, strass dentaire, ArpajonPropose : Tatouage de sourcils",
+      "category": "Institut de beauté",
+      "address": "Essonne, microblading microshading candylips eye-liner blanchiment, strass dentaire, Arpajon, 106 bis Av. de Verdun, 91520 %C3%89gly",
+      "rating": 4.9,
+      "reviewCount": 53
+    },
+    {
+      "name": "Princess Madness",
+      "category": "Artiste",
+      "address": "14 Rue des Processions, 91290 Arpajon",
+      "rating": 5,
+      "reviewCount": 32
+    },
+    {
+      "name": "Centre Gaba - Laser Anti Tabac 91 - Alcool - Cannabis - Sucre - Auriculothérapie Arpajon",
+      "category": "Praticien de médecine alternative",
+      "address": "117 Grande Rue, 91290 Arpajon",
+      "rating": 4.9,
+      "reviewCount": 68
+    }
+  ],
+  "description": "Rituel Tattoo fait partie des centres de détatouage laser à Arpajon. Avec une note de 4.7/5 sur 290 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Arpajon.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:31:29.535Z"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "challans",
+  "cityName": "Challans",
+  "businessName": "Au rouge gorge tatoué(atelier du tatouage)",
+  "businesses": [
+    {
+      "name": "Au rouge gorge tatoué(atelier du tatouage)",
+      "category": "Salon de tatouage et piercing",
+      "address": "11 Rue Bonne Fontaine, 85300 Challans",
+      "rating": 4.9,
+      "reviewCount": 400
+    },
+    {
+      "name": "N&H Naïssa & Horka Tattoo",
+      "category": "Salon de tatouage et piercing",
+      "address": "3 Rue du Général Leclerc, 85300 Challans",
+      "rating": 5,
+      "reviewCount": 57
+    },
+    {
+      "name": "EXLIBRISTATOUEUR Medical cover tattoo",
+      "category": "Tatoueur",
+      "address": "17 Chem. de la Foudrière, 85300 Challans",
+      "rating": 5,
+      "reviewCount": 278
+    },
+    {
+      "name": "L’atelier Des K’Encres",
+      "category": "Tatoueur",
+      "address": "3 Rue du Four Banal, 85300 Challans",
+      "rating": 5,
+      "reviewCount": 23
+    },
+    {
+      "name": "Léo_Némésis",
+      "category": "Tatoueur",
+      "address": "2 Rue Gallieni, 85300 Challans",
+      "rating": 4.9,
+      "reviewCount": 14
+    },
+    {
+      "name": "O&Pastels Tattoo EI",
+      "category": "Tatoueur",
+      "address": "Rue Gallieni, 85300 Challans",
+      "rating": 4.9,
+      "reviewCount": 80
+    }
+  ],
+  "description": "Au rouge gorge tatoué(atelier du tatouage) fait partie des centres de détatouage laser à Challans. Avec une note de 4.9/5 sur 400 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Challans.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le coût d'un détatouage ?",
+      "answer": "Combien coûte le détatouage laser ?DétatouageLa séance Tarifs TTCPetite zone (carte de visite)80€Zone moyenne150€Grande zoneSur devis"
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Combien de temps dure une séance de détatouage au laser ?",
+      "answer": "Durée d'une séance de détatouage laser En général, une session va durer entre 5 et 30 minutes. Les petits tatouages peuvent nécessiter seulement quelques minutes, tandis que les tatouages plus grands ou plus complexes peuvent exiger une séance plus longue jusqu'à 45 minutes.4 janv. 2024"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:42:29.248Z"
+}

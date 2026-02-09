@@ -1,0 +1,44 @@
+{
+  "slug": "plerin",
+  "cityName": "Plérin",
+  "businessName": "Centre laser CtrlZ - Saint Brieuc",
+  "businesses": [
+    {
+      "name": "Centre laser CtrlZ - Saint Brieuc",
+      "category": "Service de détatouage",
+      "address": "19 Rue Marcel Proust, 22000 Saint-Brieuc",
+      "rating": 5,
+      "reviewCount": 74
+    },
+    {
+      "name": "Encre Les LignesPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "25 Bis Rue Adolphe le Bail, 22190 Plérin",
+      "rating": 4.9,
+      "reviewCount": 94
+    },
+    {
+      "name": "Aude A L'aiguille Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "4 Rue du Maréchal Foch, 22000 Saint-Brieuc",
+      "rating": 5,
+      "reviewCount": 153
+    }
+  ],
+  "description": "Centre laser CtrlZ - Saint Brieuc fait partie des centres de détatouage laser à Plérin. Avec une note de 5/5 sur 74 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Plérin.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quelle est la méthode de détatouage la plus efficace ?",
+      "answer": "Le laser PiQo4 est le laser le plus puissant du marché pour l'élimination des tatouages \\u200b\\u200bde toutes les couleurs, des taches brunes, des taches solaires, des marques de naissance et de la pigmentation du mélasma."
+    },
+    {
+      "question": "Comment est la peau après un détatouage ?",
+      "answer": "Comment est la peau après un détatouage ? Juste après la séance, la peau est souvent un peu rouge et gonflée. En cicatrisant, elle peut devenir sèche ou former des croûtes. À long terme, elle retrouve généralement son aspect initial, surtout si les soins sont respectés."
+    },
+    {
+      "question": "Quelle est la différence entre le détatouage à la lumière pulsée et le détatouage au laser ?",
+      "answer": "Le détatouage au laser est plus précis et ciblé, idéal pour éliminer les pigments en profondeur sans trop affecter la peau environnante. En revanche, la lumière pulsée est moins adaptée pour les tatouages, car elle cible de larges zones et peut être moins efficace sur les encres résistances."
+    }
+  ],
+  "fetchedAt": "2026-02-09T11:12:38.542Z"
+}

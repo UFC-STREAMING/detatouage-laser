@@ -1,0 +1,65 @@
+{
+  "slug": "villeparisis",
+  "cityName": "Villeparisis",
+  "businessName": "LUMIERE DE LOTUS",
+  "businesses": [
+    {
+      "name": "LUMIERE DE LOTUS",
+      "category": "Centre d'épilation laser",
+      "address": "157 Av. du Général de Gaulle, 77270 Villeparisis",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Optimum Laser",
+      "category": "Médecin",
+      "address": "17 Bd de l'Ourcq, 77270 Villeparisis",
+      "rating": 5,
+      "reviewCount": 5
+    },
+    {
+      "name": "Lazer'Up Solution",
+      "category": "Praticien de médecine alternative",
+      "address": "8 Av. Montaigne, 77270 Villeparisis",
+      "rating": 4.9,
+      "reviewCount": 12
+    },
+    {
+      "name": "Maikiu TattooPropose : Tatouage",
+      "category": "Tatoueur",
+      "address": "157 Av. du Général de Gaulle, 77270 Villeparisis",
+      "rating": 4.9,
+      "reviewCount": 273
+    },
+    {
+      "name": "INKCUP - tattoo & piercings sur RDV",
+      "category": "Tatoueur",
+      "address": "sur RDV, Av. des Iris, 77290 Mitry-Mory",
+      "rating": 5,
+      "reviewCount": 131
+    },
+    {
+      "name": "Jade beauté villeparisis",
+      "category": "Institut de beauté",
+      "address": "144 Av. Charles Gide, 77270 Villeparisis",
+      "rating": 4.7,
+      "reviewCount": 356
+    }
+  ],
+  "description": "LUMIERE DE LOTUS fait partie des centres de détatouage laser à Villeparisis. Avec une note de 5/5 sur 10 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Villeparisis.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "Prix d'un détatouage au laser au Centre Laser CLIPP à ParisTRAITEMENTS DES PIGMENTATIONS (Laser PicoSure®)TARIFS (TTC)Petit détatouage au laser (5 cm x 5 cm maximum)à partir de 250 €Détatouage grande surface (à partir de…)à partir de 350 €"
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:35:47.047Z"
+}

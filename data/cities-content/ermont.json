@@ -1,0 +1,44 @@
+{
+  "slug": "ermont",
+  "cityName": "Ermont",
+  "businessName": "Centre Laser Clinique Claude Bernard",
+  "businesses": [
+    {
+      "name": "Centre Laser Clinique Claude Bernard",
+      "category": "Service de détatouage",
+      "address": "9 Av. Louis Armand, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 207
+    },
+    {
+      "name": "Centre Médical Laser du Val d'Oise",
+      "category": "Institut de beauté",
+      "address": "20 Rue du 18 Juin, 95120 Ermont",
+      "rating": 4.6,
+      "reviewCount": 36
+    },
+    {
+      "name": "DERM LASER - Epilation laser et électrolyse Ermont",
+      "category": "Centre d'épilation laser",
+      "address": "46 Rue de Stalingrad, 95120 Ermont",
+      "rating": 5,
+      "reviewCount": 47
+    }
+  ],
+  "description": "Centre Laser Clinique Claude Bernard fait partie des centres de détatouage laser à Ermont. Avec une note de 4.6/5 sur 207 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Ermont.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Quel est le coût habituel d'un détatouage au laser  ?",
+      "answer": "Le coût d'une séance de détatouage au laser aux États-Unis varie généralement entre 200 et 500 dollars , en fonction de la taille, de l'ancienneté, de l'emplacement et des couleurs d'encre du tatouage. Un prix unique pour un résultat optimal."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:32:46.084Z"
+}

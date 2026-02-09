@@ -1,0 +1,52 @@
+{
+  "slug": "castelnaudary",
+  "cityName": "Castelnaudary",
+  "businessName": "Centre Purderma - Soins dermo-esthétique & Epilation définitive/Laser",
+  "businesses": [
+    {
+      "name": "Centre Purderma - Soins dermo-esthétique & Epilation définitive/Laser",
+      "category": "Centre d'épilation laser",
+      "address": "55 Rue du Général Dejean, 11400 Castelnaudary",
+      "rating": 4.9,
+      "reviewCount": 59
+    },
+    {
+      "name": "Dernière ligne droite......Pan.tattoos",
+      "category": "Tatoueur",
+      "address": "10bis Rue de Dunkerque, 11400 Castelnaudary",
+      "rating": 5,
+      "reviewCount": 12
+    },
+    {
+      "name": "MRN Body Piercing",
+      "category": "Salon de tatouage et piercing",
+      "address": "36 Rue de Dunkerque, 11400 Castelnaudary",
+      "rating": 5,
+      "reviewCount": 31
+    },
+    {
+      "name": "Mel’Art Esthéticienne au Centre Purderma",
+      "category": "Institut de beauté",
+      "address": "55 Rue du Général Dejean, 11400 Castelnaudary",
+      "rating": 5,
+      "reviewCount": 10
+    },
+    {
+      "name": "Denisa Beauty",
+      "category": "Institut de beauté",
+      "address": "6 Rue Soumet, 11400 Castelnaudary",
+      "rating": 5,
+      "reviewCount": 22
+    },
+    {
+      "name": "Laser grav E.I",
+      "category": "Graveur",
+      "address": "75 Chem. Co de Fauré, 11400 Castelnaudary",
+      "rating": 4.8,
+      "reviewCount": 24
+    }
+  ],
+  "description": "Centre Purderma - Soins dermo-esthétique & Epilation définitive/Laser fait partie des centres de détatouage laser à Castelnaudary. Avec une note de 4.9/5 sur 59 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Castelnaudary.",
+  "peopleAlsoAsk": [],
+  "fetchedAt": "2026-02-09T11:27:59.943Z"
+}

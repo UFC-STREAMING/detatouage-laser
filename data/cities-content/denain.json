@@ -1,0 +1,44 @@
+{
+  "slug": "denain",
+  "cityName": "Denain",
+  "businessName": "Le Croc d'Encre - Salon de tatouage Escaudain",
+  "businesses": [
+    {
+      "name": "Le Croc d'Encre - Salon de tatouage Escaudain",
+      "category": "Tatoueur",
+      "address": "8 Rue Félicien Joly, 59124 Escaudain",
+      "rating": 4.7,
+      "reviewCount": 57
+    },
+    {
+      "name": "Hipstattoo",
+      "category": "Tatoueur",
+      "address": "217 Rue de Villars, 59220 Denain",
+      "rating": 4.9,
+      "reviewCount": 69
+    },
+    {
+      "name": "Truc de fille",
+      "category": "Institut de beauté",
+      "address": "26 Bd d'Alès, 59220 Denain",
+      "rating": 5,
+      "reviewCount": 19
+    }
+  ],
+  "description": "Le Croc d'Encre - Salon de tatouage Escaudain fait partie des centres de détatouage laser à Denain. Avec une note de 4.7/5 sur 57 avis, les patients confirment la qualité des traitements proposés. 3 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Denain.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Quel est le prix moyen d'un détatouage ?",
+      "answer": "La consultation avec le dermatologue lasériste vous permet d'obtenir un devis précis selon votre cas. En moyenne, les tarifs par séance constatés se situent entre 200 et 300 euros environ."
+    },
+    {
+      "question": "Quel est le prix d'un détatouage au laser ?",
+      "answer": "En général dans la plupart des centres laser médicaux qui pratiquent le détatouage, la surface de mesure est 5 cm2. Le prix est de 60€ par 5cm2 ou 80€ pour 10 cm2."
+    },
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:48:31.233Z"
+}

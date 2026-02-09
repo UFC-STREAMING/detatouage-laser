@@ -1,0 +1,65 @@
+{
+  "slug": "montigny-le-bretonneux",
+  "cityName": "Montigny-le-Bretonneux",
+  "businessName": "laserostop montigny-le-bretonneux",
+  "businesses": [
+    {
+      "name": "laserostop montigny-le-bretonneux",
+      "category": "Clinique spécialisée",
+      "address": "5a Av. des Prés",
+      "rating": 4.8,
+      "reviewCount": 233
+    },
+    {
+      "name": "The 11 Studio",
+      "category": "Institut de beauté",
+      "address": "33 Av. du Manet, 78180 Montigny-le-Bretonneux",
+      "rating": 4.9,
+      "reviewCount": 28
+    },
+    {
+      "name": "Docteur Lecat Geneviève Médecine Générale et Esthétique",
+      "category": "Médecin",
+      "address": "1 Rue Romain Gary",
+      "rating": 4,
+      "reviewCount": 60
+    },
+    {
+      "name": "Caring studio",
+      "category": "Institut de beauté",
+      "address": "5 Pl. Colbert",
+      "rating": 4.3,
+      "reviewCount": 34
+    },
+    {
+      "name": "Lady Blackwood Piercings",
+      "category": "Salon de piercing",
+      "address": "5 Av. des Prés Bâtiment 5A - 4e étage",
+      "rating": 5,
+      "reviewCount": 213
+    },
+    {
+      "name": "Smile World- Montigny",
+      "category": "Centre de loisirs",
+      "address": "12 Quai François Truffaut",
+      "rating": 4.6,
+      "reviewCount": null
+    }
+  ],
+  "description": "laserostop montigny-le-bretonneux fait partie des centres de détatouage laser à Montigny-le-Bretonneux. Avec une note de 4.8/5 sur 233 avis, les patients confirment la qualité des traitements proposés. 6 centres spécialisés sont référencés dans la région pour le retrait de tatouage au laser. Demandez votre devis gratuit pour connaître le tarif adapté à votre tatouage à Montigny-le-Bretonneux.",
+  "peopleAlsoAsk": [
+    {
+      "question": "Comment coûte un détatouage ?",
+      "answer": "Le traitement de détatouage PicoWayᴹᴰ débute à 180 $. Le coût peut varier selon la taille du tatouage et la zone à traiter."
+    },
+    {
+      "question": "Est-ce que le détatouage marche vraiment ?",
+      "answer": "Oui, le détatouage fonctionne sur tous les types de tatouages, sur toutes les zones (visage et corps) et sur tous les types de peau. C'est la meilleure solution pour ceux qui regrettent de s'être fait tatouer et veulent enlever leur tatouage. Ce traitement ne met pas en danger votre santé et présente peu de risques."
+    },
+    {
+      "question": "Est-ce que le détatouage est remboursé par la sécurité ?",
+      "answer": "Le détatouage est considéré comme un acte esthétique non médical, similaire à une épilation définitive ou une chirurgie esthétique. Il n'est donc pas pris en charge par la Sécurité sociale, sauf en cas de justification médicale validée par un professionnel de santé.7 janv. 2026"
+    }
+  ],
+  "fetchedAt": "2026-02-09T10:27:58.753Z"
+}
