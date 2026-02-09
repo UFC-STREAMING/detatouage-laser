@@ -236,6 +236,8 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
                   id="firstName"
                   name="firstName"
                   required
+                  minLength={2}
+                  maxLength={50}
                   placeholder="Jean"
                 />
                 {errors?.firstName && (
@@ -254,6 +256,8 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
                   id="lastName"
                   name="lastName"
                   required
+                  minLength={2}
+                  maxLength={50}
                   placeholder="Dupont"
                 />
                 {errors?.lastName && (
@@ -291,6 +295,9 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
                 id="phone"
                 name="phone"
                 required
+                inputMode="tel"
+                pattern="^(?:(?:\+|00)33|0)\s*[1-9](?:[\s.\-]*\d{2}){4}$"
+                title="Numéro de téléphone français (ex: 06 12 34 56 78)"
                 placeholder="06 12 34 56 78"
               />
               {errors?.phone && (
@@ -310,7 +317,11 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
                 name="postalCode"
                 required
                 defaultValue={initialPostalCode}
+                minLength={5}
                 maxLength={5}
+                pattern="\d{5}"
+                inputMode="numeric"
+                title="Code postal à 5 chiffres"
                 placeholder="75001"
               />
               {errors?.postalCode && (
@@ -328,6 +339,7 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
                 id="message"
                 name="message"
                 rows={4}
+                maxLength={1000}
                 placeholder="Informations complémentaires sur votre tatouage..."
               />
               {errors?.message && (

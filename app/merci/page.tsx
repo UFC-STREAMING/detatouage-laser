@@ -13,8 +13,9 @@ export const metadata: Metadata = {
 
 export default function ThankYouPage() {
   return (
-    <div className="container mx-auto px-4 py-16">
-      <div className="max-w-2xl mx-auto text-center">
+    <div className="section">
+      <div className="container">
+        <div className="max-w-2xl mx-auto text-center">
         <div className="w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-8" style={{ background: 'var(--color-primary-lighter)' }}>
           <CheckCircle2 className="w-16 h-16" style={{ color: 'var(--color-primary-light)' }} />
         </div>
@@ -81,6 +82,7 @@ export default function ThankYouPage() {
         <p className="text-sm mt-8" style={{ color: 'var(--text-secondary)' }}>
           Un email de confirmation a été envoyé à l'adresse que vous avez fournie.
         </p>
+      </div>
       </div>
     </div>
   );

@@ -26,8 +26,8 @@ export default function PrixPage() {
       />
 
       {/* Introduction */}
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
+      <section className="section bg-white">
+        <div className="container">
           <div className="max-w-4xl mx-auto text-center mb-12">
             <h2 className="text-3xl font-bold text-[var(--color-primary)] mb-6">
               Combien coûte un détatouage laser ?
@@ -96,8 +96,8 @@ export default function PrixPage() {
       </section>
 
       {/* Facteurs de prix */}
-      <section className="py-16 bg-[var(--bg-secondary)]">
-        <div className="container mx-auto px-4">
+      <section className="section" style={{ background: 'var(--bg-secondary)' }}>
+        <div className="container">
           <h2 className="text-3xl font-bold text-center text-[var(--color-primary)] mb-12">
             Les facteurs qui influencent le prix
           </h2>
@@ -167,8 +167,8 @@ export default function PrixPage() {
       </section>
 
       {/* Coût total estimé */}
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
+      <section className="section bg-white">
+        <div className="container">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-center text-[var(--color-primary)] mb-8">
               Estimation du coût total
@@ -228,13 +228,13 @@ export default function PrixPage() {
       </section>
 
       {/* Quote Form */}
-      <div className="container mx-auto px-4">
+      <div className="container">
         <QuoteForm />
       </div>
 
       {/* FAQ Prix */}
-      <section className="py-16 bg-[var(--bg-secondary)]">
-        <div className="container mx-auto px-4">
+      <section className="section" style={{ background: 'var(--bg-secondary)' }}>
+        <div className="container">
           <h2 className="text-2xl font-bold text-center text-[var(--color-primary)] mb-8">
             Questions fréquentes sur les prix
           </h2>

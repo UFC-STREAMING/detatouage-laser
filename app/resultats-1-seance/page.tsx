@@ -24,8 +24,8 @@ export default function Resultats1SeancePage() {
         height="medium"
       />
 
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
+      <section className="section bg-white">
+        <div className="container">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-center text-[var(--color-primary)] mb-8">
               Qu'est-ce que le "Frosting" ?
@@ -99,7 +99,7 @@ export default function Resultats1SeancePage() {
         </div>
       </section>
 
-      <div className="container mx-auto px-4">
+      <div className="container">
         <QuoteForm />
       </div>
     </>

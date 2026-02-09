@@ -25,8 +25,8 @@ export default function AvantApresPage() {
         height="medium"
       />
 
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-4">
+      <section className="section bg-white">
+        <div className="container">
           <div className="max-w-5xl mx-auto">
             <h2 className="text-3xl font-bold text-center text-[var(--color-primary)] mb-12">
               Comprendre les phases du détatouage
@@ -108,8 +108,8 @@ export default function AvantApresPage() {
         </div>
       </section>
 
-      <section className="py-16 bg-[var(--bg-secondary)]">
-        <div className="container mx-auto px-4">
+      <section className="section" style={{ background: 'var(--bg-secondary)' }}>
+        <div className="container">
           <div className="max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-center text-[var(--color-primary)] mb-8">
               À quoi s'attendre après une séance
@@ -156,7 +156,7 @@ export default function AvantApresPage() {
         </div>
       </section>
 
-      <div className="container mx-auto px-4">
+      <div className="container">
         <QuoteForm />
       </div>
     </>

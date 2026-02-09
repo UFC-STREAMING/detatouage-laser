@@ -11,8 +11,9 @@ export const metadata: Metadata = {
 
 export default function MentionsLegalesPage() {
   return (
-    <div className="container mx-auto px-4 py-16">
-      <div className="max-w-4xl mx-auto">
+    <div className="section">
+      <div className="container">
+        <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold text-[var(--color-primary)] mb-8">Mentions Légales</h1>
 
         <div className="prose prose-lg max-w-none">
@@ -91,6 +92,7 @@ export default function MentionsLegalesPage() {
             Dernière mise à jour : {new Date().toLocaleDateString('fr-FR', { year: 'numeric', month: 'long', day: 'numeric' })}
           </p>
         </div>
+      </div>
       </div>
     </div>
   );

@@ -72,11 +72,20 @@ export const metadata: Metadata = {
     siteName: "Détatouage Laser",
     title: "Détatouage Laser - Retrait de Tatouage par Laser",
     description: "Spécialiste du retrait de tatouage par laser en France",
+    images: [
+      {
+        url: "/images/Acceuil-detatouage.png",
+        width: 1200,
+        height: 630,
+        alt: "Détatouage Laser - Spécialiste du retrait de tatouage en France",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Détatouage Laser - Retrait de Tatouage par Laser",
     description: "Spécialiste du retrait de tatouage par laser en France. Devis gratuit.",
+    images: ["/images/Acceuil-detatouage.png"],
   },
   robots: {
     index: true,
