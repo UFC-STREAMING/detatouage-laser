@@ -79,7 +79,7 @@ export default async function CityPage({ params }: Props) {
 
   return (
     <>
-      <FAQSchema />
+      <FAQSchema cityName={city.name} departmentName={city.department.name} />
       <LocalBusinessSchema
         city={city.name}
         department={city.department.name}

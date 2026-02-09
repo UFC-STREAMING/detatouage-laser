@@ -1,5 +1,3 @@
-"use client";
-
 import Image from "next/image";
 import { Phone } from "lucide-react";
 
@@ -26,13 +24,6 @@ export function HeroSection({
     small: "h-[300px] sm:h-[350px] md:h-[400px]",
     medium: "h-[450px] sm:h-[500px] md:h-[550px]",
     large: "h-[500px] sm:h-[550px] md:h-[600px] lg:h-[650px]",
-  };
-
-  const scrollToForm = () => {
-    const formElement = document.getElementById("quote-form");
-    if (formElement) {
-      formElement.scrollIntoView({ behavior: "smooth" });
-    }
   };
 
   return (
@@ -95,22 +86,21 @@ export function HeroSection({
             </p>
           )}
 
-          {/* CTA Button - thumb-accessible sur mobile */}
+          {/* CTA Link - accessible, right-click friendly */}
           {ctaText && ctaHref && (
-            <button
-              onClick={scrollToForm}
-              className="inline-flex items-center justify-center gap-3 px-8 sm:px-10 py-4 sm:py-5 rounded-full font-bold text-base sm:text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95"
+            <a
+              href={ctaHref}
+              className="inline-flex items-center justify-center gap-3 px-8 sm:px-10 py-4 sm:py-5 rounded-full font-bold text-base sm:text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95 max-w-full"
               style={{
                 background: "linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))",
                 boxShadow: "0 8px 30px rgba(234, 107, 66, 0.5)",
                 minHeight: "56px",
-                minWidth: "280px",
                 color: "#ffffff",
               }}
             >
               <Phone className="w-5 h-5 sm:w-6 sm:h-6" />
               {ctaText}
-            </button>
+            </a>
           )}
         </div>
       </div>

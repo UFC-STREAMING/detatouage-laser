@@ -82,7 +82,7 @@ export default async function DepartmentPage({ params }: Props) {
 
   return (
     <>
-      <FAQSchema />
+      <FAQSchema departmentName={department.name} />
       <BreadcrumbSchema
         items={[
           { name: "Accueil", url: "/" },

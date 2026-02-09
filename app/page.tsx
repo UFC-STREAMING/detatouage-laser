@@ -326,60 +326,66 @@ export default function HomePage() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="card">
-              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+          <div className="max-w-3xl mx-auto space-y-4">
+            <details className="card group">
+              <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Combien coûte un détatouage ?
-              </h3>
-              <p style={{ color: 'var(--text-secondary)' }}>
+                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+              </summary>
+              <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Le prix varie selon la surface du tatouage. Comptez en moyenne entre 80€ et 300€ par séance. Nous proposons des devis gratuits et personnalisés.
               </p>
-            </div>
+            </details>
 
-            <div className="card">
-              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+            <details className="card group">
+              <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Peut-on retatouer sur un détatouage ?
-              </h3>
-              <p style={{ color: 'var(--text-secondary)' }}>
+                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+              </summary>
+              <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Oui, le "cover" est tout à fait possible une fois la peau complètement cicatrisée après le traitement laser.
               </p>
-            </div>
+            </details>
 
-            <div className="card">
-              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+            <details className="card group">
+              <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Est-ce que le détatouage fait mal ?
-              </h3>
-              <p style={{ color: 'var(--text-secondary)' }}>
+                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+              </summary>
+              <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 La sensation est comparable à un claquement d'élastique. Une crème anesthésiante est appliquée avant la séance pour minimiser l'inconfort.
               </p>
-            </div>
+            </details>
 
-            <div className="card">
-              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+            <details className="card group">
+              <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Comment est la peau après un détatouage ?
-              </h3>
-              <p style={{ color: 'var(--text-secondary)' }}>
+                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+              </summary>
+              <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Des rougeurs et un effet "givre" (frosting) apparaissent immédiatement, suivis de croûtelles pendant quelques jours. La cicatrisation complète prend 2-3 semaines.
               </p>
-            </div>
+            </details>
 
-            <div className="card">
-              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+            <details className="card group">
+              <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Combien de temps entre les séances ?
-              </h3>
-              <p style={{ color: 'var(--text-secondary)' }}>
+                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+              </summary>
+              <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Il faut laisser 6 à 8 semaines minimum entre chaque séance pour permettre au système lymphatique d'éliminer l'encre fragmentée.
               </p>
-            </div>
+            </details>
 
-            <div className="card">
-              <h3 className="text-lg font-semibold mb-3" style={{ color: 'var(--color-primary)' }}>
+            <details className="card group">
+              <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Les résultats sont-ils garantis ?
-              </h3>
-              <p style={{ color: 'var(--text-secondary)' }}>
+                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+              </summary>
+              <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Le laser Q-Switched est la technique la plus efficace, mais les résultats varient selon le type d'encre, la profondeur et votre peau. Un bilan gratuit vous permettra d'avoir une estimation précise.
               </p>
-            </div>
+            </details>
           </div>
         </div>
       </section>
