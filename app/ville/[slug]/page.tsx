@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { getCityBySlug, cities } from "@/data/cities";
 import { getProximityCitiesDynamic } from "@/lib/utils/proximity";
 import { getBusinessesByCity } from "@/data/businesses";
-import { getCityContent } from "@/lib/city-content";
+import { getCityContent, getCityCoordinates } from "@/lib/city-content";
 import { QuoteForm } from "@/components/ui/QuoteForm";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { ProximityLinks } from "@/components/ui/ProximityLinks";
@@ -80,6 +80,7 @@ export default async function CityPage({ params }: Props) {
   const proximityCities = getProximityCitiesDynamic(city.slug);
   const cityBusinesses = getBusinessesByCity(city.slug);
   const cityContent = getCityContent(slug);
+  const coords = getCityCoordinates(slug);
 
   // Filter valid peopleAlsoAsk (exclude broken answers from video snippets)
   const validPAA = (cityContent?.peopleAlsoAsk || []).filter(
@@ -97,6 +98,8 @@ export default async function CityPage({ params }: Props) {
         city={city.name}
         department={city.department.name}
         postalCode={city.postalCode}
+        latitude={coords?.lat}
+        longitude={coords?.lng}
       />
       <BreadcrumbSchema
         items={[

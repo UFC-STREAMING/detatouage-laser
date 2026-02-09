@@ -25,7 +25,7 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <HeroSection
-        imageSrc="/images/Acceuil-detatouage.png"
+        imageSrc="/images/Accueil-detatouage.png"
         imageAlt="Centre de détatouage laser en France"
         title="Détatouage Laser en France : Spécialistes Certifiés"
         subtitle="Technologie laser de dernière génération pour un retrait efficace et sécurisé de vos tatouages"
