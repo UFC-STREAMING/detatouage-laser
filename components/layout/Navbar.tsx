@@ -54,7 +54,7 @@ export function Navbar() {
                 alt="Logo Détatouage Laser France"
                 width={180}
                 height={50}
-                className="h-10 sm:h-12 w-auto object-contain transition-transform group-hover:scale-[1.02]"
+                className="h-12 sm:h-14 w-auto object-contain transition-transform group-hover:scale-[1.02]"
                 priority
               />
             </div>

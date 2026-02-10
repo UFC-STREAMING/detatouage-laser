@@ -11,12 +11,11 @@ export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr"),
   icons: {
     icon: [
-      { url: "/icon.png", sizes: "any" },
-      { url: "/icon.png", sizes: "32x32", type: "image/png" },
-      { url: "/icon.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/icon.png", sizes: "512x512", type: "image/png" },
     ],
-    apple: "/icon.png",
-    shortcut: "/icon.png",
+    apple: "/apple-icon.png",
+    shortcut: "/favicon.ico",
   },
   title: {
     default: "Détatouage Laser - Retrait de Tatouage par Laser en France",
