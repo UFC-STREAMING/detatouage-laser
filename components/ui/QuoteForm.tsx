@@ -60,10 +60,10 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
         background: 'linear-gradient(135deg, var(--color-primary-lighter), var(--color-white))',
       }}
     >
-      <div className="text-center mb-12">
+      <div className="text-center mb-12" style={{ textAlign: 'center' }}>
         <span className="badge badge-primary mb-4">Devis gratuit</span>
-        <h2 className="mb-4">
-          Demandez votre <span className="text-gradient">devis personnalisé</span>
+        <h2 className="mb-4" style={{ color: 'var(--color-primary)' }}>
+          Demandez votre devis personnalisé
         </h2>
         <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
           Remplissez le formulaire ci-dessous et recevez une estimation adaptée à votre tatouage

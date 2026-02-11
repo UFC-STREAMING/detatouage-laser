@@ -4,15 +4,21 @@ import { getCityBySlug, cities } from "@/data/cities";
 import { getProximityCitiesDynamic } from "@/lib/utils/proximity";
 import { getBusinessesByCity } from "@/data/businesses";
 import { getCityContent, getCityCoordinates } from "@/lib/city-content";
-import { QuoteForm } from "@/components/ui/QuoteForm";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { ProximityLinks } from "@/components/ui/ProximityLinks";
-import { HeroSection } from "@/components/ui/HeroSection";
 import { BusinessListings } from "@/components/ui/BusinessListings";
 import { FAQSchema } from "@/components/seo/FAQSchema";
 import { LocalBusinessSchema } from "@/components/seo/LocalBusinessSchema";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
-import { MapPin } from "lucide-react";
+import { HeroSection } from "@/components/ville/HeroSection";
+import { WhyUsSection } from "@/components/ville/WhyUsSection";
+import { TechSection } from "@/components/ville/TechSection";
+import { GallerySection } from "@/components/ville/GallerySection";
+import { ProcessSection } from "@/components/ville/ProcessSection";
+import { PricingSection } from "@/components/ville/PricingSection";
+import { QuoteForm } from "@/components/ui/QuoteForm";
+import { FAQSection } from "@/components/ville/FAQSection";
+import { CTABanner } from "@/components/ville/CTABanner";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -36,9 +42,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const cityContent = getCityContent(slug);
 
-  const title = `Détatouage Laser à ${city.name} | Prix & Devis Gratuit`;
+  const title = `Détatouage Laser à ${city.name} | Discovery Pico Plus | Devis Gratuit`;
   const description = cityContent?.description
-    || `Spécialiste du détatouage laser à ${city.name}, ${city.department.name}. Retrait de tatouage par laser de dernière génération. Devis gratuit et consultation personnalisée.`;
+    || `Détatouage laser Discovery Pico Plus à ${city.name}, ${city.department.name}. Toutes couleurs, toutes peaux. Résultats visibles dès la 1ère séance. Devis gratuit sur photo.`;
 
   const keywords = [
     `détatouage ${city.name}`,
@@ -49,7 +55,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     `laser tatouage ${city.name}`,
     `détatouage ${city.department.name}`,
     `centre détatouage ${city.name}`,
-    `spécialiste détatouage ${city.name}`,
+    `discovery pico plus ${city.name}`,
     `prix détatouage ${city.name}`,
   ];
 
@@ -82,17 +88,27 @@ export default async function CityPage({ params }: Props) {
   const cityContent = getCityContent(slug);
   const coords = getCityCoordinates(slug);
 
-  // Filter valid peopleAlsoAsk (exclude broken answers from video snippets)
-  const validPAA = (cityContent?.peopleAlsoAsk || []).filter(
-    (q) => q.question && q.answer && !q.answer.startsWith("0:")
-  );
+  const faqItems = [
+    {
+      question: "Est-ce douloureux ?",
+      answer: `La sensation est souvent comparée à un élastique qui claque sur la peau. À ${city.name}, nous appliquons une crème anesthésiante 1h avant chaque séance pour un confort optimal. Le laser Discovery Pico Plus est également moins douloureux que les anciens lasers nanosecondes grâce à ses impulsions ultra-courtes.`,
+    },
+    {
+      question: "Combien de séances pour un tatouage noir ?",
+      answer: `Un tatouage noir nécessite en moyenne 4 à 8 séances avec le Discovery Pico Plus, espacées de 6 à 8 semaines. C'est 30 à 50% moins de séances qu'avec un laser Q-Switched classique. Le nombre exact dépend de la densité de l'encre, la profondeur et l'ancienneté du tatouage.`,
+    },
+    {
+      question: "Le détatouage est-il compatible avec les peaux noires ?",
+      answer: `Oui. Le Discovery Pico Plus est l'un des rares lasers adaptés aux peaux mates et noires (phototypes IV à VI). Grâce à ses longueurs d'onde spécifiques (1064 nm Nd:YAG), il cible l'encre sans affecter la mélanine environnante, réduisant considérablement le risque d'hypopigmentation.`,
+    },
+  ];
 
   return (
     <>
       <FAQSchema
         cityName={city.name}
         departmentName={city.department.name}
-        customQuestions={validPAA}
+        customQuestions={faqItems}
       />
       <LocalBusinessSchema
         city={city.name}
@@ -108,15 +124,9 @@ export default async function CityPage({ params }: Props) {
           { name: city.name, url: `/ville/${city.slug}` },
         ]}
       />
-      <HeroSection
-        imageSrc="/images/Ville-detatouage.png"
-        imageAlt={`Détatouage laser à ${city.name}`}
-        title={`Détatouage Laser à ${city.name}`}
-        subtitle={`Retrait de tatouage professionnel dans le ${city.department.name} (${city.department.number})`}
-        ctaText="Devis Gratuit"
-        ctaHref="#quote-form"
-        height="medium"
-      />
+
+      <HeroSection cityName={city.name} />
+
       <div className="section bg-white">
         <div className="container">
           <Breadcrumb
@@ -127,177 +137,24 @@ export default async function CityPage({ params }: Props) {
           />
 
           <article>
-            <header className="mb-12 text-center">
-              <h1
-                className="text-4xl md:text-5xl font-bold mb-4"
-                style={{ color: 'var(--color-primary)' }}
-              >
-                Détatouage Laser à {city.name}
-              </h1>
-              <div className="flex flex-wrap items-center justify-center gap-4" style={{ color: 'var(--text-secondary)' }}>
-                <div className="flex items-center gap-2">
-                  <MapPin className="w-5 h-5" style={{ color: 'var(--color-primary-light)' }} />
-                  <span>
-                    {city.name}, {city.department.name} ({city.department.number})
-                  </span>
-                </div>
-              </div>
-            </header>
-
-            {/* Formulaire de devis - Above the Fold */}
+            <WhyUsSection cityName={city.name} />
+            <TechSection cityName={city.name} />
+            <GallerySection />
+            <ProcessSection />
+            <PricingSection cityName={city.name} />
             <QuoteForm initialPostalCode={city.postalCode} />
-
-        <section className="prose prose-lg max-w-none mb-12">
-          {cityContent?.description ? (
-            <p className="text-lg leading-relaxed">{cityContent.description}</p>
-          ) : (
-            <p className="text-lg leading-relaxed">
-              Vous recherchez un <strong>spécialiste du détatouage laser à {city.name}</strong> ?
-              Notre centre utilise la technologie laser la plus avancée pour vous offrir un{" "}
-              <strong>retrait de tatouage efficace et sécurisé</strong> dans le département{" "}
-              {city.department.name} ({city.department.number}).
-            </p>
-          )}
-
-          <h2 className="text-2xl font-bold text-[var(--color-primary)] mt-8 mb-4">
-            Pourquoi choisir notre centre de détatouage à {city.name} ?
-          </h2>
-          <p>
-            Notre expertise en <strong>détatouage laser à {city.name}</strong> nous permet de
-            traiter tous types de tatouages, quelle que soit leur taille, leur couleur ou leur
-            ancienneté. Nous utilisons un laser Q-Switched de dernière génération qui fragmente
-            les pigments d'encre de manière ciblée.
-          </p>
-
-          <div className="bg-[var(--color-primary-lighter)] border-l-4 border-[var(--color-primary-light)] p-6 my-8 rounded">
-            <h3 className="text-xl font-bold text-[var(--color-primary)] mb-3">
-              🎯 Les avantages de notre technologie laser
-            </h3>
-            <ul className="space-y-2 mb-0">
-              <li>✓ Résultats visibles dès les premières séances</li>
-              <li>✓ Traitement adapté à tous les types de peau</li>
-              <li>✓ Protocole médical sécurisé et personnalisé</li>
-              <li>✓ Effacement progressif sans cicatrices</li>
-              <li>✓ Équipement certifié et opérateurs qualifiés</li>
-            </ul>
-          </div>
-
-          <h2 className="text-2xl font-bold text-[var(--color-primary)] mt-8 mb-4">
-            Déroulement du détatouage laser à {city.name}
-          </h2>
-          <p>
-            Notre processus de <strong>retrait de tatouage à {city.name}</strong> commence par une
-            consultation gratuite pendant laquelle nous évaluons votre tatouage et déterminons le
-            nombre de séances nécessaires. Chaque séance dure entre 15 et 30 minutes selon la zone
-            traitée.
-          </p>
-
-          <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-            Les étapes de votre traitement
-          </h3>
-          <ol className="list-decimal list-inside space-y-3">
-            <li>
-              <strong>Consultation initiale gratuite</strong> : Analyse de votre tatouage et
-              élaboration d'un plan de traitement personnalisé
-            </li>
-            <li>
-              <strong>Séances de traitement laser</strong> : Espacées de 6 à 8 semaines pour
-              permettre à votre peau de récupérer
-            </li>
-            <li>
-              <strong>Suivi régulier</strong> : Nous suivons l'évolution de votre détatouage et
-              ajustons le traitement si nécessaire
-            </li>
-            <li>
-              <strong>Élimination complète</strong> : Les pigments sont progressivement éliminés
-              par votre système immunitaire
-            </li>
-          </ol>
-
-          <h2 className="text-2xl font-bold text-[var(--color-primary)] mt-8 mb-4">
-            Questions fréquentes sur le détatouage à {city.name}
-          </h2>
-
-          {validPAA.length > 0 ? (
-            validPAA.map((paa, index) => (
-              <div key={index}>
-                <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-                  {paa.question}
-                </h3>
-                <p>{paa.answer}</p>
-              </div>
-            ))
-          ) : (
-            <>
-              <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-                Combien coûte un détatouage laser à {city.name} ?
-              </h3>
-              <p>
-                Le coût dépend de plusieurs facteurs : la taille du tatouage, sa complexité, les
-                couleurs utilisées et le nombre de séances nécessaires. Demandez votre{" "}
-                <strong>devis gratuit</strong> ci-dessous pour obtenir une estimation personnalisée pour
-                votre projet de détatouage à {city.name}.
-              </p>
-
-              <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-                Le détatouage laser est-il douloureux ?
-              </h3>
-              <p>
-                La sensation est souvent comparée à un élastique qui claque contre la peau. À {city.name}
-                , nous utilisons des techniques d'anesthésie locale (crème anesthésiante ou froid) pour
-                minimiser l'inconfort pendant le traitement.
-              </p>
-
-              <h3 className="text-xl font-semibold text-[var(--color-primary)] mt-6 mb-3">
-                Combien de séances sont nécessaires ?
-              </h3>
-              <p>
-                Le nombre de séances varie généralement entre 5 et 10, selon la profondeur de l'encre,
-                les couleurs utilisées et la taille du tatouage. Les tatouages noirs sont généralement
-                plus faciles à effacer que les tatouages colorés.
-              </p>
-            </>
-          )}
-        </section>
-
-        <div
-          className="rounded-2xl p-10 md:p-14 my-16 shadow-xl"
-          style={{ background: 'linear-gradient(135deg, var(--color-primary-dark) 0%, var(--color-primary) 50%, var(--color-primary-dark) 100%)' }}
-        >
-          <div className="text-center max-w-2xl mx-auto">
-            <h2
-              className="text-3xl md:text-4xl font-bold mb-6"
-              style={{ color: '#ffffff', textShadow: '0 2px 8px rgba(0,0,0,0.2)' }}
-            >
-              Prêt à commencer votre détatouage à {city.name} ?
-            </h2>
-            <p
-              className="text-lg md:text-xl mb-10 leading-relaxed"
-              style={{ color: 'rgba(255,255,255,0.92)' }}
-            >
-              Obtenez votre devis gratuit en 2 minutes et commencez votre transformation
-            </p>
-            <a
-              href="#quote-form"
-              className="inline-block px-10 py-4 rounded-xl font-bold hover:shadow-lg transition-all text-lg shadow-md"
-              style={{ background: '#ffffff', color: 'var(--color-primary)' }}
-            >
-              Demander mon devis gratuit
-            </a>
-          </div>
-        </div>
+            <FAQSection cityName={city.name} faqItems={faqItems} />
+            <CTABanner />
           </article>
         </div>
       </div>
 
-      {/* Section des entreprises locales */}
       <BusinessListings
         businesses={cityBusinesses}
         serpBusinesses={cityContent?.businesses}
         cityName={city.name}
       />
 
-      {/* Villes à proximité */}
       {proximityCities.length > 0 && (
         <div className="section" style={{ background: 'var(--bg-secondary)' }}>
           <div className="container">

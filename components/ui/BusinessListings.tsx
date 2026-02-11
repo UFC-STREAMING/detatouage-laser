@@ -177,18 +177,14 @@ function SerpBusinessCards({ businesses, cityName }: { businesses: CrazySerpBusi
 
 function BusinessHeader({ count, cityName }: { count: number; cityName: string }) {
   return (
-    <div className="text-center mx-auto mb-16 max-w-3xl">
-      <span className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium mb-6"
-            style={{
-              background: 'var(--color-primary-lighter)',
-              color: 'var(--color-primary-dark)'
-            }}>
-        ⭐ Top entreprises
+    <div className="text-center mx-auto mb-16 max-w-3xl" style={{ textAlign: 'center' }}>
+      <span className="badge badge-primary mb-4 inline-flex items-center gap-2">
+        Top entreprises
       </span>
-      <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-        Les meilleurs centres de <span className="text-gradient">détatouage à {cityName}</span>
+      <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--color-primary)' }}>
+        Les meilleurs centres de détatouage à {cityName}
       </h2>
-      <p className="text-lg md:text-xl" style={{ color: 'var(--text-secondary)' }}>
+      <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
         Découvrez les {count} centres les mieux notés pour votre détatouage laser à {cityName}.
         Comparez leurs services et demandez votre devis gratuit.
       </p>
@@ -263,7 +259,7 @@ function CTAColumn() {
 function BottomCTA({ cityName }: { cityName: string }) {
   return (
     <div className="mt-16 text-center max-w-3xl mx-auto p-8 rounded-2xl"
-         style={{ background: 'var(--bg-secondary)' }}>
+         style={{ background: 'var(--bg-secondary)', textAlign: 'center' }}>
       <h3 className="text-2xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
         Vous n'arrivez pas à choisir ?
       </h3>
