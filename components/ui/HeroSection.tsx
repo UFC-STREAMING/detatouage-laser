@@ -21,9 +21,9 @@ export function HeroSection({
   height = "medium",
 }: HeroSectionProps) {
   const heightClasses = {
-    small: "h-[300px] sm:h-[350px] md:h-[400px]",
-    medium: "h-[450px] sm:h-[500px] md:h-[550px]",
-    large: "h-[500px] sm:h-[550px] md:h-[600px] lg:h-[650px]",
+    small: "h-[280px] sm:h-[320px] md:h-[380px]",
+    medium: "h-[350px] sm:h-[420px] md:h-[500px]",
+    large: "h-[400px] sm:h-[480px] md:h-[550px] lg:h-[600px]",
   };
 
   return (
@@ -40,35 +40,39 @@ export function HeroSection({
         quality={85}
       />
 
-      {/* Overlay avec gradient pour meilleur contraste */}
+      {/* Overlay premium gradient noir/or */}
       <div
         className="absolute inset-0"
         style={{
-          background: "linear-gradient(135deg, rgba(1, 103, 204, 0.85) 0%, rgba(0, 0, 0, 0.75) 100%)",
+          background: "linear-gradient(135deg, rgba(26, 26, 26, 0.92) 0%, rgba(46, 49, 146, 0.85) 50%, rgba(201, 169, 97, 0.65) 100%)",
         }}
       />
 
       {/* Contenu centré avec contrainte max-width */}
       <div className="relative h-full flex items-center justify-center px-4 sm:px-6">
         <div className="w-full max-w-5xl mx-auto text-center">
-          {/* Badge supérieur */}
+          {/* Badge premium or */}
           <span
-            className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold mb-6 sm:mb-8"
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-bold mb-6 sm:mb-8"
             style={{
-              background: "linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))",
-              color: "white",
-              boxShadow: "0 4px 20px rgba(234, 107, 66, 0.4)",
+              background: "linear-gradient(135deg, #C9A961, #D4BA7E)",
+              color: "#1A1A1A",
+              boxShadow: "0 8px 32px rgba(201, 169, 97, 0.5)",
+              letterSpacing: "0.05em",
+              textTransform: "uppercase",
             }}
           >
-            ✨ Technologie de pointe
+            ★ Excellence Médicale
           </span>
 
-          {/* Titre principal - styled as heading but using <p> to avoid duplicate H1 with page article */}
+          {/* Titre principal premium avec Playfair */}
           <p
             className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6 leading-tight"
             style={{
               color: "white",
-              textShadow: "0 4px 20px rgba(0, 0, 0, 0.6)",
+              fontFamily: "var(--font-playfair)",
+              textShadow: "0 6px 30px rgba(0, 0, 0, 0.8), 0 0 60px rgba(201, 169, 97, 0.3)",
+              letterSpacing: "-0.02em",
             }}
           >
             {title}
@@ -87,20 +91,22 @@ export function HeroSection({
             </p>
           )}
 
-          {/* CTA Link - accessible, right-click friendly */}
+          {/* CTA Premium Gold */}
           {ctaText && ctaHref && (
             <a
               href={ctaHref}
-              className="inline-flex items-center justify-center gap-3 px-8 sm:px-10 py-4 sm:py-5 rounded-full font-bold text-base sm:text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95 max-w-full"
+              className="inline-flex items-center justify-center gap-3 px-10 sm:px-12 py-5 sm:py-6 rounded-2xl font-bold text-base sm:text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95 max-w-full relative overflow-hidden group"
               style={{
-                background: "linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))",
-                boxShadow: "0 8px 30px rgba(234, 107, 66, 0.5)",
-                minHeight: "56px",
-                color: "#ffffff",
+                background: "linear-gradient(135deg, #C9A961, #D4BA7E)",
+                boxShadow: "0 12px 40px rgba(201, 169, 97, 0.6), 0 0 60px rgba(201, 169, 97, 0.3)",
+                minHeight: "64px",
+                color: "#1A1A1A",
+                letterSpacing: "0.02em",
               }}
             >
-              <Phone className="w-5 h-5 sm:w-6 sm:h-6" />
-              {ctaText}
+              <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"></span>
+              <Phone className="w-5 h-5 sm:w-6 sm:h-6 relative z-10" />
+              <span className="relative z-10">{ctaText}</span>
             </a>
           )}
         </div>

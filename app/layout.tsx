@@ -1,12 +1,23 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { StickyCTA } from "@/components/ui/StickyCTA";
 import { OrganizationSchema } from "@/components/seo/OrganizationSchema";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ 
+  subsets: ["latin"],
+  variable: '--font-inter',
+  display: 'swap',
+});
+
+const playfair = Playfair_Display({ 
+  subsets: ["latin"],
+  variable: '--font-playfair',
+  display: 'swap',
+  weight: ['400', '500', '600', '700', '800', '900'],
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr"),
@@ -110,7 +121,7 @@ export default function RootLayout({
       <head>
         <OrganizationSchema />
       </head>
-      <body className={inter.className}>
+      <body className={`${inter.variable} ${playfair.variable}`}>
         <Navbar />
         <StickyCTA />
         <main className="min-h-screen">{children}</main>
