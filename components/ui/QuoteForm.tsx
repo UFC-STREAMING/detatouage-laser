@@ -55,14 +55,21 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
   return (
     <section
       id="quote-form"
-      className="card my-8 md:my-16 p-4 sm:p-6 md:p-8 lg:p-12"
+      className="card my-8 md:my-16 p-4 sm:p-6 md:p-8 lg:p-12 relative overflow-hidden"
       style={{
-        background: 'linear-gradient(135deg, var(--color-primary-lighter), var(--color-white))',
+        background: 'linear-gradient(135deg, #F8F4EB 0%, #FFFFFF 100%)',
+        border: '2px solid rgba(201, 169, 97, 0.2)',
+        boxShadow: '0 12px 40px rgba(201, 169, 97, 0.15)',
       }}
     >
-      <div className="text-center mb-12" style={{ textAlign: 'center' }}>
-        <span className="badge badge-primary mb-4">Devis gratuit</span>
-        <h2 className="mb-4" style={{ color: 'var(--color-primary)' }}>
+      {/* Background accent */}
+      <div className="absolute top-0 right-0 w-96 h-96 opacity-5 pointer-events-none">
+        <div className="w-full h-full rounded-full bg-gradient-to-br from-yellow-400 to-orange-300 blur-3xl"></div>
+      </div>
+      
+      <div className="text-center mb-12 relative z-10" style={{ textAlign: 'center' }}>
+        <span className="badge badge-secondary mb-4">Devis gratuit</span>
+        <h2 className="mb-4" style={{ color: 'var(--color-primary)', fontFamily: 'var(--font-playfair)' }}>
           Demandez votre devis personnalisé
         </h2>
         <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>

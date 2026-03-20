@@ -86,11 +86,16 @@ export function Testimonials() {
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-16">
           <div className="inline-flex items-center gap-2 mb-4">
-            <span className="badge badge-primary">Témoignages</span>
+            <span className="badge badge-secondary">Témoignages</span>
           </div>
 
-          <h2 className="mb-6">
-            Ce que disent nos <span className="text-gradient">clients</span>
+          <h2 className="mb-6" style={{ fontFamily: 'var(--font-playfair)' }}>
+            Ce que disent nos <span style={{ 
+              background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
+              WebkitBackgroundClip: 'text',
+              WebkitTextFillColor: 'transparent',
+              backgroundClip: 'text',
+            }}>clients</span>
           </h2>
 
           <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
