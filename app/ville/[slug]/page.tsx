@@ -10,6 +10,7 @@ import { BusinessListings } from "@/components/ui/BusinessListings";
 import { FAQSchema } from "@/components/seo/FAQSchema";
 import { LocalBusinessSchema } from "@/components/seo/LocalBusinessSchema";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
+import { MedicalBusinessSchema } from "@/components/seo/MedicalBusinessSchema";
 import { HeroSection } from "@/components/ville/HeroSection";
 import { WhyUsSection } from "@/components/ville/WhyUsSection";
 import { TechSection } from "@/components/ville/TechSection";
@@ -116,6 +117,11 @@ export default async function CityPage({ params }: Props) {
         postalCode={city.postalCode}
         latitude={coords?.lat}
         longitude={coords?.lng}
+      />
+      <MedicalBusinessSchema
+        city={city.name}
+        department={city.department.name}
+        postalCode={city.postalCode}
       />
       <BreadcrumbSchema
         items={[

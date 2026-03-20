@@ -90,7 +90,7 @@ export default async function DepartmentPage({ params }: Props) {
         ]}
       />
       <HeroSection
-        imageSrc="/images/Departement-detatouage.png"
+        imageSrc="/images/Departement-detatouage.webp"
         imageAlt={`Détatouage laser ${getDepartmentWithPreposition(department.name)}`}
         title={`Détatouage Laser ${getDepartmentWithPreposition(department.name)}`}
         subtitle={`${department.cities.length} villes couvertes dans le département ${department.number}`}

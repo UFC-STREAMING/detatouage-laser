@@ -16,7 +16,7 @@ export default function PrixPage() {
   return (
     <>
       <HeroSection
-        imageSrc="/images/Contact-detatouage.png"
+        imageSrc="/images/Contact-detatouage.webp"
         imageAlt="Tarifs détatouage laser"
         title="Prix du Détatouage Laser"
         subtitle="Transparence sur nos tarifs et facteurs de prix"

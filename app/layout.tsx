@@ -4,6 +4,7 @@ import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { StickyCTA } from "@/components/ui/StickyCTA";
+import { OrganizationSchema } from "@/components/seo/OrganizationSchema";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -73,7 +74,7 @@ export const metadata: Metadata = {
     description: "Spécialiste du retrait de tatouage par laser en France",
     images: [
       {
-        url: "/images/Accueil-detatouage.png",
+        url: "/images/Accueil-detatouage.webp",
         width: 1200,
         height: 630,
         alt: "Détatouage Laser - Spécialiste du retrait de tatouage en France",
@@ -84,7 +85,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Détatouage Laser - Retrait de Tatouage par Laser",
     description: "Spécialiste du retrait de tatouage par laser en France. Devis gratuit.",
-    images: ["/images/Accueil-detatouage.png"],
+    images: ["/images/Accueil-detatouage.webp"],
   },
   robots: {
     index: true,
@@ -106,6 +107,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr">
+      <head>
+        <OrganizationSchema />
+      </head>
       <body className={inter.className}>
         <Navbar />
         <StickyCTA />

@@ -30,10 +30,11 @@ export function HeroSection({
     <section className={`relative ${heightClasses[height]} w-full overflow-hidden`}>
       {/* Image de fond optimisée */}
       <Image
-        src={imageSrc}
+        src={imageSrc.replace('.png', '.webp')}
         alt={imageAlt}
         fill
         priority
+        loading="eager"
         className="object-cover"
         sizes="100vw"
         quality={85}

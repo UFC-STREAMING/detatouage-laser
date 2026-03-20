@@ -16,7 +16,7 @@ export default function AvantApresPage() {
   return (
     <>
       <HeroSection
-        imageSrc="/images/avant-apres-detatouage.png"
+        imageSrc="/images/avant-apres-detatouage.webp"
         imageAlt="Résultats avant après détatouage laser"
         title="Résultats Avant/Après Détatouage Laser"
         subtitle="Découvrez les étapes de transformation"
