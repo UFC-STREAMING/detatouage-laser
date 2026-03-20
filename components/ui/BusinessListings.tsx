@@ -28,14 +28,42 @@ function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; c
         <BusinessHeader count={businesses.length} cityName={cityName} />
 
         <div className="space-y-8 max-w-5xl mx-auto">
-          {businesses.map((business, index) => (
+          {businesses.map((business, index) => {
+            // Hiérarchie visuelle: #1 Premium XL, #2-3 Featured, #4+ Standard
+            const isPremium = index === 0;
+            const isFeatured = index === 1 || index === 2;
+            
+            return (
             <div
               key={business.id}
-              className="group bg-white rounded-2xl p-6 md:p-8 transition-all duration-300 hover:shadow-2xl border-2"
+              className={`group rounded-3xl transition-all duration-300 ${
+                isPremium 
+                  ? 'p-8 md:p-10 hover:shadow-2xl border-4 relative overflow-hidden' 
+                  : isFeatured
+                  ? 'p-6 md:p-8 hover:shadow-xl border-2'
+                  : 'p-5 md:p-6 hover:shadow-lg border'
+              }`}
               style={{
-                borderColor: index === 0 ? 'var(--color-primary)' : 'rgba(0, 119, 182, 0.1)',
+                background: isPremium 
+                  ? 'linear-gradient(135deg, #FFFFFF 0%, #F8F4EB 100%)'
+                  : 'white',
+                borderColor: isPremium 
+                  ? '#C9A961' 
+                  : isFeatured
+                  ? 'rgba(201, 169, 97, 0.3)'
+                  : 'rgba(26, 26, 26, 0.1)',
+                boxShadow: isPremium
+                  ? '0 12px 40px rgba(201, 169, 97, 0.25)'
+                  : undefined,
               }}
             >
+              {/* Background accent premium */}
+              {isPremium && (
+                <div className="absolute top-0 right-0 w-64 h-64 opacity-5 pointer-events-none">
+                  <div className="w-full h-full rounded-full bg-gradient-to-br from-yellow-400 to-orange-300 blur-3xl"></div>
+                </div>
+              )}
+              
               {index === 0 && <BestChoiceBadge />}
 
               <div className="grid md:grid-cols-3 gap-6">
@@ -107,7 +135,8 @@ function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; c
                 <CTAColumn />
               </div>
             </div>
-          ))}
+          );
+          })}
         </div>
 
         <BottomCTA cityName={cityName} />
@@ -194,13 +223,15 @@ function BusinessHeader({ count, cityName }: { count: number; cityName: string }
 
 function BestChoiceBadge() {
   return (
-    <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full mb-4"
+    <div className="inline-flex items-center gap-3 px-6 py-3 rounded-full mb-6 relative z-10"
          style={{
-           background: 'linear-gradient(135deg, var(--color-primary), var(--color-primary-light))',
-           color: '#ffffff'
+           background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
+           color: '#1A1A1A',
+           boxShadow: '0 8px 32px rgba(201, 169, 97, 0.4)',
+           letterSpacing: '0.05em',
          }}>
-      <span className="text-lg">🏆</span>
-      <span className="text-sm font-bold">Meilleur choix</span>
+      <span className="text-xl">★</span>
+      <span className="text-sm font-bold uppercase">Meilleur Choix Premium</span>
     </div>
   );
 }
