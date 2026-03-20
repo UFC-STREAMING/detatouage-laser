@@ -18,14 +18,16 @@ export function StickyCTA() {
       >
         <button
           onClick={scrollToForm}
-          className="w-full text-center px-6 py-3 rounded-full font-bold text-sm transition-all duration-300 active:scale-95"
+          className="w-full text-center px-6 py-4 rounded-2xl font-bold text-base transition-all duration-300 active:scale-95 relative overflow-hidden group"
           style={{
-            background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))',
-            boxShadow: '0 4px 15px rgba(234, 107, 66, 0.3)',
-            color: '#ffffff',
+            background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
+            boxShadow: '0 8px 32px rgba(201, 169, 97, 0.4)',
+            color: '#1A1A1A',
+            letterSpacing: '0.02em',
           }}
         >
-          Devis Gratuit
+          <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"></span>
+          <span className="relative z-10">✨ Devis Gratuit Premium</span>
         </button>
       </div>
     </>

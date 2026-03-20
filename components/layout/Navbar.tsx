@@ -98,13 +98,19 @@ export function Navbar() {
                     style={{ background: 'var(--color-primary)' }}></span>
             </Link>
 
-            {/* CTA Button */}
+            {/* CTA Button Premium Gold */}
             <button
               onClick={scrollToForm}
-              className="px-8 py-3 rounded-full font-bold text-sm transition-all duration-200 hover:shadow-xl hover:scale-105"
-              style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))', color: '#ffffff' }}
+              className="px-8 py-3 rounded-xl font-bold text-sm transition-all duration-200 hover:shadow-xl hover:scale-105 relative overflow-hidden group"
+              style={{ 
+                background: 'linear-gradient(135deg, #C9A961, #D4BA7E)', 
+                color: '#1A1A1A',
+                boxShadow: '0 4px 16px rgba(201, 169, 97, 0.3)',
+                letterSpacing: '0.02em',
+              }}
             >
-              Devis Gratuit
+              <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"></span>
+              <span className="relative z-10">Devis Gratuit</span>
             </button>
           </div>
 
