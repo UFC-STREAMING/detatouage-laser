@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import { QuoteForm } from "@/components/ui/QuoteForm";
 import { Testimonials } from "@/components/ui/Testimonials";
 import { DepartmentGrid } from "@/components/ui/DepartmentGrid";
-import { HeroPremium } from "@/components/ui/hero-premium";
+import { HeroRayStyle } from "@/components/ui/hero-ray-style";
 import { FAQSchema } from "@/components/seo/FAQSchema";
 import { getAllDepartments } from "@/data/cities";
 import { Sparkles, Shield, Clock, Award, Zap, Heart, ChevronDown } from "lucide-react";
@@ -23,12 +23,12 @@ export default function HomePage() {
     <>
       <FAQSchema />
 
-      {/* Hero Section - Shadcn Premium */}
-      <HeroPremium
+      {/* Hero Section - Ray Studios Inspired */}
+      <HeroRayStyle
         imageSrc="/images/Accueil-detatouage.webp"
         imageAlt="Centre de détatouage laser en France"
-        title="Détatouage Laser Excellence Médicale"
-        subtitle="Technologie Discovery Pico Plus certifiée pour un retrait efficace et sécurisé"
+        title="Détatouage Laser Médical"
+        subtitle="Technologie Discovery Pico Plus certifiée. Effacement sûr et efficace de tous types de tatouages."
         ctaText="Consultation Gratuite"
         ctaHref="#quote-form"
       />
