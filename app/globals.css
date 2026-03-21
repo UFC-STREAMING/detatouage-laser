@@ -299,8 +299,35 @@ li:last-child {
   max-width: var(--container-max-width) !important;
   margin-left: auto !important;
   margin-right: auto !important;
-  padding-left: var(--container-padding);
-  padding-right: var(--container-padding);
+  padding-left: var(--container-padding) !important;
+  padding-right: var(--container-padding) !important;
+}
+
+/* Force centrage sur tous les enfants directs */
+.section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Text center par défaut, override si besoin */
+.section .container {
+  text-align: center;
+}
+
+.section .container > * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Reset text-align pour contenus qui doivent être left */
+.section .container .text-left {
+  text-align: left;
+}
+
+.section .container .text-right {
+  text-align: right;
 }
 
 /* Section - Espacements harmonisés */
