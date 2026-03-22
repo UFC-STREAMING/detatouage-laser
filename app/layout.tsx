@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 import { Inter, Playfair_Display } from "next/font/google";
+import "@mantine/core/styles.css";
+import "@mantine/notifications/styles.css";
 import "./globals.css";
-import { Navbar } from "@/components/layout/Navbar";
-import { Footer } from "@/components/layout/Footer";
-import { StickyCTA } from "@/components/ui/StickyCTA";
+import { Providers } from "./providers";
 import { OrganizationSchema } from "@/components/seo/OrganizationSchema";
 
 const inter = Inter({ 
@@ -21,68 +21,14 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr"),
-  icons: {
-    icon: [
-      { url: "/favicon.ico", sizes: "48x48" },
-      { url: "/icon.png", sizes: "512x512", type: "image/png" },
-    ],
-    apple: "/apple-icon.png",
-    shortcut: "/favicon.ico",
-  },
-  title: {
-    default: "Détatouage Laser - Retrait de Tatouage par Laser en France",
-    template: "%s | Détatouage Laser",
-  },
-  description:
-    "Spécialiste du retrait de tatouage par laser. Technologie de pointe, résultats optimaux. Devis gratuit partout en France.",
-  keywords: [
-    // Mots-clés principaux
-    "détatouage",
-    "détatouage laser",
-    "retrait tatouage",
-    "enlever tatouage",
-    "effacer tatouage",
-    "laser tatouage",
-    // Mots-clés secondaires
-    "retrait tatouage laser",
-    "enlever tatouage laser",
-    "suppression tatouage",
-    "détatouage France",
-    "centre détatouage",
-    "spécialiste détatouage",
-    // Termes techniques
-    "laser Q-Switched",
-    "détatouage Q-Switch",
-    "technologie laser tatouage",
-    // Intentions de recherche
-    "prix détatouage",
-    "prix détatouage laser",
-    "devis détatouage",
-    "devis gratuit détatouage",
-    "tarif détatouage",
-    "combien coute détatouage",
-    // Localisations générales
-    "détatouage Paris",
-    "détatouage Lyon",
-    "détatouage Marseille",
-    "détatouage Toulouse",
-    "détatouage Nice",
-  ],
-  authors: [{ name: "Détatouage Laser" }],
-  creator: "Détatouage Laser",
-  publisher: "Détatouage Laser",
-  formatDetection: {
-    email: false,
-    address: false,
-    telephone: false,
-  },
+  title: "Détatouage Laser en France : Spécialistes Certifiés",
+  description: "Technologie laser de dernière génération pour un retrait efficace et sécurisé de vos tatouages",
+  keywords: ["détatouage", "laser", "tatouage", "retrait tatouage"],
   openGraph: {
+    title: "Détatouage Laser en France",
+    description: "Technologie laser de dernière génération",
     type: "website",
     locale: "fr_FR",
-    url: process.env.NEXT_PUBLIC_SITE_URL,
-    siteName: "Détatouage Laser",
-    title: "Détatouage Laser - Retrait de Tatouage par Laser",
-    description: "Spécialiste du retrait de tatouage par laser en France",
     images: [
       {
         url: "/images/Accueil-detatouage.webp",
@@ -94,20 +40,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Détatouage Laser - Retrait de Tatouage par Laser",
-    description: "Spécialiste du retrait de tatouage par laser en France. Devis gratuit.",
+    title: "Détatouage Laser en France",
+    description: "Technologie laser de dernière génération",
     images: ["/images/Accueil-detatouage.webp"],
-  },
-  robots: {
-    index: true,
-    follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      "max-video-preview": -1,
-      "max-image-preview": "large",
-      "max-snippet": -1,
-    },
   },
 };
 
@@ -122,10 +57,9 @@ export default function RootLayout({
         <OrganizationSchema />
       </head>
       <body className={`${inter.variable} ${playfair.variable}`}>
-        <Navbar />
-        <StickyCTA />
-        <main className="min-h-screen">{children}</main>
-        <Footer />
+        <Providers>
+          {children}
+        </Providers>
       </body>
     </html>
   );
