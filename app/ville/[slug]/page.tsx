@@ -11,6 +11,8 @@ import { FAQSchema } from "@/components/seo/FAQSchema";
 import { LocalBusinessSchema } from "@/components/seo/LocalBusinessSchema";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { MedicalBusinessSchema } from "@/components/seo/MedicalBusinessSchema";
+import { ProductSchema } from "@/components/seo/ProductSchema";
+import { ItemListSchema } from "@/components/seo/ItemListSchema";
 import { HeroSection } from "@/components/ville/HeroSection";
 import { WhyUsSection } from "@/components/ville/WhyUsSection";
 import { TechSection } from "@/components/ville/TechSection";
@@ -130,6 +132,24 @@ export default async function CityPage({ params }: Props) {
           { name: city.name, url: `/ville/${city.slug}` },
         ]}
       />
+      {cityBusinesses.length > 0 && cityBusinesses[0] && (
+        <ProductSchema
+          businessName={cityBusinesses[0].name}
+          businessAddress={cityBusinesses[0].address}
+          city={city.name}
+          postalCode={city.postalCode}
+          rating={cityBusinesses[0].rating}
+          reviewCount={cityBusinesses[0].reviewCount}
+          phone={cityBusinesses[0].phone}
+          website={cityBusinesses[0].website}
+        />
+      )}
+      {cityBusinesses.length > 0 && (
+        <ItemListSchema
+          businesses={cityBusinesses}
+          cityName={city.name}
+        />
+      )}
 
       <HeroSection cityName={city.name} />
 
