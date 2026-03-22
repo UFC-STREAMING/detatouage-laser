@@ -1,6 +1,7 @@
 import { Business } from "@/data/businesses";
 import { CrazySerpBusiness } from "@/lib/city-content";
-import { Star, MapPin, Phone, Clock, Tag } from "lucide-react";
+import { Star, MapPin, Phone, Clock } from "lucide-react";
+import { Card, Badge, Group, Stack, Button, Text, Title } from "@mantine/core";
 
 interface BusinessListingsProps {
   businesses: Business[];
@@ -9,7 +10,6 @@ interface BusinessListingsProps {
 }
 
 export function BusinessListings({ businesses, serpBusinesses, cityName }: BusinessListingsProps) {
-  // Prefer rich businesses from businesses.ts; fall back to CrazySERP data
   if (businesses.length > 0) {
     return <RichBusinessCards businesses={businesses} cityName={cityName} />;
   }
@@ -27,117 +27,142 @@ function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; c
       <div className="container">
         <BusinessHeader count={businesses.length} cityName={cityName} />
 
-        <div className="space-y-8 max-w-5xl mx-auto">
+        <Stack gap="xl" style={{ maxWidth: '80rem', margin: '0 auto' }}>
           {businesses.map((business, index) => {
-            // Hiérarchie visuelle: #1 Premium XL, #2-3 Featured, #4+ Standard
             const isPremium = index === 0;
             const isFeatured = index === 1 || index === 2;
             
             return (
-            <div
-              key={business.id}
-              className={`group rounded-3xl transition-all duration-300 ${
-                isPremium 
-                  ? 'p-8 md:p-10 hover:shadow-2xl border-4 relative overflow-hidden' 
-                  : isFeatured
-                  ? 'p-6 md:p-8 hover:shadow-xl border-2'
-                  : 'p-5 md:p-6 hover:shadow-lg border'
-              }`}
-              style={{
-                background: isPremium 
-                  ? 'linear-gradient(135deg, #FFFFFF 0%, #F8F4EB 100%)'
-                  : 'white',
-                borderColor: isPremium 
-                  ? '#C9A961' 
-                  : isFeatured
-                  ? 'rgba(201, 169, 97, 0.3)'
-                  : 'rgba(26, 26, 26, 0.1)',
-                boxShadow: isPremium
-                  ? '0 12px 40px rgba(201, 169, 97, 0.25)'
-                  : undefined,
-              }}
-            >
-              {/* Background accent premium */}
-              {isPremium && (
-                <div className="absolute top-0 right-0 w-64 h-64 opacity-5 pointer-events-none">
-                  <div className="w-full h-full rounded-full bg-gradient-to-br from-yellow-400 to-orange-300 blur-3xl"></div>
-                </div>
-              )}
-              
-              {index === 0 && <BestChoiceBadge />}
-
-              <div className="grid md:grid-cols-3 gap-6">
-                <div className="md:col-span-2">
-                  <div className="mb-4">
-                    <h3 className="text-2xl font-bold mb-3" style={{ color: 'var(--text-primary)' }}>
-                      {business.name}
-                    </h3>
-                    {business.rating > 0 && (
-                      <RatingStars rating={business.rating} reviewCount={business.reviewCount} />
-                    )}
+              <Card
+                key={business.id}
+                shadow={isPremium ? "xl" : isFeatured ? "md" : "sm"}
+                padding={isPremium ? "xl" : isFeatured ? "lg" : "md"}
+                radius="xl"
+                withBorder
+                style={{
+                  background: isPremium 
+                    ? 'linear-gradient(135deg, #FFFFFF 0%, #F8F4EB 100%)'
+                    : 'white',
+                  borderWidth: isPremium ? 4 : isFeatured ? 2 : 1,
+                  borderColor: isPremium 
+                    ? '#C9A961' 
+                    : isFeatured
+                    ? 'rgba(201, 169, 97, 0.3)'
+                    : 'rgba(26, 26, 26, 0.1)',
+                  boxShadow: isPremium
+                    ? '0 12px 40px rgba(201, 169, 97, 0.25)'
+                    : undefined,
+                  position: 'relative',
+                  overflow: 'hidden',
+                }}
+              >
+                {isPremium && (
+                  <div style={{
+                    position: 'absolute',
+                    top: 0,
+                    right: 0,
+                    width: '16rem',
+                    height: '16rem',
+                    opacity: 0.05,
+                    pointerEvents: 'none',
+                  }}>
+                    <div style={{
+                      width: '100%',
+                      height: '100%',
+                      borderRadius: '50%',
+                      background: 'linear-gradient(to bottom right, #FBBF24, #FB923C)',
+                      filter: 'blur(60px)',
+                    }}></div>
                   </div>
+                )}
 
-                  <p className="mb-6 leading-relaxed text-base" style={{ color: 'var(--text-secondary)' }}>
-                    {business.description}
-                  </p>
+                {index === 0 && <BestChoiceBadge />}
 
-                  <div className="mb-6">
-                    <h4 className="font-bold mb-3 text-sm uppercase tracking-wide"
-                        style={{ color: 'var(--color-primary)' }}>
-                      Services proposés
-                    </h4>
-                    <div className="flex flex-wrap gap-2">
-                      {business.services.map((service, idx) => (
-                        <span
-                          key={idx}
-                          className="px-3 py-1.5 rounded-lg text-sm font-medium"
-                          style={{
-                            background: 'var(--color-primary-lighter)',
-                            color: 'var(--color-primary-dark)'
-                          }}
-                        >
-                          ✓ {service}
-                        </span>
-                      ))}
-                    </div>
-                  </div>
-
-                  <div className="space-y-2">
-                    <div className="flex items-center gap-3 text-sm">
-                      <MapPin className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
-                      <span style={{ color: 'var(--text-secondary)' }}>
-                        {business.address}, {business.postalCode} {business.city}
-                      </span>
+                <Group align="flex-start" style={{ gap: '2rem' }}>
+                  <Stack style={{ flex: 2, gap: '1.5rem' }}>
+                    <div>
+                      <Title order={3} mb="md" c="#1A1A1A">
+                        {business.name}
+                      </Title>
+                      {business.rating > 0 && (
+                        <RatingStars rating={business.rating} reviewCount={business.reviewCount} />
+                      )}
                     </div>
 
-                    {business.phone && (
-                      <div className="flex items-center gap-3 text-sm">
-                        <Phone className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
-                        <a href={`tel:${business.phone}`}
-                           className="hover:underline"
-                           style={{ color: 'var(--text-secondary)' }}>
-                          {business.phone}
-                        </a>
-                      </div>
-                    )}
+                    <Text size="md" c="#4A4A4A" style={{ lineHeight: 1.6 }}>
+                      {business.description}
+                    </Text>
 
-                    {business.openingHours && (
-                      <div className="flex items-center gap-3 text-sm">
-                        <Clock className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
-                        <span style={{ color: 'var(--text-secondary)' }}>
-                          Lun-Ven: {business.openingHours.monday || 'Horaires variables'}
-                        </span>
-                      </div>
-                    )}
-                  </div>
-                </div>
+                    <div>
+                      <Text 
+                        size="sm" 
+                        fw={700} 
+                        tt="uppercase" 
+                        mb="sm"
+                        c="#C9A961"
+                        style={{ letterSpacing: '0.05em' }}
+                      >
+                        Services proposés
+                      </Text>
+                      <Group gap="xs">
+                        {business.services.map((service, idx) => (
+                          <Badge
+                            key={idx}
+                            variant="light"
+                            size="lg"
+                            radius="md"
+                            style={{
+                              background: '#F8F4EB',
+                              color: '#8B6F3E',
+                              fontWeight: 500,
+                            }}
+                          >
+                            ✓ {service}
+                          </Badge>
+                        ))}
+                      </Group>
+                    </div>
 
-                <CTAColumn />
-              </div>
-            </div>
-          );
+                    <Stack gap="xs">
+                      <Group gap="sm">
+                        <MapPin size={16} color="#C9A961" />
+                        <Text size="sm" c="#4A4A4A">
+                          {business.address}, {business.postalCode} {business.city}
+                        </Text>
+                      </Group>
+
+                      {business.phone && (
+                        <Group gap="sm">
+                          <Phone size={16} color="#C9A961" />
+                          <Text 
+                            component="a" 
+                            href={`tel:${business.phone}`}
+                            size="sm" 
+                            c="#4A4A4A"
+                            style={{ textDecoration: 'none' }}
+                          >
+                            {business.phone}
+                          </Text>
+                        </Group>
+                      )}
+
+                      {business.openingHours && (
+                        <Group gap="sm">
+                          <Clock size={16} color="#C9A961" />
+                          <Text size="sm" c="#4A4A4A">
+                            Lun-Ven: {business.openingHours.monday || 'Horaires variables'}
+                          </Text>
+                        </Group>
+                      )}
+                    </Stack>
+                  </Stack>
+
+                  <CTAColumn />
+                </Group>
+              </Card>
+            );
           })}
-        </div>
+        </Stack>
 
         <BottomCTA cityName={cityName} />
       </div>
@@ -153,48 +178,51 @@ function SerpBusinessCards({ businesses, cityName }: { businesses: CrazySerpBusi
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
           {businesses.map((business, index) => (
-            <div
+            <Card
               key={`${business.name}-${index}`}
-              className="bg-white rounded-2xl p-6 transition-all duration-300 hover:shadow-xl border-2"
+              shadow="md"
+              padding="lg"
+              radius="xl"
+              withBorder
               style={{
-                borderColor: index === 0 ? 'var(--color-primary)' : 'rgba(0, 119, 182, 0.1)',
+                borderWidth: index === 0 ? 2 : 1,
+                borderColor: index === 0 ? '#C9A961' : 'rgba(201, 169, 97, 0.1)',
               }}
             >
               {index === 0 && <BestChoiceBadge />}
 
-              <h3 className="text-lg font-bold mb-3 line-clamp-2" style={{ color: 'var(--text-primary)' }}>
+              <Title order={4} mb="sm" lineClamp={2} c="#1A1A1A">
                 {business.name}
-              </h3>
+              </Title>
 
               {business.rating != null && business.rating > 0 && (
                 <RatingStars rating={business.rating} reviewCount={business.reviewCount} />
               )}
 
-              {business.category && (
-                <div className="flex items-center gap-2 mt-3 text-sm" style={{ color: 'var(--text-secondary)' }}>
-                  <Tag className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
-                  <span>{business.category}</span>
-                </div>
-              )}
-
               {business.address && (
-                <div className="flex items-start gap-2 mt-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
-                  <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" style={{ color: 'var(--color-primary)' }} />
-                  <span>{business.address}</span>
-                </div>
+                <Group gap="xs" mt="sm">
+                  <MapPin size={16} color="#C9A961" />
+                  <Text size="sm" c="#4A4A4A">
+                    {business.address}
+                  </Text>
+                </Group>
               )}
 
-              <a
+              <Button
+                component="a"
                 href="#quote-form"
-                className="block text-center mt-4 px-4 py-3 rounded-full font-bold text-sm transition-all duration-200 hover:shadow-lg"
+                fullWidth
+                mt="md"
+                radius="xl"
+                size="md"
+                fw={700}
                 style={{
-                  background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
-                  color: '#ffffff'
+                  background: 'linear-gradient(135deg, #C9A961 0%, #D4BA7E 100%)',
                 }}
               >
                 Devis gratuit
-              </a>
-            </div>
+              </Button>
+            </Card>
           ))}
         </div>
 
@@ -206,108 +234,139 @@ function SerpBusinessCards({ businesses, cityName }: { businesses: CrazySerpBusi
 
 function BusinessHeader({ count, cityName }: { count: number; cityName: string }) {
   return (
-    <div className="text-center mx-auto mb-16 max-w-3xl" style={{ textAlign: 'center' }}>
-      <span className="badge badge-primary mb-4 inline-flex items-center gap-2">
+    <div className="text-center mx-auto mb-16 max-w-3xl">
+      <Badge 
+        size="lg" 
+        radius="md" 
+        mb="md"
+        style={{
+          background: 'linear-gradient(135deg, #C9A961 0%, #D4BA7E 100%)',
+          color: '#1A1A1A',
+        }}
+      >
         Top entreprises
-      </span>
-      <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--color-primary)' }}>
+      </Badge>
+      <Title order={2} mb="md" c="#C9A961" style={{ fontSize: 'clamp(1.75rem, 5vw, 2.5rem)' }}>
         Les meilleurs centres de détatouage à {cityName}
-      </h2>
-      <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
+      </Title>
+      <Text size="lg" c="#4A4A4A">
         Découvrez les {count} centres les mieux notés pour votre détatouage laser à {cityName}.
         Comparez leurs services et demandez votre devis gratuit.
-      </p>
+      </Text>
     </div>
   );
 }
 
 function BestChoiceBadge() {
   return (
-    <div className="inline-flex items-center gap-3 px-6 py-3 rounded-full mb-6 relative z-10"
-         style={{
-           background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
-           color: '#1A1A1A',
-           boxShadow: '0 8px 32px rgba(201, 169, 97, 0.4)',
-           letterSpacing: '0.05em',
-         }}>
-      <span className="text-xl">★</span>
-      <span className="text-sm font-bold uppercase">Meilleur Choix Premium</span>
-    </div>
+    <Badge
+      size="lg"
+      radius="xl"
+      mb="lg"
+      leftSection={<span>★</span>}
+      style={{
+        background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
+        color: '#1A1A1A',
+        boxShadow: '0 8px 32px rgba(201, 169, 97, 0.4)',
+        letterSpacing: '0.05em',
+        fontWeight: 700,
+        textTransform: 'uppercase',
+        fontSize: '0.75rem',
+      }}
+    >
+      Meilleur Choix Premium
+    </Badge>
   );
 }
 
 function RatingStars({ rating, reviewCount }: { rating: number; reviewCount: number | null }) {
   return (
-    <div className="flex items-center gap-3 mb-3">
-      <div className="flex items-center gap-1">
+    <Group gap="sm" mb="sm">
+      <Group gap={4}>
         {[...Array(5)].map((_, i) => (
           <Star
             key={i}
-            className={`w-5 h-5 ${
-              i < Math.floor(rating)
-                ? 'fill-yellow-400 text-yellow-400'
-                : 'text-gray-300'
-            }`}
+            size={20}
+            fill={i < Math.floor(rating) ? '#FBBF24' : 'transparent'}
+            color={i < Math.floor(rating) ? '#FBBF24' : '#D1D5DB'}
           />
         ))}
-      </div>
-      <span className="font-bold text-lg" style={{ color: 'var(--color-primary)' }}>
+      </Group>
+      <Text fw={700} size="lg" c="#C9A961">
         {rating}/5
-      </span>
+      </Text>
       {reviewCount != null && (
-        <span style={{ color: 'var(--text-tertiary)' }}>
+        <Text size="sm" c="#9CA3AF">
           ({reviewCount} avis)
-        </span>
+        </Text>
       )}
-    </div>
+    </Group>
   );
 }
 
 function CTAColumn() {
   return (
-    <div className="flex flex-col justify-center gap-4">
-      <a
+    <Stack style={{ minWidth: '15rem', justifyContent: 'center', gap: '1rem' }}>
+      <Button
+        component="a"
         href="#quote-form"
-        className="block text-center px-6 py-4 rounded-full font-bold transition-all duration-200 hover:shadow-xl hover:scale-105"
+        size="lg"
+        radius="xl"
+        fw={700}
         style={{
-          background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
-          color: '#ffffff'
+          background: 'linear-gradient(135deg, #C9A961 0%, #D4BA7E 100%)',
+          boxShadow: '0 4px 16px rgba(201, 169, 97, 0.3)',
         }}
       >
         Obtenir un devis gratuit
-      </a>
+      </Button>
 
-      <div className="text-center p-4 rounded-lg"
-           style={{ background: 'var(--color-primary-lighter)' }}>
-        <p className="text-xs font-medium" style={{ color: 'var(--color-primary-dark)' }}>
+      <Card 
+        padding="md" 
+        radius="md"
+        style={{ background: '#F8F4EB' }}
+      >
+        <Text size="xs" fw={500} c="#8B6F3E" ta="center">
           💡 Devis gratuit et sans engagement
-        </p>
-      </div>
-    </div>
+        </Text>
+      </Card>
+    </Stack>
   );
 }
 
 function BottomCTA({ cityName }: { cityName: string }) {
   return (
-    <div className="mt-16 text-center max-w-3xl mx-auto p-8 rounded-2xl"
-         style={{ background: 'var(--bg-secondary)', textAlign: 'center' }}>
-      <h3 className="text-2xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
+    <Card
+      mt="xl"
+      padding="xl"
+      radius="xl"
+      style={{ 
+        maxWidth: '48rem', 
+        margin: '4rem auto 0',
+        background: '#F5F5F5',
+        textAlign: 'center',
+      }}
+    >
+      <Title order={3} mb="md" c="#1A1A1A">
         Vous n'arrivez pas à choisir ?
-      </h3>
-      <p className="mb-6 text-lg" style={{ color: 'var(--text-secondary)' }}>
+      </Title>
+      <Text size="lg" mb="lg" c="#4A4A4A">
         Remplissez notre formulaire et recevez jusqu'à 3 devis personnalisés
         des meilleurs centres de {cityName}.
-      </p>
-      <a
+      </Text>
+      <Button
+        component="a"
         href="#quote-form"
-        className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-full transition-all duration-200 hover:shadow-xl hover:scale-105"
+        size="xl"
+        radius="xl"
+        fw={700}
         style={{
-          background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
-          color: '#ffffff'
+          background: 'linear-gradient(135deg, #C9A961 0%, #D4BA7E 100%)',
+          boxShadow: '0 4px 16px rgba(201, 169, 97, 0.3)',
         }}
       >
         Comparer les devis gratuitement
-      </a>
-    </div>
+      </Button>
+    </Card>
   );
 }
