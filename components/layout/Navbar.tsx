@@ -3,175 +3,215 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect } from "react";
-import { Menu, X, Phone } from "lucide-react";
+import { Header, Container, Group, Button, Burger } from "@mantine/core";
+import { useDisclosure } from "@mantine/hooks";
+import { Phone } from "lucide-react";
 
 export function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
-  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [opened, { toggle, close }] = useDisclosure(false);
 
   useEffect(() => {
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 20);
+      setIsScrolled(window.scrolly > 20);
     };
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  useEffect(() => {
-    document.body.style.overflow = isMobileMenuOpen ? "hidden" : "";
-    return () => { document.body.style.overflow = ""; };
-  }, [isMobileMenuOpen]);
-
   const scrollToForm = () => {
     if (typeof window !== 'undefined') {
       const form = document.getElementById("quote-form");
       form?.scrollIntoView({ behavior: "smooth", block: "start" });
-      setIsMobileMenuOpen(false);
+      close();
     }
   };
 
   return (
-    <header
-      className={`
-        fixed top-0 left-0 right-0 z-50 transition-all duration-300
-        ${isScrolled
-          ? 'bg-white/98 backdrop-blur-lg shadow-lg'
-          : 'bg-white shadow-sm'
-        }
-      `}
+    <Header
+      height={80}
+      px="md"
+      sx={(theme) => ({
+        position: "fixed",
+        top: 0,
+        left: 0,
+        right: 0,
+        zIndex: 100,
+        backgroundColor: isScrolled 
+          ? 'rgba(26, 26, 26, 0.98)' 
+          : theme.colors.dark[8],
+        backdropFilter: isScrolled ? 'blur(12px)' : 'none',
+        boxShadow: isScrolled ? '0 4px 20px rgba(0, 0, 0, 0.3)' : 'none',
+        transition: 'all 0.3s ease',
+        borderBottom: `1px solid ${theme.colors.dark[6]}`,
+      })}
     >
-      <nav className="container mx-auto px-4 sm:px-6">
-        <div className="flex items-center justify-between h-16 sm:h-20">
+      <Container size="xl" sx={{ height: '100%' }}>
+        <Group position="apart" sx={{ height: '100%' }}>
           {/* Logo */}
-          <Link
-            href="/"
-            className="flex items-center gap-2 sm:gap-3 group relative z-50"
-            onClick={() => setIsMobileMenuOpen(false)}
-          >
-            <div className="relative flex-shrink-0">
-              <Image
-                src="/images/logo.png"
-                alt="Logo Détatouage Laser France"
-                width={180}
-                height={50}
-                className="h-12 sm:h-14 w-auto object-contain transition-transform group-hover:scale-[1.02]"
-                priority
-              />
-            </div>
+          <Link href="/" style={{ display: 'flex', alignItems: 'center' }}>
+            <Image
+              src="/images/logo.png"
+              alt="Logo Détatouage Laser France"
+              width={180}
+              height={50}
+              className="h-14 w-auto object-contain transition-transform hover:scale-105"
+              priority
+            />
           </Link>
 
           {/* Navigation Desktop */}
-          <div className="hidden lg:flex items-center gap-8">
-            <Link
-              href="/"
-              className="relative text-sm font-semibold transition-colors group"
-              style={{ color: 'var(--text-secondary)' }}
-            >
-              <span className="group-hover:text-[var(--color-primary)] transition-colors">
-                Accueil
-              </span>
-              <span className="absolute -bottom-1 left-0 w-0 h-0.5 transition-all group-hover:w-full"
-                    style={{ background: 'var(--color-primary)' }}></span>
-            </Link>
-
-            <Link
-              href="/prix"
-              className="relative text-sm font-semibold transition-colors group"
-              style={{ color: 'var(--text-secondary)' }}
-            >
-              <span className="group-hover:text-[var(--color-primary)] transition-colors">
-                Prix
-              </span>
-              <span className="absolute -bottom-1 left-0 w-0 h-0.5 transition-all group-hover:w-full"
-                    style={{ background: 'var(--color-primary)' }}></span>
-            </Link>
-
-            <Link
-              href="/avant-apres"
-              className="relative text-sm font-semibold transition-colors group"
-              style={{ color: 'var(--text-secondary)' }}
-            >
-              <span className="group-hover:text-[var(--color-primary)] transition-colors">
-                Avant/Après
-              </span>
-              <span className="absolute -bottom-1 left-0 w-0 h-0.5 transition-all group-hover:w-full"
-                    style={{ background: 'var(--color-primary)' }}></span>
-            </Link>
-
-            {/* CTA Button Premium Gold */}
-            <button
-              onClick={scrollToForm}
-              className="px-8 py-3 rounded-xl font-bold text-sm transition-all duration-200 hover:shadow-xl hover:scale-105 relative overflow-hidden group"
+          <Group spacing={32} sx={{ '@media (max-width: 960px)': { display: 'none' } }}>
+            <Link 
+              href="/" 
               style={{ 
-                background: 'linear-gradient(135deg, #C9A961, #D4BA7E)', 
+                color: '#fff', 
+                fontWeight: 600, 
+                fontSize: 14,
+                textDecoration: 'none',
+                transition: 'color 0.2s',
+              }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#C9A961'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#fff'}
+            >
+              Accueil
+            </Link>
+            <Link 
+              href="/prix" 
+              style={{ 
+                color: '#fff', 
+                fontWeight: 600, 
+                fontSize: 14,
+                textDecoration: 'none',
+                transition: 'color 0.2s',
+              }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#C9A961'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#fff'}
+            >
+              Prix
+            </Link>
+            <Link 
+              href="/avant-apres" 
+              style={{ 
+                color: '#fff', 
+                fontWeight: 600, 
+                fontSize: 14,
+                textDecoration: 'none',
+                transition: 'color 0.2s',
+              }}
+              onMouseEnter={(e) => e.currentTarget.style.color = '#C9A961'}
+              onMouseLeave={(e) => e.currentTarget.style.color = '#fff'}
+            >
+              Avant/Après
+            </Link>
+
+            <Button
+              onClick={scrollToForm}
+              size="lg"
+              radius="xl"
+              sx={(theme) => ({
+                background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
                 color: '#1A1A1A',
+                fontWeight: 700,
+                fontSize: 14,
+                padding: '12px 32px',
                 boxShadow: '0 4px 16px rgba(201, 169, 97, 0.3)',
                 letterSpacing: '0.02em',
-              }}
+                transition: 'all 0.2s',
+                '&:hover': {
+                  transform: 'scale(1.05)',
+                  boxShadow: '0 6px 24px rgba(201, 169, 97, 0.5)',
+                  background: 'linear-gradient(135deg, #D4BA7E, #C9A961)',
+                },
+              })}
             >
-              <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"></span>
-              <span className="relative z-10">Devis Gratuit</span>
-            </button>
-          </div>
+              Devis Gratuit
+            </Button>
+          </Group>
 
-          {/* Mobile Menu Button */}
-          <button
-            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            className="lg:hidden relative z-50 p-2 rounded-lg transition-colors"
-            style={{ color: 'var(--color-primary)' }}
-            aria-label="Menu"
-          >
-            {isMobileMenuOpen ? (
-              <X className="w-6 h-6" />
-            ) : (
-              <Menu className="w-6 h-6" />
-            )}
-          </button>
-        </div>
+          {/* Mobile Burger */}
+          <Burger
+            opened={opened}
+            onClick={toggle}
+            color="#C9A961"
+            size="md"
+            sx={{ '@media (min-width: 960px)': { display: 'none' } }}
+          />
+        </Group>
 
         {/* Mobile Menu */}
-        {isMobileMenuOpen && (
-          <div className="lg:hidden absolute top-16 sm:top-20 left-0 right-0 z-50 bg-white border-t border-gray-100 shadow-2xl animate-slide-down">
-            <div className="container mx-auto px-4 py-6 space-y-4">
-              <Link
-                href="/"
-                onClick={() => setIsMobileMenuOpen(false)}
-                className="block py-3 text-base font-semibold transition-colors"
-                style={{ color: 'var(--text-secondary)' }}
+        {opened && (
+          <div
+            style={{
+              position: 'fixed',
+              top: 80,
+              left: 0,
+              right: 0,
+              backgroundColor: '#1A1A1A',
+              padding: '24px',
+              boxShadow: '0 8px 32px rgba(0, 0, 0, 0.5)',
+              zIndex: 99,
+            }}
+          >
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+              <Link 
+                href="/" 
+                onClick={close}
+                style={{ 
+                  color: '#fff', 
+                  fontWeight: 600, 
+                  fontSize: 16,
+                  textDecoration: 'none',
+                  padding: '12px 0',
+                }}
               >
                 Accueil
               </Link>
-
-              <Link
-                href="/prix"
-                onClick={() => setIsMobileMenuOpen(false)}
-                className="block py-3 text-base font-semibold transition-colors"
-                style={{ color: 'var(--text-secondary)' }}
+              <Link 
+                href="/prix" 
+                onClick={close}
+                style={{ 
+                  color: '#fff', 
+                  fontWeight: 600, 
+                  fontSize: 16,
+                  textDecoration: 'none',
+                  padding: '12px 0',
+                }}
               >
                 Prix
               </Link>
-
-              <Link
-                href="/avant-apres"
-                onClick={() => setIsMobileMenuOpen(false)}
-                className="block py-3 text-base font-semibold transition-colors"
-                style={{ color: 'var(--text-secondary)' }}
+              <Link 
+                href="/avant-apres" 
+                onClick={close}
+                style={{ 
+                  color: '#fff', 
+                  fontWeight: 600, 
+                  fontSize: 16,
+                  textDecoding: 'none',
+                  padding: '12px 0',
+                }}
               >
                 Avant/Après
               </Link>
-
-              <button
+              <Button
                 onClick={scrollToForm}
-                className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-bold transition-all duration-200 border-2"
-                style={{ borderColor: 'var(--color-primary)', color: 'var(--color-primary)', background: 'transparent' }}
+                size="lg"
+                radius="xl"
+                fullWidth
+                leftIcon={<Phone size={20} />}
+                sx={{
+                  background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
+                  color: '#1A1A1A',
+                  fontWeight: 700,
+                  marginTop: 8,
+                }}
               >
-                <Phone className="w-5 h-5" />
                 Devis Gratuit
-              </button>
+              </Button>
             </div>
           </div>
         )}
-      </nav>
-    </header>
+      </Container>
+    </Header>
   );
 }

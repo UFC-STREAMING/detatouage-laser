@@ -1,5 +1,5 @@
-import Image from "next/image";
-import { Phone } from "lucide-react";
+import { BackgroundImage, Overlay, Container, Title, Text, Button, Group } from "@mantine/core";
+import { Phone, Shield, Award, Star } from "lucide-react";
 
 interface HeroSectionProps {
   imageSrc: string;
@@ -20,97 +20,154 @@ export function HeroSection({
   ctaHref,
   height = "medium",
 }: HeroSectionProps) {
-  const heightClasses = {
-    small: "h-[280px] sm:h-[320px] md:h-[380px]",
-    medium: "h-[350px] sm:h-[420px] md:h-[500px]",
-    large: "h-[400px] sm:h-[480px] md:h-[550px] lg:h-[600px]",
+  const heightValues = {
+    small: 380,
+    medium: 500,
+    large: 600,
   };
 
   return (
-    <section className={`relative ${heightClasses[height]} w-full overflow-hidden`}>
-      {/* Image de fond optimisée */}
-      <Image
-        src={imageSrc.replace('.png', '.webp')}
-        alt={imageAlt}
-        fill
-        priority
-        loading="eager"
-        className="object-cover"
-        sizes="100vw"
-        quality={85}
+    <BackgroundImage
+      src={imageSrc.replace('.png', '.webp')}
+      style={{ minHeight: heightValues[height] }}
+    >
+      <Overlay
+        gradient="linear-gradient(135deg, rgba(26, 26, 26, 0.92) 0%, rgba(46, 49, 146, 0.85) 50%, rgba(201, 169, 97, 0.65) 100%)"
+        opacity={1}
+        zIndex={1}
       />
 
-      {/* Overlay premium gradient noir/or */}
-      <div
-        className="absolute inset-0"
-        style={{
-          background: "linear-gradient(135deg, rgba(26, 26, 26, 0.92) 0%, rgba(46, 49, 146, 0.85) 50%, rgba(201, 169, 97, 0.65) 100%)",
+      <Container 
+        size="lg" 
+        style={{ 
+          position: 'relative', 
+          zIndex: 2, 
+          minHeight: heightValues[height],
+          display: 'flex',
+          flexDirection: 'column',
+          justifyContent: 'center',
+          alignItems: 'center',
+          textAlign: 'center',
+          padding: '40px 16px',
         }}
-      />
-
-      {/* Contenu centré avec contrainte max-width */}
-      <div className="relative h-full flex items-center justify-center px-4 sm:px-6">
-        <div className="w-full max-w-5xl mx-auto text-center">
-          {/* Badge premium or */}
-          <span
-            className="inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-bold mb-6 sm:mb-8"
-            style={{
-              background: "linear-gradient(135deg, #C9A961, #D4BA7E)",
-              color: "#1A1A1A",
-              boxShadow: "0 8px 32px rgba(201, 169, 97, 0.5)",
-              letterSpacing: "0.05em",
-              textTransform: "uppercase",
-            }}
-          >
-            ★ Excellence Médicale
-          </span>
-
-          {/* Titre principal premium avec Playfair */}
-          <p
-            className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6 leading-tight"
-            style={{
-              color: "white",
-              fontFamily: "var(--font-playfair)",
-              textShadow: "0 6px 30px rgba(0, 0, 0, 0.8), 0 0 60px rgba(201, 169, 97, 0.3)",
-              letterSpacing: "-0.02em",
-            }}
-          >
-            {title}
-          </p>
-
-          {/* Sous-titre avec meilleure lisibilité */}
-          {subtitle && (
-            <p
-              className="text-base sm:text-lg md:text-xl lg:text-2xl mb-8 sm:mb-10 leading-relaxed max-w-3xl mx-auto px-4"
-              style={{
-                color: "rgba(255, 255, 255, 0.95)",
-                textShadow: "0 2px 10px rgba(0, 0, 0, 0.6)",
-              }}
-            >
-              {subtitle}
-            </p>
-          )}
-
-          {/* CTA Premium Gold */}
-          {ctaText && ctaHref && (
-            <a
-              href={ctaHref}
-              className="inline-flex items-center justify-center gap-3 px-10 sm:px-12 py-5 sm:py-6 rounded-2xl font-bold text-base sm:text-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl active:scale-95 max-w-full relative overflow-hidden group"
-              style={{
-                background: "linear-gradient(135deg, #C9A961, #D4BA7E)",
-                boxShadow: "0 12px 40px rgba(201, 169, 97, 0.6), 0 0 60px rgba(201, 169, 97, 0.3)",
-                minHeight: "64px",
-                color: "#1A1A1A",
-                letterSpacing: "0.02em",
-              }}
-            >
-              <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"></span>
-              <Phone className="w-5 h-5 sm:w-6 sm:h-6 relative z-10" />
-              <span className="relative z-10">{ctaText}</span>
-            </a>
-          )}
+      >
+        {/* Badge Excellence */}
+        <div
+          style={{
+            background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
+            color: '#1A1A1A',
+            padding: '12px 24px',
+            borderRadius: 999,
+            fontWeight: 700,
+            fontSize: 14,
+            letterSpacing: '0.05em',
+            textTransform: 'uppercase',
+            boxShadow: '0 8px 32px rgba(201, 169, 97, 0.5)',
+            marginBottom: 32,
+          }}
+        >
+          ★ Excellence Médicale
         </div>
-      </div>
-    </section>
+
+        {/* Title - Playfair Display */}
+        <Title
+          order={1}
+          sx={(theme) => ({
+            color: '#fff',
+            fontFamily: 'var(--font-playfair)',
+            fontSize: 'clamp(32px, 6vw, 64px)',
+            fontWeight: 700,
+            lineHeight: 1.2,
+            letterSpacing: '-0.02em',
+            textShadow: '0 6px 30px rgba(0, 0, 0, 0.8), 0 0 60px rgba(201, 169, 97, 0.3)',
+            marginBottom: 24,
+            maxWidth: 900,
+          })}
+        >
+          {title}
+        </Title>
+
+        {/* Subtitle */}
+        {subtitle && (
+          <Text
+            size="xl"
+            sx={{
+              color: 'rgba(255, 255, 255, 0.95)',
+              fontSize: 'clamp(16px, 2vw, 24px)',
+              lineHeight: 1.6,
+              textShadow: '0 2px 10px rgba(0, 0, 0, 0.6)',
+              marginBottom: 40,
+              maxWidth: 700,
+            }}
+          >
+            {subtitle}
+          </Text>
+        )}
+
+        {/* CTA Button */}
+        {ctaText && ctaHref && (
+          <Button
+            component="a"
+            href={ctaHref}
+            size="xl"
+            radius="xl"
+            leftIcon={<Phone size={24} />}
+            sx={{
+              background: 'linear-gradient(135deg, #C9A961, #D4BA7E)',
+              color: '#1A1A1A',
+              fontSize: 18,
+              fontWeight: 700,
+              padding: '24px 48px',
+              height: 'auto',
+              letterSpacing: '0.02em',
+              boxShadow: '0 12px 40px rgba(201, 169, 97, 0.6), 0 0 60px rgba(201, 169, 97, 0.3)',
+              transition: 'all 0.3s ease',
+              '&:hover': {
+                transform: 'scale(1.05)',
+                boxShadow: '0 16px 60px rgba(201, 169, 97, 0.8)',
+                background: 'linear-gradient(135deg, #D4BA7E, #C9A961)',
+              },
+              '&:active': {
+                transform: 'scale(0.98)',
+              },
+            }}
+          >
+            {ctaText}
+          </Button>
+        )}
+
+        {/* Trust Badges */}
+        <Group 
+          position="center" 
+          spacing={40} 
+          mt={48}
+          sx={{
+            '@media (max-width: 768px)': {
+              flexDirection: 'column',
+              gap: 16,
+            },
+          }}
+        >
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <Shield size={32} color="#C9A961" />
+            <Text size="sm" color="rgba(255, 255, 255, 0.9)" weight={600}>
+              Certifié Médical
+            </Text>
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <Award size={32} color="#C9A961" />
+            <Text size="sm" color="rgba(255, 255, 255, 0.9)" weight={600}>
+              +10 ans d'expérience
+            </Text>
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+            <Star size={32} color="#C9A961" />
+            <Text size="sm" color="rgba(255, 255, 255, 0.9)" weight={600}>
+              4.9/5 Avis clients
+            </Text>
+          </div>
+        </Group>
+      </Container>
+    </BackgroundImage>
   );
 }
