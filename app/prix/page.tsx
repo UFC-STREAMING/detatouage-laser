@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { HeroSection } from "@/components/ui/HeroSection";
 import { QuoteForm } from "@/components/ui/QuoteForm";
-import { Euro, TrendingUp, Calendar, Palette } from "lucide-react";
+import { CurrencyEuroIcon, ArrowTrendingUpIcon, CalendarDaysIcon, SwatchIcon } from "@heroicons/react/24/outline";
 
 export const metadata: Metadata = {
   title: "Prix Détatouage Laser - Tarifs et Estimations",
@@ -57,27 +57,27 @@ export default function PrixPage() {
                   <tr className="hover:bg-[var(--bg-secondary)] transition">
                     <td className="px-6 py-4 font-medium">Très petit</td>
                     <td className="px-6 py-4 text-center text-[var(--text-secondary)]">Moins de 5cm²</td>
-                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">80€ - 120€</td>
+                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">29€ - 59€</td>
                   </tr>
                   <tr className="hover:bg-[var(--bg-secondary)] transition">
                     <td className="px-6 py-4 font-medium">Petit</td>
                     <td className="px-6 py-4 text-center text-[var(--text-secondary)]">5cm² - 10cm² (carte bancaire)</td>
-                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">120€ - 180€</td>
+                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">59€ - 99€</td>
                   </tr>
                   <tr className="hover:bg-[var(--bg-secondary)] transition">
                     <td className="px-6 py-4 font-medium">Moyen</td>
                     <td className="px-6 py-4 text-center text-[var(--text-secondary)]">10cm² - 25cm² (main)</td>
-                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">180€ - 250€</td>
+                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">100€ - 149€</td>
                   </tr>
                   <tr className="hover:bg-[var(--bg-secondary)] transition">
                     <td className="px-6 py-4 font-medium">Grand</td>
                     <td className="px-6 py-4 text-center text-[var(--text-secondary)]">25cm² - 50cm² (feuille A4)</td>
-                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">250€ - 350€</td>
+                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">150€ - 199€</td>
                   </tr>
                   <tr className="hover:bg-[var(--bg-secondary)] transition">
                     <td className="px-6 py-4 font-medium">Très grand</td>
                     <td className="px-6 py-4 text-center text-[var(--text-secondary)]">Plus de 50cm²</td>
-                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">Sur devis</td>
+                    <td className="px-6 py-4 text-right text-[var(--color-primary)] font-bold">200€ - 299€</td>
                   </tr>
                 </tbody>
               </table>
@@ -105,7 +105,7 @@ export default function PrixPage() {
           <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <div className="bg-[var(--color-primary-lighter)] w-14 h-14 rounded-full flex items-center justify-center mb-4">
-                <Palette className="w-7 h-7 text-[var(--color-primary)]" />
+                <SwatchIcon className="w-7 h-7 text-[var(--color-primary)]" />
               </div>
               <h3 className="font-semibold text-lg mb-3 text-[var(--color-primary)]">Couleur de l'encre</h3>
               <p className="text-[var(--text-secondary)] mb-3">
@@ -120,7 +120,7 @@ export default function PrixPage() {
 
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <div className="bg-[var(--color-primary-lighter)] w-14 h-14 rounded-full flex items-center justify-center mb-4">
-                <TrendingUp className="w-7 h-7 text-[var(--color-primary)]" />
+                <ArrowTrendingUpIcon className="w-7 h-7 text-[var(--color-primary)]" />
               </div>
               <h3 className="font-semibold text-lg mb-3 text-[var(--color-primary)]">Densité et remplissage</h3>
               <p className="text-[var(--text-secondary)] mb-3">
@@ -135,7 +135,7 @@ export default function PrixPage() {
 
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <div className="bg-[var(--color-primary-lighter)] w-14 h-14 rounded-full flex items-center justify-center mb-4">
-                <Calendar className="w-7 h-7 text-[var(--color-primary)]" />
+                <CalendarDaysIcon className="w-7 h-7 text-[var(--color-primary)]" />
               </div>
               <h3 className="font-semibold text-lg mb-3 text-[var(--color-primary)]">Ancienneté du tatouage</h3>
               <p className="text-[var(--text-secondary)] mb-3">
@@ -150,7 +150,7 @@ export default function PrixPage() {
 
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <div className="bg-[var(--color-primary-lighter)] w-14 h-14 rounded-full flex items-center justify-center mb-4">
-                <Euro className="w-7 h-7 text-[var(--color-primary)]" />
+                <CurrencyEuroIcon className="w-7 h-7 text-[var(--color-primary)]" />
               </div>
               <h3 className="font-semibold text-lg mb-3 text-[var(--color-primary)]">Qualité de l'encre</h3>
               <p className="text-[var(--text-secondary)] mb-3">
@@ -180,11 +180,11 @@ export default function PrixPage() {
                   Tatouage petit (noir uniquement)
                 </h3>
                 <div className="space-y-3 text-[var(--text-secondary)]">
-                  <p><strong>Prix par séance:</strong> 120€</p>
+                  <p><strong>Prix par séance:</strong> 59€</p>
                   <p><strong>Nombre de séances:</strong> 5-6</p>
                   <div className="border-t border-[var(--color-grey-200)] pt-3 mt-3">
                     <p className="text-2xl font-bold text-[var(--color-primary)]">
-                      600€ - 720€
+                      295€ - 354€
                     </p>
                     <p className="text-sm text-[var(--text-secondary)]">Coût total estimé</p>
                   </div>
@@ -196,11 +196,11 @@ export default function PrixPage() {
                   Tatouage moyen (couleurs)
                 </h3>
                 <div className="space-y-3 text-[var(--text-secondary)]">
-                  <p><strong>Prix par séance:</strong> 220€</p>
+                  <p><strong>Prix par séance:</strong> 120€</p>
                   <p><strong>Nombre de séances:</strong> 8-10</p>
                   <div className="border-t border-[var(--color-grey-200)] pt-3 mt-3">
                     <p className="text-2xl font-bold text-[var(--color-primary)]">
-                      1 760€ - 2 200€
+                      960€ - 1 200€
                     </p>
                     <p className="text-sm text-[var(--text-secondary)]">Coût total estimé</p>
                   </div>

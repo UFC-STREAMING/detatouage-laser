@@ -1,6 +1,7 @@
 import { Business } from "@/data/businesses";
 import { CrazySerpBusiness } from "@/lib/city-content";
-import { Star, MapPin, Phone, Clock, Tag } from "lucide-react";
+import { StarIcon } from "@heroicons/react/24/solid";
+import { MapPinIcon, PhoneIcon, ClockIcon, TagIcon } from "@heroicons/react/24/outline";
 
 interface BusinessListingsProps {
   businesses: Business[];
@@ -23,7 +24,7 @@ export function BusinessListings({ businesses, serpBusinesses, cityName }: Busin
 
 function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; cityName: string }) {
   return (
-    <section className="section bg-white">
+    <section className="py-12 bg-white">
       <div className="container">
         <BusinessHeader count={businesses.length} cityName={cityName} />
 
@@ -76,7 +77,7 @@ function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; c
 
                   <div className="space-y-2">
                     <div className="flex items-center gap-3 text-sm">
-                      <MapPin className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
+                      <MapPinIcon className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
                       <span style={{ color: 'var(--text-secondary)' }}>
                         {business.address}, {business.postalCode} {business.city}
                       </span>
@@ -84,7 +85,7 @@ function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; c
 
                     {business.phone && (
                       <div className="flex items-center gap-3 text-sm">
-                        <Phone className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
+                        <PhoneIcon className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
                         <a href={`tel:${business.phone}`}
                            className="hover:underline"
                            style={{ color: 'var(--text-secondary)' }}>
@@ -95,7 +96,7 @@ function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; c
 
                     {business.openingHours && (
                       <div className="flex items-center gap-3 text-sm">
-                        <Clock className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
+                        <ClockIcon className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
                         <span style={{ color: 'var(--text-secondary)' }}>
                           Lun-Ven: {business.openingHours.monday || 'Horaires variables'}
                         </span>
@@ -118,7 +119,7 @@ function RichBusinessCards({ businesses, cityName }: { businesses: Business[]; c
 
 function SerpBusinessCards({ businesses, cityName }: { businesses: CrazySerpBusiness[]; cityName: string }) {
   return (
-    <section className="section bg-white">
+    <section className="py-12 bg-white">
       <div className="container">
         <BusinessHeader count={businesses.length} cityName={cityName} />
 
@@ -143,27 +144,25 @@ function SerpBusinessCards({ businesses, cityName }: { businesses: CrazySerpBusi
 
               {business.category && (
                 <div className="flex items-center gap-2 mt-3 text-sm" style={{ color: 'var(--text-secondary)' }}>
-                  <Tag className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
+                  <TagIcon className="w-4 h-4 flex-shrink-0" style={{ color: 'var(--color-primary)' }} />
                   <span>{business.category}</span>
                 </div>
               )}
 
               {business.address && (
                 <div className="flex items-start gap-2 mt-2 text-sm" style={{ color: 'var(--text-secondary)' }}>
-                  <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" style={{ color: 'var(--color-primary)' }} />
+                  <MapPinIcon className="w-4 h-4 flex-shrink-0 mt-0.5" style={{ color: 'var(--color-primary)' }} />
                   <span>{business.address}</span>
                 </div>
               )}
 
+              {/* Lien discret vers formulaire */}
               <a
                 href="#quote-form"
-                className="block text-center mt-4 px-4 py-3 rounded-full font-bold text-sm transition-all duration-200 hover:shadow-lg"
-                style={{
-                  background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
-                  color: '#ffffff'
-                }}
+                className="block text-center mt-4 text-sm font-semibold underline transition-colors"
+                style={{ color: 'var(--color-primary)' }}
               >
-                Devis gratuit
+                En savoir plus
               </a>
             </div>
           ))}
@@ -177,16 +176,12 @@ function SerpBusinessCards({ businesses, cityName }: { businesses: CrazySerpBusi
 
 function BusinessHeader({ count, cityName }: { count: number; cityName: string }) {
   return (
-    <div className="text-center mx-auto mb-16 max-w-3xl" style={{ textAlign: 'center' }}>
-      <span className="badge badge-primary mb-4 inline-flex items-center gap-2">
-        Top entreprises
-      </span>
-      <h2 className="text-3xl md:text-4xl font-bold mb-4" style={{ color: 'var(--color-primary)' }}>
+    <div className="text-center mx-auto mb-10 max-w-3xl" style={{ textAlign: 'center' }}>
+      <h2 className="text-3xl md:text-4xl font-bold mb-3" style={{ color: 'var(--color-primary)' }}>
         Les meilleurs centres de détatouage à {cityName}
       </h2>
-      <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
-        Découvrez les {count} centres les mieux notés pour votre détatouage laser à {cityName}.
-        Comparez leurs services et demandez votre devis gratuit.
+      <p className="text-base" style={{ color: 'var(--text-secondary)' }}>
+        {count} centres certifiés à {cityName} — comparez leurs services et avis clients.
       </p>
     </div>
   );
@@ -210,7 +205,7 @@ function RatingStars({ rating, reviewCount }: { rating: number; reviewCount: num
     <div className="flex items-center gap-3 mb-3">
       <div className="flex items-center gap-1">
         {[...Array(5)].map((_, i) => (
-          <Star
+          <StarIcon
             key={i}
             className={`w-5 h-5 ${
               i < Math.floor(rating)
@@ -235,21 +230,10 @@ function RatingStars({ rating, reviewCount }: { rating: number; reviewCount: num
 function CTAColumn() {
   return (
     <div className="flex flex-col justify-center gap-4">
-      <a
-        href="#quote-form"
-        className="block text-center px-6 py-4 rounded-full font-bold transition-all duration-200 hover:shadow-xl hover:scale-105"
-        style={{
-          background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
-          color: '#ffffff'
-        }}
-      >
-        Obtenir un devis gratuit
-      </a>
-
       <div className="text-center p-4 rounded-lg"
            style={{ background: 'var(--color-primary-lighter)' }}>
         <p className="text-xs font-medium" style={{ color: 'var(--color-primary-dark)' }}>
-          💡 Devis gratuit et sans engagement
+          Consultation initiale gratuite et sans engagement
         </p>
       </div>
     </div>
@@ -258,25 +242,15 @@ function CTAColumn() {
 
 function BottomCTA({ cityName }: { cityName: string }) {
   return (
-    <div className="mt-16 text-center max-w-3xl mx-auto p-8 rounded-2xl"
+    <div className="mt-10 text-center max-w-2xl mx-auto p-6 rounded-xl"
          style={{ background: 'var(--bg-secondary)', textAlign: 'center' }}>
-      <h3 className="text-2xl font-bold mb-4" style={{ color: 'var(--text-primary)' }}>
-        Vous n'arrivez pas à choisir ?
-      </h3>
-      <p className="mb-6 text-lg" style={{ color: 'var(--text-secondary)' }}>
-        Remplissez notre formulaire et recevez jusqu'à 3 devis personnalisés
-        des meilleurs centres de {cityName}.
+      <p className="text-base" style={{ color: 'var(--text-secondary)' }}>
+        Besoin d&apos;aide pour choisir ?{" "}
+        <a href="#quote-form" className="font-semibold underline" style={{ color: 'var(--color-primary)' }}>
+          Remplissez notre formulaire
+        </a>{" "}
+        pour recevoir une recommandation personnalisée à {cityName}.
       </p>
-      <a
-        href="#quote-form"
-        className="inline-flex items-center justify-center px-8 py-4 text-lg font-bold rounded-full transition-all duration-200 hover:shadow-xl hover:scale-105"
-        style={{
-          background: 'linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%)',
-          color: '#ffffff'
-        }}
-      >
-        Comparer les devis gratuitement
-      </a>
     </div>
   );
 }

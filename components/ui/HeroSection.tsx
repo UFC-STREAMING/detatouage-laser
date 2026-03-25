@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Phone } from "lucide-react";
+import { PhoneIcon } from "@heroicons/react/24/outline";
 
 interface HeroSectionProps {
   imageSrc: string;
@@ -98,7 +98,7 @@ export function HeroSection({
                 color: "#ffffff",
               }}
             >
-              <Phone className="w-5 h-5 sm:w-6 sm:h-6" />
+              <PhoneIcon className="w-5 h-5 sm:w-6 sm:h-6" />
               {ctaText}
             </a>
           )}

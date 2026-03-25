@@ -1,5 +1,6 @@
 import Image from "next/image";
-import { ArrowRight, Star, Users, ShieldCheck } from "lucide-react";
+import { ArrowRightIcon, UserGroupIcon, ShieldCheckIcon } from "@heroicons/react/24/outline";
+import { StarIcon } from "@heroicons/react/24/solid";
 
 type HeroSectionProps = {
   cityName: string;
@@ -10,7 +11,7 @@ export function HeroSection({ cityName }: HeroSectionProps) {
     <section className="relative min-h-[70vh] md:min-h-[80vh] w-full overflow-hidden">
       <Image
         src="/images/global/progression-5x.jpg"
-        alt={`Progression détatouage laser à ${cityName} - Discovery Pico Plus`}
+        alt={`Progression détatouage laser à ${cityName} - Laser Q-Switch`}
         fill
         priority
         className="object-cover"
@@ -48,7 +49,7 @@ export function HeroSection({ cityName }: HeroSectionProps) {
       {/* Content */}
       <div className="relative h-full min-h-[70vh] md:min-h-[80vh] flex items-center justify-center px-4 sm:px-6">
         <div className="w-full max-w-5xl mx-auto text-center">
-          {/* Discovery Pico Plus Badge with pulse glow */}
+          {/* Laser Q-Switch Badge with pulse glow */}
           <span
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-semibold mb-8 sm:mb-10 animate-fade-in"
             style={{
@@ -66,31 +67,31 @@ export function HeroSection({ cityName }: HeroSectionProps) {
               className="w-2 h-2 rounded-full"
               style={{ background: "var(--color-secondary)" }}
             />
-            Discovery Pico Plus
+            Laser Q-Switch
           </span>
 
-          {/* H1 - Split into two visual lines */}
+          {/* H1 */}
           <h1
-            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black mb-6 sm:mb-8 leading-[1.1] tracking-tight animate-fade-in-up"
+            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black mb-4 sm:mb-5 leading-[1.1] tracking-tight animate-fade-in-up"
             style={{
               color: "white",
               textShadow: "0 4px 30px rgba(0, 0, 0, 0.4)",
             }}
           >
             Détatouage Laser à {cityName}
-            <span
-              className="block mt-2 sm:mt-3 text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-medium tracking-normal"
-              style={{
-                background:
-                  "linear-gradient(90deg, rgba(255,255,255,0.95), rgba(255,255,255,0.6))",
-                WebkitBackgroundClip: "text",
-                WebkitTextFillColor: "transparent",
-                backgroundClip: "text",
-              }}
-            >
-              La technologie Discovery Pico Plus
-            </span>
           </h1>
+          <p
+            className="block mb-6 sm:mb-8 text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-medium tracking-normal animate-fade-in-up"
+            style={{
+              background:
+                "linear-gradient(90deg, rgba(255,255,255,0.95), rgba(255,255,255,0.6))",
+              WebkitBackgroundClip: "text",
+              WebkitTextFillColor: "transparent",
+              backgroundClip: "text",
+            }}
+          >
+            Laser Q-Switch dernière génération
+          </p>
 
           {/* Subtitle */}
           <p
@@ -131,10 +132,9 @@ export function HeroSection({ cityName }: HeroSectionProps) {
                 }}
               />
               <span className="relative z-10 flex items-center gap-3">
-                Obtenir mon devis gratuit sur photo
-                <ArrowRight
-                  size={22}
-                  className="transition-transform duration-300 group-hover:translate-x-1"
+                Obtenir mon devis gratuit
+                <ArrowRightIcon
+                  className="w-[22px] h-[22px] transition-transform duration-300 group-hover:translate-x-1"
                 />
               </span>
             </a>
@@ -146,7 +146,7 @@ export function HeroSection({ cityName }: HeroSectionProps) {
             style={{ animationDelay: "0.3s" }}
           >
             <div className="flex items-center gap-2 text-white/80 text-sm sm:text-base">
-              <Star size={18} className="text-yellow-400" fill="currentColor" />
+              <StarIcon className="w-[18px] h-[18px] text-yellow-400" />
               <span className="font-semibold text-white">4.9/5</span>
               <span className="text-white/60">avis</span>
             </div>
@@ -157,7 +157,7 @@ export function HeroSection({ cityName }: HeroSectionProps) {
             />
 
             <div className="flex items-center gap-2 text-white/80 text-sm sm:text-base">
-              <Users size={18} className="text-white/70" />
+              <UserGroupIcon className="w-[18px] h-[18px] text-white/70" />
               <span className="font-semibold text-white">10 000+</span>
               <span className="text-white/60">patients</span>
             </div>
@@ -168,7 +168,7 @@ export function HeroSection({ cityName }: HeroSectionProps) {
             />
 
             <div className="flex items-center gap-2 text-white/80 text-sm sm:text-base">
-              <ShieldCheck size={18} className="text-emerald-400" />
+              <ShieldCheckIcon className="w-[18px] h-[18px] text-emerald-400" />
               <span className="font-semibold text-white">Résultat garanti</span>
             </div>
           </div>

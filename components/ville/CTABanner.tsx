@@ -1,4 +1,4 @@
-import { ArrowRight, Clock, BadgeCheck, ShieldCheck } from "lucide-react";
+import { ArrowRightIcon, ClockIcon, CheckBadgeIcon, ShieldCheckIcon } from "@heroicons/react/24/outline";
 
 export function CTABanner() {
   return (
@@ -50,7 +50,7 @@ export function CTABanner() {
             textShadow: "0 2px 8px rgba(0,0,0,0.15)",
           }}
         >
-          Demandez votre devis personnalisé
+          Prêt à effacer votre tatouage ?
         </h2>
 
         <a
@@ -64,8 +64,8 @@ export function CTABanner() {
               "transform var(--transition-base) var(--ease-smooth), box-shadow var(--transition-base) var(--ease-smooth), background var(--transition-base) var(--ease-smooth)",
           }}
         >
-          Obtenir mon devis gratuit sur photo
-          <ArrowRight size={20} />
+          Consultation gratuite →
+          <ArrowRightIcon className="w-5 h-5" />
         </a>
 
         {/* Trust indicators */}
@@ -74,7 +74,7 @@ export function CTABanner() {
           style={{ color: "rgba(255,255,255,0.7)" }}
         >
           <span className="flex items-center gap-2 text-sm">
-            <Clock size={14} />
+            <ClockIcon className="w-[14px] h-[14px]" />
             Réponse sous 24h
           </span>
           <span
@@ -84,7 +84,7 @@ export function CTABanner() {
             |
           </span>
           <span className="flex items-center gap-2 text-sm">
-            <BadgeCheck size={14} />
+            <CheckBadgeIcon className="w-[14px] h-[14px]" />
             100% gratuit
           </span>
           <span
@@ -94,7 +94,7 @@ export function CTABanner() {
             |
           </span>
           <span className="flex items-center gap-2 text-sm">
-            <ShieldCheck size={14} />
+            <ShieldCheckIcon className="w-[14px] h-[14px]" />
             Sans engagement
           </span>
         </div>

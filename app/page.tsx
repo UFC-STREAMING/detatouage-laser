@@ -5,7 +5,7 @@ import { DepartmentGrid } from "@/components/ui/DepartmentGrid";
 import { HeroSection } from "@/components/ui/HeroSection";
 import { FAQSchema } from "@/components/seo/FAQSchema";
 import { getAllDepartments } from "@/data/cities";
-import { Sparkles, Shield, Clock, Award, Zap, Heart, ChevronDown } from "lucide-react";
+import { SparklesIcon, ShieldCheckIcon, ClockIcon, TrophyIcon, BoltIcon, HeartIcon, ChevronDownIcon, ChatBubbleLeftRightIcon, HandRaisedIcon, CheckIcon } from "@heroicons/react/24/outline";
 
 export const metadata: Metadata = {
   title: "Détatouage Laser en France : Spécialistes Certifiés | Détatouage Laser",
@@ -53,7 +53,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Sparkles className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <SparklesIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Technologie avancée</h3>
               <p style={{ color: 'var(--text-secondary)' }}>
@@ -66,7 +66,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Shield className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <ShieldCheckIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Sûr et efficace</h3>
               <p style={{ color: 'var(--text-secondary)' }}>
@@ -79,7 +79,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Clock className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <ClockIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Séances rapides</h3>
               <p style={{ color: 'var(--text-secondary)' }}>
@@ -92,7 +92,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Award className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <TrophyIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Expertise reconnue</h3>
               <p style={{ color: 'var(--text-secondary)' }}>
@@ -121,7 +121,7 @@ export default function HomePage() {
                   className="w-12 h-12 rounded-xl flex items-center justify-center flex-shrink-0"
                   style={{ background: 'var(--color-primary)' }}
                 >
-                  <Zap className="w-6 h-6 text-white" />
+                  <BoltIcon className="w-6 h-6 text-white" />
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold mb-4">Fragmentation de l'encre par le laser</h3>
@@ -139,14 +139,15 @@ export default function HomePage() {
           </div>
 
           {/* Étapes du processus */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mx-auto" style={{ maxWidth: '1000px' }}>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mx-auto mt-16" style={{ maxWidth: '1000px' }}>
             <div className="card text-center">
               <div
-                className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
-                style={{ background: 'var(--color-primary)', color: 'white' }}
+                className="w-14 h-14 rounded-2xl flex items-center justify-center mb-6 mx-auto"
+                style={{ background: 'var(--color-primary-lighter)' }}
               >
-                1
+                <ChatBubbleLeftRightIcon className="w-7 h-7" style={{ color: 'var(--color-primary)' }} />
               </div>
+              <span className="text-xs font-bold uppercase tracking-widest mb-2 block" style={{ color: 'var(--color-secondary)' }}>Étape 1</span>
               <h4 className="text-lg font-semibold mb-3">Consultation</h4>
               <p style={{ color: 'var(--text-secondary)' }}>
                 Évaluation du tatouage et plan de traitement personnalisé adapté à votre peau
@@ -155,11 +156,12 @@ export default function HomePage() {
 
             <div className="card text-center">
               <div
-                className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
-                style={{ background: 'var(--color-primary)', color: 'white' }}
+                className="w-14 h-14 rounded-2xl flex items-center justify-center mb-6 mx-auto"
+                style={{ background: 'var(--color-primary-lighter)' }}
               >
-                2
+                <BoltIcon className="w-7 h-7" style={{ color: 'var(--color-primary)' }} />
               </div>
+              <span className="text-xs font-bold uppercase tracking-widest mb-2 block" style={{ color: 'var(--color-secondary)' }}>Étape 2</span>
               <h4 className="text-lg font-semibold mb-3">Traitement laser</h4>
               <p style={{ color: 'var(--text-secondary)' }}>
                 Séances de 15-30 minutes espacées de 6-8 semaines pour une efficacité optimale
@@ -168,11 +170,12 @@ export default function HomePage() {
 
             <div className="card text-center">
               <div
-                className="w-16 h-16 rounded-full flex items-center justify-center font-bold text-2xl mb-6 mx-auto"
-                style={{ background: 'var(--color-primary)', color: 'white' }}
+                className="w-14 h-14 rounded-2xl flex items-center justify-center mb-6 mx-auto"
+                style={{ background: 'var(--color-primary-lighter)' }}
               >
-                3
+                <CheckIcon className="w-7 h-7" style={{ color: 'var(--color-primary)' }} />
               </div>
+              <span className="text-xs font-bold uppercase tracking-widest mb-2 block" style={{ color: 'var(--color-secondary)' }}>Étape 3</span>
               <h4 className="text-lg font-semibold mb-3">Élimination</h4>
               <p style={{ color: 'var(--text-secondary)' }}>
                 L'encre fragmentée est éliminée naturellement par votre organisme
@@ -201,7 +204,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Heart className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <HeartIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">La sensation</h3>
               <p style={{ color: 'var(--text-secondary)' }}>
@@ -214,7 +217,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Shield className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <ShieldCheckIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Crème anesthésiante</h3>
               <p style={{ color: 'var(--text-secondary)' }}>
@@ -227,7 +230,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Sparkles className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <SparklesIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Glace pendant traitement</h3>
               <p style={{ color: 'var(--text-secondary)' }}>
@@ -257,11 +260,11 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Clock className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <ClockIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Tatouages noirs</h3>
               <div className="text-3xl font-bold mb-2" style={{ color: 'var(--color-primary)' }}>
-                5-8 séances
+                5 à 10 séances
               </div>
               <p style={{ color: 'var(--text-secondary)' }}>
                 Les plus faciles à traiter. Le laser absorbe mieux le noir.
@@ -273,7 +276,7 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Sparkles className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <SparklesIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Tatouages colorés</h3>
               <div className="text-3xl font-bold mb-2" style={{ color: 'var(--color-secondary)' }}>
@@ -289,17 +292,23 @@ export default function HomePage() {
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6"
                 style={{ background: 'var(--color-primary-lighter)' }}
               >
-                <Award className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
+                <TrophyIcon className="w-8 h-8" style={{ color: 'var(--color-primary)' }} />
               </div>
               <h3 className="text-lg font-semibold mb-3">Entre chaque séance</h3>
               <div className="text-3xl font-bold mb-2" style={{ color: 'var(--color-primary)' }}>
-                6-8 semaines
+                4 à 8 semaines
               </div>
               <p style={{ color: 'var(--text-secondary)' }}>
                 Temps nécessaire pour que votre corps élimine l'encre fragmentée.
               </p>
             </div>
           </div>
+
+          <p className="text-center mt-8">
+            <a href="/prix" style={{ color: 'var(--color-primary)' }} className="font-semibold underline">
+              Voir les tarifs détaillés par zone →
+            </a>
+          </p>
         </div>
       </section>
 
@@ -330,7 +339,7 @@ export default function HomePage() {
             <details className="card group">
               <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Combien coûte un détatouage ?
-                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+                <ChevronDownIcon className="w-5 h-5 transition-transform group-open:rotate-180" />
               </summary>
               <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Le prix varie selon la surface du tatouage. Comptez en moyenne entre 80€ et 300€ par séance. Nous proposons des devis gratuits et personnalisés.
@@ -340,7 +349,7 @@ export default function HomePage() {
             <details className="card group">
               <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Peut-on retatouer sur un détatouage ?
-                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+                <ChevronDownIcon className="w-5 h-5 transition-transform group-open:rotate-180" />
               </summary>
               <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Oui, le "cover" est tout à fait possible une fois la peau complètement cicatrisée après le traitement laser.
@@ -350,7 +359,7 @@ export default function HomePage() {
             <details className="card group">
               <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Est-ce que le détatouage fait mal ?
-                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+                <ChevronDownIcon className="w-5 h-5 transition-transform group-open:rotate-180" />
               </summary>
               <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 La sensation est comparable à un claquement d'élastique. Une crème anesthésiante est appliquée avant la séance pour minimiser l'inconfort.
@@ -360,7 +369,7 @@ export default function HomePage() {
             <details className="card group">
               <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Comment est la peau après un détatouage ?
-                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+                <ChevronDownIcon className="w-5 h-5 transition-transform group-open:rotate-180" />
               </summary>
               <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Des rougeurs et un effet "givre" (frosting) apparaissent immédiatement, suivis de croûtelles pendant quelques jours. La cicatrisation complète prend 2-3 semaines.
@@ -370,7 +379,7 @@ export default function HomePage() {
             <details className="card group">
               <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Combien de temps entre les séances ?
-                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+                <ChevronDownIcon className="w-5 h-5 transition-transform group-open:rotate-180" />
               </summary>
               <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Il faut laisser 6 à 8 semaines minimum entre chaque séance pour permettre au système lymphatique d'éliminer l'encre fragmentée.
@@ -380,7 +389,7 @@ export default function HomePage() {
             <details className="card group">
               <summary className="flex items-center justify-between cursor-pointer list-none text-lg font-semibold" style={{ color: 'var(--color-primary)' }}>
                 Les résultats sont-ils garantis ?
-                <ChevronDown className="w-5 h-5 transition-transform group-open:rotate-180" />
+                <ChevronDownIcon className="w-5 h-5 transition-transform group-open:rotate-180" />
               </summary>
               <p className="mt-4" style={{ color: 'var(--text-secondary)' }}>
                 Le laser Q-Switched est la technique la plus efficace, mais les résultats varient selon le type d'encre, la profondeur et votre peau. Un bilan gratuit vous permettra d'avoir une estimation précise.

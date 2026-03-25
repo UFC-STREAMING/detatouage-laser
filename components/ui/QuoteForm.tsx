@@ -2,7 +2,7 @@
 
 import { useActionState } from "react";
 import { sendQuoteRequest } from "@/app/actions/send-quote";
-import { Loader2 } from "lucide-react";
+import { ArrowPathIcon } from "@heroicons/react/24/outline";
 import { useEffect } from "react";
 import { useRouter } from "next/navigation";
 
@@ -15,7 +15,7 @@ function SubmitButton({ pending }: { pending: boolean }) {
     >
       {pending ? (
         <>
-          <Loader2 className="w-5 h-5 animate-spin" />
+          <ArrowPathIcon className="w-5 h-5 animate-spin" />
           Envoi en cours...
         </>
       ) : (
@@ -63,7 +63,7 @@ export function QuoteForm({ initialPostalCode }: { initialPostalCode?: string })
       <div className="text-center mb-12" style={{ textAlign: 'center' }}>
         <span className="badge badge-primary mb-4">Devis gratuit</span>
         <h2 className="mb-4" style={{ color: 'var(--color-primary)' }}>
-          Demandez votre devis personnalisé
+          Votre devis gratuit et personnalisé
         </h2>
         <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
           Remplissez le formulaire ci-dessous et recevez une estimation adaptée à votre tatouage

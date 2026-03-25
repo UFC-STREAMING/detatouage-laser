@@ -1,4 +1,4 @@
-import { Zap, Palette, Globe } from "lucide-react";
+import { BoltIcon, SwatchIcon, GlobeAltIcon } from "@heroicons/react/24/outline";
 
 type WhyUsSectionProps = {
   cityName: string;
@@ -7,21 +7,21 @@ type WhyUsSectionProps = {
 export function WhyUsSection({ cityName }: WhyUsSectionProps) {
   const cards = [
     {
-      icon: Zap,
-      title: "Puissance Pico",
+      icon: BoltIcon,
+      title: "Puissance laser",
       subtitle: "Moins de séances",
       description:
-        "Les impulsions picosecondes pulvérisent l'encre plus efficacement. Résultat : 30 à 50% de séances en moins qu'un laser classique.",
+        "Nos lasers Q-Switch fragmentent l'encre efficacement séance après séance, pour un résultat visible plus rapidement avec moins de douleur.",
     },
     {
-      icon: Palette,
+      icon: SwatchIcon,
       title: "Toutes couleurs",
       subtitle: "Bleu, vert, rouge",
       description:
         "Grâce au laser Ruby 694 nm intégré, nous effaçons les pigments bleus et verts que la plupart des centres ne peuvent pas traiter.",
     },
     {
-      icon: Globe,
+      icon: GlobeAltIcon,
       title: "Toutes peaux",
       subtitle: "Peaux mates et noires",
       description:
@@ -46,11 +46,11 @@ export function WhyUsSection({ cityName }: WhyUsSectionProps) {
           className="text-lg leading-relaxed max-w-3xl mx-auto text-center"
           style={{ color: "var(--text-secondary)", textAlign: 'center' }}
         >
-          Situé au c&oelig;ur de {cityName}, notre centre médical est équipé de
-          la dernière génération de laser : le{" "}
-          <strong>Discovery Pico Plus</strong>. Plus puissant, plus rapide et
-          plus sûr que les lasers traditionnels, il permet d&apos;effacer tous
-          types de tatouages avec moins de séances et moins de douleur.
+          Situé au c&oelig;ur de {cityName}, notre centre médical est équipé de{" "}
+          <strong>lasers Q-Switch de dernière génération</strong>. Plus
+          efficaces et plus sûrs que les anciens lasers, ils permettent
+          d&apos;effacer tous types de tatouages avec moins de séances et moins
+          de douleur.
         </p>
       </div>
 
@@ -88,7 +88,7 @@ export function WhyUsSection({ cityName }: WhyUsSectionProps) {
                   boxShadow: "0 4px 16px rgba(1, 103, 204, 0.25)",
                 }}
               >
-                <Icon size={24} color="white" strokeWidth={2} />
+                <Icon className="w-6 h-6 text-white" />
               </div>
 
               <h3

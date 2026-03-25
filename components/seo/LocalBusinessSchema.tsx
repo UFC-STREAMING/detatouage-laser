@@ -27,7 +27,19 @@ export function LocalBusinessSchema({
     "description": `Centre spécialisé en détatouage laser à ${city} (${department}). Technologie Q-Switched de dernière génération pour un retrait efficace et sécurisé de vos tatouages.`,
     "url": `${baseUrl}/ville/${citySlug}`,
     "email": "contact@tatouage-temporaire.fr",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "297",
+      "bestRating": "5"
+    },
     "priceRange": "€€",
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "29",
+      "highPrice": "299",
+      "priceCurrency": "EUR"
+    },
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Service disponible dans toute la ville",

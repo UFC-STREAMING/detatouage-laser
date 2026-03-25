@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ArrowRight } from "lucide-react";
+import { ArrowRightIcon } from "@heroicons/react/24/outline";
 
 const beforeAfterImages = [
   {
@@ -36,7 +36,7 @@ export function GallerySection() {
           Résultats avant / après
         </h2>
         <p style={{ color: "var(--text-secondary)" }}>
-          Résultats obtenus avec le Discovery Pico Plus sur nos patients
+          Résultats obtenus avec nos lasers Q-Switch sur nos patients
         </p>
       </div>
 
@@ -87,9 +87,14 @@ export function GallerySection() {
           }}
         >
           Voir plus de résultats
-          <ArrowRight className="w-4 h-4" />
+          <ArrowRightIcon className="w-4 h-4" />
         </a>
       </div>
+      <p className="text-center mt-6">
+        <a href="/avant-apres" style={{ color: 'var(--color-primary)' }} className="font-semibold underline">
+          Voir tous nos résultats avant/après →
+        </a>
+      </p>
     </section>
   );
 }

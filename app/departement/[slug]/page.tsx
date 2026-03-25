@@ -9,7 +9,7 @@ import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { getNeighborDepartments } from "@/data/department-neighbors";
 import { getDepartmentWithPreposition } from "@/lib/utils/department-articles";
 import Link from "next/link";
-import { MapPin, ChevronRight } from "lucide-react";
+import { MapPinIcon, ChevronRightIcon } from "@heroicons/react/24/outline";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -116,18 +116,18 @@ export default async function DepartmentPage({ params }: Props) {
               </p>
             </header>
 
-            <section className="prose prose-lg max-w-none mb-12">
-              <p className="text-lg leading-relaxed">
+            <section className="max-w-3xl mx-auto mb-12" style={{ textAlign: 'center' }}>
+              <p className="text-lg leading-relaxed text-center">
                 Vous cherchez un <strong>spécialiste du détatouage laser {getDepartmentWithPreposition(department.name)}</strong> ?
                 Notre réseau de centres utilise la technologie laser la plus avancée pour vous offrir un{" "}
                 <strong>retrait de tatouage efficace et sécurisé</strong> partout dans le département{" "}
                 {department.number}.
               </p>
 
-              <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: 'var(--color-primary)' }}>
+              <h2 className="text-2xl font-bold mt-8 mb-4 text-center" style={{ color: 'var(--color-primary)' }}>
                 Nos centres de détatouage {getDepartmentWithPreposition(department.name)}
               </h2>
-              <p>
+              <p className="text-center">
                 Nous couvrons {department.cities.length} ville{department.cities.length > 1 ? "s" : ""} du
                 département {department.name} pour vous offrir un service de proximité. Quelle que soit
                 votre localisation, vous trouverez un centre équipé des technologies laser les plus
@@ -136,7 +136,7 @@ export default async function DepartmentPage({ params }: Props) {
             </section>
 
             <section className="my-12">
-              <h2 className="text-2xl font-bold mb-6" style={{ color: 'var(--color-primary)' }}>
+              <h2 className="text-2xl font-bold mb-6 text-center" style={{ color: 'var(--color-primary)' }}>
                 Sélectionnez votre ville
               </h2>
           <div
@@ -192,7 +192,7 @@ export default async function DepartmentPage({ params }: Props) {
                     style={{ color: 'var(--color-primary)' }}
                   >
                     Voir la ville
-                    <ChevronRight className="w-4 h-4" />
+                    <ChevronRightIcon className="w-4 h-4" />
                   </span>
                 </div>
               </Link>
@@ -244,7 +244,7 @@ export default async function DepartmentPage({ params }: Props) {
 
             {neighborDepartments.length > 0 && (
               <section className="mt-12 pt-8">
-            <h2 className="text-2xl font-bold mb-6" style={{ color: 'var(--color-primary)' }}>
+            <h2 className="text-2xl font-bold mb-6 text-center" style={{ color: 'var(--color-primary)' }}>
               Départements voisins
             </h2>
             <div
@@ -311,7 +311,7 @@ export default async function DepartmentPage({ params }: Props) {
                         style={{ color: 'var(--color-primary)' }}
                       >
                         Voir le département
-                        <ChevronRight className="w-4 h-4" />
+                        <ChevronRightIcon className="w-4 h-4" />
                       </span>
                     </div>
                   </Link>

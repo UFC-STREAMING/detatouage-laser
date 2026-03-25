@@ -1,6 +1,6 @@
 "use client";
 
-import { Star } from "lucide-react";
+import { StarIcon } from "@heroicons/react/24/solid";
 
 interface Testimonial {
   id: number;
@@ -106,7 +106,7 @@ export function Testimonials() {
                 </span>
                 <div className="flex">
                   {[...Array(5)].map((_, i) => (
-                    <Star
+                    <StarIcon
                       key={i}
                       className="w-5 h-5 fill-yellow-400 text-yellow-400"
                     />
@@ -121,7 +121,7 @@ export function Testimonials() {
         </div>
 
         {/* Testimonials Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 overflow-hidden">
           {testimonials.map((testimonial, index) => (
             <div
               key={testimonial.id}
@@ -131,7 +131,7 @@ export function Testimonials() {
               {/* Header */}
               <div className="flex items-start justify-between mb-4">
                 <div>
-                  <h4 className="text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
+                  <h4 className="text-lg font-semibold mb-1 text-left" style={{ color: 'var(--text-primary)' }}>
                     {testimonial.name}
                   </h4>
                   <p className="text-sm" style={{ color: 'var(--text-tertiary)' }}>
@@ -140,7 +140,7 @@ export function Testimonials() {
                 </div>
                 <div className="flex gap-0.5">
                   {[...Array(testimonial.rating)].map((_, i) => (
-                    <Star
+                    <StarIcon
                       key={i}
                       className="w-4 h-4 fill-yellow-400 text-yellow-400"
                     />

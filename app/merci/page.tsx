@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import { CheckCircle2, Home } from "lucide-react";
+import { CheckCircleIcon, HomeIcon } from "@heroicons/react/24/outline";
 
 export const metadata: Metadata = {
   title: "Merci pour votre demande",
@@ -17,7 +17,7 @@ export default function ThankYouPage() {
       <div className="container">
         <div className="max-w-2xl mx-auto text-center">
         <div className="w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-8" style={{ background: 'var(--color-primary-lighter)' }}>
-          <CheckCircle2 className="w-16 h-16" style={{ color: 'var(--color-primary-light)' }} />
+          <CheckCircleIcon className="w-16 h-16" style={{ color: 'var(--color-primary-light)' }} />
         </div>
 
         <h1 className="text-4xl font-bold mb-4" style={{ color: 'var(--color-primary)' }}>
@@ -74,7 +74,7 @@ export default function ThankYouPage() {
             className="inline-flex items-center gap-2 text-white px-6 py-3 rounded-lg font-semibold transition hover:opacity-90"
             style={{ background: 'var(--color-primary-light)' }}
           >
-            <Home className="w-5 h-5" />
+            <HomeIcon className="w-5 h-5" />
             Retour à l'accueil
           </Link>
         </div>

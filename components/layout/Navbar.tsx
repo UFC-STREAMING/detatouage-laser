@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect } from "react";
-import { Menu, X, Phone } from "lucide-react";
+import { Bars3Icon, XMarkIcon, PhoneIcon } from "@heroicons/react/24/outline";
 
 export function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -50,10 +50,10 @@ export function Navbar() {
           >
             <div className="relative flex-shrink-0">
               <Image
-                src="/images/logo.png"
+                src="/images/logo-new.svg"
                 alt="Logo Détatouage Laser France"
-                width={180}
-                height={50}
+                width={240}
+                height={60}
                 className="h-12 sm:h-14 w-auto object-contain transition-transform group-hover:scale-[1.02]"
                 priority
               />
@@ -116,9 +116,9 @@ export function Navbar() {
             aria-label="Menu"
           >
             {isMobileMenuOpen ? (
-              <X className="w-6 h-6" />
+              <XMarkIcon className="w-6 h-6" />
             ) : (
-              <Menu className="w-6 h-6" />
+              <Bars3Icon className="w-6 h-6" />
             )}
           </button>
         </div>
@@ -159,7 +159,7 @@ export function Navbar() {
                 className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-bold transition-all duration-200 border-2"
                 style={{ borderColor: 'var(--color-primary)', color: 'var(--color-primary)', background: 'transparent' }}
               >
-                <Phone className="w-5 h-5" />
+                <PhoneIcon className="w-5 h-5" />
                 Devis Gratuit
               </button>
             </div>

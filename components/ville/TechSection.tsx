@@ -5,8 +5,8 @@ type TechSectionProps = {
 export function TechSection({ cityName }: TechSectionProps) {
   const stats = [
     { value: "3", label: "longueurs d'onde" },
-    { value: "450ps", label: "impulsion ultra-courte" },
-    { value: "-50%", label: "de séances vs Q-Switch" },
+    { value: "Q-Switch", label: "technologie médicale" },
+    { value: "4-8", label: "semaines entre séances" },
     { value: "100%", label: "des couleurs traitées" },
   ];
 
@@ -56,7 +56,7 @@ export function TechSection({ cityName }: TechSectionProps) {
                 className="text-3xl md:text-4xl font-bold mb-6"
                 style={{ color: "var(--color-primary)" }}
               >
-                La technologie Discovery Pico Plus à{" "}
+                Notre technologie laser Q-Switch à{" "}
                 <span style={{ color: "var(--color-secondary)" }}>
                   {cityName}
                 </span>
@@ -66,27 +66,22 @@ export function TechSection({ cityName }: TechSectionProps) {
                   className="leading-relaxed text-base md:text-lg"
                   style={{ color: "var(--text-secondary)" }}
                 >
-                  L&apos;innovation majeure de notre laser réside dans ses{" "}
+                  Notre centre utilise des{" "}
                   <strong>
-                    impulsions ultra-courtes en picosecondes
+                    lasers Q-Switch de dernière génération
                   </strong>
-                  . Contrairement aux anciens lasers nanosecondes (type
-                  Q-Switched classiques), le Discovery Pico Plus pulvérise
-                  l&apos;encre en micro-particules que votre système immunitaire
-                  élimine naturellement — plus vite, avec moins
-                  d&apos;inflammation et moins de risques de cicatrices.
+                  , la référence médicale pour le détatouage. Ces lasers émettent des impulsions très courtes qui fragmentent l&apos;encre en micro-particules, éliminées naturellement par votre système immunitaire — efficacement, avec moins d&apos;inflammation et moins de risques de cicatrices.
                 </p>
                 <p
                   className="leading-relaxed text-base md:text-lg"
                   style={{ color: "var(--text-secondary)" }}
                 >
-                  Grâce au <strong>laser Ruby (694 nm)</strong> intégré, nous
-                  sommes l&apos;un des rares centres à {cityName} capables
-                  d&apos;effacer les pigments{" "}
-                  <strong>bleus et verts</strong>, réputés les plus difficiles à
-                  traiter. Combiné aux longueurs d&apos;onde 1064 nm et 532 nm,
-                  le Discovery Pico Plus couvre{" "}
-                  <strong>100% du spectre des encres de tatouage</strong>.
+                  Grâce à <strong>3 longueurs d&apos;onde</strong> (1064 nm,
+                  532 nm et 694 nm), nos lasers couvrent{" "}
+                  <strong>100% du spectre des encres de tatouage</strong>,
+                  y compris les pigments <strong>bleus et verts</strong> réputés
+                  les plus difficiles à traiter. Tous les phototypes de peau
+                  sont pris en charge, des peaux claires aux peaux mates.
                 </p>
               </div>
             </div>

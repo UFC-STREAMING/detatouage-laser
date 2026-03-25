@@ -1,11 +1,20 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { DM_Sans, DM_Serif_Display } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { StickyCTA } from "@/components/ui/StickyCTA";
 
-const inter = Inter({ subsets: ["latin"] });
+const dmSans = DM_Sans({
+  subsets: ["latin"],
+  variable: "--font-dm-sans",
+});
+
+const dmSerif = DM_Serif_Display({
+  subsets: ["latin"],
+  weight: "400",
+  variable: "--font-dm-serif",
+});
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://www.tatouage-temporaire.fr"),
@@ -24,32 +33,27 @@ export const metadata: Metadata = {
   description:
     "Spécialiste du retrait de tatouage par laser. Technologie de pointe, résultats optimaux. Devis gratuit partout en France.",
   keywords: [
-    // Mots-clés principaux
     "détatouage",
     "détatouage laser",
     "retrait tatouage",
     "enlever tatouage",
     "effacer tatouage",
     "laser tatouage",
-    // Mots-clés secondaires
     "retrait tatouage laser",
     "enlever tatouage laser",
     "suppression tatouage",
     "détatouage France",
     "centre détatouage",
     "spécialiste détatouage",
-    // Termes techniques
     "laser Q-Switched",
     "détatouage Q-Switch",
     "technologie laser tatouage",
-    // Intentions de recherche
     "prix détatouage",
     "prix détatouage laser",
     "devis détatouage",
     "devis gratuit détatouage",
     "tarif détatouage",
     "combien coute détatouage",
-    // Localisations générales
     "détatouage Paris",
     "détatouage Lyon",
     "détatouage Marseille",
@@ -61,8 +65,8 @@ export const metadata: Metadata = {
   publisher: "Détatouage Laser",
   formatDetection: {
     email: false,
-    address: false,
-    telephone: false,
+    address: true,
+    telephone: true,
   },
   openGraph: {
     type: "website",
@@ -73,10 +77,10 @@ export const metadata: Metadata = {
     description: "Spécialiste du retrait de tatouage par laser en France",
     images: [
       {
-        url: "/images/Accueil-detatouage.png",
+        url: "/images/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Détatouage Laser - Spécialiste du retrait de tatouage en France",
+        alt: "Détatouage Laser France - Spécialiste du retrait de tatouage par laser",
       },
     ],
   },
@@ -84,7 +88,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Détatouage Laser - Retrait de Tatouage par Laser",
     description: "Spécialiste du retrait de tatouage par laser en France. Devis gratuit.",
-    images: ["/images/Accueil-detatouage.png"],
+    images: ["/images/og-image.jpg"],
   },
   robots: {
     index: true,
@@ -106,7 +110,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="fr">
-      <body className={inter.className}>
+      <body className={`${dmSans.variable} ${dmSerif.variable} ${dmSans.className}`}>
         <Navbar />
         <StickyCTA />
         <main className="min-h-screen">{children}</main>

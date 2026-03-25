@@ -1,4 +1,4 @@
-import { ClipboardList, Heart, Zap, CheckCircle } from "lucide-react";
+import { ClipboardDocumentListIcon, HeartIcon, BoltIcon, CheckCircleIcon } from "@heroicons/react/24/outline";
 
 const processSteps = [
   {
@@ -6,28 +6,28 @@ const processSteps = [
     title: "Consultation & Devis",
     description:
       "Analyse de votre tatouage, photo, estimation du nombre de séances et devis personnalisé gratuit.",
-    icon: ClipboardList,
+    icon: ClipboardDocumentListIcon,
   },
   {
     number: "2",
     title: "Confort",
     description:
       "Application d'une crème anesthésiante 1h avant la séance pour un traitement indolore.",
-    icon: Heart,
+    icon: HeartIcon,
   },
   {
     number: "3",
     title: "Traitement",
     description:
       "Séance laser de 10 à 30 minutes selon la taille. Les impulsions picosecondes fragmentent l'encre.",
-    icon: Zap,
+    icon: BoltIcon,
   },
   {
     number: "4",
     title: "Post-traitement",
     description:
       "Soins cicatrisants, consignes post-séance et suivi personnalisé entre les séances.",
-    icon: CheckCircle,
+    icon: CheckCircleIcon,
   },
 ];
 

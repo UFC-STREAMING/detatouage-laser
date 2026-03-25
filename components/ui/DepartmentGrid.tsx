@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ChevronRight } from "lucide-react";
+import { ChevronRightIcon } from "@heroicons/react/24/outline";
 import { Department } from "@/types";
 
 interface DepartmentGridProps {
@@ -100,12 +100,12 @@ export function DepartmentGrid({ departments }: DepartmentGridProps) {
                   style={{ color: 'var(--color-primary)' }}
                 >
                   Voir le département
-                  <ChevronRight className="w-4 h-4" />
+                  <ChevronRightIcon className="w-4 h-4" />
                 </span>
               </div>
               {/* Arrow - mobile tap affordance */}
               <div className="flex md:hidden justify-end">
-                <ChevronRight className="w-5 h-5" style={{ color: 'var(--color-primary)' }} />
+                <ChevronRightIcon className="w-5 h-5" style={{ color: 'var(--color-primary)' }} />
               </div>
             </Link>
           ))}

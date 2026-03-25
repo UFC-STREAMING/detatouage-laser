@@ -1,4 +1,4 @@
-import { ChevronDown, HelpCircle } from "lucide-react";
+import { ChevronDownIcon, QuestionMarkCircleIcon } from "@heroicons/react/24/outline";
 
 type FAQItem = {
   question: string;
@@ -17,7 +17,8 @@ export function FAQSection({ cityName, faqItems }: FAQSectionProps) {
         dangerouslySetInnerHTML={{
           __html: `
             .faq-item[open] {
-              border-left: 4px solid var(--color-primary);
+              border-left: 3px solid var(--color-primary);
+              padding-left: 1px;
             }
             .faq-item[open] .faq-chevron {
               transform: rotate(180deg);
@@ -40,7 +41,7 @@ export function FAQSection({ cityName, faqItems }: FAQSectionProps) {
 
       <div className="text-center mb-10" style={{ textAlign: 'center' }}>
         <span className="badge badge-primary mb-4 inline-flex">
-          <HelpCircle size={14} />
+          <QuestionMarkCircleIcon className="w-[14px] h-[14px]" />
           FAQ
         </span>
         <h2
@@ -61,17 +62,15 @@ export function FAQSection({ cityName, faqItems }: FAQSectionProps) {
               background: "var(--color-white)",
               transition:
                 "box-shadow var(--transition-base) var(--ease-smooth), border-color var(--transition-base) var(--ease-smooth)",
-              borderLeft: "4px solid transparent",
             }}
           >
             <summary
-              className="px-6 py-5 font-semibold text-lg cursor-pointer flex justify-between items-center"
+              className="px-4 sm:px-6 py-4 sm:py-5 font-semibold text-base sm:text-lg cursor-pointer flex justify-between items-center gap-4"
               style={{ color: "var(--text-primary)" }}
             >
               <span className="pr-4">{faq.question}</span>
-              <ChevronDown
-                className="faq-chevron flex-shrink-0"
-                size={20}
+              <ChevronDownIcon
+                className="faq-chevron flex-shrink-0 w-5 h-5"
                 style={{
                   color: "var(--color-primary)",
                   transition:

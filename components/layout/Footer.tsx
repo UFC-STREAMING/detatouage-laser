@@ -2,14 +2,14 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { Mail, MapPin, Phone } from "lucide-react";
+import { EnvelopeIcon, MapPinIcon, PhoneIcon } from "@heroicons/react/24/outline";
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
     <footer
-      className="border-t mt-20"
+      className="border-t"
       style={{
         background: 'var(--bg-secondary)',
         borderColor: 'var(--color-grey-200)'
@@ -21,10 +21,10 @@ export function Footer() {
           <div className="sm:col-span-2 lg:col-span-1">
             <Link href="/" className="inline-block mb-6">
               <Image
-                src="/images/logo.png"
+                src="/images/logo-new.svg"
                 alt="Logo Détatouage Laser France"
-                width={180}
-                height={50}
+                width={240}
+                height={60}
                 className="h-10 w-auto object-contain"
               />
             </Link>
@@ -32,14 +32,6 @@ export function Footer() {
               Spécialiste du retrait de tatouage par laser dans toute la France.
               Technologie de pointe pour des résultats optimaux et sécurisés.
             </p>
-            {/* CTA Footer Mobile */}
-            <a
-              href="#quote-form"
-              className="inline-block text-center px-10 py-4 rounded-full font-bold text-white text-base transition-all duration-200 hover:shadow-xl hover:scale-105 sm:hidden"
-              style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
-            >
-              Devis Gratuit
-            </a>
           </div>
 
           {/* Liens rapides */}
@@ -130,7 +122,7 @@ export function Footer() {
             </h3>
             <ul className="space-y-4 text-sm">
               <li className="flex items-start gap-3">
-                <Mail
+                <EnvelopeIcon
                   className="w-5 h-5 flex-shrink-0 mt-0.5"
                   style={{ color: 'var(--color-primary)' }}
                 />
@@ -143,7 +135,7 @@ export function Footer() {
                 </a>
               </li>
               <li className="flex items-start gap-3">
-                <MapPin
+                <MapPinIcon
                   className="w-5 h-5 flex-shrink-0 mt-0.5"
                   style={{ color: 'var(--color-primary)' }}
                 />
@@ -153,16 +145,6 @@ export function Footer() {
               </li>
             </ul>
 
-            {/* CTA Footer Desktop */}
-            <div className="mt-6 hidden sm:block">
-              <a
-                href="#quote-form"
-                className="inline-block text-center px-10 py-4 rounded-full font-bold text-white text-base transition-all duration-200 hover:shadow-xl hover:scale-105"
-                style={{ background: 'linear-gradient(135deg, var(--color-secondary), var(--color-secondary-light))' }}
-              >
-                Devis Gratuit
-              </a>
-            </div>
           </div>
         </div>
 
